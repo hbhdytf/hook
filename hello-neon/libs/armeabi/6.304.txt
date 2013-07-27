@@ -1,0 +1,1454 @@
+I//system/bin/fsck_msdos(   29): ** /dev/block/vold/179:0
+D/dalvikvm(  121): GC_EXTERNAL_ALLOC freed 150K, 52% free 2722K/5639K, external 2129K/2137K, paused 140ms
+I/SearchManagerService(   61): Building list of searchable activities
+I//system/bin/fsck_msdos(   29): ** Phase 1 - Read and Compare FATs
+I//system/bin/fsck_msdos(   29): Attempting to allocate 2032 KB for FAT
+D/dalvikvm(   61): GC_EXPLICIT freed 700K, 45% free 4376K/7943K, external 4373K/5573K, paused 64ms
+E/dalvikvm(  253): Could not find class 'android.app.Notification$Builder', referenced from method com.wandoujia.phoenix2.photosync.b.handleMessage
+W/dalvikvm(  253): VFY: unable to resolve new-instance 33 (Landroid/app/Notification$Builder;) in Lcom/wandoujia/phoenix2/photosync/b;
+D/dalvikvm(  253): VFY: replacing opcode 0x22 at 0x007d
+D/dalvikvm(  253): VFY: dead code 0x007f-00af in Lcom/wandoujia/phoenix2/photosync/b;.handleMessage (Landroid/os/Message;)V
+D/dalvikvm(  253): VFY: dead code 0x00b8-00c9 in Lcom/wandoujia/phoenix2/photosync/b;.handleMessage (Landroid/os/Message;)V
+I//system/bin/fsck_msdos(   29): Attempting to allocate 2032 KB for FAT
+E/dalvikvm(  253): Could not find class 'android.app.Notification$Builder', referenced from method com.wandoujia.phoenix2.appwash.controller.AppWashController.a
+W/dalvikvm(  253): VFY: unable to resolve new-instance 33 (Landroid/app/Notification$Builder;) in Lcom/wandoujia/phoenix2/appwash/controller/AppWashController;
+D/dalvikvm(  253): VFY: replacing opcode 0x22 at 0x00c1
+D/dalvikvm(  253): VFY: dead code 0x00c3-010b in Lcom/wandoujia/phoenix2/appwash/controller/AppWashController;.a (Ljava/util/List;Lcom/wandoujia/phoenix2/appwash/controller/AppWashController$WashEntryType;)V
+I//system/bin/fsck_msdos(   29): ** Phase 2 - Check Cluster Chains
+I//system/bin/fsck_msdos(   29): ** Phase 3 - Checking Directories
+I//system/bin/fsck_msdos(   29): ** Phase 4 - Checking for Lost Files
+I//system/bin/fsck_msdos(   29): 177 files, 240327 free (480654 clusters)
+I/Vold    (   29): Filesystem check completed OK
+I/Vold    (   29): Device /dev/block/vold/179:0, target /mnt/sdcard mounted @ /mnt/secure/staging
+D/Vold    (   29): Volume sdcard state changing 3 (Checking) -> 4 (Mounted)
+I/PackageManager(   61): Updating external media status from unmounted to mounted
+I/StorageNotification(  121): Media {/mnt/sdcard} state changed from {checking} -> {mounted}
+D/VoldCmdListener(   29): asec list
+D/VoldCmdListener(   29): asec path cn.wps.livespace-1
+D/VoldCmdListener(   29): asec mount cn.wps.livespace-1 {} 1000
+D/VoldCmdListener(   29): asec path cn.wps.livespace-1
+W/dalvikvm(  253): threadid=6: spin on suspend #1 threadid=11 (pcf=0)
+D/dalvikvm(  253): Temporarily moving tid 275 to fg (was 0)
+D/dalvikvm(  253): Temporarily raised priority on tid 275 (19 -> 0)
+W/dalvikvm(  253): threadid=6: spin on suspend resolved in 1014 msec
+D/dalvikvm(  253): Restored policy of 275 to 0
+D/dalvikvm(  253): Restored priority on 275 to 19
+I/PackageManager(   61): Linking native library dir for /mnt/asec/cn.wps.livespace-1/pkg.apk
+I/InputReader(   61): Device reconfigured: id=0x0, name=qwerty2, display size is now 480x800
+I/InputManager-Callbacks(   61): No virtual keys found for device qwerty2.
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH.mail in package com.android.contacts
+W/PackageManager(   61): Unknown permission android.permission.ADD_SYSTEM_SERVICE in package com.android.phone
+D/dalvikvm(  253): Trying to load lib /data/data/com.wandoujia.phoenix2/lib/libcipher.so 0x405153c0
+D/dalvikvm(  253): Added shared lib /data/data/com.wandoujia.phoenix2/lib/libcipher.so 0x405153c0
+D/dalvikvm(  253): No JNI_OnLoad found in /data/data/com.wandoujia.phoenix2/lib/libcipher.so 0x405153c0, skipping init
+W/PackageManager(   61): Unknown permission com.android.vending.BILLING in package cn.wps.moffice_eng
+W/PackageManager(   61): Not granting permission com.android.email.permission.ACCESS_PROVIDER to package cn.wps.moffice_eng (protectionLevel=3 flags=0x8be44)
+W/PackageManager(   61): Not granting permission android.permission.SEND_DOWNLOAD_COMPLETED_INTENTS to package com.android.browser (protectionLevel=2 flags=0x9be45)
+W/PackageManager(   61): Unknown permission com.google.android.gm.permission.WRITE_GMAIL in package com.android.settings
+W/PackageManager(   61): Unknown permission com.google.android.gm.permission.READ_GMAIL in package com.android.settings
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH in package com.android.settings
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH in package com.android.providers.contacts
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH.cp in package com.android.providers.contacts
+W/PackageManager(   61): Unknown permission com.android.launcher.permission.CREATE_SHORTCUT in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission org.adw.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission org.adw.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.qihoo360.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.qihoo360.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.lge.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.lge.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission net.qihoo.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission net.qihoo.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission org.adwfreak.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission org.adwfreak.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.huawei.launcher3.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.huawei.launcher3.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.fede.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.fede.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.sec.android.app.twlauncher.settings.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.sec.android.app.twlauncher.settings.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Not granting permission android.permission.ACCESS_DRM to package com.wandoujia.phoenix2 (protectionLevel=2 flags=0x8be44)
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.ACCESS_GOOGLE_PASSWORD in package com.android.development
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH in package com.android.development
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH.ALL_SERVICES in package com.android.development
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH.YouTubeUser in package com.android.development
+W/PackageManager(   61): Not granting permission android.permission.SET_PREFERRED_APPLICATIONS to package com.mx.browser (protectionLevel=2 flags=0x8be44)
+W/PackageManager(   61): Unknown permission android.permission.READ_OWNER_DATA in package com.android.email
+W/PackageManager(   61): Not granting permission android.permission.DEVICE_POWER to package com.android.deskclock (protectionLevel=2 flags=0x8be45)
+D/dalvikvm(  127): GC_EXTERNAL_ALLOC freed 223K, 49% free 3019K/5895K, external 6689K/6692K, paused 53ms
+D/dalvikvm(  253): GC_CONCURRENT freed 595K, 49% free 3474K/6727K, external 1625K/2137K, paused 4ms+3ms
+I/ARMAssembler(   61): generated scanline__00000177:03515104_00001001_00000000 [ 91 ipp] (114 ins) at [0x44e3d520:0x44e3d6e8] in 634509 ns
+D/dalvikvm(  127): GC_EXPLICIT freed 112K, 51% free 2932K/5895K, external 4831K/5599K, paused 382ms
+D/dalvikvm(   61): GC_EXPLICIT freed 313K, 45% free 4388K/7943K, external 4373K/5573K, paused 185ms
+I/ActivityManager(   61): Displayed com.android.launcher/com.android.launcher2.Launcher: +15s613ms
+W/RecognitionManagerService(   61): no available voice recognition services found
+D/dalvikvm(  253): DexOpt: couldn't find field Landroid/content/pm/PackageStats;.externalCacheSize
+W/dalvikvm(  253): VFY: unable to resolve instance field 54
+D/dalvikvm(  253): VFY: replacing opcode 0x53 at 0x000e
+D/dalvikvm(  253): DexOpt: couldn't find field Landroid/content/pm/PackageStats;.externalCodeSize
+W/dalvikvm(  253): VFY: unable to resolve instance field 55
+D/dalvikvm(  253): VFY: replacing opcode 0x53 at 0x0020
+D/dalvikvm(  253): VFY: dead code 0x0010-0019 in Lcom/wandoujia/phoenix2/appwash/controller/ay;.a (Lcom/wandoujia/phoenix2/appwash/controller/ay;Landroid/content/pm/PackageStats;)J
+D/dalvikvm(  253): VFY: dead code 0x0022-0022 in Lcom/wandoujia/phoenix2/appwash/controller/ay;.a (Lcom/wandoujia/phoenix2/appwash/controller/ay;Landroid/content/pm/PackageStats;)J
+D/dalvikvm(  253): DexOpt: couldn't find field Landroid/content/pm/PackageStats;.externalDataSize
+I/dalvikvm(  253): DexOpt: unable to optimize instance field ref 0x0038 at 0x10 in Lcom/wandoujia/phoenix2/appwash/controller/ay;.a
+D/dalvikvm(  253): DexOpt: couldn't find field Landroid/content/pm/PackageStats;.externalMediaSize
+I/dalvikvm(  253): DexOpt: unable to optimize instance field ref 0x0039 at 0x13 in Lcom/wandoujia/phoenix2/appwash/controller/ay;.a
+D/dalvikvm(  253): DexOpt: couldn't find field Landroid/content/pm/PackageStats;.externalObbSize
+I/dalvikvm(  253): DexOpt: unable to optimize instance field ref 0x003a at 0x16 in Lcom/wandoujia/phoenix2/appwash/controller/ay;.a
+I/ActivityManager(   61): Start proc com.mx.browser for broadcast com.mx.browser/.cloud.CloudReceiver: pid=309 uid=10036 gids={3003, 1015}
+I/ActivityThread(  309): Pub com.mx.browser.downloadprovider: com.mx.browser.download.DownloadProvider
+I/ActivityThread(  309): Pub com.mx.browser.browserprovider: com.mx.browser.BrowserProvider
+D/OtaStartupReceiver(  120): Not a CDMA phone, no need to process OTA
+I/ActivityManager(   61): Start proc com.android.mms for broadcast com.android.mms/.transaction.MmsSystemEventReceiver: pid=322 uid=10015 gids={3003, 1015}
+I/RecoverySystem(   61): No recovery log file
+I/ActivityThread(  322): Pub com.android.mms.SuggestionsProvider: com.android.mms.SuggestionsProvider
+I/ActivityManager(   61): Start proc com.android.email for broadcast com.android.email/.service.EmailBroadcastReceiver: pid=343 uid=10028 gids={3003, 1015}
+I/ActivityThread(  343): Pub com.android.email.provider: com.android.email.provider.EmailProvider
+I/ActivityThread(  343): Pub com.android.email.attachmentprovider: com.android.email.provider.AttachmentProvider
+I/ActivityThread(  343): Pub com.android.exchange.provider: com.android.exchange.provider.ExchangeProvider
+D/EAS SyncManager(  343): !!! EAS SyncManager, onCreate
+D/Eas Debug(  343): Logging: 
+D/EAS SyncManager(  343): !!! EAS SyncManager, onDestroy
+D/MediaScannerService(  244): start scanning volume internal
+D/Email   (  343): BOOT_COMPLETED
+D/EAS SyncManager(  343): !!! EAS SyncManager, onCreate
+D/EAS SyncManager(  343): !!! EAS SyncManager, onStartCommand
+D/EAS SyncManager(  343): !!! EAS SyncManager, stopping self
+D/EAS SyncManager(  343): !!! EAS SyncManager, onDestroy
+D/dalvikvm(  120): GREF has increased to 201
+D/dalvikvm(  186): GC_CONCURRENT freed 292K, 52% free 2809K/5767K, external 1625K/2137K, paused 3ms+3ms
+D/MediaScanner(  244):  prescan time: 707ms
+D/MediaScanner(  244):     scan time: 8ms
+D/MediaScanner(  244): postscan time: 0ms
+D/MediaScanner(  244):    total time: 715ms
+D/MediaScannerService(  244): done scanning volume internal
+D/dalvikvm(  127): GC_EXPLICIT freed 151K, 49% free 3031K/5895K, external 4842K/5599K, paused 43ms
+D/dalvikvm(  253): GC_CONCURRENT freed 741K, 50% free 3518K/6919K, external 1753K/2137K, paused 9ms+6ms
+D/MediaScannerService(  244): start scanning volume external
+V/MediaProvider(  244): /mnt/sdcard volume ID: 218050065
+V/MediaProvider(  244): Attached volume: external
+V/MediaScanner(  244): pruneDeadThumbnailFiles... android.database.sqlite.SQLiteCursor@405be8b8
+V/MediaScanner(  244): /pruneDeadThumbnailFiles... android.database.sqlite.SQLiteCursor@405be8b8
+D/MediaScanner(  244):  prescan time: 30ms
+D/MediaScanner(  244):     scan time: 13ms
+D/MediaScanner(  244): postscan time: 9ms
+D/MediaScanner(  244):    total time: 52ms
+D/MediaScannerService(  244): done scanning volume external
+I/dalvikvm(   61): Jit: resizing JitTable from 512 to 1024
+D/dalvikvm(  253): GC_CONCURRENT freed 488K, 46% free 3838K/6983K, external 1753K/2137K, paused 6ms+8ms
+I/dalvikvm(  253): Could not find method android.app.ActivityManager.getLauncherLargeIconSize, referenced from method com.wandoujia.phoenix2.utils.ShortcutUtil.a
+W/dalvikvm(  253): VFY: unable to resolve virtual method 60: Landroid/app/ActivityManager;.getLauncherLargeIconSize ()I
+D/dalvikvm(  253): VFY: replacing opcode 0x6e at 0x0013
+D/dalvikvm(  253): VFY: dead code 0x0016-0040 in Lcom/wandoujia/phoenix2/utils/ShortcutUtil;.a (Landroid/graphics/Bitmap;Landroid/content/Context;)Landroid/graphics/Bitmap;
+D/dalvikvm(  127): GC_EXTERNAL_ALLOC freed 146K, 50% free 2988K/5895K, external 4769K/5599K, paused 43ms
+D/inject  (  423): [+] The pid of system_server: 61
+D/inject  (  423): [+] Injecting process: 61
+D/inject  (  423): [+] get_remote_addr: local[afd00000], remote[afd00000]
+D/inject  (  423): [+] Remote mmap address: afd170cd
+D/inject  (  423): [+] Calling mmap in target process.
+D/inject  (  423): [+] Target process returned from mmap, return value=44e33000, pc=0 
+D/inject  (  423): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  (  423): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  (  423): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  (  423): [+] Get imports: dlopen: b00059bd, dlsym: b0005915, dlclose: b0005849
+D/inject  (  423): [+] Inject code start: c008, end: c084
+D/inject  (  423): [+] _dlopen_param1_s: 44e36c9c
+D/inject  (  423): [+] _dlsym_param2_s: 44e36d9c
+D/inject  (  423): [+] _saved_r0_pc_s: 44e36e9c
+D/inject  (  423): [+] _inject_function_param_s: 44e36f9c
+D/inject  (  423): [+] Remote shellcode address: 44e36c00
+D/inject  (  423): [+] Process Detach: 10
+D/inject  (   61): Hello ARM! I'm parameter1324! pid:61
+D/inject  (   61): The Handle of libhook_open: b000dfd0
+D/inject  (   61): find it pre 0
+D/inject  (   61): find it 80901078
+D/inject  (   61): [+] aaaaaaa do_hook function is invoked 
+D/inject  (   61): [+] open addr: 0xafd17111. New addr 0x80900f60
+D/inject  (   61): [+] just for test 
+D/inject  (   61): [+] set ok 
+D/inject  (   61): [+] Get the persist.sys.test  bbbbbbbb
+D/inject  (   61): [+] just for test print open address 44e36ad8
+D/inject  (   61): get old address
+D/inject  (   61): [+] Get old address property  afd17111
+D/inject  (   61): get new address
+D/inject  (   61): [+] Get new address property  80900f60
+D/inject  (   61): [+] binder path afd00000
+D/inject  (   61): [+] Section header table file offset 42a54
+D/inject  (   61): [+] Section header table entry count 16
+D/inject  (   61): [+] Section header table entry size 28
+D/inject  (   61): [+] Section header string table index 15
+D/inject  (   61): [+] Object file type 3
+D/inject  (   61): [+] Object file version 1
+D/inject  (   61): [+] Out_addr in GOT table before 0
+D/inject  (   61): [+] Out_size of func in GOT table before 0
+D/inject  (   61): [+] Out_addr in GOT table afd41420
+D/inject  (   61): [+] Out_size of func in GOT table 108
+D/inject  (   61): [+] Out_addr in GOT table afd41420
+D/inject  (   61): [+] Out_size of func in GOT table 108
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] word ffffffff
+D/inject  (   61): [+] wordelf ffffffff
+D/inject  (   61): [+] Out_addr in GOT 464c457f
+D/inject  (   61): [+] target pid 3d
+D/inject  (   61): [+] Find got_item ff 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd4d5c8 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd4717c 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd42610 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd425f4 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd415c0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd4630c 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd14169 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd46648 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd44abc 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd25db9 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd46300 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd46304 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd4631c 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd4271c 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd41554 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd41550 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd41558 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd46320 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd46324 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd40020 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd19d95 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd19d61 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd19d35 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd19d29 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd183d9 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd18669 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd46310 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd4270c 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd42718 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd415a0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd415a6 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd415a8 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd41598 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd42720 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd42724 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd4d318 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd4d314 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd415b8 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd415be 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd415b0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd4d5cc 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd46328 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd42750 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd2ae8d 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd2adc1 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd46308 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd40824 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd42760 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd40c3c 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd408dc 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd40918 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd4087c 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd409e4 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd40838 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd46314 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd46318 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd3a650 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item b0003709 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item b00059bd 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item b0005915 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item b0005849 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 4000 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ffffffff 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ffffffff 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ffffffff 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 1 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 1 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 3f 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ffffffff 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 8 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ff 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 20202020 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 20202020 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 20202020 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 20202020 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 30303030 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 30303030 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 30303030 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 30303030 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 4173c091 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 39f3 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item deece66d 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item b0005 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 202020 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item abcd330e 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 1234 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item deece66d 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item b0005 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 1000 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item c 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 7261762f 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 6e75722f 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 6d74752f 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 70 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.providers.downloads.ui/.DownloadList } from pid 127
+I/ARMAssembler(   61): generated scanline__00000177:03515104_00001002_00000000 [ 87 ipp] (110 ins) at [0x44e3d6f0:0x44e3d8a8] in 555120 ns
+D/dalvikvm(  244): GC_EXTERNAL_ALLOC freed 832K, 56% free 2746K/6215K, external 2002K/2137K, paused 54ms
+I/ActivityManager(   61): Displayed com.android.providers.downloads.ui/.DownloadList: +964ms
+W/KeyCharacterMap(  244): No keyboard for id 0
+W/KeyCharacterMap(  244): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+W/InputManagerService(   61): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@40746aa8 (uid=10000 pid=244)
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.contacts/.DialtactsContactsEntryActivity } from pid 127
+D/dalvikvm(  186): GC_CONCURRENT freed 488K, 52% free 2933K/6087K, external 1625K/2137K, paused 3ms+3ms
+D/dalvikvm(  186): GC_EXTERNAL_ALLOC freed 37K, 52% free 2977K/6087K, external 2112K/2137K, paused 43ms
+D/dalvikvm(  186): GC_EXTERNAL_ALLOC freed 16K, 51% free 3001K/6087K, external 2668K/2671K, paused 41ms
+I/ContactsListActivity(  186): Called with action: com.android.contacts.action.LIST_DEFAULT
+D/dalvikvm(   61): GREF has increased to 401
+I/ActivityManager(   61): Displayed com.android.contacts/.DialtactsContactsEntryActivity: +1s664ms
+W/KeyCharacterMap(  186): No keyboard for id 0
+W/KeyCharacterMap(  186): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+W/InputManagerService(   61): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@407bef30 (uid=10006 pid=186)
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity } from pid 127
+I/ActivityManager(   61): Start proc cn.wps.moffice_eng for activity cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity: pid=454 uid=10037 gids={3003, 1015}
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/dalvikvm(  454): Could not find method cn.wps.moffice.documentmanager.PreStartActivity.getActionBar, referenced from method cn.wps.moffice.documentmanager.PreStartActivity.setDisplayShowCustomEnabled
+W/dalvikvm(  454): VFY: unable to resolve virtual method 11013: Lcn/wps/moffice/documentmanager/PreStartActivity;.getActionBar ()Landroid/app/ActionBar;
+D/dalvikvm(  454): VFY: replacing opcode 0x6e at 0x0006
+D/dalvikvm(  454): VFY: dead code 0x0009-000e in Lcn/wps/moffice/documentmanager/PreStartActivity;.setDisplayShowCustomEnabled (Z)V
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager } from pid 454
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GC_EXTERNAL_ALLOC freed 636K, 50% free 3331K/6599K, external 2129K/2137K, paused 60ms
+D/dalvikvm(  454): GC_EXTERNAL_ALLOC freed 46K, 49% free 3382K/6599K, external 2611K/2673K, paused 84ms
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/dalvikvm(  454): Failed resolving Lcn/wps/moffice/common/beans/k$1; interface 540 'Landroid/nfc/NfcAdapter$OnNdefPushCompleteCallback;'
+W/dalvikvm(  454): Link of class 'Lcn/wps/moffice/common/beans/k$1;' failed
+E/dalvikvm(  454): Could not find class 'cn.wps.moffice.common.beans.k$1', referenced from method cn.wps.moffice.common.beans.k.<init>
+W/dalvikvm(  454): VFY: unable to resolve new-instance 1597 (Lcn/wps/moffice/common/beans/k$1;) in Lcn/wps/moffice/common/beans/k;
+D/dalvikvm(  454): VFY: replacing opcode 0x22 at 0x0039
+I/dalvikvm(  454): Failed resolving Lcn/wps/moffice/common/beans/k$3; interface 538 'Landroid/nfc/NfcAdapter$CreateBeamUrisCallback;'
+W/dalvikvm(  454): Link of class 'Lcn/wps/moffice/common/beans/k$3;' failed
+E/dalvikvm(  454): Could not find class 'cn.wps.moffice.common.beans.k$3', referenced from method cn.wps.moffice.common.beans.k.<init>
+W/dalvikvm(  454): VFY: unable to resolve new-instance 1599 (Lcn/wps/moffice/common/beans/k$3;) in Lcn/wps/moffice/common/beans/k;
+D/dalvikvm(  454): VFY: replacing opcode 0x22 at 0x0070
+D/dalvikvm(  454): VFY: dead code 0x003b-005c in Lcn/wps/moffice/common/beans/k;.<init> (Landroid/app/Activity;)V
+D/dalvikvm(  454): VFY: dead code 0x0072-0079 in Lcn/wps/moffice/common/beans/k;.<init> (Landroid/app/Activity;)V
+D/water   (  454): packageName: cn.wps.moffice_eng
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GC_CONCURRENT freed 532K, 47% free 3589K/6727K, external 3121K/3694K, paused 3ms+3ms
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GC_EXTERNAL_ALLOC freed 303K, 48% free 3574K/6791K, external 3121K/3694K, paused 55ms
+D/dalvikvm(  454): GC_EXTERNAL_ALLOC freed 150K, 48% free 3594K/6855K, external 3545K/4295K, paused 49ms
+W/ResourceType(   61): Skipping entry 0x7f040000 in package table 0 because it is not complex!
+W/ResourceType(   61): Skipping entry 0x7f040017 in package table 0 because it is not complex!
+I/ActivityManager(   61): Displayed cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager: +3s167ms (total +4s87ms)
+D/dalvikvm(  454): GC_EXTERNAL_ALLOC freed 330K, 45% free 3881K/6983K, external 5163K/5193K, paused 64ms
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.startactivity.writer.StartWriterActivity1 (has extras) } from pid 454
+I/ActivityManager(   61): Start proc cn.wps.moffice_eng:writer1 for activity cn.wps.moffice_eng/cn.wps.moffice.startactivity.writer.StartWriterActivity1: pid=488 uid=10037 gids={3003, 1015}
+D/dalvikvm(  488): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  488): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  488): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.writer.Writer1 (has extras) } from pid 488
+D/dalvikvm(  488): GC_EXTERNAL_ALLOC freed 624K, 50% free 3305K/6535K, external 2131K/2137K, paused 52ms
+D/dalvikvm(  488): GC_EXTERNAL_ALLOC freed 41K, 50% free 3316K/6535K, external 2657K/2675K, paused 56ms
+D/dalvikvm(  488): GC_EXTERNAL_ALLOC freed 50K, 48% free 3418K/6535K, external 3330K/3332K, paused 60ms
+D/dalvikvm(  488): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  488): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/dalvikvm(  488): Failed resolving Lcn/wps/moffice/common/beans/k$1; interface 540 'Landroid/nfc/NfcAdapter$OnNdefPushCompleteCallback;'
+W/dalvikvm(  488): Link of class 'Lcn/wps/moffice/common/beans/k$1;' failed
+E/dalvikvm(  488): Could not find class 'cn.wps.moffice.common.beans.k$1', referenced from method cn.wps.moffice.common.beans.k.<init>
+W/dalvikvm(  488): VFY: unable to resolve new-instance 1597 (Lcn/wps/moffice/common/beans/k$1;) in Lcn/wps/moffice/common/beans/k;
+D/dalvikvm(  488): VFY: replacing opcode 0x22 at 0x0039
+I/dalvikvm(  488): Failed resolving Lcn/wps/moffice/common/beans/k$3; interface 538 'Landroid/nfc/NfcAdapter$CreateBeamUrisCallback;'
+W/dalvikvm(  488): Link of class 'Lcn/wps/moffice/common/beans/k$3;' failed
+E/dalvikvm(  488): Could not find class 'cn.wps.moffice.common.beans.k$3', referenced from method cn.wps.moffice.common.beans.k.<init>
+W/dalvikvm(  488): VFY: unable to resolve new-instance 1599 (Lcn/wps/moffice/common/beans/k$3;) in Lcn/wps/moffice/common/beans/k;
+D/dalvikvm(  488): VFY: replacing opcode 0x22 at 0x0070
+D/dalvikvm(  488): VFY: dead code 0x003b-005c in Lcn/wps/moffice/common/beans/k;.<init> (Landroid/app/Activity;)V
+D/dalvikvm(  488): VFY: dead code 0x0072-0079 in Lcn/wps/moffice/common/beans/k;.<init> (Landroid/app/Activity;)V
+D/water   (  488): packageName: cn.wps.moffice_eng
+I/dalvikvm(  454): Jit: resizing JitTable from 512 to 1024
+D/dalvikvm(  488): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  488): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  488): GC_CONCURRENT freed 479K, 46% free 3642K/6727K, external 3627K/4173K, paused 5ms+5ms
+D/dalvikvm(  488): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  488): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  488): GC_EXTERNAL_ALLOC freed 767K, 48% free 3791K/7175K, external 3630K/4173K, paused 65ms
+D/dalvikvm(  488): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/ActivityManager(   61): Displayed cn.wps.moffice_eng/cn.wps.moffice.writer.Writer1: +2s689ms (total +3s565ms)
+D/dalvikvm(  488): GC_EXTERNAL_ALLOC freed 567K, 46% free 3971K/7303K, external 4979K/6132K, paused 69ms
+D/dalvikvm(  488): GC_EXTERNAL_ALLOC freed 31K, 46% free 3962K/7303K, external 6604K/8246K, paused 55ms
+D/dalvikvm(  488): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  488): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  488): GC_EXTERNAL_ALLOC freed 207K, 46% free 3999K/7303K, external 10209K/10296K, paused 111ms
+D/dalvikvm(  454): GC_EXTERNAL_ALLOC freed 703K, 45% free 4160K/7495K, external 4368K/5455K, paused 160ms
+D/dalvikvm(  454): GC_EXTERNAL_ALLOC freed 314K, 48% free 3934K/7495K, external 5536K/5954K, paused 75ms
+D/dalvikvm(  127): GC_EXPLICIT freed 60K, 51% free 2945K/5895K, external 6033K/7482K, paused 41ms
+D/dalvikvm(  186): GC_EXPLICIT freed 203K, 50% free 3079K/6087K, external 3198K/3361K, paused 101ms
+D/dalvikvm(  244): GC_EXPLICIT freed 183K, 57% free 2726K/6215K, external 2156K/2692K, paused 59ms
+W/KeyCharacterMap(  488): No keyboard for id 0
+W/KeyCharacterMap(  488): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+D/dalvikvm(  488): GC_EXTERNAL_ALLOC freed 232K, 45% free 4045K/7303K, external 10819K/11586K, paused 55ms
+D/dalvikvm(  454): GC_EXTERNAL_ALLOC freed 195K, 48% free 3968K/7495K, external 4982K/6222K, paused 190ms
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager } from pid 488
+D/dalvikvm(  454): GC_EXTERNAL_ALLOC freed 143K, 48% free 3938K/7495K, external 5536K/5954K, paused 88ms
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GC_EXTERNAL_ALLOC freed 262K, 47% free 3990K/7495K, external 4982K/6222K, paused 61ms
+D/dalvikvm(  454): GC_EXTERNAL_ALLOC freed 118K, 48% free 3960K/7495K, external 5536K/5954K, paused 49ms
+W/IInputConnectionWrapper(  488): showStatusIcon on inactive InputConnection
+W/KeyCharacterMap(  454): No keyboard for id 0
+W/KeyCharacterMap(  454): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+I/System.out(  454): flushRecord:f88f681f-f3cd-41aa-ae9b-7557bba0320e
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } from pid 454
+W/InputManagerService(   61): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@407f9888 (uid=10037 pid=454)
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/dalvikvm(   61): GC_CONCURRENT freed 1360K, 48% free 4492K/8519K, external 3125K/3903K, paused 6ms+5ms
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/dalvikvm(  253): GC_CONCURRENT freed 968K, 49% free 3794K/7431K, external 1753K/2137K, paused 8ms+3ms
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/dalvikvm(  454): GC_CONCURRENT freed 815K, 46% free 4105K/7559K, external 5287K/6603K, paused 9ms+6ms
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity } from pid 127
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager } from pid 454
+W/ActivityManager(   61): Duplicate finish request for HistoryRecord{40744140 cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity}
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/dalvikvm(   61): Jit: resizing JitTable from 1024 to 2048
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  127): GC_EXPLICIT freed 57K, 51% free 2938K/5895K, external 6033K/7482K, paused 62ms
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/inject  ( 2892): [+] The pid of /system/bin/servicemanager: 28
+D/inject  ( 2892): [+] Injecting process: 28
+D/inject  ( 2892): [+] get_remote_addr: local[afd00000], remote[afd00000]
+D/inject  ( 2892): [+] Remote mmap address: afd170cd
+D/inject  ( 2892): [+] Calling mmap in target process.
+D/inject  ( 2892): [+] Target process returned from mmap, return value=40029000, pc=0 
+D/inject  ( 2892): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  ( 2892): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  ( 2892): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  ( 2892): [+] Get imports: dlopen: b00059bd, dlsym: b0005915, dlclose: b0005849
+D/inject  ( 2892): [+] Inject code start: c008, end: c084
+D/inject  ( 2892): [+] _dlopen_param1_s: 4002cc9c
+D/inject  ( 2892): [+] _dlsym_param2_s: 4002cd9c
+D/inject  ( 2892): [+] _saved_r0_pc_s: 4002ce9c
+D/inject  ( 2892): [+] _inject_function_param_s: 4002cf9c
+D/inject  ( 2892): [+] Remote shellcode address: 4002cc00
+D/inject  ( 2892): [+] Process Detach: 10
+D/inject  (   28): Hello ARM! I'm parameter1324! pid:28
+D/inject  (   28): The Handle of libhook_open: b000a178
+D/inject  (   28): find it pre 0
+D/inject  (   28): find it 80101078
+D/inject  (   28): [+] aaaaaaa do_hook function is invoked 
+D/inject  (   28): [+] open addr: 0xafd17111. New addr 0x80100f60
+D/inject  (   28): [+] just for test 
+D/inject  (   28): [+] set ok 
+D/inject  (   28): [+] Get the persist.sys.test  bbbbbbbb
+D/inject  (   28): [+] just for test print open address 4002cad8
+D/inject  (   28): get old address
+D/inject  (   28): [+] Get old address property  afd17111
+D/inject  (   28): get new address
+D/inject  (   28): [+] Get new address property  80100f60
+D/inject  (   28): [+] binder path afd00000
+D/inject  (   28): [+] Section header table file offset 42a54
+D/inject  (   28): [+] Section header table entry count 16
+D/inject  (   28): [+] Section header table entry size 28
+D/inject  (   28): [+] Section header string table index 15
+D/inject  (   28): [+] Object file type 3
+D/inject  (   28): [+] Object file version 1
+D/inject  (   28): [+] Out_addr in GOT table before 0
+D/inject  (   28): [+] Out_size of func in GOT table before 0
+D/inject  (   28): [+] Out_addr in GOT table afd41420
+D/inject  (   28): [+] Out_size of func in GOT table 108
+D/inject  (   28): [+] Out_addr in GOT table afd41420
+D/inject  (   28): [+] Out_size of func in GOT table 108
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] word ffffffff
+D/inject  (   28): [+] wordelf ffffffff
+D/inject  (   28): [+] Out_addr in GOT 464c457f
+D/inject  (   28): [+] target pid 1c
+D/inject  (   28): [+] Find got_item ff 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd4d5c8 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd4717c 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd42610 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd425f4 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd415c0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd4630c 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd14169 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd46648 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd44abc 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd25db9 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd46300 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd46304 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd4631c 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd4271c 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd41554 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd41550 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd41558 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd46320 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd46324 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd40020 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd19d95 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd19d61 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd19d35 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd19d29 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd183d9 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd18669 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd46310 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd4270c 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd42718 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd415a0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd415a6 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd415a8 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd41598 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd42720 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd42724 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd4d318 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd4d314 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd415b8 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd415be 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd415b0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd4d5cc 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd46328 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd42750 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd2ae8d 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd2adc1 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd46308 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd40824 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd42760 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd40c3c 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd408dc 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd40918 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd4087c 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd409e4 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd40838 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd46314 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd46318 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item afd3a650 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item b0003709 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item b00059bd 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item b0005915 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item b0005849 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 4000 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item ffffffff 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item ffffffff 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item ffffffff 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 1 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 1 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 3f 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item ffffffff 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 8 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item ff 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 20202020 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 20202020 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 20202020 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 20202020 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 30303030 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 30303030 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 30303030 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 30303030 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item abcd330e 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 1234 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item deece66d 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item b0005 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 202020 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item abcd330e 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 1234 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item deece66d 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item b0005 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 1000 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item c 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 7261762f 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 6e75722f 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 6d74752f 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 70 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 
+D/inject  (   28): [+] Out_addr in GOT afd4d5c8
+D/inject  (   28): [+] Find got item 0 

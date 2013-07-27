@@ -1,0 +1,1224 @@
+D/inject  ( 7735): [+] The New open count 102
+D/inject  ( 7735): [+] The old openfile fd 45
+D/dalvikvm( 7735): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  ( 7735): [+] The New open count 103
+D/inject  ( 7735): [+] The old openfile fd 45
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/c45b3b93dbfb9bc822020040c83d2145.png
+D/inject  ( 7735): [+] The New open count 104
+D/inject  ( 7735): [+] The old openfile fd 45
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/c45b3b93dbfb9bc822020040c83d2145.png
+D/inject  ( 7735): [+] The New open count 105
+D/inject  ( 7735): [+] The old openfile fd 45
+D/dalvikvm( 7735): GC_EXTERNAL_ALLOC freed 287K, 47% free 4066K/7623K, external 4646K/5803K, paused 89ms
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/ab189525c7e6b00c55c498d80f7d9fbf.png
+D/inject  ( 7735): [+] The New open count 106
+D/inject  ( 7735): [+] The old openfile fd 45
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/ab189525c7e6b00c55c498d80f7d9fbf.png
+D/inject  ( 7735): [+] The New open count 107
+D/inject  ( 7735): [+] The old openfile fd 45
+D/dalvikvm( 7735): GC_EXTERNAL_ALLOC freed 119K, 48% free 4035K/7623K, external 5927K/5927K, paused 53ms
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/10ca354419e828a281119d7494f3c81f.png
+D/inject  ( 7735): [+] The New open count 108
+D/inject  ( 7735): [+] The old openfile fd 45
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/10ca354419e828a281119d7494f3c81f.png
+D/inject  ( 7735): [+] The New open count 109
+D/inject  ( 7735): [+] The old openfile fd 45
+D/dalvikvm( 7735): GC_EXTERNAL_ALLOC freed 74K, 47% free 4046K/7623K, external 6232K/6232K, paused 52ms
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/cloudsetting
+D/inject  ( 7735): [+] The New open count 110
+D/inject  ( 7735): [+] The old openfile fd 45
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/cloudsetting
+D/inject  ( 7735): [+] The New open count 111
+D/inject  ( 7735): [+] The old openfile fd 45
+I/System.out( 7735): flushRecord:12525019-b757-4845-ad1d-0a537e78bd9c
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/Android/data/cn.wps.moffice_eng/cache/KingsoftOffice/file/.timeBox/HistoryRecord/records/12525019-b757-4845-ad1d-0a537e78bd9c
+D/inject  ( 7735): [+] The New open count 112
+D/inject  ( 7735): [+] The old openfile fd 45
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/Android/data/cn.wps.moffice_eng/cache/KingsoftOffice/file/.timeBox/HistoryRecord/persistence/records_upload_list
+D/inject  ( 7735): [+] The New open count 113
+D/inject  ( 7735): [+] The old openfile fd 45
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/Android/data/cn.wps.moffice_eng/cache/KingsoftOffice/file/.timeBox/HistoryRecord/persistence/records_upload_list
+D/inject  ( 7735): [+] The New open count 114
+D/inject  ( 7735): [+] The old openfile fd 45
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/cloudsetting
+D/inject  ( 7735): [+] The New open count 115
+D/inject  ( 7735): [+] The old openfile fd 45
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/cloudsetting
+D/inject  ( 7735): [+] The New open count 116
+D/inject  ( 7735): [+] The old openfile fd 45
+W/IInputConnectionWrapper( 3990): showStatusIcon on inactive InputConnection
+D/dalvikvm( 3990): GC_EXPLICIT freed 288K, 40% free 5735K/9543K, external 19297K/21345K, paused 99ms
+D/inject  ( 8814): [+] The pid of cn.wps.moffice_eng: 7735
+D/inject  ( 8814): [+] Injecting process: 7735
+D/inject  ( 8814): [+] get_remote_addr: local[afd00000], remote[afd00000]
+D/inject  ( 8814): [+] Remote mmap address: afd170cd
+D/inject  ( 8814): [+] Calling mmap in target process.
+D/inject  ( 8814): [+] Target process returned from mmap, return value=454c6000, pc=0 
+D/inject  ( 8814): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  ( 8814): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  ( 8814): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  ( 8814): [+] Get imports: dlopen: b00059bd, dlsym: b0005915, dlclose: b0005849
+D/inject  ( 8814): [+] Inject code start: c008, end: c084
+D/inject  ( 8814): [+] _dlopen_param1_s: 454c9c9c
+D/inject  ( 8814): [+] _dlsym_param2_s: 454c9d9c
+D/inject  ( 8814): [+] _saved_r0_pc_s: 454c9e9c
+D/inject  ( 8814): [+] _inject_function_param_s: 454c9f9c
+D/inject  ( 8814): [+] Remote shellcode address: 454c9c00
+D/inject  ( 8814): [+] Process Detach: 10
+D/inject  ( 7735): hello ARM! I'm parameter1324! pid:7735
+D/inject  ( 7735): The Handle of libhook_open: b000d2b0
+D/inject  ( 7735): find it pre 0
+D/inject  ( 7735): find it 806012a8
+D/inject  ( 7735): [+] aaaaaaa do_hook function is invoked 
+D/inject  ( 7735): [+] open addr: 0xafd17111. New addr 0x806011b0
+D/inject  ( 7735): [+] just for test info 
+D/inject  ( 7735): [+] set ok 
+D/inject  ( 7735): [+] Get the persist.sys.test  bbbbbbbb
+D/inject  ( 7735): [+] just for test print old_open address 0xafd17111
+D/inject  ( 7735): [+] just for test print new_open address 0x806011b0
+D/inject  ( 7735): [+] Get old address global  afd17111
+D/inject  ( 7735): [+] Get new address global  806011b0
+D/inject  ( 7735): [+] binder path ad100000
+D/inject  ( 7735): [+] Section header table file offset 2e23c
+D/inject  ( 7735): [+] Section header table entry count 15
+D/inject  ( 7735): [+] Section header table entry size 28
+D/inject  ( 7735): [+] Section header string table index 14
+D/inject  ( 7735): [+] Object file type 3
+D/inject  ( 7735): [+] Object file version 1
+D/inject  ( 7735): [+] Out_addr in GOT table before 0
+D/inject  ( 7735): [+] Out_size of func in GOT table before 0
+D/inject  ( 7735): [+] Out_addr in GOT table ad12c138
+D/inject  ( 7735): [+] Out_size of func in GOT table 8c4
+D/inject  ( 7735): [+] Out_addr in GOT table ad12c138
+D/inject  ( 7735): [+] Out_size of func in GOT table 8c4
+D/inject  ( 7735): [+] Out_addr in GOT afd4d5c8
+D/inject  ( 7735): [+] old open address 20000 afd17111
+D/inject  ( 7735): [+] Out_addr in GOT 464c457f
+D/inject  ( 7735): [+] target pid 1e37
+D/inject  ( 7735): [+] old open address 22223 afd17111
+D/inject  ( 7735): [+] Find got_item ff 
+D/inject  ( 7735): [+] old open address 3333 afd17111
+D/inject  ( 7735): [+] old open address 3333 afffffff
+D/inject  ( 7735): [+] new open address 3333 806011b0
+D/inject  ( 7735): [+] new open address 3333 806011b0
+D/inject  ( 7735): [+] Find got item afd4d5c8 
+D/inject  ( 7735): [+] Find got item ad12e2a4 
+D/inject  ( 7735): [+] Find got item ad12e28c 
+D/inject  ( 7735): [+] Find got item ad12e268 
+D/inject  ( 7735): [+] Find got item ad12e258 
+D/inject  ( 7735): [+] Find got item afd4631c 
+D/inject  ( 7735): [+] Find got item ad12e298 
+D/inject  ( 7735): [+] Find got item ad12e250 
+D/inject  ( 7735): [+] Find got item ad12e280 
+D/inject  ( 7735): [+] Find got item ad12e294 
+D/inject  ( 7735): [+] Find got item ad12e260 
+D/inject  ( 7735): [+] Find got item ad12e278 
+D/inject  ( 7735): [+] Find got item afd415c0 
+D/inject  ( 7735): [+] Find got item ad12e2a8 
+D/inject  ( 7735): [+] Find got item ad12e274 
+D/inject  ( 7735): [+] Find got item ad12e27c 
+D/inject  ( 7735): [+] Find got item ad12e248 
+D/inject  ( 7735): [+] Find got item ad12e2a0 
+D/inject  ( 7735): [+] Find got item ad12e25c 
+D/inject  ( 7735): [+] Find got item ad12e270 
+D/inject  ( 7735): [+] Find got item ad12e288 
+D/inject  ( 7735): [+] Find got item ad12e264 
+D/inject  ( 7735): [+] Find got item ad12e284 
+D/inject  ( 7735): [+] Find got item ad9bc7f1 
+D/inject  ( 7735): [+] Find got item ad9bc7f9 
+D/inject  ( 7735): [+] Find got item ade45f55 
+D/inject  ( 7735): [+] Find got item ade45f69 
+D/inject  ( 7735): [+] Find got item ad9bb339 
+D/inject  ( 7735): [+] Find got item ad9bb341 
+D/inject  ( 7735): [+] Find got item ad9b481d 
+D/inject  ( 7735): [+] Find got item ad9b4831 
+D/inject  ( 7735): [+] Find got item ad9a5561 
+D/inject  ( 7735): [+] Find got item ad9a5569 
+D/inject  ( 7735): [+] Find got item ade31305 
+D/inject  ( 7735): [+] Find got item ade3130d 
+D/inject  ( 7735): [+] Find got item ad12e240 
+D/inject  ( 7735): [+] Find got item ad12e244 
+D/inject  ( 7735): [+] Find got item ad12e24c 
+D/inject  ( 7735): [+] Find got item ad12e254 
+D/inject  ( 7735): [+] Find got item ad12e26c 
+D/inject  ( 7735): [+] Find got item ad12e290 
+D/inject  ( 7735): [+] Find got item ad12e29c 
+D/inject  ( 7735): [+] Find got item ade5f751 
+D/inject  ( 7735): [+] Find got item ade5f749 
+D/inject  ( 7735): [+] Find got item ade5f74d 
+D/inject  ( 7735): [+] Find got item adec6b68 
+D/inject  ( 7735): [+] Find got item ad12ca00 
+D/inject  ( 7735): [+] Find got item afd42610 
+D/inject  ( 7735): [+] Find got item 0 
+D/inject  ( 7735): [+] Find got item 0 
+D/inject  ( 7735): [+] Find got item 0 
+D/inject  ( 7735): [+] Find got item afd2092d 
+D/inject  ( 7735): [+] Find got item afd19c3d 
+D/inject  ( 7735): [+] Find got item afd20a45 
+D/inject  ( 7735): [+] Find got item af9038e5 
+D/inject  ( 7735): [+] Find got item afd28321 
+D/inject  ( 7735): [+] Find got item af9037b1 
+D/inject  ( 7735): [+] Find got item afd1c87d 
+D/inject  ( 7735): [+] Find got item ade3a295 
+D/inject  ( 7735): [+] Find got item ade394bd 
+D/inject  ( 7735): [+] Find got item ade39c31 
+D/inject  ( 7735): [+] Find got item ad9a4ef5 
+D/inject  ( 7735): [+] Find got item ad96a6b1 
+D/inject  ( 7735): [+] Find got item ade39141 
+D/inject  ( 7735): [+] Find got item ad99e381 
+D/inject  ( 7735): [+] Find got item ad96a3f1 
+D/inject  ( 7735): [+] Find got item ad99d059 
+D/inject  ( 7735): [+] Find got item ade256f1 
+D/inject  ( 7735): [+] Find got item ad9a3e51 
+D/inject  ( 7735): [+] Find got item ad9a3839 
+D/inject  ( 7735): [+] Find got item afd25c95 
+D/inject  ( 7735): [+] Find got item afd11fbd 
+D/inject  ( 7735): [+] Find got item afd17049 
+D/inject  ( 7735): [+] Find got item afd0bba0 
+D/inject  ( 7735): [+] Find got item afd0bad0 
+D/inject  ( 7735): [+] Find got item afd0e3e0 
+D/inject  ( 7735): [+] Find got item afd0e3f4 
+D/inject  ( 7735): [+] Find got item afd29855 
+D/inject  ( 7735): [+] Find got item afd0bc40 
+D/inject  ( 7735): [+] Find got item afc009e1 
+D/inject  ( 7735): [+] Find got item afd0bc00 
+D/inject  ( 7735): [+] Find got item afc009c1 
+D/inject  ( 7735): [+] Find got item afd0bbe0 
+D/inject  ( 7735): [+] Find got item afd14de4 
+D/inject  ( 7735): [+] Find got item afd20859 
+D/inject  ( 7735): [+] Find got item afc009e9 
+D/inject  ( 7735): [+] Find got item afd172fd 
+D/inject  ( 7735): [+] Find got item afd3742d 
+D/inject  ( 7735): [+] Find got item afd17249 
+D/inject  ( 7735): [+] Find got item afd171a1 
+D/inject  ( 7735): [+] Find got item afc009c9 
+D/inject  ( 7735): [+] Find got item afd17ac5 
+D/inject  ( 7735): [+] Find got item afd0bc80 
+D/inject  ( 7735): [+] Find got item afd19a49 
+D/inject  ( 7735): [+] Find got item 806011b0 
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  ( 7735): [+] The New open count 117
+D/inject  ( 7735): [+] The old openfile fd 51
+D/dalvikvm( 7735): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  ( 7735): [+] The New open count 118
+D/inject  ( 7735): [+] The old openfile fd 51
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  ( 7735): [+] The New open count 119
+D/inject  ( 7735): [+] The old openfile fd 51
+D/dalvikvm( 7735): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  ( 7735): [+] The New open count 120
+D/inject  ( 7735): [+] The old openfile fd 51
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  ( 7735): [+] The New open count 121
+D/inject  ( 7735): [+] The old openfile fd 51
+D/dalvikvm( 7735): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.startactivity.writer.StartWriterActivity1 (has extras) } from pid 7735
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.writer.Writer1 (has extras) } from pid 3990
+D/dalvikvm( 3990): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 3990): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/water   ( 3990): packageName: cn.wps.moffice_eng
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/HistoryRecordDataSource
+D/inject  ( 7735): [+] The New open count 122
+D/inject  ( 7735): [+] The old openfile fd 51
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/documents/ope11.txt
+D/inject  ( 7735): [+] The New open count 123
+D/inject  ( 7735): [+] The old openfile fd 51
+D/dalvikvm( 3990): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/.connectionPersistence
+D/inject  ( 7735): [+] The New open count 124
+D/inject  ( 7735): [+] The old openfile fd 51
+D/dalvikvm( 3990): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 3990): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 3990): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 3990): GC_EXTERNAL_ALLOC freed 738K, 37% free 6085K/9543K, external 18583K/19862K, paused 132ms
+D/dalvikvm( 3990): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/lable.db
+D/inject  ( 7735): [+] The New open count 125
+D/inject  ( 7735): [+] The old openfile fd 51
+D/dalvikvm( 3990): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 3990): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 3990): GC_EXTERNAL_ALLOC freed 451K, 37% free 6096K/9543K, external 21175K/21912K, paused 167ms
+D/dalvikvm( 3990): GC_EXTERNAL_ALLOC freed <1K, 37% free 6096K/9543K, external 21175K/21912K, paused 172ms
+I/dalvikvm-heap( 3990): Clamp target GC heap from 32.541MB to 32.000MB
+D/dalvikvm( 3990): GC_FOR_MALLOC freed 1K, 37% free 6094K/9543K, external 22575K/24623K, paused 105ms
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  ( 7735): [+] The New open count 126
+D/inject  ( 7735): [+] The old openfile fd 51
+D/dalvikvm( 3990): GC_EXTERNAL_ALLOC freed 33K, 37% free 6081K/9543K, external 22554K/24602K, paused 112ms
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  ( 7735): [+] The New open count 127
+D/inject  ( 7735): [+] The old openfile fd 51
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/c45b3b93dbfb9bc822020040c83d2145.png
+D/inject  ( 7735): [+] The New open count 128
+D/inject  ( 7735): [+] The old openfile fd 51
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/c45b3b93dbfb9bc822020040c83d2145.png
+D/inject  ( 7735): [+] The New open count 129
+D/inject  ( 7735): [+] The old openfile fd 51
+D/dalvikvm( 7735): GC_EXTERNAL_ALLOC freed 551K, 47% free 4095K/7623K, external 4646K/5803K, paused 119ms
+I/dalvikvm-heap( 3990): Clamp target GC heap from 32.506MB to 32.000MB
+D/dalvikvm( 3990): GC_FOR_MALLOC freed 5K, 37% free 6076K/9543K, external 22557K/24602K, paused 104ms
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/ab189525c7e6b00c55c498d80f7d9fbf.png
+D/inject  ( 7735): [+] The New open count 130
+D/inject  ( 7735): [+] The old openfile fd 51
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/ab189525c7e6b00c55c498d80f7d9fbf.png
+D/inject  ( 7735): [+] The New open count 131
+D/inject  ( 7735): [+] The old openfile fd 51
+D/dalvikvm( 3990): GC_EXTERNAL_ALLOC freed 0K, 37% free 6076K/9543K, external 22557K/24602K, paused 144ms
+D/dalvikvm( 7735): GC_EXTERNAL_ALLOC freed 127K, 47% free 4056K/7623K, external 5927K/5927K, paused 115ms
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/10ca354419e828a281119d7494f3c81f.png
+D/inject  ( 7735): [+] The New open count 132
+D/inject  ( 7735): [+] The old openfile fd 51
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/10ca354419e828a281119d7494f3c81f.png
+D/inject  ( 7735): [+] The New open count 133
+D/inject  ( 7735): [+] The old openfile fd 51
+I/dalvikvm-heap( 3990): Clamp target GC heap from 32.511MB to 32.000MB
+D/dalvikvm( 3990): GC_FOR_MALLOC freed 0K, 37% free 6076K/9543K, external 22562K/24602K, paused 98ms
+D/dalvikvm( 3990): GC_EXTERNAL_ALLOC freed 1K, 37% free 6077K/9543K, external 22560K/24602K, paused 152ms
+D/dalvikvm( 7735): GC_EXTERNAL_ALLOC freed 74K, 47% free 4067K/7623K, external 6232K/6232K, paused 108ms
+D/dalvikvm( 3990): GC_FOR_MALLOC freed <1K, 37% free 6076K/9543K, external 21281K/23329K, paused 58ms
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/lable.db
+D/inject  ( 7735): [+] The New open count 134
+D/inject  ( 7735): [+] The old openfile fd 51
+I/ActivityManager(   61): Displayed cn.wps.moffice_eng/cn.wps.moffice.writer.Writer1: +4s476ms (total +4s513ms)
+W/InputManagerService(   61): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@4071ff10 (uid=10037 pid=7735)
+D/dalvikvm( 3990): GC_EXTERNAL_ALLOC freed 492K, 36% free 6127K/9543K, external 21466K/22234K, paused 84ms
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  ( 7735): [+] The New open count 135
+D/inject  ( 7735): [+] The old openfile fd 51
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  ( 7735): [+] The New open count 136
+D/inject  ( 7735): [+] The old openfile fd 51
+D/dalvikvm( 3990): GC_EXTERNAL_ALLOC freed 0K, 36% free 6127K/9543K, external 21466K/22234K, paused 130ms
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/c45b3b93dbfb9bc822020040c83d2145.png
+D/inject  ( 7735): [+] The New open count 137
+D/inject  ( 7735): [+] The old openfile fd 51
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/c45b3b93dbfb9bc822020040c83d2145.png
+D/inject  ( 7735): [+] The New open count 138
+D/inject  ( 7735): [+] The old openfile fd 51
+I/dalvikvm-heap( 3990): Clamp target GC heap from 32.739MB to 32.000MB
+D/dalvikvm( 3990): GC_FOR_MALLOC freed 2K, 36% free 6124K/9543K, external 22747K/24795K, paused 115ms
+D/dalvikvm( 7735): GC_EXTERNAL_ALLOC freed 208K, 46% free 4117K/7623K, external 4646K/5803K, paused 130ms
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/ab189525c7e6b00c55c498d80f7d9fbf.png
+D/inject  ( 7735): [+] The New open count 139
+D/inject  ( 7735): [+] The old openfile fd 51
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/ab189525c7e6b00c55c498d80f7d9fbf.png
+D/inject  ( 7735): [+] The New open count 140
+D/inject  ( 7735): [+] The old openfile fd 51
+D/dalvikvm( 7735): GC_EXTERNAL_ALLOC freed 117K, 47% free 4088K/7623K, external 5927K/5927K, paused 160ms
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager } from pid 3990
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/lable.db
+D/inject  ( 7735): [+] The New open count 141
+D/inject  ( 7735): [+] The old openfile fd 51
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/10ca354419e828a281119d7494f3c81f.png
+D/inject  ( 7735): [+] The New open count 142
+D/inject  ( 7735): [+] The old openfile fd 51
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/10ca354419e828a281119d7494f3c81f.png
+D/inject  ( 7735): [+] The New open count 143
+D/inject  ( 7735): [+] The old openfile fd 51
+D/dalvikvm( 7735): GC_EXTERNAL_ALLOC freed 99K, 47% free 4099K/7623K, external 6232K/6232K, paused 59ms
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  ( 7735): [+] The New open count 144
+D/inject  ( 7735): [+] The old openfile fd 51
+D/dalvikvm( 7735): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  ( 7735): [+] The New open count 145
+D/inject  ( 7735): [+] The old openfile fd 51
+D/dalvikvm( 7735): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  ( 7735): [+] The New open count 146
+D/inject  ( 7735): [+] The old openfile fd 51
+D/dalvikvm( 7735): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  ( 7735): [+] The New open count 147
+D/inject  ( 7735): [+] The old openfile fd 51
+D/dalvikvm( 7735): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  ( 7735): [+] The New open count 148
+D/inject  ( 7735): [+] The old openfile fd 51
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  ( 7735): [+] The New open count 149
+D/inject  ( 7735): [+] The old openfile fd 51
+D/dalvikvm( 7735): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  ( 7735): [+] The New open count 150
+D/inject  ( 7735): [+] The old openfile fd 51
+D/dalvikvm( 7735): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  ( 7735): [+] The New open count 151
+D/inject  ( 7735): [+] The old openfile fd 51
+D/dalvikvm( 7735): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  ( 7735): [+] The New open count 152
+D/inject  ( 7735): [+] The old openfile fd 51
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  ( 7735): [+] The New open count 153
+D/inject  ( 7735): [+] The old openfile fd 51
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  ( 7735): [+] The New open count 154
+D/inject  ( 7735): [+] The old openfile fd 51
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  ( 7735): [+] The New open count 155
+D/inject  ( 7735): [+] The old openfile fd 51
+D/dalvikvm( 7735): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  ( 7735): [+] The New open count 156
+D/inject  ( 7735): [+] The old openfile fd 51
+D/dalvikvm( 7735): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  ( 7735): [+] The New open count 157
+D/inject  ( 7735): [+] The old openfile fd 51
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/c45b3b93dbfb9bc822020040c83d2145.png
+D/inject  ( 7735): [+] The New open count 158
+D/inject  ( 7735): [+] The old openfile fd 51
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/c45b3b93dbfb9bc822020040c83d2145.png
+D/inject  ( 7735): [+] The New open count 159
+D/inject  ( 7735): [+] The old openfile fd 51
+D/dalvikvm( 7735): GC_EXTERNAL_ALLOC freed 295K, 46% free 4142K/7623K, external 4646K/5803K, paused 57ms
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/ab189525c7e6b00c55c498d80f7d9fbf.png
+D/inject  ( 7735): [+] The New open count 160
+D/inject  ( 7735): [+] The old openfile fd 51
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/ab189525c7e6b00c55c498d80f7d9fbf.png
+D/inject  ( 7735): [+] The New open count 161
+D/inject  ( 7735): [+] The old openfile fd 51
+D/dalvikvm( 7735): GC_EXTERNAL_ALLOC freed 120K, 47% free 4111K/7623K, external 5927K/5927K, paused 54ms
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/10ca354419e828a281119d7494f3c81f.png
+D/inject  ( 7735): [+] The New open count 162
+D/inject  ( 7735): [+] The old openfile fd 51
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/10ca354419e828a281119d7494f3c81f.png
+D/inject  ( 7735): [+] The New open count 163
+D/inject  ( 7735): [+] The old openfile fd 51
+D/dalvikvm( 7735): GC_EXTERNAL_ALLOC freed 74K, 46% free 4121K/7623K, external 6232K/6232K, paused 53ms
+W/IInputConnectionWrapper( 3990): showStatusIcon on inactive InputConnection
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/cloudsetting
+D/inject  ( 7735): [+] The New open count 164
+D/inject  ( 7735): [+] The old openfile fd 51
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/cloudsetting
+D/inject  ( 7735): [+] The New open count 165
+D/inject  ( 7735): [+] The old openfile fd 51
+I/System.out( 7735): flushRecord:12525019-b757-4845-ad1d-0a537e78bd9c
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/Android/data/cn.wps.moffice_eng/cache/KingsoftOffice/file/.timeBox/HistoryRecord/records/12525019-b757-4845-ad1d-0a537e78bd9c
+D/inject  ( 7735): [+] The New open count 166
+D/inject  ( 7735): [+] The old openfile fd 51
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/Android/data/cn.wps.moffice_eng/cache/KingsoftOffice/file/.timeBox/HistoryRecord/persistence/records_upload_list
+D/inject  ( 7735): [+] The New open count 167
+D/inject  ( 7735): [+] The old openfile fd 51
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/Android/data/cn.wps.moffice_eng/cache/KingsoftOffice/file/.timeBox/HistoryRecord/persistence/records_upload_list
+D/inject  ( 7735): [+] The New open count 168
+D/inject  ( 7735): [+] The old openfile fd 51
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/cloudsetting
+D/inject  ( 7735): [+] The New open count 169
+D/inject  ( 7735): [+] The old openfile fd 51
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/cloudsetting
+D/inject  ( 7735): [+] The New open count 170
+D/inject  ( 7735): [+] The old openfile fd 51
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/255b33a7e966eec4c33af01fa9395c5f.png
+D/inject  ( 7735): [+] The New open count 171
+D/inject  ( 7735): [+] The old openfile fd 51
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/255b33a7e966eec4c33af01fa9395c5f.png
+D/inject  ( 7735): [+] The New open count 172
+D/inject  ( 7735): [+] The old openfile fd 51
+D/dalvikvm( 7735): GC_EXTERNAL_ALLOC freed 275K, 46% free 4172K/7623K, external 5305K/6565K, paused 88ms
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/2cf17f35fc9362e4f5a745323b2f8903.png
+D/inject  ( 7735): [+] The New open count 173
+D/inject  ( 7735): [+] The old openfile fd 51
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/2cf17f35fc9362e4f5a745323b2f8903.png
+D/inject  ( 7735): [+] The New open count 174
+D/inject  ( 7735): [+] The old openfile fd 51
+D/dalvikvm( 7735): GC_EXTERNAL_ALLOC freed 117K, 46% free 4145K/7623K, external 6465K/6997K, paused 53ms
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  ( 7735): [+] The New open count 175
+D/inject  ( 7735): [+] The old openfile fd 51
+D/dalvikvm( 7735): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  ( 7735): [+] The New open count 176
+D/inject  ( 7735): [+] The old openfile fd 51
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  ( 7735): [+] The New open count 177
+D/inject  ( 7735): [+] The old openfile fd 51
+D/dalvikvm( 7735): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  ( 7735): [+] The New open count 178
+D/inject  ( 7735): [+] The old openfile fd 51
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  ( 7735): [+] The New open count 179
+D/inject  ( 7735): [+] The old openfile fd 51
+D/dalvikvm( 7735): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.startactivity.writer.StartWriterActivity1 (has extras) } from pid 7735
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.writer.Writer1 (has extras) } from pid 3990
+D/dalvikvm( 3990): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 3990): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/water   ( 3990): packageName: cn.wps.moffice_eng
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/HistoryRecordDataSource
+D/inject  ( 7735): [+] The New open count 180
+D/inject  ( 7735): [+] The old openfile fd 51
+D/dalvikvm( 3990): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/documents/test.txt
+D/inject  ( 7735): [+] The New open count 181
+D/inject  ( 7735): [+] test copy file
+D/inject  ( 7735): [+] test read file
+D/inject  ( 7735): [+] test write file
+D/inject  ( 7735): [+] The New open file fd 58
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/.connectionPersistence
+D/inject  ( 7735): [+] The New open count 182
+D/inject  ( 7735): [+] The old openfile fd 58
+D/dalvikvm( 3990): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 3990): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 3990): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/dalvikvm-heap( 3990): Clamp target GC heap from 32.369MB to 32.000MB
+D/dalvikvm( 3990): GC_CONCURRENT freed 1068K, 37% free 6376K/10055K, external 22116K/23395K, paused 4ms+7ms
+D/dalvikvm( 3990): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/lable.db
+D/inject  ( 7735): [+] The New open count 183
+D/inject  ( 7735): [+] The old openfile fd 58
+D/dalvikvm( 3990): GC_EXTERNAL_ALLOC freed 365K, 38% free 6318K/10055K, external 21924K/22697K, paused 141ms
+E/dalvikvm-heap( 3990): 1311360-byte external allocation too large for this process.
+I/dalvikvm-heap( 3990): Clamp target GC heap from 32.112MB to 32.000MB
+E/GraphicsJNI( 3990): VM won't let us allocate 1311360 bytes
+D/dalvikvm( 3990): GC_FOR_MALLOC freed 12K, 38% free 6305K/10055K, external 21924K/22697K, paused 91ms
+D/dalvikvm( 3990): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+E/LayoutRender( 3990): OutOfMemoryError
+E/LayoutRender( 3990): java.lang.OutOfMemoryError: bitmap size exceeds VM budget
+E/LayoutRender( 3990): 	at android.graphics.Bitmap.nativeCreate(Native Method)
+E/LayoutRender( 3990): 	at android.graphics.Bitmap.createBitmap(Bitmap.java:477)
+E/LayoutRender( 3990): 	at exc.f(Unknown Source)
+E/LayoutRender( 3990): 	at exc.a(Unknown Source)
+E/LayoutRender( 3990): 	at ezp.a(Unknown Source)
+E/LayoutRender( 3990): 	at cn.wps.moffice.writer.view.editor.g.dz(Unknown Source)
+E/LayoutRender( 3990): 	at ewm.a(Unknown Source)
+E/LayoutRender( 3990): 	at ewm.b(Unknown Source)
+E/LayoutRender( 3990): 	at ewm$1.run(Unknown Source)
+E/LayoutRender( 3990): 	at axr$a.run(Unknown Source)
+E/LayoutRender( 3990): 	at android.os.Handler.handleCallback(Handler.java:587)
+E/LayoutRender( 3990): 	at android.os.Handler.dispatchMessage(Handler.java:92)
+E/LayoutRender( 3990): 	at android.os.Looper.loop(Looper.java:123)
+E/LayoutRender( 3990): 	at axr.run(Unknown Source)
+E/LayoutRender( 3990): 	at java.lang.Thread.run(Thread.java:1019)
+D/dalvikvm( 3990): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 3990): GC_EXTERNAL_ALLOC freed 99K, 38% free 6311K/10055K, external 21924K/22697K, paused 154ms
+I/dalvikvm-heap( 3990): Clamp target GC heap from 32.124MB to 32.000MB
+D/dalvikvm( 3990): GC_FOR_MALLOC freed 2K, 38% free 6308K/10055K, external 21933K/22697K, paused 125ms
+D/dalvikvm( 3990): GC_EXTERNAL_ALLOC freed 1K, 38% free 6308K/10055K, external 21933K/22697K, paused 123ms
+I/dalvikvm-heap( 3990): Clamp target GC heap from 32.142MB to 32.000MB
+D/dalvikvm( 3990): GC_FOR_MALLOC freed <1K, 38% free 6307K/10055K, external 21953K/22697K, paused 59ms
+D/dalvikvm( 3990): GC_EXTERNAL_ALLOC freed 107K, 38% free 6323K/10055K, external 21944K/22697K, paused 109ms
+E/dalvikvm-heap( 3990): 1433760-byte external allocation too large for this process.
+I/dalvikvm-heap( 3990): Clamp target GC heap from 32.148MB to 32.000MB
+E/GraphicsJNI( 3990): VM won't let us allocate 1433760 bytes
+D/dalvikvm( 3990): GC_FOR_MALLOC freed <1K, 38% free 6322K/10055K, external 21944K/22697K, paused 71ms
+D/dalvikvm( 3990): GC_EXTERNAL_ALLOC freed 5K, 38% free 6325K/10055K, external 21939K/22697K, paused 80ms
+I/dalvikvm-heap( 3990): Clamp target GC heap from 32.154MB to 32.000MB
+D/dalvikvm( 3990): GC_FOR_MALLOC freed <1K, 38% free 6324K/10055K, external 21948K/22697K, paused 84ms
+D/dalvikvm( 3990): GC_EXTERNAL_ALLOC freed 0K, 38% free 6324K/10055K, external 21948K/22697K, paused 99ms
+I/dalvikvm-heap( 3990): Clamp target GC heap from 32.174MB to 32.000MB
+D/dalvikvm( 3990): GC_FOR_MALLOC freed 0K, 38% free 6324K/10055K, external 21968K/22697K, paused 61ms
+D/dalvikvm( 3990): GC_EXTERNAL_ALLOC freed 1K, 38% free 6325K/10055K, external 21959K/22697K, paused 87ms
+I/dalvikvm-heap( 3990): Clamp target GC heap from 32.169MB to 32.000MB
+D/dalvikvm( 3990): GC_FOR_MALLOC freed <1K, 38% free 6325K/10055K, external 21963K/22697K, paused 62ms
+D/dalvikvm( 3990): GC_EXTERNAL_ALLOC freed <1K, 38% free 6325K/10055K, external 21963K/22697K, paused 80ms
+I/dalvikvm-heap( 3990): Clamp target GC heap from 32.177MB to 32.000MB
+D/dalvikvm( 3990): GC_FOR_MALLOC freed 0K, 38% free 6325K/10055K, external 21971K/22697K, paused 57ms
+D/dalvikvm( 3990): GC_EXTERNAL_ALLOC freed 1K, 38% free 6326K/10055K, external 21967K/22697K, paused 79ms
+I/dalvikvm-heap( 3990): Clamp target GC heap from 32.177MB to 32.000MB
+D/dalvikvm( 3990): GC_FOR_MALLOC freed 0K, 38% free 6326K/10055K, external 21971K/22697K, paused 73ms
+D/dalvikvm( 3990): GC_EXTERNAL_ALLOC freed 0K, 38% free 6326K/10055K, external 21971K/22697K, paused 129ms
+I/dalvikvm-heap( 3990): Clamp target GC heap from 32.185MB to 32.000MB
+D/dalvikvm( 3990): GC_FOR_MALLOC freed <1K, 38% free 6326K/10055K, external 21979K/22697K, paused 97ms
+D/dalvikvm( 3990): GC_EXTERNAL_ALLOC freed 2K, 38% free 6327K/10055K, external 21975K/22697K, paused 120ms
+I/dalvikvm-heap( 3990): Clamp target GC heap from 32.186MB to 32.000MB
+D/dalvikvm( 3990): GC_FOR_MALLOC freed <1K, 38% free 6326K/10055K, external 21979K/22697K, paused 109ms
+D/dalvikvm( 3990): GC_EXTERNAL_ALLOC freed 0K, 38% free 6327K/10055K, external 21979K/22697K, paused 119ms
+I/dalvikvm-heap( 3990): Clamp target GC heap from 32.194MB to 32.000MB
+D/dalvikvm( 3990): GC_FOR_MALLOC freed 0K, 38% free 6327K/10055K, external 21986K/22697K, paused 83ms
+D/dalvikvm( 3990): GC_EXTERNAL_ALLOC freed 1K, 38% free 6327K/10055K, external 21983K/22697K, paused 82ms
+I/dalvikvm-heap( 3990): Clamp target GC heap from 32.246MB to 32.000MB
+D/dalvikvm( 3990): GC_FOR_MALLOC freed <1K, 38% free 6327K/10055K, external 22039K/22697K, paused 57ms
+D/dalvikvm( 3990): GC_EXTERNAL_ALLOC freed <1K, 38% free 6327K/10055K, external 22039K/22697K, paused 79ms
+I/dalvikvm-heap( 3990): Clamp target GC heap from 32.370MB to 32.000MB
+D/dalvikvm( 3990): GC_FOR_MALLOC freed 0K, 38% free 6327K/10055K, external 22166K/22697K, paused 61ms
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/lable.db
+D/inject  ( 7735): [+] The New open count 184
+D/inject  ( 7735): [+] The old openfile fd 52
+I/ActivityManager(   61): Displayed cn.wps.moffice_eng/cn.wps.moffice.writer.Writer1: +8s424ms (total +8s460ms)
+W/InputManagerService(   61): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@4071ff10 (uid=10037 pid=7735)
+D/dalvikvm( 3990): GC_EXTERNAL_ALLOC freed 207K, 37% free 6337K/10055K, external 22116K/22697K, paused 86ms
+E/dalvikvm-heap( 3990): 1433760-byte external allocation too large for this process.
+I/dalvikvm-heap( 3990): Clamp target GC heap from 32.330MB to 32.000MB
+E/GraphicsJNI( 3990): VM won't let us allocate 1433760 bytes
+D/dalvikvm( 3990): GC_FOR_MALLOC freed <1K, 37% free 6336K/10055K, external 22116K/22697K, paused 81ms
+W/ActivityManager(   61): Launch timeout has expired, giving up wake lock!
+W/ActivityManager(   61): Activity idle timeout for HistoryRecord{4076f720 cn.wps.moffice_eng/cn.wps.moffice.startactivity.writer.StartWriterActivity1}
+W/ActivityManager(   61): Activity idle timeout for HistoryRecord{4077aa78 cn.wps.moffice_eng/cn.wps.moffice.writer.Writer1}
+W/KeyCharacterMap( 3990): No keyboard for id 0
+W/KeyCharacterMap( 3990): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+D/dalvikvm( 3990): GC_EXTERNAL_ALLOC freed 46K, 37% free 6336K/10055K, external 20836K/22697K, paused 84ms
+I/dalvikvm-heap( 3990): Clamp target GC heap from 32.323MB to 32.000MB
+D/dalvikvm( 3990): GC_FOR_MALLOC freed 6K, 38% free 6329K/10055K, external 22116K/22697K, paused 58ms
+D/dalvikvm( 3990): GC_EXTERNAL_ALLOC freed 184K, 37% free 6368K/10055K, external 22116K/22697K, paused 81ms
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  ( 7735): [+] The New open count 185
+D/inject  ( 7735): [+] The old openfile fd 52
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  ( 7735): [+] The New open count 186
+D/inject  ( 7735): [+] The old openfile fd 52
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/255b33a7e966eec4c33af01fa9395c5f.png
+D/inject  ( 7735): [+] The New open count 187
+D/inject  ( 7735): [+] The old openfile fd 52
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/255b33a7e966eec4c33af01fa9395c5f.png
+D/inject  ( 7735): [+] The New open count 188
+D/inject  ( 7735): [+] The old openfile fd 52
+D/dalvikvm( 7735): GC_EXTERNAL_ALLOC freed 400K, 45% free 4194K/7623K, external 4996K/6239K, paused 118ms
+E/dalvikvm-heap( 3990): 1311360-byte external allocation too large for this process.
+I/dalvikvm-heap( 3990): Clamp target GC heap from 32.355MB to 32.000MB
+E/GraphicsJNI( 3990): VM won't let us allocate 1311360 bytes
+D/dalvikvm( 3990): GC_FOR_MALLOC freed 6K, 37% free 6361K/10055K, external 22116K/22697K, paused 96ms
+D/skia    ( 3990): --- decoder->decode returned false
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/2cf17f35fc9362e4f5a745323b2f8903.png
+D/inject  ( 7735): [+] The New open count 189
+D/inject  ( 7735): [+] The old openfile fd 52
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/2cf17f35fc9362e4f5a745323b2f8903.png
+D/inject  ( 7735): [+] The New open count 190
+D/inject  ( 7735): [+] The old openfile fd 52
+I/dalvikvm-heap( 3990): Clamp target GC heap from 32.324MB to 32.000MB
+D/dalvikvm( 3990): GC_EXPLICIT freed 32K, 38% free 6330K/10055K, external 22116K/22697K, paused 144ms
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager } from pid 3990
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/lable.db
+D/inject  ( 7735): [+] The New open count 191
+D/inject  ( 7735): [+] The old openfile fd 56
+D/dalvikvm( 7735): GC_EXTERNAL_ALLOC freed 149K, 46% free 4158K/7623K, external 5550K/5968K, paused 55ms
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/ab189525c7e6b00c55c498d80f7d9fbf.png
+D/inject  ( 7735): [+] The New open count 192
+D/inject  ( 7735): [+] The old openfile fd 52
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/ab189525c7e6b00c55c498d80f7d9fbf.png
+D/inject  ( 7735): [+] The New open count 193
+D/inject  ( 7735): [+] The old openfile fd 52
+I/InputDispatcher(   61): Dropped event because of pending overdue app switch.
+I/InputDispatcher(   61): Dropped event because of pending overdue app switch.
+I/InputDispatcher(   61): Dropped event because of pending overdue app switch.
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher/com.android.launcher2.Launcher } from pid 61
+D/dalvikvm( 7735): GC_EXTERNAL_ALLOC freed 74K, 46% free 4170K/7623K, external 6582K/6620K, paused 126ms
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  ( 7735): [+] The New open count 194
+D/inject  ( 7735): [+] The old openfile fd 52
+D/dalvikvm( 7735): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  ( 7735): [+] The New open count 195
+D/inject  ( 7735): [+] The old openfile fd 52
+D/dalvikvm( 7735): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  ( 7735): [+] The New open count 196
+D/inject  ( 7735): [+] The old openfile fd 52
+D/dalvikvm( 7735): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  ( 7735): [+] The New open count 197
+D/inject  ( 7735): [+] The old openfile fd 52
+D/dalvikvm( 7735): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  ( 7735): [+] The New open count 198
+D/inject  ( 7735): [+] The old openfile fd 52
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  ( 7735): [+] The New open count 199
+D/inject  ( 7735): [+] The old openfile fd 52
+D/dalvikvm( 7735): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  ( 7735): [+] The New open count 200
+D/inject  ( 7735): [+] The old openfile fd 52
+D/dalvikvm( 7735): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  ( 7735): [+] The New open count 201
+D/inject  ( 7735): [+] The old openfile fd 52
+D/dalvikvm( 7735): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  ( 7735): [+] The New open count 202
+D/inject  ( 7735): [+] The old openfile fd 52
+E/dalvikvm(   61): No free temp registers
+E/dalvikvm(   61): Jit: aborting trace compilation, reverting to interpreter
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  ( 7735): [+] The New open count 203
+D/inject  ( 7735): [+] The old openfile fd 52
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  ( 7735): [+] The New open count 204
+D/inject  ( 7735): [+] The old openfile fd 52
+W/IInputConnectionWrapper( 3990): showStatusIcon on inactive InputConnection
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  ( 7735): [+] The New open count 205
+D/inject  ( 7735): [+] The old openfile fd 52
+D/dalvikvm( 7735): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  ( 7735): [+] The New open count 206
+D/inject  ( 7735): [+] The old openfile fd 52
+D/dalvikvm( 7735): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  ( 7735): [+] The New open count 207
+I/Process ( 3990): Sending signal. PID: 3990 SIG: 9
+D/inject  ( 7735): [+] The old openfile fd 52
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/255b33a7e966eec4c33af01fa9395c5f.png
+D/inject  ( 7735): [+] The New open count 208
+D/inject  ( 7735): [+] The old openfile fd 52
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/255b33a7e966eec4c33af01fa9395c5f.png
+D/inject  ( 7735): [+] The New open count 209
+D/inject  ( 7735): [+] The old openfile fd 52
+I/ActivityManager(   61): Process cn.wps.moffice_eng:writer1 (pid 3990) has died.
+I/WindowManager(   61): WIN DEATH: Window{4085f138 SurfaceView paused=false}
+I/WindowManager(   61): WIN DEATH: Window{407b29a0 cn.wps.moffice_eng/cn.wps.moffice.writer.Writer1 paused=false}
+D/dalvikvm( 7735): GC_EXTERNAL_ALLOC freed 301K, 45% free 4210K/7623K, external 4687K/5853K, paused 167ms
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/2cf17f35fc9362e4f5a745323b2f8903.png
+D/inject  ( 7735): [+] The New open count 210
+D/inject  ( 7735): [+] The old openfile fd 52
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/2cf17f35fc9362e4f5a745323b2f8903.png
+D/inject  ( 7735): [+] The New open count 211
+D/inject  ( 7735): [+] The old openfile fd 52
+D/dalvikvm( 7735): GC_EXTERNAL_ALLOC freed 120K, 46% free 4178K/7623K, external 5550K/5968K, paused 53ms
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/ab189525c7e6b00c55c498d80f7d9fbf.png
+D/inject  ( 7735): [+] The New open count 212
+D/inject  ( 7735): [+] The old openfile fd 52
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/.nomedia/ab189525c7e6b00c55c498d80f7d9fbf.png
+D/inject  ( 7735): [+] The New open count 213
+D/inject  ( 7735): [+] The old openfile fd 52
+D/dalvikvm( 7735): GC_EXTERNAL_ALLOC freed 74K, 46% free 4189K/7623K, external 6582K/6620K, paused 65ms
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/cloudsetting
+D/inject  ( 7735): [+] The New open count 214
+D/inject  ( 7735): [+] The old openfile fd 52
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/cloudsetting
+D/inject  ( 7735): [+] The New open count 215
+D/inject  ( 7735): [+] The old openfile fd 52
+I/System.out( 7735): flushRecord:f88f681f-f3cd-41aa-ae9b-7557bba0320e
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/Android/data/cn.wps.moffice_eng/cache/KingsoftOffice/file/.timeBox/HistoryRecord/records/f88f681f-f3cd-41aa-ae9b-7557bba0320e
+D/inject  ( 7735): [+] The New open count 216
+D/inject  ( 7735): [+] The old openfile fd 52
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/Android/data/cn.wps.moffice_eng/cache/KingsoftOffice/file/.timeBox/HistoryRecord/persistence/records_upload_list
+D/inject  ( 7735): [+] The New open count 217
+D/inject  ( 7735): [+] The old openfile fd 52
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /mnt/sdcard/Android/data/cn.wps.moffice_eng/cache/KingsoftOffice/file/.timeBox/HistoryRecord/persistence/records_upload_list
+D/inject  ( 7735): [+] The New open count 218
+D/inject  ( 7735): [+] The old openfile fd 52
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/cloudsetting
+D/inject  ( 7735): [+] The New open count 219
+D/inject  ( 7735): [+] The old openfile fd 52
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/cloudsetting
+D/inject  ( 7735): [+] The New open count 220
+D/inject  ( 7735): [+] The old openfile fd 52
+D/dalvikvm( 7735): GC_EXPLICIT freed 207K, 45% free 4200K/7623K, external 5606K/7001K, paused 54ms
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.deskclock/.DeskClock } from pid 142
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.deskclock/.DeskClock } from pid 142
+W/DeskClock(  203): Can't find com.google.android.apps.genie.geniewidget. Weather forecast will not be available.
+I/ActivityManager(   61): Displayed com.android.deskclock/.DeskClock: +958ms
+W/ActivityManager(   61): Activity destroy timeout for HistoryRecord{4077aa78 cn.wps.moffice_eng/cn.wps.moffice.writer.Writer1}
+W/KeyCharacterMap(  203): No keyboard for id 0
+W/KeyCharacterMap(  203): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+D/dalvikvm(  125): GC_CONCURRENT freed 278K, 52% free 2820K/5767K, external 2165K/2674K, paused 6ms+6ms
+D/dalvikvm(  203): GC_EXPLICIT freed 264K, 53% free 2670K/5639K, external 2086K/2137K, paused 61ms
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  ( 7735): [+] The New open count 221
+D/inject  ( 7735): [+] The old openfile fd 52
+D/inject  ( 7735): [+]-----------open test txt file-----------
+D/inject  ( 7735): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  ( 7735): [+] The New open count 222
+D/inject  ( 7735): [+] The old openfile fd 52
+D/inject  ( 9462): [+] The pid of cn.wps.moffice_eng: 7735
+D/inject  ( 9462): [+] Injecting process: 7735
+D/inject  ( 9462): [+] get_remote_addr: local[afd00000], remote[afd00000]
+D/inject  ( 9462): [+] Remote mmap address: afd170cd
+D/inject  ( 9462): [+] Calling mmap in target process.
+D/inject  ( 9462): [+] Target process returned from mmap, return value=454ca000, pc=0 
+D/inject  ( 9462): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  ( 9462): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  ( 9462): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  ( 9462): [+] Get imports: dlopen: b00059bd, dlsym: b0005915, dlclose: b0005849
+D/inject  ( 9462): [+] Inject code start: c008, end: c084
+D/inject  ( 9462): [+] _dlopen_param1_s: 454cdc9c
+D/inject  ( 9462): [+] _dlsym_param2_s: 454cdd9c
+D/inject  ( 9462): [+] _saved_r0_pc_s: 454cde9c
+D/inject  ( 9462): [+] _inject_function_param_s: 454cdf9c
+D/inject  ( 9462): [+] Remote shellcode address: 454cdc00
+D/inject  ( 9462): [+] Process Detach: 10
+D/inject  ( 7735): hello ARM! I'm parameter1324! pid:7735
+D/inject  ( 7735): The Handle of libhook_open: b000d2b0
+D/inject  ( 7735): find it pre 0
+D/inject  ( 7735): find it 806012a8
+D/inject  ( 7735): [+] aaaaaaa do_hook function is invoked 
+D/inject  ( 7735): [+] open addr: 0xafd17111. New addr 0x806011b0
+D/inject  ( 7735): [+] just for test info 
+D/inject  ( 7735): [+] set ok 
+D/inject  ( 7735): [+] Get the persist.sys.test  bbbbbbbb
+D/inject  ( 7735): [+] just for test print old_open address 0xafd17111
+D/inject  ( 7735): [+] just for test print new_open address 0x806011b0
+D/inject  ( 7735): [+] Get old address global  afd17111
+D/inject  ( 7735): [+] Get new address global  806011b0
+D/inject  ( 7735): [+] binder path ad100000
+D/inject  ( 7735): [+] Section header table file offset 2e23c
+D/inject  ( 7735): [+] Section header table entry count 15
+D/inject  ( 7735): [+] Section header table entry size 28
+D/inject  ( 7735): [+] Section header string table index 14
+D/inject  ( 7735): [+] Object file type 3
+D/inject  ( 7735): [+] Object file version 1
+D/inject  ( 7735): [+] Out_addr in GOT table before 0
+D/inject  ( 7735): [+] Out_size of func in GOT table before 0
+D/inject  ( 7735): [+] Out_addr in GOT table ad12c138
+D/inject  ( 7735): [+] Out_size of func in GOT table 8c4
+D/inject  ( 7735): [+] Out_addr in GOT table ad12c138
+D/inject  ( 7735): [+] Out_size of func in GOT table 8c4
+D/inject  ( 7735): [+] Out_addr in GOT afd4d5c8
+D/inject  ( 7735): [+] old open address 20000 afd17111
+D/inject  ( 7735): [+] Out_addr in GOT 464c457f
+D/inject  ( 7735): [+] target pid 1e37
+D/inject  ( 7735): [+] old open address 22223 afd17111
+D/inject  ( 7735): [+] Find got_item ff 
+D/inject  ( 7735): [+] old open address 3333 afd17111
+D/inject  ( 7735): [+] old open address 3333 afffffff
+D/inject  ( 7735): [+] new open address 3333 806011b0
+D/inject  ( 7735): [+] new open address 3333 806011b0
+D/inject  ( 7735): [+] Find got item afd4d5c8 
+D/inject  ( 7735): [+] Find got item ad12e2a4 
+D/inject  ( 7735): [+] Find got item ad12e28c 
+D/inject  ( 7735): [+] Find got item ad12e268 
+D/inject  ( 7735): [+] Find got item ad12e258 
+D/inject  ( 7735): [+] Find got item afd4631c 
+D/inject  ( 7735): [+] Find got item ad12e298 
+D/inject  ( 7735): [+] Find got item ad12e250 
+D/inject  ( 7735): [+] Find got item ad12e280 
+D/inject  ( 7735): [+] Find got item ad12e294 
+D/inject  ( 7735): [+] Find got item ad12e260 
+D/inject  ( 7735): [+] Find got item ad12e278 
+D/inject  ( 7735): [+] Find got item afd415c0 
+D/inject  ( 7735): [+] Find got item ad12e2a8 
+D/inject  ( 7735): [+] Find got item ad12e274 
+D/inject  ( 7735): [+] Find got item ad12e27c 
+D/inject  ( 7735): [+] Find got item ad12e248 
+D/inject  ( 7735): [+] Find got item ad12e2a0 
+D/inject  ( 7735): [+] Find got item ad12e25c 
+D/inject  ( 7735): [+] Find got item ad12e270 
+D/inject  ( 7735): [+] Find got item ad12e288 
+D/inject  ( 7735): [+] Find got item ad12e264 
+D/inject  ( 7735): [+] Find got item ad12e284 
+D/inject  ( 7735): [+] Find got item ad9bc7f1 
+D/inject  ( 7735): [+] Find got item ad9bc7f9 
+D/inject  ( 7735): [+] Find got item ade45f55 
+D/inject  ( 7735): [+] Find got item ade45f69 
+D/inject  ( 7735): [+] Find got item ad9bb339 
+D/inject  ( 7735): [+] Find got item ad9bb341 
+D/inject  ( 7735): [+] Find got item ad9b481d 
+D/inject  ( 7735): [+] Find got item ad9b4831 
+D/inject  ( 7735): [+] Find got item ad9a5561 
+D/inject  ( 7735): [+] Find got item ad9a5569 
+D/inject  ( 7735): [+] Find got item ade31305 
+D/inject  ( 7735): [+] Find got item ade3130d 
+D/inject  ( 7735): [+] Find got item ad12e240 
+D/inject  ( 7735): [+] Find got item ad12e244 
+D/inject  ( 7735): [+] Find got item ad12e24c 
+D/inject  ( 7735): [+] Find got item ad12e254 
+D/inject  ( 7735): [+] Find got item ad12e26c 
+D/inject  ( 7735): [+] Find got item ad12e290 
+D/inject  ( 7735): [+] Find got item ad12e29c 
+D/inject  ( 7735): [+] Find got item ade5f751 
+D/inject  ( 7735): [+] Find got item ade5f749 
+D/inject  ( 7735): [+] Find got item ade5f74d 
+D/inject  ( 7735): [+] Find got item adec6b68 
+D/inject  ( 7735): [+] Find got item ad12ca00 
+D/inject  ( 7735): [+] Find got item afd42610 
+D/inject  ( 7735): [+] Find got item 0 
+D/inject  ( 7735): [+] Find got item 0 
+D/inject  ( 7735): [+] Find got item 0 
+D/inject  ( 7735): [+] Find got item afd2092d 
+D/inject  ( 7735): [+] Find got item afd19c3d 
+D/inject  ( 7735): [+] Find got item afd20a45 
+D/inject  ( 7735): [+] Find got item af9038e5 
+D/inject  ( 7735): [+] Find got item afd28321 
+D/inject  ( 7735): [+] Find got item af9037b1 
+D/inject  ( 7735): [+] Find got item afd1c87d 
+D/inject  ( 7735): [+] Find got item ade3a295 
+D/inject  ( 7735): [+] Find got item ade394bd 
+D/inject  ( 7735): [+] Find got item ade39c31 
+D/inject  ( 7735): [+] Find got item ad9a4ef5 
+D/inject  ( 7735): [+] Find got item ad96a6b1 
+D/inject  ( 7735): [+] Find got item ade39141 
+D/inject  ( 7735): [+] Find got item ad99e381 
+D/inject  ( 7735): [+] Find got item ad96a3f1 
+D/inject  ( 7735): [+] Find got item ad99d059 
+D/inject  ( 7735): [+] Find got item ade256f1 
+D/inject  ( 7735): [+] Find got item ad9a3e51 
+D/inject  ( 7735): [+] Find got item ad9a3839 
+D/inject  ( 7735): [+] Find got item afd25c95 
+D/inject  ( 7735): [+] Find got item afd11fbd 
+D/inject  ( 7735): [+] Find got item afd17049 
+D/inject  ( 7735): [+] Find got item afd0bba0 
+D/inject  ( 7735): [+] Find got item afd0bad0 
+D/inject  ( 7735): [+] Find got item afd0e3e0 
+D/inject  ( 7735): [+] Find got item afd0e3f4 
+D/inject  ( 7735): [+] Find got item afd29855 
+D/inject  ( 7735): [+] Find got item afd0bc40 
+D/inject  ( 7735): [+] Find got item afc009e1 
+D/inject  ( 7735): [+] Find got item afd0bc00 
+D/inject  ( 7735): [+] Find got item afc009c1 
+D/inject  ( 7735): [+] Find got item afd0bbe0 
+D/inject  ( 7735): [+] Find got item afd14de4 
+D/inject  ( 7735): [+] Find got item afd20859 
+D/inject  ( 7735): [+] Find got item afc009e9 
+D/inject  ( 7735): [+] Find got item afd172fd 
+D/inject  ( 7735): [+] Find got item afd3742d 
+D/inject  ( 7735): [+] Find got item afd17249 
+D/inject  ( 7735): [+] Find got item afd171a1 
+D/inject  ( 7735): [+] Find got item afc009c9 
+D/inject  ( 7735): [+] Find got item afd17ac5 
+D/inject  ( 7735): [+] Find got item afd0bc80 
+D/inject  ( 7735): [+] Find got item afd19a49 
+D/inject  ( 7735): [+] Find got item 806011b0 
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity } from pid 142
+I/InputDispatcher(   61): Application is not responding: AppWindowToken{40770428 token=HistoryRecord{408524d0 cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity}}.  5043.4ms since event, 5043.1ms since wait started
+I/WindowManager(   61): Input event dispatching timed out sending to application AppWindowToken{40770428 token=HistoryRecord{408524d0 cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity}}
+I/Process (   61): Sending signal. PID: 7735 SIG: 3
+I/dalvikvm( 7735): threadid=4: reacting to signal 3
+I/dalvikvm( 7735): Wrote stack traces to '/data/anr/traces.txt'
+I/Process (   61): Sending signal. PID: 61 SIG: 3
+I/dalvikvm(   61): threadid=4: reacting to signal 3
+I/dalvikvm(   61): Wrote stack traces to '/data/anr/traces.txt'
+I/Process (   61): Sending signal. PID: 124 SIG: 3
+I/dalvikvm(  124): threadid=4: reacting to signal 3
+I/dalvikvm(  124): Wrote stack traces to '/data/anr/traces.txt'
+I/Process (   61): Sending signal. PID: 125 SIG: 3
+I/dalvikvm(  125): threadid=4: reacting to signal 3
+I/dalvikvm(  125): Wrote stack traces to '/data/anr/traces.txt'
+D/dalvikvm(   61): GC_CONCURRENT freed 1357K, 48% free 4775K/9031K, external 3520K/3903K, paused 4ms+8ms
+D/dalvikvm(   61): GC_EXPLICIT freed 43K, 48% free 4749K/9031K, external 3520K/3903K, paused 73ms
+E/ActivityManager(   61): ANR in cn.wps.moffice_eng (cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity)
+E/ActivityManager(   61): Reason: keyDispatchingTimedOut
+E/ActivityManager(   61): Load: 0.18 / 0.72 / 0.83
+E/ActivityManager(   61): CPU usage from 65182ms to 3151ms ago:
+E/ActivityManager(   61):   1.2% 41/adbd: 0.1% user + 1.1% kernel / faults: 1725 minor
+E/ActivityManager(   61):   0.6% 7735/cn.wps.moffice_eng: 0.5% user + 0% kernel / faults: 85 minor
+E/ActivityManager(   61):   0.5% 61/system_server: 0.3% user + 0.2% kernel / faults: 372 minor
+E/ActivityManager(   61):   0.3% 125/com.android.systemui: 0.2% user + 0.1% kernel / faults: 1 minor
+E/ActivityManager(   61):   0.3% 142/com.android.launcher: 0.3% user + 0% kernel / faults: 390 minor
+E/ActivityManager(   61):   0.2% 203/com.android.deskclock: 0.1% user + 0% kernel / faults: 34 minor
+E/ActivityManager(   61):   0% 124/com.android.phone: 0% user + 0% kernel / faults: 2 minor
+E/ActivityManager(   61):   0% 256/com.wandoujia.phoenix2: 0% user + 0% kernel / faults: 26 minor
+E/ActivityManager(   61):   0% 1//init: 0% user + 0% kernel / faults: 1 minor
+E/ActivityManager(   61):   0% 4/events/0: 0% user + 0% kernel
+E/ActivityManager(   61):  +0% 9422/sh: 0% user + 0% kernel
+E/ActivityManager(   61):  +0% 9423/logcat: 0% user + 0% kernel
+E/ActivityManager(   61): 18% TOTAL: 5.8% user + 12% kernel + 0% irq + 0.1% softirq
+E/ActivityManager(   61): CPU usage from 554ms to 1147ms later:
+E/ActivityManager(   61):   8.3% 61/system_server: 6.6% user + 1.6% kernel / faults: 4 minor
+E/ActivityManager(   61):     8.3% 98/InputDispatcher: 5% user + 3.3% kernel
+E/ActivityManager(   61):     3.3% 62/HeapWorker: 3.3% user + 0% kernel
+E/ActivityManager(   61): 17% TOTAL: 13% user + 4.3% kernel
+I/InputDispatcher(   61): Dropping event because the pointer is not down.
+W/ActivityManager(   61): Launch timeout has expired, giving up wake lock!
+W/ActivityManager(   61): Activity idle timeout for HistoryRecord{408524d0 cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity}
+D/dalvikvm(  142): GC_EXPLICIT freed 47K, 49% free 3010K/5895K, external 6149K/7626K, paused 90ms
+I/InputDispatcher(   61): Dropped event because of pending overdue app switch.
+I/InputDispatcher(   61): Dropped event because of pending overdue app switch.
+I/InputDispatcher(   61): Dropped event because of pending overdue app switch.
+I/InputDispatcher(   61): Dropped event because of pending overdue app switch.
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher/com.android.launcher2.Launcher } from pid 61
+W/ActivityManager(   61): Activity pause timeout for HistoryRecord{408524d0 cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity}
+W/InputManagerService(   61): Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@406d19b0
+W/KeyCharacterMap(  142): No keyboard for id 0
+W/KeyCharacterMap(  142): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+W/InputManagerService(   61): Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@4066a9a8
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity } from pid 142
+W/ActivityManager(   61): Launch timeout has expired, giving up wake lock!
+W/ActivityManager(   61): Activity idle timeout for HistoryRecord{408524d0 cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity}
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+I/InputDispatcher(   61): Application is not responding: AppWindowToken{40770428 token=HistoryRecord{408524d0 cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity}}.  5050.1ms since event, 5048.1ms since wait started
+I/WindowManager(   61): Input event dispatching timed out sending to application AppWindowToken{40770428 token=HistoryRecord{408524d0 cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity}}
+I/Process (   61): Sending signal. PID: 7735 SIG: 3
+I/dalvikvm( 7735): threadid=4: reacting to signal 3
+I/dalvikvm( 7735): Wrote stack traces to '/data/anr/traces.txt'
+I/Process (   61): Sending signal. PID: 61 SIG: 3
+I/dalvikvm(   61): threadid=4: reacting to signal 3
+I/dalvikvm(   61): Wrote stack traces to '/data/anr/traces.txt'
+I/Process (   61): Sending signal. PID: 124 SIG: 3
+I/dalvikvm(  124): threadid=4: reacting to signal 3
+I/dalvikvm(  124): Wrote stack traces to '/data/anr/traces.txt'
+I/Process (   61): Sending signal. PID: 125 SIG: 3
+I/dalvikvm(  125): threadid=4: reacting to signal 3
+I/dalvikvm(  125): Wrote stack traces to '/data/anr/traces.txt'
+D/dalvikvm(   61): GC_EXPLICIT freed 881K, 48% free 4748K/9031K, external 3520K/3903K, paused 84ms
+I/Process (   61): Sending signal. PID: 256 SIG: 3
+I/dalvikvm(  256): threadid=4: reacting to signal 3
+I/dalvikvm(  256): Wrote stack traces to '/data/anr/traces.txt'
+E/ActivityManager(   61): ANR in cn.wps.moffice_eng (cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity)
+E/ActivityManager(   61): Reason: keyDispatchingTimedOut
+E/ActivityManager(   61): Load: 0.06 / 0.59 / 0.78
+E/ActivityManager(   61): CPU usage from 28745ms to 2877ms ago:
+E/ActivityManager(   61):   1.1% 41/adbd: 0.1% user + 0.9% kernel / faults: 782 minor
+E/ActivityManager(   61):   0.5% 61/system_server: 0.4% user + 0.1% kernel / faults: 3 minor
+E/ActivityManager(   61):   0.1% 125/com.android.systemui: 0.1% user + 0% kernel
+E/ActivityManager(   61):   0% 124/com.android.phone: 0% user + 0% kernel
+E/ActivityManager(   61):   0% 256/com.wandoujia.phoenix2: 0% user + 0% kernel / faults: 4 minor
+E/ActivityManager(   61):   0% 7735/cn.wps.moffice_eng: 0% user + 0% kernel / faults: 13 minor
+E/ActivityManager(   61): 17% TOTAL: 4.2% user + 12% kernel + 0% softirq
+E/ActivityManager(   61): CPU usage from 382ms to 963ms later:
+E/ActivityManager(   61):   6.6% 61/system_server: 5% user + 1.6% kernel
+E/ActivityManager(   61):     5% 98/InputDispatcher: 1.6% user + 3.3% kernel
+E/ActivityManager(   61):     1.6% 69/SurfaceFlinger: 1.6% user + 0% kernel
+E/ActivityManager(   61):   1.3% 256/com.wandoujia.phoenix2: 1.3% user + 0% kernel
+E/ActivityManager(   61):  +0% 9730/sh: 0% user + 0% kernel
+E/ActivityManager(   61): 38% TOTAL: 38% user + 0% kernel
+D/dalvikvm(   61): GC_FOR_MALLOC freed 360K, 48% free 4735K/9031K, external 3520K/3903K, paused 60ms
+W/ActivityManager(   61):   Force finishing activity cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity
+I/ActivityManager(   61): Killing cn.wps.moffice_eng (pid=7735): user's request
+I/Process (   61): Sending signal. PID: 7735 SIG: 9
+I/ActivityManager(   61): Process cn.wps.moffice_eng (pid 7735) has died.
+E/InputDispatcher(   61): channel '406c4710 cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager (server)' ~ Consumer closed input channel or an error occurred.  events=0x8
+E/InputDispatcher(   61): channel '406c4710 cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager (server)' ~ Channel is unrecoverably broken and will be disposed!
+I/WindowManager(   61): WIN DEATH: Window{406c4710 cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager paused=false}
+I/ActivityManager(   61): Start proc cn.wps.moffice_eng for activity cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager: pid=9890 uid=10037 gids={3003, 1015}
+D/dalvikvm(   33): GC_EXPLICIT freed 12K, 53% free 2538K/5379K, external 1625K/2137K, paused 257ms
+D/dalvikvm(   33): GC_EXPLICIT freed <1K, 53% free 2538K/5379K, external 1625K/2137K, paused 91ms
+D/dalvikvm(   33): GC_EXPLICIT freed <1K, 53% free 2538K/5379K, external 1625K/2137K, paused 119ms
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 9890): GC_EXTERNAL_ALLOC freed 608K, 50% free 3320K/6535K, external 2129K/2137K, paused 56ms
+D/dalvikvm( 9890): GC_EXTERNAL_ALLOC freed 46K, 49% free 3372K/6535K, external 2611K/2673K, paused 47ms
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/dalvikvm( 9890): Failed resolving Lcn/wps/moffice/common/beans/k$1; interface 540 'Landroid/nfc/NfcAdapter$OnNdefPushCompleteCallback;'
+W/dalvikvm( 9890): Link of class 'Lcn/wps/moffice/common/beans/k$1;' failed
+E/dalvikvm( 9890): Could not find class 'cn.wps.moffice.common.beans.k$1', referenced from method cn.wps.moffice.common.beans.k.<init>
+W/dalvikvm( 9890): VFY: unable to resolve new-instance 1597 (Lcn/wps/moffice/common/beans/k$1;) in Lcn/wps/moffice/common/beans/k;
+D/dalvikvm( 9890): VFY: replacing opcode 0x22 at 0x0039
+I/dalvikvm( 9890): Failed resolving Lcn/wps/moffice/common/beans/k$3; interface 538 'Landroid/nfc/NfcAdapter$CreateBeamUrisCallback;'
+W/dalvikvm( 9890): Link of class 'Lcn/wps/moffice/common/beans/k$3;' failed
+E/dalvikvm( 9890): Could not find class 'cn.wps.moffice.common.beans.k$3', referenced from method cn.wps.moffice.common.beans.k.<init>
+W/dalvikvm( 9890): VFY: unable to resolve new-instance 1599 (Lcn/wps/moffice/common/beans/k$3;) in Lcn/wps/moffice/common/beans/k;
+D/dalvikvm( 9890): VFY: replacing opcode 0x22 at 0x0070
+D/dalvikvm( 9890): VFY: dead code 0x003b-005c in Lcn/wps/moffice/common/beans/k;.<init> (Landroid/app/Activity;)V
+D/dalvikvm( 9890): VFY: dead code 0x0072-0079 in Lcn/wps/moffice/common/beans/k;.<init> (Landroid/app/Activity;)V
+D/water   ( 9890): packageName: cn.wps.moffice_eng
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 9890): GC_CONCURRENT freed 536K, 48% free 3562K/6727K, external 3121K/3694K, paused 4ms+4ms
+W/KeyCharacterMap( 9890): No keyboard for id 0
+W/KeyCharacterMap( 9890): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher/com.android.launcher2.Launcher } from pid 61
+D/dalvikvm( 9890): GC_EXTERNAL_ALLOC freed 393K, 48% free 3567K/6791K, external 3121K/3694K, paused 80ms
+D/dalvikvm( 9890): GC_EXTERNAL_ALLOC freed 158K, 48% free 3580K/6791K, external 3545K/4295K, paused 50ms
+D/dalvikvm( 9890): GC_EXTERNAL_ALLOC freed 75K, 48% free 3589K/6791K, external 4159K/5193K, paused 49ms
+I/InputDispatcher(   61): Dropped event because of pending overdue app switch.
+W/ActivityManager(   61): Activity pause timeout for HistoryRecord{4068ba18 cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager}
+W/InputManagerService(   61): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@40694198 (uid=10037 pid=9890)
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity } from pid 142
+I/dalvikvm( 9890): Could not find method cn.wps.moffice.documentmanager.PreStartActivity.getActionBar, referenced from method cn.wps.moffice.documentmanager.PreStartActivity.setDisplayShowCustomEnabled
+W/dalvikvm( 9890): VFY: unable to resolve virtual method 11013: Lcn/wps/moffice/documentmanager/PreStartActivity;.getActionBar ()Landroid/app/ActionBar;
+D/dalvikvm( 9890): VFY: replacing opcode 0x6e at 0x0006
+D/dalvikvm( 9890): VFY: dead code 0x0009-000e in Lcn/wps/moffice/documentmanager/PreStartActivity;.setDisplayShowCustomEnabled (Z)V
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager } from pid 9890
+W/ActivityManager(   61): Duplicate finish request for HistoryRecord{40671020 cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity}
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/ActivityManager(   61): Displayed cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager: +16s801ms (total +2m12s224ms)
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 9890): GC_EXTERNAL_ALLOC freed 813K, 47% free 3971K/7431K, external 5431K/5649K, paused 61ms
+D/dalvikvm( 9890): GC_EXTERNAL_ALLOC freed 196K, 49% free 3856K/7431K, external 6786K/6792K, paused 52ms
+D/dalvikvm( 9890): GC_EXTERNAL_ALLOC freed 77K, 48% free 3868K/7431K, external 7091K/7256K, paused 51ms
+D/dalvikvm( 9890): GC_EXTERNAL_ALLOC freed 78K, 48% free 3879K/7431K, external 7396K/7637K, paused 50ms
+I/dalvikvm( 9890): Jit: resizing JitTable from 512 to 1024
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.startactivity.writer.StartWriterActivity1 (has extras) } from pid 9890
+I/ActivityManager(   61): Start proc cn.wps.moffice_eng:writer1 for activity cn.wps.moffice_eng/cn.wps.moffice.startactivity.writer.StartWriterActivity1: pid=10011 uid=10037 gids={3003, 1015}
+D/dalvikvm(10011): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(10011): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(10011): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.writer.Writer1 (has extras) } from pid 10011
+D/dalvikvm(10011): GC_EXTERNAL_ALLOC freed 616K, 50% free 3305K/6535K, external 2131K/2137K, paused 54ms
+D/dalvikvm(10011): GC_EXTERNAL_ALLOC freed 42K, 50% free 3316K/6535K, external 2657K/2675K, paused 58ms
+D/dalvikvm(10011): GC_EXTERNAL_ALLOC freed 50K, 48% free 3418K/6535K, external 3330K/3332K, paused 82ms
+D/dalvikvm(10011): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(10011): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/dalvikvm(10011): Failed resolving Lcn/wps/moffice/common/beans/k$1; interface 540 'Landroid/nfc/NfcAdapter$OnNdefPushCompleteCallback;'
+W/dalvikvm(10011): Link of class 'Lcn/wps/moffice/common/beans/k$1;' failed
+E/dalvikvm(10011): Could not find class 'cn.wps.moffice.common.beans.k$1', referenced from method cn.wps.moffice.common.beans.k.<init>
+W/dalvikvm(10011): VFY: unable to resolve new-instance 1597 (Lcn/wps/moffice/common/beans/k$1;) in Lcn/wps/moffice/common/beans/k;
+D/dalvikvm(10011): VFY: replacing opcode 0x22 at 0x0039
+I/dalvikvm(10011): Failed resolving Lcn/wps/moffice/common/beans/k$3; interface 538 'Landroid/nfc/NfcAdapter$CreateBeamUrisCallback;'
+W/dalvikvm(10011): Link of class 'Lcn/wps/moffice/common/beans/k$3;' failed
+E/dalvikvm(10011): Could not find class 'cn.wps.moffice.common.beans.k$3', referenced from method cn.wps.moffice.common.beans.k.<init>
+W/dalvikvm(10011): VFY: unable to resolve new-instance 1599 (Lcn/wps/moffice/common/beans/k$3;) in Lcn/wps/moffice/common/beans/k;
+D/dalvikvm(10011): VFY: replacing opcode 0x22 at 0x0070
+D/dalvikvm(10011): VFY: dead code 0x003b-005c in Lcn/wps/moffice/common/beans/k;.<init> (Landroid/app/Activity;)V
+D/dalvikvm(10011): VFY: dead code 0x0072-0079 in Lcn/wps/moffice/common/beans/k;.<init> (Landroid/app/Activity;)V
+D/water   (10011): packageName: cn.wps.moffice_eng
+D/dalvikvm(10011): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(10011): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(10011): GC_CONCURRENT freed 491K, 47% free 3630K/6727K, external 3627K/4173K, paused 4ms+4ms
+D/dalvikvm(10011): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(10011): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(10011): GC_EXTERNAL_ALLOC freed 757K, 48% free 3791K/7175K, external 3630K/4173K, paused 58ms
+D/dalvikvm(10011): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(10011): GC_EXTERNAL_ALLOC freed 506K, 47% free 3901K/7239K, external 4951K/6132K, paused 80ms
+D/dalvikvm(10011): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(10011): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+W/InputManagerService(   61): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@40694198 (uid=10037 pid=9890)
+D/dalvikvm(10011): GC_EXTERNAL_ALLOC freed 171K, 45% free 3996K/7239K, external 7897K/8237K, paused 151ms
+I/ActivityManager(   61): Displayed cn.wps.moffice_eng/cn.wps.moffice.writer.Writer1: +4s542ms (total +5s393ms)
+W/InputMethodManager(10011): Ignoring onBind: cur seq=45, given seq=44
+D/dalvikvm( 9890): GC_EXTERNAL_ALLOC freed 407K, 47% free 3950K/7431K, external 4646K/5803K, paused 187ms
+D/dalvikvm( 9890): GC_EXTERNAL_ALLOC freed 124K, 48% free 3915K/7431K, external 5927K/5927K, paused 151ms
+D/dalvikvm(10011): GC_EXTERNAL_ALLOC freed 426K, 43% free 4136K/7239K, external 9167K/9848K, paused 60ms
+D/dalvikvm( 9890): GC_EXTERNAL_ALLOC freed 194K, 47% free 3955K/7431K, external 4646K/5803K, paused 196ms
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager } from pid 10011
+D/dalvikvm( 9890): GC_EXTERNAL_ALLOC freed 143K, 48% free 3924K/7431K, external 5927K/5927K, paused 50ms
+W/ActivityManager(   61): Activity pause timeout for HistoryRecord{407d8698 cn.wps.moffice_eng/cn.wps.moffice.writer.Writer1}
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm( 9890): GC_EXTERNAL_ALLOC freed 289K, 47% free 3977K/7431K, external 4646K/5803K, paused 86ms
+D/dalvikvm( 9890): GC_EXTERNAL_ALLOC freed 118K, 47% free 3947K/7431K, external 5927K/5927K, paused 52ms
+W/InputManagerService(   61): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@405df6c0 (uid=10037 pid=10011)
+W/IInputConnectionWrapper(10011): showStatusIcon on inactive InputConnection
+I/System.out( 9890): flushRecord:4bfc5a7a-b603-40bd-b50c-b68375aee7aa
+D/dalvikvm(  142): GC_EXPLICIT freed 151K, 49% free 3009K/5895K, external 6291K/7626K, paused 126ms
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/dalvikvm(  256): GC_CONCURRENT freed 855K, 49% free 3828K/7495K, external 1753K/2137K, paused 9ms+4ms
+W/KeyCharacterMap( 9890): No keyboard for id 0
+W/KeyCharacterMap( 9890): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+D/dalvikvm( 9890): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } from pid 9890
+W/InputManagerService(   61): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@40694198 (uid=10037 pid=9890)
+D/dalvikvm( 9890): GC_EXPLICIT freed 435K, 46% free 4035K/7431K, external 4952K/6232K, paused 148ms

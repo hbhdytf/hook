@@ -1,0 +1,205 @@
+00008000-00009000 r-xp 00000000 1f:00 618        /system/bin/app_process
+00009000-0000a000 rwxp 00001000 1f:00 618        /system/bin/app_process
+0000a000-00499000 rwxp 0000a000 00:00 0          [heap]
+10000000-10001000 ---p 10000000 00:00 0 
+10001000-10100000 rwxp 10001000 00:00 0 
+40000000-40008000 r-xs 00000000 00:0a 198        /dev/__properties__ (deleted)
+40008000-40009000 r-xp 40008000 00:00 0 
+40009000-4088b000 rwxp 00000000 00:07 350        /dev/ashmem/dalvik-heap (deleted)
+4088b000-42009000 ---p 00882000 00:07 350        /dev/ashmem/dalvik-heap (deleted)
+42009000-42089000 rwxp 00000000 00:07 351        /dev/ashmem/dalvik-bitmap-1 (deleted)
+42089000-42109000 rwxp 00000000 00:07 352        /dev/ashmem/dalvik-bitmap-2 (deleted)
+42109000-4214a000 rwxp 00000000 00:07 353        /dev/ashmem/dalvik-card-table (deleted)
+4214a000-4214d000 rwxp 4214a000 00:00 0 
+4214d000-4214e000 ---p 00000000 00:07 354        /dev/ashmem/dalvik-LinearAlloc (deleted)
+4214e000-4238f000 rwxp 00001000 00:07 354        /dev/ashmem/dalvik-LinearAlloc (deleted)
+4238f000-4264d000 ---p 00242000 00:07 354        /dev/ashmem/dalvik-LinearAlloc (deleted)
+4264d000-4264e000 r-xs 00002000 1f:00 662        /system/framework/core-junit.jar
+4264e000-42654000 r-xp 00000000 1f:01 299        /data/dalvik-cache/system@framework@core-junit.jar@classes.dex
+42654000-4265d000 rwxp 42654000 00:00 0 
+4265d000-4265e000 r-xs 00000000 00:07 416        /dev/ashmem/SurfaceFlinger read-only heap (deleted)
+4265e000-4265f000 r-xs 001c6000 1f:00 657        /system/framework/core.jar
+4265f000-42a87000 r-xp 00000000 1f:01 293        /data/dalvik-cache/system@framework@core.jar@classes.dex
+42a87000-42ac6000 rwxp 42a87000 00:00 0 
+42ac6000-42ac7000 r-xs 00046000 1f:00 672        /system/framework/bouncycastle.jar
+42ac7000-42b74000 r-xp 00000000 1f:01 294        /data/dalvik-cache/system@framework@bouncycastle.jar@classes.dex
+42b74000-42b75000 r-xs 0007d000 1f:00 663        /system/framework/ext.jar
+42b75000-42caa000 r-xp 00000000 1f:01 295        /data/dalvik-cache/system@framework@ext.jar@classes.dex
+42caa000-42cab000 r-xs 002cc000 1f:00 658        /system/framework/framework.jar
+42cab000-4335b000 r-xp 00000000 1f:01 296        /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4335b000-433e8000 rwxp 4335b000 00:00 0 
+433e8000-433e9000 r-xs 00015000 1f:00 659        /system/framework/android.policy.jar
+433e9000-43417000 r-xp 00000000 1f:01 297        /data/dalvik-cache/system@framework@android.policy.jar@classes.dex
+43417000-43418000 r-xs 00098000 1f:00 655        /system/framework/services.jar
+43418000-43567000 r-xp 00000000 1f:01 298        /data/dalvik-cache/system@framework@services.jar@classes.dex
+43567000-43b24000 r-xs 00000000 1f:00 524        /system/usr/icu/icudt44l.dat
+43b24000-43b35000 rwxp 43b24000 00:00 0 
+43b35000-43b64000 r-xs 00000000 1f:00 474        /system/fonts/DroidSans.ttf
+43b64000-43bdf000 r-xs 00000000 1f:00 492        /system/usr/share/zoneinfo/zoneinfo.dat
+43bdf000-43c18000 r-xs 0072e000 1f:00 669        /system/framework/framework-res.apk
+43c18000-43f8e000 r-xs 003b9000 1f:00 669        /system/framework/framework-res.apk
+43f8e000-43fef000 rwxp 43f8e000 00:00 0 
+43fef000-43ff0000 ---p 43fef000 00:00 0 
+43ff0000-440ef000 rwxp 43ff0000 00:00 0 
+440ef000-440f0000 ---p 440ef000 00:00 0 
+440f0000-441ef000 rwxp 440f0000 00:00 0 
+441ef000-441f0000 ---p 441ef000 00:00 0 
+441f0000-442ef000 rwxp 441f0000 00:00 0 
+442ef000-442f2000 rwxp 442ef000 00:00 0 
+442f2000-442f3000 ---p 442f2000 00:00 0 
+442f3000-443f2000 rwxp 442f3000 00:00 0 
+443f2000-443f5000 rwxp 443f2000 00:00 0 
+443f5000-444f3000 r-xp 00000000 00:0a 61         /dev/binder
+444f3000-444f4000 ---p 444f3000 00:00 0 
+444f4000-445f3000 rwxp 444f4000 00:00 0 
+445f3000-445f6000 rwxp 445f3000 00:00 0 
+445f6000-445f7000 ---p 445f6000 00:00 0 
+445f7000-446f6000 rwxp 445f7000 00:00 0 
+446f6000-446fc000 rwxp 446f6000 00:00 0 
+446fc000-446fd000 r-xs 00013000 1f:01 531        /data/data/cn.wps.moffice_eng/app_dex/dex_cloudservice.jar
+446fd000-44700000 rwxp 446fd000 00:00 0 
+44700000-44704000 rwxs 00000000 00:07 1535       /dev/ashmem/40760d20 cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager (deleted)
+44704000-4470a000 rwxp 44704000 00:00 0 
+4470a000-4473b000 r-xs 00dbc000 1f:01 742        /data/app/cn.wps.moffice_eng-1.apk
+4473b000-44f6e000 r-xp 00000000 1f:01 554        /data/dalvik-cache/data@app@cn.wps.moffice_eng-1.apk@classes.dex
+44f6e000-45028000 rwxp 44f6e000 00:00 0 
+45028000-45059000 r-xs 00dbc000 1f:01 742        /data/app/cn.wps.moffice_eng-1.apk
+45059000-45182000 r-xs 008e8000 1f:01 742        /data/app/cn.wps.moffice_eng-1.apk
+45182000-45202000 r-xp 00000000 00:07 1519       /dev/ashmem/dalvik-jit-code-cache (deleted)
+45202000-4520a000 rwxs 00000000 00:07 1536       /dev/ashmem/SurfaceFlinger Client control-block (deleted)
+4520a000-4521e000 rwxp 4520a000 00:00 0 
+4521e000-4521f000 r-xs 0007f000 1f:01 547        /data/data/cn.wps.moffice_eng/app_dex/dex_cloud.jar
+45222000-4529d000 rwxp 45222000 00:00 0 
+4529d000-4529e000 ---p 4529d000 00:00 0 
+4529e000-4539d000 rwxp 4529e000 00:00 0 
+4539d000-453ce000 r-xp 00000000 1f:01 546        /data/data/cn.wps.moffice_eng/app_optdex/dex_cloudservice.dex
+453ce000-453cf000 ---p 453ce000 00:00 0 
+453cf000-454ce000 rwxp 453cf000 00:00 0 
+454ce000-454fd000 r-xs 00000000 1f:00 478        /system/fonts/DroidSans-Bold.ttf
+454fd000-4550e000 rwxp 454fd000 00:00 0 
+45517000-45551000 rwxp 45517000 00:00 0 
+45571000-456d3000 rwxp 45571000 00:00 0 
+456f6000-456f7000 ---p 456f6000 00:00 0 
+456f7000-457f6000 rwxp 456f7000 00:00 0 
+457f6000-457f7000 ---p 457f6000 00:00 0 
+457f7000-458f6000 rwxp 457f7000 00:00 0 
+458f6000-45a6d000 rwxs 00000000 00:07 58245      /dev/ashmem/gralloc-buffer (deleted)
+45a6d000-45a6e000 ---p 45a6d000 00:00 0 
+45a6e000-45b6d000 rwxp 45a6e000 00:00 0 
+45fbf000-46108000 r-xp 00000000 1f:01 550        /data/data/cn.wps.moffice_eng/app_optdex/dex_cloud.dex
+80000000-800a2000 r-xp 00000000 1f:00 311        /system/lib/libdvm.so
+800a2000-800a9000 rwxp 000a2000 1f:00 311        /system/lib/libdvm.so
+800a9000-800ab000 rwxp 800a9000 00:00 0 
+80100000-80101000 r-xp 00000000 1f:00 350        /system/lib/libnfc_ndef.so
+80101000-80102000 rwxp 00001000 1f:00 350        /system/lib/libnfc_ndef.so
+80200000-80201000 r-xp 00000000 1f:00 353        /system/lib/libstagefright_enc_common.so
+80201000-80202000 rwxp 00001000 1f:00 353        /system/lib/libstagefright_enc_common.so
+80300000-80309000 r-xp 00000000 1f:00 343        /system/lib/libstagefright_foundation.so
+80309000-8030a000 rwxp 00009000 1f:00 343        /system/lib/libstagefright_foundation.so
+80400000-80402000 r-xp 00000000 1f:00 366        /system/lib/hw/gralloc.default.so
+80402000-80403000 rwxp 00002000 1f:00 366        /system/lib/hw/gralloc.default.so
+9d100000-9d139000 r-xp 00000000 1f:00 361        /system/lib/libstlport.so
+9d139000-9d13b000 rwxp 00039000 1f:00 361        /system/lib/libstlport.so
+9d700000-9d732000 r-xp 00000000 1f:00 370        /system/lib/libjpeg.so
+9d732000-9d733000 rwxp 00032000 1f:00 370        /system/lib/libjpeg.so
+a2f00000-a3060000 r-xp 00000000 1f:00 403        /system/lib/libstagefright.so
+a3060000-a306a000 rwxp 00160000 1f:00 403        /system/lib/libstagefright.so
+a306a000-a306b000 rwxp a306a000 00:00 0 
+a3500000-a3503000 r-xp 00000000 1f:00 388        /system/lib/libstagefright_color_conversion.so
+a3503000-a3504000 rwxp 00003000 1f:00 388        /system/lib/libstagefright_color_conversion.so
+a3600000-a3605000 r-xp 00000000 1f:00 387        /system/lib/libstagefright_avc_common.so
+a3605000-a3606000 rwxp 00005000 1f:00 387        /system/lib/libstagefright_avc_common.so
+a3700000-a370c000 r-xp 00000000 1f:00 382        /system/lib/libstagefright_amrnb_common.so
+a370c000-a370d000 rwxp 0000c000 1f:00 382        /system/lib/libstagefright_amrnb_common.so
+a7500000-a7502000 r-xp 00000000 1f:00 401        /system/lib/libemoji.so
+a7502000-a7503000 rwxp 00002000 1f:00 401        /system/lib/libemoji.so
+a7e00000-a7e04000 r-xp 00000000 1f:00 323        /system/lib/libhardware_legacy.so
+a7e04000-a7e05000 rwxp 00004000 1f:00 323        /system/lib/libhardware_legacy.so
+a7f00000-a7f01000 r-xp 00000000 1f:00 322        /system/lib/libhardware.so
+a7f01000-a7f02000 rwxp 00001000 1f:00 322        /system/lib/libhardware.so
+a8100000-a8127000 r-xp 00000000 1f:00 360        /system/lib/libutils.so
+a8127000-a8128000 rwxp 00027000 1f:00 360        /system/lib/libutils.so
+a8200000-a821e000 r-xp 00000000 1f:00 316        /system/lib/libbinder.so
+a821e000-a8224000 rwxp 0001e000 1f:00 316        /system/lib/libbinder.so
+a8300000-a8682000 r-xp 00000000 1f:00 349        /system/lib/libwebcore.so
+a8682000-a86dc000 rwxp 00382000 1f:00 349        /system/lib/libwebcore.so
+a86dc000-a86de000 rwxp a86dc000 00:00 0 
+a8a00000-a8a13000 r-xp 00000000 1f:00 344        /system/lib/libexpat.so
+a8a13000-a8a15000 rwxp 00013000 1f:00 344        /system/lib/libexpat.so
+a8b00000-a8b4d000 r-xp 00000000 1f:00 332        /system/lib/libsqlite.so
+a8b4d000-a8b4f000 rwxp 0004d000 1f:00 332        /system/lib/libsqlite.so
+a9000000-a9053000 r-xp 00000000 1f:00 319        /system/lib/libmedia.so
+a9053000-a9062000 rwxp 00053000 1f:00 319        /system/lib/libmedia.so
+a9300000-a930c000 r-xp 00000000 1f:00 384        /system/lib/libmedia_jni.so
+a930c000-a930d000 rwxp 0000c000 1f:00 384        /system/lib/libmedia_jni.so
+a9400000-a941c000 r-xp 00000000 1f:00 389        /system/lib/libvorbisidec.so
+a941c000-a941d000 rwxp 0001c000 1f:00 389        /system/lib/libvorbisidec.so
+a9500000-a9551000 r-xp 00000000 1f:00 395        /system/lib/libsonivox.so
+a9551000-a9552000 rwxp 00051000 1f:00 395        /system/lib/libsonivox.so
+a9552000-a9557000 rwxp a9552000 00:00 0 
+a9800000-a9806000 r-xp 00000000 1f:00 338        /system/lib/libsoundpool.so
+a9806000-a9807000 rwxp 00006000 1f:00 338        /system/lib/libsoundpool.so
+a9c00000-a9c0a000 r-xp 00000000 1f:00 315        /system/lib/libskiagl.so
+a9c0a000-a9c0b000 rwxp 0000a000 1f:00 315        /system/lib/libskiagl.so
+ab100000-ab210000 r-xp 00000000 1f:00 373        /system/lib/libskia.so
+ab210000-ab214000 rwxp 00110000 1f:00 373        /system/lib/libskia.so
+ab214000-ab217000 rwxp ab214000 00:00 0 
+ab800000-ab80a000 r-xp 00000000 1f:00 376        /system/lib/libgui.so
+ab80a000-ab80c000 rwxp 0000a000 1f:00 376        /system/lib/libgui.so
+ab900000-ab930000 r-xp 00000000 1f:00 398        /system/lib/libui.so
+ab930000-ab933000 rwxp 00030000 1f:00 398        /system/lib/libui.so
+aba80000-aba90000 r-xp 00000000 1f:00 329        /system/lib/libcamera_client.so
+aba90000-aba93000 rwxp 00010000 1f:00 329        /system/lib/libcamera_client.so
+abb00000-abb09000 r-xp 00000000 1f:00 369        /system/lib/libexif.so
+abb09000-abb0a000 rwxp 00009000 1f:00 369        /system/lib/libexif.so
+abb0a000-abb0c000 rwxp abb0a000 00:00 0 
+abd00000-abd02000 r-xp 00000000 1f:00 383        /system/lib/libETC1.so
+abd02000-abd03000 rwxp 00002000 1f:00 383        /system/lib/libETC1.so
+abe00000-abe08000 r-xp 00000000 1f:00 385        /system/lib/libEGL.so
+abe08000-abe09000 rwxp 00008000 1f:00 385        /system/lib/libEGL.so
+abe09000-abe0b000 rwxp abe09000 00:00 0 
+ac100000-ac104000 r-xp 00000000 1f:00 347        /system/lib/libGLESv2.so
+ac104000-ac105000 rwxp 00004000 1f:00 347        /system/lib/libGLESv2.so
+ac200000-ac205000 r-xp 00000000 1f:00 314        /system/lib/libGLESv1_CM.so
+ac205000-ac206000 rwxp 00005000 1f:00 314        /system/lib/libGLESv1_CM.so
+ac700000-ac717000 r-xp 00000000 1f:00 358        /system/lib/libsurfaceflinger_client.so
+ac717000-ac71a000 rwxp 00017000 1f:00 358        /system/lib/libsurfaceflinger_client.so
+ac900000-ac919000 r-xp 00000000 1f:00 352        /system/lib/libpixelflinger.so
+ac919000-ac91b000 rwxp 00019000 1f:00 352        /system/lib/libpixelflinger.so
+ad100000-ad12c000 r-xp 00000000 1f:00 312        /system/lib/libnativehelper.so
+ad12c000-ad12f000 rwxp 0002c000 1f:00 312        /system/lib/libnativehelper.so
+ad300000-ad375000 r-xp 00000000 1f:00 391        /system/lib/libandroid_runtime.so
+ad375000-ad37d000 rwxp 00075000 1f:00 391        /system/lib/libandroid_runtime.so
+ad37d000-ad37e000 rwxp ad37d000 00:00 0 
+ad900000-ad9f5000 r-xp 00000000 1f:00 309        /system/lib/libicui18n.so
+ad9f5000-ad9fa000 rwxp 000f5000 1f:00 309        /system/lib/libicui18n.so
+ade00000-adec1000 r-xp 00000000 1f:00 317        /system/lib/libicuuc.so
+adec1000-adec9000 rwxp 000c1000 1f:00 317        /system/lib/libicuuc.so
+adec9000-adecc000 rwxp adec9000 00:00 0 
+ae300000-ae304000 r-xp 00000000 1f:00 357        /system/lib/libnetutils.so
+ae304000-ae305000 rwxp 00004000 1f:00 357        /system/lib/libnetutils.so
+ae400000-ae402000 r-xp 00000000 1f:00 325        /system/lib/libwpa_client.so
+ae402000-ae403000 rwxp 00002000 1f:00 325        /system/lib/libwpa_client.so
+af000000-af0af000 r-xp 00000000 1f:00 321        /system/lib/libcrypto.so
+af0af000-af0bf000 rwxp 000af000 1f:00 321        /system/lib/libcrypto.so
+af0bf000-af0c1000 rwxp af0bf000 00:00 0 
+af400000-af42a000 r-xp 00000000 1f:00 333        /system/lib/libssl.so
+af42a000-af42e000 rwxp 0002a000 1f:00 333        /system/lib/libssl.so
+af700000-af714000 r-xp 00000000 1f:00 320        /system/lib/libz.so
+af714000-af715000 rwxp 00014000 1f:00 320        /system/lib/libz.so
+af900000-af90e000 r-xp 00000000 1f:00 310        /system/lib/libcutils.so
+af90e000-af90f000 rwxp 0000e000 1f:00 310        /system/lib/libcutils.so
+af90f000-af91e000 rwxp af90f000 00:00 0 
+afa00000-afa03000 r-xp 00000000 1f:00 380        /system/lib/liblog.so
+afa03000-afa04000 rwxp 00003000 1f:00 380        /system/lib/liblog.so
+afb00000-afb20000 r-xp 00000000 1f:00 348        /system/lib/libm.so
+afb20000-afb21000 rwxp 00020000 1f:00 348        /system/lib/libm.so
+afc00000-afc01000 r-xp 00000000 1f:00 326        /system/lib/libstdc++.so
+afc01000-afc02000 rwxp 00001000 1f:00 326        /system/lib/libstdc++.so
+afd00000-afd40000 r-xp 00000000 1f:00 351        /system/lib/libc.so
+afd40000-afd43000 rwxp 00040000 1f:00 351        /system/lib/libc.so
+afd43000-afd4e000 rwxp afd43000 00:00 0 
+b0001000-b0009000 r-xp 00001000 1f:00 606        /system/bin/linker
+b0009000-b000a000 rwxp 00009000 1f:00 606        /system/bin/linker
+b000a000-b0013000 rwxp b000a000 00:00 0 
+beb22000-beb37000 rw-p befeb000 00:00 0          [stack]

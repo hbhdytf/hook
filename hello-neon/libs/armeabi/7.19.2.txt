@@ -1,0 +1,885 @@
+D/dalvikvm(  419): GC_EXTERNAL_ALLOC freed 41K, 47% free 4072K/7559K, external 4963K/6198K, paused 55ms
+W/InputManagerService(   61): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@406ba540 (uid=10037 pid=483)
+W/IInputConnectionWrapper(  483): showStatusIcon on inactive InputConnection
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/cloudsetting
+D/inject  (  419): [+] The New open count 102
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/cloudsetting
+D/inject  (  419): [+] The New open count 103
+D/inject  (  419): [+] The old openfile fd 40
+I/System.out(  419): flushRecord:f88f681f-f3cd-41aa-ae9b-7557bba0320e
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /mnt/sdcard/Android/data/cn.wps.moffice_eng/cache/KingsoftOffice/file/.timeBox/HistoryRecord/records/f88f681f-f3cd-41aa-ae9b-7557bba0320e
+D/inject  (  419): [+] The New open count 104
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /mnt/sdcard/Android/data/cn.wps.moffice_eng/cache/KingsoftOffice/file/.timeBox/HistoryRecord/persistence/records_upload_list
+D/inject  (  419): [+] The New open count 105
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /mnt/sdcard/Android/data/cn.wps.moffice_eng/cache/KingsoftOffice/file/.timeBox/HistoryRecord/persistence/records_upload_list
+D/inject  (  419): [+] The New open count 106
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/cloudsetting
+D/inject  (  419): [+] The New open count 107
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/cloudsetting
+D/inject  (  419): [+] The New open count 108
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  483): GC_EXPLICIT freed 313K, 47% free 4208K/7815K, external 10838K/12886K, paused 733ms
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 109
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  419): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 110
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  419): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 111
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 112
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  419): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.startactivity.writer.StartWriterActivity1 (has extras) } from pid 419
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.writer.Writer1 (has extras) } from pid 483
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/water   (  483): packageName: cn.wps.moffice_eng
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/HistoryRecordDataSource
+D/inject  (  419): [+] The New open count 113
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /mnt/sdcard/documents/testcopy1.txt
+D/inject  (  419): [+] The New open count 114
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/.connectionPersistence
+D/inject  (  419): [+] The New open count 115
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(   61): GC_EXPLICIT freed 825K, 44% free 4562K/8007K, external 4373K/5573K, paused 159ms
+D/dalvikvm(  483): GC_EXTERNAL_ALLOC freed 1013K, 45% free 4568K/8199K, external 10134K/11403K, paused 86ms
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/lable.db
+D/inject  (  419): [+] The New open count 116
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/lable.db
+D/inject  (  419): [+] The New open count 117
+D/inject  (  419): [+] The old openfile fd 40
+I/ActivityManager(   61): Displayed cn.wps.moffice_eng/cn.wps.moffice.writer.Writer1: +2s323ms (total +2s362ms)
+W/KeyCharacterMap(  483): No keyboard for id 0
+W/KeyCharacterMap(  483): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+D/dalvikvm(  483): GC_EXTERNAL_ALLOC freed 244K, 45% free 4577K/8199K, external 13272K/13827K, paused 66ms
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager } from pid 483
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/lable.db
+D/inject  (  419): [+] The New open count 118
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 119
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  419): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 120
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 121
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  419): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 122
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  419): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 123
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  419): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 124
+D/inject  (  419): [+] The old openfile fd 40
+W/IInputConnectionWrapper(  483): showStatusIcon on inactive InputConnection
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/cloudsetting
+D/inject  (  419): [+] The New open count 125
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/cloudsetting
+D/inject  (  419): [+] The New open count 126
+D/inject  (  419): [+] The old openfile fd 40
+I/System.out(  419): flushRecord:4c1a3b20-5747-49e4-b94b-f7df4c6f6aa3
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /mnt/sdcard/Android/data/cn.wps.moffice_eng/cache/KingsoftOffice/file/.timeBox/HistoryRecord/records/4c1a3b20-5747-49e4-b94b-f7df4c6f6aa3
+D/inject  (  419): [+] The New open count 127
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /mnt/sdcard/Android/data/cn.wps.moffice_eng/cache/KingsoftOffice/file/.timeBox/HistoryRecord/persistence/records_upload_list
+D/inject  (  419): [+] The New open count 128
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /mnt/sdcard/Android/data/cn.wps.moffice_eng/cache/KingsoftOffice/file/.timeBox/HistoryRecord/persistence/records_upload_list
+D/inject  (  419): [+] The New open count 129
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/cloudsetting
+D/inject  (  419): [+] The New open count 130
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/cloudsetting
+D/inject  (  419): [+] The New open count 131
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 132
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  419): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 133
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 134
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  419): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.startactivity.writer.StartWriterActivity1 (has extras) } from pid 419
+I/dalvikvm(  419): Jit: resizing JitTable from 1024 to 2048
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.writer.Writer1 (has extras) } from pid 483
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/water   (  483): packageName: cn.wps.moffice_eng
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/HistoryRecordDataSource
+D/inject  (  419): [+] The New open count 135
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /mnt/sdcard/documents/testcopy.txt
+D/inject  (  419): [+] The New open count 136
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/.connectionPersistence
+D/inject  (  419): [+] The New open count 137
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/lable.db
+D/inject  (  419): [+] The New open count 138
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  483): GREF has increased to 201
+I/ActivityManager(   61): Displayed cn.wps.moffice_eng/cn.wps.moffice.writer.Writer1: +1s694ms (total +1s731ms)
+D/dalvikvm(  483): GC_CONCURRENT freed 1384K, 46% free 4821K/8839K, external 13657K/14936K, paused 9ms+17ms
+D/dalvikvm(  483): GC_EXTERNAL_ALLOC freed 30K, 46% free 4790K/8839K, external 10904K/12952K, paused 175ms
+I/dalvikvm(  483): Jit: resizing JitTable from 1024 to 2048
+D/dalvikvm(  483): GC_EXTERNAL_ALLOC freed 32K, 46% free 4776K/8839K, external 12569K/12952K, paused 80ms
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/lable.db
+D/inject  (  419): [+] The New open count 139
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+W/KeyCharacterMap(  483): No keyboard for id 0
+W/KeyCharacterMap(  483): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+D/dalvikvm(  483): GC_EXTERNAL_ALLOC freed 169K, 46% free 4810K/8839K, external 15666K/16241K, paused 70ms
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager } from pid 483
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/lable.db
+D/inject  (  419): [+] The New open count 140
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 141
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  419): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 142
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 143
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  419): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 144
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  419): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 145
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  419): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 146
+D/inject  (  419): [+] The old openfile fd 40
+W/IInputConnectionWrapper(  483): showStatusIcon on inactive InputConnection
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/cloudsetting
+D/inject  (  419): [+] The New open count 147
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/cloudsetting
+D/inject  (  419): [+] The New open count 148
+D/inject  (  419): [+] The old openfile fd 40
+I/System.out(  419): flushRecord:4bfc5a7a-b603-40bd-b50c-b68375aee7aa
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /mnt/sdcard/Android/data/cn.wps.moffice_eng/cache/KingsoftOffice/file/.timeBox/HistoryRecord/records/4bfc5a7a-b603-40bd-b50c-b68375aee7aa
+D/inject  (  419): [+] The New open count 149
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /mnt/sdcard/Android/data/cn.wps.moffice_eng/cache/KingsoftOffice/file/.timeBox/HistoryRecord/persistence/records_upload_list
+D/inject  (  419): [+] The New open count 150
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /mnt/sdcard/Android/data/cn.wps.moffice_eng/cache/KingsoftOffice/file/.timeBox/HistoryRecord/persistence/records_upload_list
+D/inject  (  419): [+] The New open count 151
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/cloudsetting
+D/inject  (  419): [+] The New open count 152
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/cloudsetting
+D/inject  (  419): [+] The New open count 153
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  419): GC_CONCURRENT freed 1671K, 49% free 4516K/8775K, external 5834K/6579K, paused 3ms+5ms
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 154
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  419): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 155
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 156
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  419): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.startactivity.writer.StartWriterActivity1 (has extras) } from pid 419
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.writer.Writer1 (has extras) } from pid 483
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/water   (  483): packageName: cn.wps.moffice_eng
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/HistoryRecordDataSource
+D/inject  (  419): [+] The New open count 157
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /mnt/sdcard/documents/test.txt
+D/inject  (  419): [+] The New open count 158
+D/inject  (  419): [+] test copy file
+D/inject  (  419): [+] The old file fd 40
+D/inject  (  419): [+] The copy file fd 52
+D/inject  (  419): [+] The New open file fd 40
+D/inject  (  419): [+] The Name of fd /mnt/sdcard/documents/testcopy1.txt
+D/inject  (  419): [+] The S of fd /proc/419/fd/40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/.connectionPersistence
+D/inject  (  419): [+] The New open count 159
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/lable.db
+D/inject  (  419): [+] The New open count 160
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  483): GC_EXTERNAL_ALLOC freed 1376K, 45% free 5072K/9095K, external 14427K/15705K, paused 77ms
+I/ActivityManager(   61): Displayed cn.wps.moffice_eng/cn.wps.moffice.writer.Writer1: +1s500ms (total +1s540ms)
+D/dalvikvm(  483): GC_EXTERNAL_ALLOC freed 100K, 45% free 5032K/9095K, external 14983K/15366K, paused 68ms
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/lable.db
+D/inject  (  419): [+] The New open count 161
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 162
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 163
+D/inject  (  419): [+] The old openfile fd 40
+I/dalvikvm(   61): Jit: resizing JitTable from 1024 to 2048
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 164
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 165
+D/inject  (  419): [+] The old openfile fd 40
+W/KeyCharacterMap(  483): No keyboard for id 0
+W/KeyCharacterMap(  483): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager } from pid 483
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/lable.db
+D/inject  (  419): [+] The New open count 166
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 167
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  419): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 168
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 169
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  419): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 170
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  419): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 171
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  419): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 172
+D/inject  (  419): [+] The old openfile fd 40
+W/IInputConnectionWrapper(  483): showStatusIcon on inactive InputConnection
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/cloudsetting
+D/inject  (  419): [+] The New open count 173
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/cloudsetting
+D/inject  (  419): [+] The New open count 174
+D/inject  (  419): [+] The old openfile fd 40
+I/System.out(  419): flushRecord:f88f681f-f3cd-41aa-ae9b-7557bba0320e
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /mnt/sdcard/Android/data/cn.wps.moffice_eng/cache/KingsoftOffice/file/.timeBox/HistoryRecord/records/f88f681f-f3cd-41aa-ae9b-7557bba0320e
+D/inject  (  419): [+] The New open count 175
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /mnt/sdcard/Android/data/cn.wps.moffice_eng/cache/KingsoftOffice/file/.timeBox/HistoryRecord/persistence/records_upload_list
+D/inject  (  419): [+] The New open count 176
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /mnt/sdcard/Android/data/cn.wps.moffice_eng/cache/KingsoftOffice/file/.timeBox/HistoryRecord/persistence/records_upload_list
+D/inject  (  419): [+] The New open count 177
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/cloudsetting
+D/inject  (  419): [+] The New open count 178
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/cloudsetting
+D/inject  (  419): [+] The New open count 179
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  483): GC_EXPLICIT freed 533K, 46% free 4948K/9095K, external 16072K/18120K, paused 89ms
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher/com.android.launcher2.Launcher } from pid 61
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=in.wptraffcianalyzer.filereadwritedemo/.MainActivity } from pid 145
+I/ActivityManager(   61): Start proc in.wptraffcianalyzer.filereadwritedemo for activity in.wptraffcianalyzer.filereadwritedemo/.MainActivity: pid=1001 uid=10042 gids={1015}
+I/ActivityManager(   61): Displayed in.wptraffcianalyzer.filereadwritedemo/.MainActivity: +676ms
+D/dalvikvm(  145): GC_EXPLICIT freed 94K, 49% free 3007K/5895K, external 6138K/7612K, paused 60ms
+D/dalvikvm(  419): GC_EXPLICIT freed 1088K, 49% free 4562K/8775K, external 5713K/6579K, paused 128ms
+D/AndroidRuntime( 1121): 
+D/AndroidRuntime( 1121): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+D/AndroidRuntime( 1121): CheckJNI is ON
+D/AndroidRuntime( 1121): Calling main entry com.android.commands.pm.Pm
+I/ActivityManager(   61): Start proc com.android.defcontainer for service com.android.defcontainer/.DefaultContainerService: pid=1135 uid=10003 gids={1015, 2001}
+D/dalvikvm(   33): GC_EXPLICIT freed 12K, 53% free 2538K/5379K, external 1625K/2137K, paused 76ms
+D/dalvikvm(   33): GC_EXPLICIT freed <1K, 53% free 2538K/5379K, external 1625K/2137K, paused 67ms
+D/dalvikvm(   33): GC_EXPLICIT freed <1K, 53% free 2538K/5379K, external 1625K/2137K, paused 102ms
+D/dalvikvm( 1135): GC_EXPLICIT freed 299K, 54% free 2568K/5511K, external 1625K/2137K, paused 76ms
+W/ActivityManager(   61): No content provider found for: 
+W/ActivityManager(   61): No content provider found for: 
+D/PackageParser(   61): Scanning package: /data/app/vmdl582314331.tmp
+I/PackageManager(   61): Removing non-system package:in.wptraffcianalyzer.filereadwritedemo
+I/ActivityManager(   61): Force stopping package in.wptraffcianalyzer.filereadwritedemo uid=10042
+I/Process (   61): Sending signal. PID: 1001 SIG: 9
+I/WindowManager(   61): WIN DEATH: Window{406cc940 in.wptraffcianalyzer.filereadwritedemo/in.wptraffcianalyzer.filereadwritedemo.MainActivity paused=false}
+W/InputManagerService(   61): Got RemoteException sending setActive(false) notification to pid 1001 uid 10042
+D/PackageManager(   61): Scanning package in.wptraffcianalyzer.filereadwritedemo
+I/PackageManager(   61): Package in.wptraffcianalyzer.filereadwritedemo codePath changed from /data/app/in.wptraffcianalyzer.filereadwritedemo-1.apk to /data/app/in.wptraffcianalyzer.filereadwritedemo-2.apk; Retaining data and using new
+I/PackageManager(   61): Unpacking native libraries for /data/app/in.wptraffcianalyzer.filereadwritedemo-2.apk
+D/installd(   35): DexInv: --- BEGIN '/data/app/in.wptraffcianalyzer.filereadwritedemo-2.apk' ---
+D/dalvikvm( 1146): DexOpt: load 21ms, verify+opt 39ms
+D/installd(   35): DexInv: --- END '/data/app/in.wptraffcianalyzer.filereadwritedemo-2.apk' (success) ---
+W/PackageManager(   61): Code path for pkg : in.wptraffcianalyzer.filereadwritedemo changing from /data/app/in.wptraffcianalyzer.filereadwritedemo-1.apk to /data/app/in.wptraffcianalyzer.filereadwritedemo-2.apk
+W/PackageManager(   61): Resource path for pkg : in.wptraffcianalyzer.filereadwritedemo changing from /data/app/in.wptraffcianalyzer.filereadwritedemo-1.apk to /data/app/in.wptraffcianalyzer.filereadwritedemo-2.apk
+D/PackageManager(   61):   Activities: demo.MainActivity
+I/ActivityManager(   61): Force stopping package in.wptraffcianalyzer.filereadwritedemo uid=10042
+I/installd(   35): move /data/dalvik-cache/data@app@in.wptraffcianalyzer.filereadwritedemo-2.apk@classes.dex -> /data/dalvik-cache/data@app@in.wptraffcianalyzer.filereadwritedemo-2.apk@classes.dex
+D/PackageManager(   61): New package installed in /data/app/in.wptraffcianalyzer.filereadwritedemo-2.apk
+I/ActivityManager(   61): Force stopping package in.wptraffcianalyzer.filereadwritedemo uid=10042
+D/dalvikvm(   61): GC_EXPLICIT freed 918K, 44% free 4636K/8199K, external 3125K/3903K, paused 75ms
+D/dalvikvm(  145): GC_EXPLICIT freed 68K, 51% free 2941K/5895K, external 6096K/7612K, paused 82ms
+D/dalvikvm(  196): GC_EXPLICIT freed 158K, 53% free 2765K/5767K, external 1625K/2137K, paused 119ms
+W/RecognitionManagerService(   61): no available voice recognition services found
+I/ActivityManager(   61): Start proc com.svox.pico for broadcast com.svox.pico/.VoiceDataInstallerReceiver: pid=1148 uid=10009 gids={}
+D/dalvikvm(   61): GC_EXPLICIT freed 217K, 44% free 4593K/8199K, external 3125K/3903K, paused 148ms
+I/ActivityThread( 1148): Pub com.svox.pico.providers.SettingsProvider: com.svox.pico.providers.SettingsProvider
+I/installd(   35): unlink /data/dalvik-cache/data@app@in.wptraffcianalyzer.filereadwritedemo-1.apk@classes.dex
+D/AndroidRuntime( 1121): Shutting down VM
+D/dalvikvm( 1121): GC_CONCURRENT freed 101K, 72% free 295K/1024K, external 0K/0K, paused 1ms+2ms
+D/jdwp    ( 1121): Got wake-up signal, bailing out of select
+D/dalvikvm( 1121): Debugger has detached; object registry had 1 entries
+I/dalvikvm( 1121): JNI: AttachCurrentThread (from ???.???)
+I/AndroidRuntime( 1121): NOTE: attach of thread 'Binder Thread #3' failed
+D/AndroidRuntime( 1162): 
+D/AndroidRuntime( 1162): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+D/AndroidRuntime( 1162): CheckJNI is ON
+D/AndroidRuntime( 1162): Calling main entry com.android.commands.am.Am
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=in.wptraffcianalyzer.filereadwritedemo/demo.MainActivity } from pid 1162
+I/ActivityManager(   61): Start proc in.wptraffcianalyzer.filereadwritedemo for activity in.wptraffcianalyzer.filereadwritedemo/demo.MainActivity: pid=1170 uid=10042 gids={1015}
+D/AndroidRuntime( 1162): Shutting down VM
+D/dalvikvm( 1162): GC_CONCURRENT freed 103K, 69% free 319K/1024K, external 0K/0K, paused 1ms+1ms
+D/dalvikvm( 1162): Debugger has detached; object registry had 1 entries
+I/AndroidRuntime( 1162): NOTE: attach of thread 'Binder Thread #3' failed
+I/ActivityManager(   61): Displayed in.wptraffcianalyzer.filereadwritedemo/demo.MainActivity: +1s231ms
+D/dalvikvm(  255): GC_CONCURRENT freed 960K, 49% free 3879K/7495K, external 1753K/2137K, paused 4ms+4ms
+I/dalvikvm(  255): Uncaught exception thrown by finalizer (will be discarded):
+I/dalvikvm(  255): Ljava/lang/IllegalStateException;: aa.setParams() must call super.setParams()
+I/dalvikvm(  255): 	at com.wandoujia.phoenix4.http.request.AbstractHttpRequestBuilder.finalize((null):-1)
+I/dalvikvm(  255): 	at dalvik.system.NativeStart.run(Native Method)
+I/dalvikvm(  255): Uncaught exception thrown by finalizer (will be discarded):
+I/dalvikvm(  255): Ljava/lang/IllegalStateException;: p.setParams() must call super.setParams()
+I/dalvikvm(  255): 	at com.wandoujia.phoenix4.http.request.AbstractHttpRequestBuilder.finalize((null):-1)
+I/dalvikvm(  255): 	at dalvik.system.NativeStart.run(Native Method)
+D/dalvikvm(  255): GC_CONCURRENT freed 966K, 49% free 3847K/7495K, external 1753K/2137K, paused 4ms+4ms
+I/dalvikvm(  255): Uncaught exception thrown by finalizer (will be discarded):
+I/dalvikvm(  255): Ljava/lang/IllegalStateException;: y.setParams() must call super.setParams()
+I/dalvikvm(  255): 	at com.wandoujia.phoenix4.http.request.AbstractHttpRequestBuilder.finalize((null):-1)
+I/dalvikvm(  255): 	at dalvik.system.NativeStart.run(Native Method)
+I/dalvikvm(  255): Uncaught exception thrown by finalizer (will be discarded):
+I/dalvikvm(  255): Ljava/lang/IllegalStateException;: y.setParams() must call super.setParams()
+I/dalvikvm(  255): 	at com.wandoujia.phoenix4.http.request.AbstractHttpRequestBuilder.finalize((null):-1)
+I/dalvikvm(  255): 	at dalvik.system.NativeStart.run(Native Method)
+I/dalvikvm(  255): Uncaught exception thrown by finalizer (will be discarded):
+I/dalvikvm(  255): Ljava/lang/IllegalStateException;: aa.setParams() must call super.setParams()
+I/dalvikvm(  255): 	at com.wandoujia.phoenix4.http.request.AbstractHttpRequestBuilder.finalize((null):-1)
+I/dalvikvm(  255): 	at dalvik.system.NativeStart.run(Native Method)
+I/dalvikvm(  255): Uncaught exception thrown by finalizer (will be discarded):
+I/dalvikvm(  255): Ljava/lang/IllegalStateException;: p.setParams() must call super.setParams()
+I/dalvikvm(  255): 	at com.wandoujia.phoenix4.http.request.AbstractHttpRequestBuilder.finalize((null):-1)
+I/dalvikvm(  255): 	at dalvik.system.NativeStart.run(Native Method)
+I/dalvikvm(  255): Total arena pages for JIT: 11
+I/dalvikvm(  255): Total arena pages for JIT: 12
+D/dalvikvm(  238): GC_EXPLICIT freed 499K, 55% free 2598K/5703K, external 1625K/2137K, paused 49ms
+D/dalvikvm(  145): GC_EXPLICIT freed 78K, 49% free 3044K/5895K, external 6145K/7612K, paused 46ms
+W/System.err( 1170): java.io.FileNotFoundException: /sdcard/wpta_file1 (No such file or directory)
+W/System.err( 1170): 	at org.apache.harmony.luni.platform.OSFileSystem.open(Native Method)
+W/System.err( 1170): 	at dalvik.system.BlockGuard$WrappedFileSystem.open(BlockGuard.java:232)
+W/System.err( 1170): 	at java.io.FileInputStream.<init>(FileInputStream.java:80)
+W/System.err( 1170): 	at java.io.FileReader.<init>(FileReader.java:42)
+W/System.err( 1170): 	at demo.MainActivity$2.onClick(MainActivity.java:92)
+W/System.err( 1170): 	at android.view.View.performClick(View.java:2485)
+W/System.err( 1170): 	at android.view.View$PerformClick.run(View.java:9080)
+W/System.err( 1170): 	at android.os.Handler.handleCallback(Handler.java:587)
+W/System.err( 1170): 	at android.os.Handler.dispatchMessage(Handler.java:92)
+W/System.err( 1170): 	at android.os.Looper.loop(Looper.java:123)
+W/System.err( 1170): 	at android.app.ActivityThread.main(ActivityThread.java:3683)
+W/System.err( 1170): 	at java.lang.reflect.Method.invokeNative(Native Method)
+W/System.err( 1170): 	at java.lang.reflect.Method.invoke(Method.java:507)
+W/System.err( 1170): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:839)
+W/System.err( 1170): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:597)
+W/System.err( 1170): 	at dalvik.system.NativeStart.main(Native Method)
+D/AndroidRuntime( 1241): 
+D/AndroidRuntime( 1241): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+D/AndroidRuntime( 1241): CheckJNI is ON
+D/AndroidRuntime( 1241): Calling main entry com.android.commands.pm.Pm
+D/dalvikvm( 1135): GC_EXPLICIT freed 39K, 54% free 2546K/5511K, external 1625K/2137K, paused 36ms
+W/ActivityManager(   61): No content provider found for: 
+W/ActivityManager(   61): No content provider found for: 
+D/PackageParser(   61): Scanning package: /data/app/vmdl587654844.tmp
+I/PackageManager(   61): Removing non-system package:in.wptraffcianalyzer.filereadwritedemo
+I/ActivityManager(   61): Force stopping package in.wptraffcianalyzer.filereadwritedemo uid=10042
+I/Process (   61): Sending signal. PID: 1170 SIG: 9
+I/WindowManager(   61): WIN DEATH: Window{406d9f78 in.wptraffcianalyzer.filereadwritedemo/demo.MainActivity paused=false}
+W/InputManagerService(   61): Got RemoteException sending setActive(false) notification to pid 1170 uid 10042
+D/PackageManager(   61): Scanning package in.wptraffcianalyzer.filereadwritedemo
+I/PackageManager(   61): Package in.wptraffcianalyzer.filereadwritedemo codePath changed from /data/app/in.wptraffcianalyzer.filereadwritedemo-2.apk to /data/app/in.wptraffcianalyzer.filereadwritedemo-1.apk; Retaining data and using new
+I/PackageManager(   61): Unpacking native libraries for /data/app/in.wptraffcianalyzer.filereadwritedemo-1.apk
+D/installd(   35): DexInv: --- BEGIN '/data/app/in.wptraffcianalyzer.filereadwritedemo-1.apk' ---
+D/dalvikvm( 1250): DexOpt: load 21ms, verify+opt 38ms
+D/installd(   35): DexInv: --- END '/data/app/in.wptraffcianalyzer.filereadwritedemo-1.apk' (success) ---
+W/PackageManager(   61): Code path for pkg : in.wptraffcianalyzer.filereadwritedemo changing from /data/app/in.wptraffcianalyzer.filereadwritedemo-2.apk to /data/app/in.wptraffcianalyzer.filereadwritedemo-1.apk
+W/PackageManager(   61): Resource path for pkg : in.wptraffcianalyzer.filereadwritedemo changing from /data/app/in.wptraffcianalyzer.filereadwritedemo-2.apk to /data/app/in.wptraffcianalyzer.filereadwritedemo-1.apk
+D/PackageManager(   61):   Activities: demo.MainActivity
+I/ActivityManager(   61): Force stopping package in.wptraffcianalyzer.filereadwritedemo uid=10042
+I/installd(   35): move /data/dalvik-cache/data@app@in.wptraffcianalyzer.filereadwritedemo-1.apk@classes.dex -> /data/dalvik-cache/data@app@in.wptraffcianalyzer.filereadwritedemo-1.apk@classes.dex
+D/PackageManager(   61): New package installed in /data/app/in.wptraffcianalyzer.filereadwritedemo-1.apk
+I/ActivityManager(   61): Force stopping package in.wptraffcianalyzer.filereadwritedemo uid=10042
+D/dalvikvm(   61): GC_EXPLICIT freed 657K, 44% free 4632K/8199K, external 3125K/3903K, paused 73ms
+D/dalvikvm(  145): GC_EXPLICIT freed 46K, 50% free 3000K/5895K, external 6096K/7612K, paused 68ms
+D/dalvikvm(  255): GC_EXPLICIT freed 551K, 50% free 3817K/7495K, external 1753K/2137K, paused 188ms
+W/RecognitionManagerService(   61): no available voice recognition services found
+D/dalvikvm(  196): GC_EXPLICIT freed 113K, 53% free 2767K/5767K, external 1625K/2137K, paused 418ms
+D/dalvikvm(   61): GC_EXPLICIT freed 207K, 44% free 4600K/8199K, external 3125K/3903K, paused 100ms
+D/dalvikvm(  255): GC_FOR_MALLOC freed 61K, 49% free 3828K/7495K, external 1753K/2137K, paused 56ms
+I/dalvikvm-heap(  255): Grow heap (frag case) to 8.136MB for 131088-byte allocation
+I/installd(   35): unlink /data/dalvik-cache/data@app@in.wptraffcianalyzer.filereadwritedemo-2.apk@classes.dex
+D/AndroidRuntime( 1241): Shutting down VM
+D/dalvikvm( 1241): GC_CONCURRENT freed 101K, 72% free 295K/1024K, external 0K/0K, paused 1ms+0ms
+D/jdwp    ( 1241): Got wake-up signal, bailing out of select
+D/dalvikvm( 1241): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  255): GC_FOR_MALLOC freed <1K, 49% free 3955K/7687K, external 1753K/2137K, paused 65ms
+D/AndroidRuntime( 1264): 
+D/AndroidRuntime( 1264): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+D/AndroidRuntime( 1264): CheckJNI is ON
+D/AndroidRuntime( 1264): Calling main entry com.android.commands.am.Am
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=in.wptraffcianalyzer.filereadwritedemo/demo.MainActivity } from pid 1264
+I/ActivityManager(   61): Start proc in.wptraffcianalyzer.filereadwritedemo for activity in.wptraffcianalyzer.filereadwritedemo/demo.MainActivity: pid=1272 uid=10042 gids={1015}
+D/AndroidRuntime( 1264): Shutting down VM
+D/dalvikvm( 1264): GC_CONCURRENT freed 103K, 69% free 319K/1024K, external 0K/0K, paused 1ms+1ms
+D/dalvikvm( 1264): Debugger has detached; object registry had 1 entries
+I/AndroidRuntime( 1264): NOTE: attach of thread 'Binder Thread #3' failed
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+I/ActivityManager(   61): Displayed in.wptraffcianalyzer.filereadwritedemo/demo.MainActivity: +1s132ms
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 180
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 181
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  255): GC_CONCURRENT freed 1062K, 51% free 3840K/7687K, external 1753K/2137K, paused 4ms+3ms
+I/dalvikvm(  255): Uncaught exception thrown by finalizer (will be discarded):
+I/dalvikvm(  255): Ljava/lang/IllegalStateException;: y.setParams() must call super.setParams()
+I/dalvikvm(  255): 	at com.wandoujia.phoenix4.http.request.AbstractHttpRequestBuilder.finalize((null):-1)
+I/dalvikvm(  255): 	at dalvik.system.NativeStart.run(Native Method)
+I/dalvikvm(  255): Uncaught exception thrown by finalizer (will be discarded):
+I/dalvikvm(  255): Ljava/lang/IllegalStateException;: aa.setParams() must call super.setParams()
+I/dalvikvm(  255): 	at com.wandoujia.phoenix4.http.request.AbstractHttpRequestBuilder.finalize((null):-1)
+I/dalvikvm(  255): 	at dalvik.system.NativeStart.run(Native Method)
+I/dalvikvm(  255): Uncaught exception thrown by finalizer (will be discarded):
+I/dalvikvm(  255): Ljava/lang/IllegalStateException;: p.setParams() must call super.setParams()
+I/dalvikvm(  255): 	at com.wandoujia.phoenix4.http.request.AbstractHttpRequestBuilder.finalize((null):-1)
+I/dalvikvm(  255): 	at dalvik.system.NativeStart.run(Native Method)
+I/dalvikvm(  255): Uncaught exception thrown by finalizer (will be discarded):
+I/dalvikvm(  255): Ljava/lang/IllegalStateException;: y.setParams() must call super.setParams()
+I/dalvikvm(  255): 	at com.wandoujia.phoenix4.http.request.AbstractHttpRequestBuilder.finalize((null):-1)
+I/dalvikvm(  255): 	at dalvik.system.NativeStart.run(Native Method)
+I/dalvikvm(  255): Uncaught exception thrown by finalizer (will be discarded):
+I/dalvikvm(  255): Ljava/lang/IllegalStateException;: aa.setParams() must call super.setParams()
+I/dalvikvm(  255): 	at com.wandoujia.phoenix4.http.request.AbstractHttpRequestBuilder.finalize((null):-1)
+I/dalvikvm(  255): 	at dalvik.system.NativeStart.run(Native Method)
+I/dalvikvm(  255): Uncaught exception thrown by finalizer (will be discarded):
+I/dalvikvm(  255): Ljava/lang/IllegalStateException;: p.setParams() must call super.setParams()
+I/dalvikvm(  255): 	at com.wandoujia.phoenix4.http.request.AbstractHttpRequestBuilder.finalize((null):-1)
+I/dalvikvm(  255): 	at dalvik.system.NativeStart.run(Native Method)
+W/KeyCharacterMap( 1272): No keyboard for id 0
+W/KeyCharacterMap( 1272): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+W/InputManagerService(   61): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@40679f20 (uid=10042 pid=1272)
+W/IInputConnectionWrapper( 1272): showStatusIcon on inactive InputConnection
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=in.wptraffcianalyzer.filereadwritedemo/demo.MainActivity } from pid 145
+I/ActivityManager(   61): Displayed in.wptraffcianalyzer.filereadwritedemo/demo.MainActivity: +590ms
+D/Zygote  (   33): Process 1272 terminated by signal (15)
+I/ActivityManager(   61): Process in.wptraffcianalyzer.filereadwritedemo (pid 1272) has died.
+I/WindowManager(   61): WIN DEATH: Window{40772568 in.wptraffcianalyzer.filereadwritedemo/demo.MainActivity paused=false}
+W/InputManagerService(   61): Got RemoteException sending setActive(false) notification to pid 1272 uid 10042
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=in.wptraffcianalyzer.filereadwritedemo/demo.MainActivity } from pid 145
+I/ActivityManager(   61): Start proc in.wptraffcianalyzer.filereadwritedemo for activity in.wptraffcianalyzer.filereadwritedemo/demo.MainActivity: pid=1353 uid=10042 gids={1015}
+I/ActivityManager(   61): Displayed in.wptraffcianalyzer.filereadwritedemo/demo.MainActivity: +904ms
+D/dalvikvm(  145): GC_EXPLICIT freed 65K, 48% free 3076K/5895K, external 6145K/7612K, paused 64ms
+D/AndroidRuntime( 1515): 
+D/AndroidRuntime( 1515): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+D/AndroidRuntime( 1515): CheckJNI is ON
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 182
+D/inject  (  419): [+] The old openfile fd 40
+D/AndroidRuntime( 1515): Calling main entry com.android.commands.pm.Pm
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 183
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm( 1135): GC_EXPLICIT freed 10K, 54% free 2546K/5511K, external 1625K/2137K, paused 50ms
+W/ActivityManager(   61): No content provider found for: 
+W/ActivityManager(   61): No content provider found for: 
+D/PackageParser(   61): Scanning package: /data/app/vmdl657486507.tmp
+I/PackageManager(   61): Removing non-system package:in.wptraffcianalyzer.filereadwritedemo
+I/ActivityManager(   61): Force stopping package in.wptraffcianalyzer.filereadwritedemo uid=10042
+I/Process (   61): Sending signal. PID: 1353 SIG: 9
+I/WindowManager(   61): WIN DEATH: Window{407320b8 in.wptraffcianalyzer.filereadwritedemo/demo.MainActivity paused=false}
+W/InputManagerService(   61): Got RemoteException sending setActive(false) notification to pid 1353 uid 10042
+D/PackageManager(   61): Scanning package in.wptraffcianalyzer.filereadwritedemo
+I/PackageManager(   61): Package in.wptraffcianalyzer.filereadwritedemo codePath changed from /data/app/in.wptraffcianalyzer.filereadwritedemo-1.apk to /data/app/in.wptraffcianalyzer.filereadwritedemo-2.apk; Retaining data and using new
+I/PackageManager(   61): Unpacking native libraries for /data/app/in.wptraffcianalyzer.filereadwritedemo-2.apk
+D/installd(   35): DexInv: --- BEGIN '/data/app/in.wptraffcianalyzer.filereadwritedemo-2.apk' ---
+D/dalvikvm( 1524): DexOpt: load 21ms, verify+opt 38ms
+D/installd(   35): DexInv: --- END '/data/app/in.wptraffcianalyzer.filereadwritedemo-2.apk' (success) ---
+W/PackageManager(   61): Code path for pkg : in.wptraffcianalyzer.filereadwritedemo changing from /data/app/in.wptraffcianalyzer.filereadwritedemo-1.apk to /data/app/in.wptraffcianalyzer.filereadwritedemo-2.apk
+W/PackageManager(   61): Resource path for pkg : in.wptraffcianalyzer.filereadwritedemo changing from /data/app/in.wptraffcianalyzer.filereadwritedemo-1.apk to /data/app/in.wptraffcianalyzer.filereadwritedemo-2.apk
+D/PackageManager(   61):   Activities: demo.MainActivity
+I/ActivityManager(   61): Force stopping package in.wptraffcianalyzer.filereadwritedemo uid=10042
+I/installd(   35): move /data/dalvik-cache/data@app@in.wptraffcianalyzer.filereadwritedemo-2.apk@classes.dex -> /data/dalvik-cache/data@app@in.wptraffcianalyzer.filereadwritedemo-2.apk@classes.dex
+D/PackageManager(   61): New package installed in /data/app/in.wptraffcianalyzer.filereadwritedemo-2.apk
+I/ActivityManager(   61): Force stopping package in.wptraffcianalyzer.filereadwritedemo uid=10042
+D/dalvikvm(   61): GC_EXPLICIT freed 784K, 44% free 4658K/8199K, external 3125K/3903K, paused 75ms
+D/dalvikvm(  145): GC_EXPLICIT freed 77K, 50% free 3001K/5895K, external 6096K/7612K, paused 85ms
+D/dalvikvm(  255): GC_EXPLICIT freed 842K, 51% free 3817K/7687K, external 1753K/2137K, paused 179ms
+D/dalvikvm(  196): GC_EXPLICIT freed 116K, 53% free 2767K/5767K, external 1625K/2137K, paused 136ms
+W/RecognitionManagerService(   61): no available voice recognition services found
+D/dalvikvm(   61): GC_EXPLICIT freed 225K, 44% free 4608K/8199K, external 3125K/3903K, paused 80ms
+I/installd(   35): unlink /data/dalvik-cache/data@app@in.wptraffcianalyzer.filereadwritedemo-1.apk@classes.dex
+D/AndroidRuntime( 1515): Shutting down VM
+D/dalvikvm( 1515): GC_CONCURRENT freed 101K, 72% free 295K/1024K, external 0K/0K, paused 1ms+1ms
+D/jdwp    ( 1515): Got wake-up signal, bailing out of select
+D/dalvikvm( 1515): Debugger has detached; object registry had 1 entries
+D/AndroidRuntime( 1534): 
+D/AndroidRuntime( 1534): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+D/AndroidRuntime( 1534): CheckJNI is ON
+D/AndroidRuntime( 1534): Calling main entry com.android.commands.am.Am
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=in.wptraffcianalyzer.filereadwritedemo/demo.MainActivity } from pid 1534
+I/ActivityManager(   61): Start proc in.wptraffcianalyzer.filereadwritedemo for activity in.wptraffcianalyzer.filereadwritedemo/demo.MainActivity: pid=1542 uid=10042 gids={1015}
+D/AndroidRuntime( 1534): Shutting down VM
+D/dalvikvm( 1534): GC_CONCURRENT freed 103K, 69% free 319K/1024K, external 0K/0K, paused 1ms+1ms
+D/dalvikvm( 1534): Debugger has detached; object registry had 1 entries
+I/AndroidRuntime( 1534): NOTE: attach of thread 'Binder Thread #3' failed
+I/ActivityManager(   61): Displayed in.wptraffcianalyzer.filereadwritedemo/demo.MainActivity: +1s57ms
+D/dalvikvm(  255): GC_CONCURRENT freed 855K, 50% free 3858K/7687K, external 1753K/2137K, paused 4ms+4ms
+I/dalvikvm(  255): Uncaught exception thrown by finalizer (will be discarded):
+I/dalvikvm(  255): Ljava/lang/IllegalStateException;: y.setParams() must call super.setParams()
+I/dalvikvm(  255): 	at com.wandoujia.phoenix4.http.request.AbstractHttpRequestBuilder.finalize((null):-1)
+I/dalvikvm(  255): 	at dalvik.system.NativeStart.run(Native Method)
+I/dalvikvm(  255): Uncaught exception thrown by finalizer (will be discarded):
+I/dalvikvm(  255): Ljava/lang/IllegalStateException;: y.setParams() must call super.setParams()
+I/dalvikvm(  255): 	at com.wandoujia.phoenix4.http.request.AbstractHttpRequestBuilder.finalize((null):-1)
+I/dalvikvm(  255): 	at dalvik.system.NativeStart.run(Native Method)
+I/dalvikvm(  255): Uncaught exception thrown by finalizer (will be discarded):
+I/dalvikvm(  255): Ljava/lang/IllegalStateException;: aa.setParams() must call super.setParams()
+I/dalvikvm(  255): 	at com.wandoujia.phoenix4.http.request.AbstractHttpRequestBuilder.finalize((null):-1)
+I/dalvikvm(  255): 	at dalvik.system.NativeStart.run(Native Method)
+I/dalvikvm(  255): Uncaught exception thrown by finalizer (will be discarded):
+I/dalvikvm(  255): Ljava/lang/IllegalStateException;: p.setParams() must call super.setParams()
+I/dalvikvm(  255): 	at com.wandoujia.phoenix4.http.request.AbstractHttpRequestBuilder.finalize((null):-1)
+I/dalvikvm(  255): 	at dalvik.system.NativeStart.run(Native Method)
+I/dalvikvm(  255): Uncaught exception thrown by finalizer (will be discarded):
+I/dalvikvm(  255): Ljava/lang/IllegalStateException;: aa.setParams() must call super.setParams()
+I/dalvikvm(  255): 	at com.wandoujia.phoenix4.http.request.AbstractHttpRequestBuilder.finalize((null):-1)
+I/dalvikvm(  255): 	at dalvik.system.NativeStart.run(Native Method)
+I/dalvikvm(  255): Uncaught exception thrown by finalizer (will be discarded):
+I/dalvikvm(  255): Ljava/lang/IllegalStateException;: p.setParams() must call super.setParams()
+I/dalvikvm(  255): 	at com.wandoujia.phoenix4.http.request.AbstractHttpRequestBuilder.finalize((null):-1)
+I/dalvikvm(  255): 	at dalvik.system.NativeStart.run(Native Method)
+D/dalvikvm(  255): GC_CONCURRENT freed 891K, 50% free 3878K/7687K, external 1753K/2137K, paused 8ms+3ms
+D/dalvikvm( 1135): GC_EXPLICIT freed 8K, 54% free 2544K/5511K, external 1625K/2137K, paused 57ms
+D/dalvikvm( 1148): GC_EXPLICIT freed 318K, 54% free 2539K/5511K, external 1625K/2137K, paused 118ms
+D/dalvikvm(  238): GC_EXPLICIT freed 19K, 55% free 2597K/5703K, external 1625K/2137K, paused 39ms
+D/dalvikvm(  145): GC_EXPLICIT freed 105K, 49% free 3027K/5895K, external 6145K/7612K, paused 112ms
+D/AndroidRuntime( 1630): 
+D/AndroidRuntime( 1630): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+D/AndroidRuntime( 1630): CheckJNI is ON
+D/AndroidRuntime( 1630): Calling main entry com.android.commands.pm.Pm
+D/AndroidRuntime( 1630): Shutting down VM
+D/dalvikvm( 1630): GC_CONCURRENT freed 102K, 71% free 297K/1024K, external 0K/0K, paused 1ms+2ms
+D/dalvikvm( 1630): Debugger has detached; object registry had 1 entries
+I/AndroidRuntime( 1630): NOTE: attach of thread 'Binder Thread #3' failed
+D/AndroidRuntime( 1640): 
+D/AndroidRuntime( 1640): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+D/AndroidRuntime( 1640): CheckJNI is ON
+D/AndroidRuntime( 1640): Calling main entry com.android.commands.am.Am
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=in.wptraffcianalyzer.filereadwritedemo/demo.MainActivity } from pid 1640
+D/AndroidRuntime( 1640): Shutting down VM
+D/dalvikvm( 1640): GC_CONCURRENT freed 103K, 69% free 319K/1024K, external 0K/0K, paused 1ms+1ms
+D/dalvikvm( 1640): Debugger has detached; object registry had 1 entries
+I/AndroidRuntime( 1640): NOTE: attach of thread 'Binder Thread #3' failed
+W/KeyCharacterMap( 1542): No keyboard for id 0
+W/KeyCharacterMap( 1542): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+W/InputManagerService(   61): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@4063a640 (uid=10042 pid=1542)
+W/IInputConnectionWrapper( 1542): showStatusIcon on inactive InputConnection
+D/dalvikvm( 1542): GC_EXPLICIT freed 101K, 52% free 2586K/5379K, external 1657K/2137K, paused 64ms
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=in.wptraffcianalyzer.filereadwritedemo/demo.MainActivity } from pid 145
+I/ActivityManager(   61): Displayed in.wptraffcianalyzer.filereadwritedemo/demo.MainActivity: +644ms
+D/dalvikvm(  145): GC_EXPLICIT freed 82K, 50% free 2950K/5895K, external 6096K/7612K, paused 68ms
+D/inject  ( 1743): [+] The pid of in.wptraffcianalyzer.filereadwritedemo: 1542
+D/inject  ( 1743): [+] Injecting process: 1542
+D/inject  ( 1743): [+] get_remote_addr: local[afd00000], remote[afd00000]
+D/inject  ( 1743): [+] Remote mmap address: afd170cd
+D/inject  ( 1743): [+] Calling mmap in target process.
+D/inject  ( 1743): [+] Target process returned from mmap, return value=44e5b000, pc=0 
+D/inject  ( 1743): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  ( 1743): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  ( 1743): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  ( 1743): [+] Get imports: dlopen: b00059bd, dlsym: b0005915, dlclose: b0005849
+D/inject  ( 1743): [+] Inject code start: c008, end: c084
+D/inject  ( 1743): [+] _dlopen_param1_s: 44e5ec9c
+D/inject  ( 1743): [+] _dlsym_param2_s: 44e5ed9c
+D/inject  ( 1743): [+] _saved_r0_pc_s: 44e5ee9c
+D/inject  ( 1743): [+] _inject_function_param_s: 44e5ef9c
+D/inject  ( 1743): [+] Remote shellcode address: 44e5ec00
+D/inject  ( 1743): [+] Process Detach: 10
+D/inject  ( 1542): hello ARM! I'm parameter1324! pid:1542
+D/inject  ( 1542): The Handle of libhook_open: b000d2b0
+D/inject  ( 1542): find it pre 0
+D/inject  ( 1542): find it 80601424
+D/inject  ( 1542): [+] aaaaaaa do_hook function is invoked 
+D/inject  ( 1542): [+] open addr: 0xafd17111. New addr 0x8060132c
+D/inject  ( 1542): [+] just for test info 
+D/inject  ( 1542): [+] set ok 
+D/inject  ( 1542): [+] Get the persist.sys.test  bbbbbbbb
+D/inject  ( 1542): [+] just for test print old_open address 0xafd17111
+D/inject  ( 1542): [+] just for test print new_open address 0x8060132c
+D/inject  ( 1542): [+] Get old address global  afd17111
+D/inject  ( 1542): [+] Get new address global  8060132c
+D/inject  ( 1542): [+] binder path ad100000
+D/inject  ( 1542): [+] Section header table file offset 2e23c
+D/inject  ( 1542): [+] Section header table entry count 15
+D/inject  ( 1542): [+] Section header table entry size 28
+D/inject  ( 1542): [+] Section header string table index 14
+D/inject  ( 1542): [+] Object file type 3
+D/inject  ( 1542): [+] Object file version 1
+D/inject  ( 1542): [+] Out_addr in GOT table before 0
+D/inject  ( 1542): [+] Out_size of func in GOT table before 0
+D/inject  ( 1542): [+] Out_addr in GOT table ad12c138
+D/inject  ( 1542): [+] Out_size of func in GOT table 8c4
+D/inject  ( 1542): [+] Out_addr in GOT table ad12c138
+D/inject  ( 1542): [+] Out_size of func in GOT table 8c4
+D/inject  ( 1542): [+] Out_addr in GOT afd4d5c8
+D/inject  ( 1542): [+] old open address 20000 afd17111
+D/inject  ( 1542): [+] Out_addr in GOT 464c457f
+D/inject  ( 1542): [+] target pid 606
+D/inject  ( 1542): [+] old open address 22223 afd17111
+D/inject  ( 1542): [+] Find got_item ff 
+D/inject  ( 1542): [+] old open address 3333 afd17111
+D/inject  ( 1542): [+] old open address 3333 afffffff
+D/inject  ( 1542): [+] new open address 3333 8060132c
+D/inject  ( 1542): [+] new open address 3333 8060132c
+D/inject  ( 1542): [+] Find got item afd4d5c8 
+D/inject  ( 1542): [+] Find got item ad12e2a4 
+D/inject  ( 1542): [+] Find got item ad12e28c 
+D/inject  ( 1542): [+] Find got item ad12e268 
+D/inject  ( 1542): [+] Find got item ad12e258 
+D/inject  ( 1542): [+] Find got item afd4631c 
+D/inject  ( 1542): [+] Find got item ad12e298 
+D/inject  ( 1542): [+] Find got item ad12e250 
+D/inject  ( 1542): [+] Find got item ad12e280 
+D/inject  ( 1542): [+] Find got item ad12e294 
+D/inject  ( 1542): [+] Find got item ad12e260 
+D/inject  ( 1542): [+] Find got item ad12e278 
+D/inject  ( 1542): [+] Find got item afd415c0 
+D/inject  ( 1542): [+] Find got item ad12e2a8 
+D/inject  ( 1542): [+] Find got item ad12e274 
+D/inject  ( 1542): [+] Find got item ad12e27c 
+D/inject  ( 1542): [+] Find got item ad12e248 
+D/inject  ( 1542): [+] Find got item ad12e2a0 
+D/inject  ( 1542): [+] Find got item ad12e25c 
+D/inject  ( 1542): [+] Find got item ad12e270 
+D/inject  ( 1542): [+] Find got item ad12e288 
+D/inject  ( 1542): [+] Find got item ad12e264 
+D/inject  ( 1542): [+] Find got item ad12e284 
+D/inject  ( 1542): [+] Find got item ad9bc7f1 
+D/inject  ( 1542): [+] Find got item ad9bc7f9 
+D/inject  ( 1542): [+] Find got item ade45f55 
+D/inject  ( 1542): [+] Find got item ade45f69 
+D/inject  ( 1542): [+] Find got item ad9bb339 
+D/inject  ( 1542): [+] Find got item ad9bb341 
+D/inject  ( 1542): [+] Find got item ad9b481d 
+D/inject  ( 1542): [+] Find got item ad9b4831 
+D/inject  ( 1542): [+] Find got item ad9a5561 
+D/inject  ( 1542): [+] Find got item ad9a5569 
+D/inject  ( 1542): [+] Find got item ade31305 
+D/inject  ( 1542): [+] Find got item ade3130d 
+D/inject  ( 1542): [+] Find got item ad12e240 
+D/inject  ( 1542): [+] Find got item ad12e244 
+D/inject  ( 1542): [+] Find got item ad12e24c 
+D/inject  ( 1542): [+] Find got item ad12e254 
+D/inject  ( 1542): [+] Find got item ad12e26c 
+D/inject  ( 1542): [+] Find got item ad12e290 
+D/inject  ( 1542): [+] Find got item ad12e29c 
+D/inject  ( 1542): [+] Find got item ade5f751 
+D/inject  ( 1542): [+] Find got item ade5f749 
+D/inject  ( 1542): [+] Find got item ade5f74d 
+D/inject  ( 1542): [+] Find got item adec6b68 
+D/inject  ( 1542): [+] Find got item ad12ca00 
+D/inject  ( 1542): [+] Find got item afd42610 
+D/inject  ( 1542): [+] Find got item 0 
+D/inject  ( 1542): [+] Find got item 0 
+D/inject  ( 1542): [+] Find got item 0 
+D/inject  ( 1542): [+] Find got item afd2092d 
+D/inject  ( 1542): [+] Find got item afd19c3d 
+D/inject  ( 1542): [+] Find got item afd20a45 
+D/inject  ( 1542): [+] Find got item af9038e5 
+D/inject  ( 1542): [+] Find got item afd28321 
+D/inject  ( 1542): [+] Find got item af9037b1 
+D/inject  ( 1542): [+] Find got item afd1c87d 
+D/inject  ( 1542): [+] Find got item ade3a295 
+D/inject  ( 1542): [+] Find got item ade394bd 
+D/inject  ( 1542): [+] Find got item ade39c31 
+D/inject  ( 1542): [+] Find got item ad9a4ef5 
+D/inject  ( 1542): [+] Find got item ad96a6b1 
+D/inject  ( 1542): [+] Find got item ade39141 
+D/inject  ( 1542): [+] Find got item ad99e381 
+D/inject  ( 1542): [+] Find got item ad96a3f1 
+D/inject  ( 1542): [+] Find got item ad99d059 
+D/inject  ( 1542): [+] Find got item ade256f1 
+D/inject  ( 1542): [+] Find got item ad9a3e51 
+D/inject  ( 1542): [+] Find got item ad9a3839 
+D/inject  ( 1542): [+] Find got item afd25c95 
+D/inject  ( 1542): [+] Find got item afd11fbd 
+D/inject  ( 1542): [+] Find got item afd17049 
+D/inject  ( 1542): [+] Find got item afd0bba0 
+D/inject  ( 1542): [+] Find got item afd0bad0 
+D/inject  ( 1542): [+] Find got item afd0e3e0 
+D/inject  ( 1542): [+] Find got item afd0e3f4 
+D/inject  ( 1542): [+] Find got item afd29855 
+D/inject  ( 1542): [+] Find got item afd0bc40 
+D/inject  ( 1542): [+] Find got item afc009e1 
+D/inject  ( 1542): [+] Find got item afd0bc00 
+D/inject  ( 1542): [+] Find got item afc009c1 
+D/inject  ( 1542): [+] Find got item afd0bbe0 
+D/inject  ( 1542): [+] Find got item afd14de4 
+D/inject  ( 1542): [+] Find got item afd20859 
+D/inject  ( 1542): [+] Find got item afc009e9 
+D/inject  ( 1542): [+] Find got item afd172fd 
+D/inject  ( 1542): [+] Find got item afd3742d 
+D/inject  ( 1542): [+] Find got item afd17249 
+D/inject  ( 1542): [+] Find got item afd171a1 
+D/inject  ( 1542): [+] Find got item afc009c9 
+D/inject  ( 1542): [+] Find got item afd17ac5 
+D/inject  ( 1542): [+] Find got item afd0bc80 
+D/inject  ( 1542): [+] Find got item afd19a49 
+D/inject  ( 1542): [+] Find got item afd17111 
+D/inject  ( 1542): [+] Find open and replace 
+D/inject  ( 1542): [+]-----------open test txt file-----------
+D/inject  ( 1542): [+] The New open path /mnt/sdcard/documents/test.txt
+D/inject  ( 1542): [+] The New open count 1
+D/inject  ( 1542): [+] test copy file
+D/inject  ( 1542): [+] The old file fd 47
+D/inject  ( 1542): [+] The copy file fd 48
+D/inject  ( 1542): [+] The New open file fd 47
+D/inject  ( 1542): [+] The Name of fd /mnt/sdcard/documents/testcopy1.txt
+D/inject  ( 1542): [+] The S of fd /proc/1542/fd/47

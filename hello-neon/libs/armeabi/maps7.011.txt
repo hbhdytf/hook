@@ -1,0 +1,346 @@
+00008000-00009000 r-xp 00000000 1f:00 618        /system/bin/app_process
+00009000-0000a000 rwxp 00001000 1f:00 618        /system/bin/app_process
+0000a000-003fb000 rwxp 0000a000 00:00 0          [heap]
+10000000-10001000 ---p 10000000 00:00 0 
+10001000-10100000 rwxp 10001000 00:00 0 
+40000000-40008000 r-xs 00000000 00:0a 198        /dev/__properties__ (deleted)
+40008000-40009000 r-xp 40008000 00:00 0 
+40009000-4085b000 rwxp 00000000 00:07 350        /dev/ashmem/dalvik-heap (deleted)
+4085b000-42009000 ---p 00852000 00:07 350        /dev/ashmem/dalvik-heap (deleted)
+42009000-42089000 rwxp 00000000 00:07 351        /dev/ashmem/dalvik-bitmap-1 (deleted)
+42089000-42109000 rwxp 00000000 00:07 352        /dev/ashmem/dalvik-bitmap-2 (deleted)
+42109000-4214a000 rwxp 00000000 00:07 353        /dev/ashmem/dalvik-card-table (deleted)
+4214a000-4214d000 rwxp 4214a000 00:00 0 
+4214d000-4214e000 ---p 00000000 00:07 354        /dev/ashmem/dalvik-LinearAlloc (deleted)
+4214e000-423d1000 rwxp 00001000 00:07 354        /dev/ashmem/dalvik-LinearAlloc (deleted)
+423d1000-4264d000 ---p 00284000 00:07 354        /dev/ashmem/dalvik-LinearAlloc (deleted)
+4264d000-4264e000 r-xs 00002000 1f:00 662        /system/framework/core-junit.jar
+4264e000-42654000 r-xp 00000000 1f:01 299        /data/dalvik-cache/system@framework@core-junit.jar@classes.dex
+42654000-4265d000 rwxp 42654000 00:00 0 
+4265d000-4265e000 rwxs 00000000 00:07 416        /dev/ashmem/SurfaceFlinger read-only heap (deleted)
+4265e000-4265f000 r-xs 001c6000 1f:00 657        /system/framework/core.jar
+4265f000-42a87000 r-xp 00000000 1f:01 293        /data/dalvik-cache/system@framework@core.jar@classes.dex
+42a87000-42ac6000 rwxp 42a87000 00:00 0 
+42ac6000-42ac7000 r-xs 00046000 1f:00 672        /system/framework/bouncycastle.jar
+42ac7000-42b74000 r-xp 00000000 1f:01 294        /data/dalvik-cache/system@framework@bouncycastle.jar@classes.dex
+42b74000-42b75000 r-xs 0007d000 1f:00 663        /system/framework/ext.jar
+42b75000-42caa000 r-xp 00000000 1f:01 295        /data/dalvik-cache/system@framework@ext.jar@classes.dex
+42caa000-42cab000 r-xs 002cc000 1f:00 658        /system/framework/framework.jar
+42cab000-4335b000 r-xp 00000000 1f:01 296        /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4335b000-433e8000 rwxp 4335b000 00:00 0 
+433e8000-433e9000 r-xs 00015000 1f:00 659        /system/framework/android.policy.jar
+433e9000-43417000 r-xp 00000000 1f:01 297        /data/dalvik-cache/system@framework@android.policy.jar@classes.dex
+43417000-43418000 r-xs 00098000 1f:00 655        /system/framework/services.jar
+43418000-43567000 r-xp 00000000 1f:01 298        /data/dalvik-cache/system@framework@services.jar@classes.dex
+43567000-43b24000 r-xs 00000000 1f:00 524        /system/usr/icu/icudt44l.dat
+43b24000-43b35000 rwxp 43b24000 00:00 0 
+43b35000-43b64000 r-xs 00000000 1f:00 474        /system/fonts/DroidSans.ttf
+43b64000-43bdf000 r-xs 00000000 1f:00 492        /system/usr/share/zoneinfo/zoneinfo.dat
+43bdf000-43c18000 r-xs 0072e000 1f:00 669        /system/framework/framework-res.apk
+43c18000-43f8e000 r-xs 003b9000 1f:00 669        /system/framework/framework-res.apk
+43f8e000-43fef000 rwxp 43f8e000 00:00 0 
+43fef000-43ff0000 ---p 43fef000 00:00 0 
+43ff0000-440ef000 rwxp 43ff0000 00:00 0 
+440ef000-440f0000 ---p 440ef000 00:00 0 
+440f0000-441ef000 rwxp 440f0000 00:00 0 
+441ef000-441f0000 ---p 441ef000 00:00 0 
+441f0000-442ef000 rwxp 441f0000 00:00 0 
+442ef000-442f2000 rwxp 442ef000 00:00 0 
+442f2000-442f3000 ---p 442f2000 00:00 0 
+442f3000-443f2000 rwxp 442f3000 00:00 0 
+443f2000-443f5000 rwxp 443f2000 00:00 0 
+443f5000-444f3000 r-xp 00000000 00:0a 61         /dev/binder
+444f3000-444f4000 ---p 444f3000 00:00 0 
+444f4000-445f3000 rwxp 444f4000 00:00 0 
+445f3000-445f6000 rwxp 445f3000 00:00 0 
+445f6000-445f7000 ---p 445f6000 00:00 0 
+445f7000-446f6000 rwxp 445f7000 00:00 0 
+446f6000-446f9000 rwxp 446f6000 00:00 0 
+446f9000-446fa000 ---p 446f9000 00:00 0 
+446fa000-447f9000 rwxp 446fa000 00:00 0 
+447f9000-447fa000 ---p 447f9000 00:00 0 
+447fa000-448f9000 rwxp 447fa000 00:00 0 
+448f9000-44a70000 rwxs 1f000000 00:0a 70         /dev/graphics/fb0
+44a70000-44a73000 rwxp 44a70000 00:00 0 
+44a73000-44a74000 ---p 44a73000 00:00 0 
+44a74000-44b73000 rwxp 44a74000 00:00 0 
+44b73000-44b76000 rwxp 44b73000 00:00 0 
+44b76000-44b77000 ---p 44b76000 00:00 0 
+44b77000-44c76000 rwxp 44b77000 00:00 0 
+44c76000-44c79000 rwxp 44c76000 00:00 0 
+44c79000-44c7a000 ---p 44c79000 00:00 0 
+44c7a000-44d79000 rwxp 44c7a000 00:00 0 
+44d79000-44d7a000 r-xs 00024000 1f:01 697        /data/app/com.example.hellojni-2.apk
+44d7a000-44d7b000 r-xs 00000000 1f:01 697        /data/app/com.example.hellojni-2.apk
+44de4000-44dee000 r-xs 00163000 1f:00 417        /system/app/Contacts.apk
+44e33000-44e37000 rwxp 44e33000 00:00 0 
+44e3c000-44e3d000 r-xs 0001a000 1f:00 437        /system/app/DownloadProviderUi.apk
+44e3d000-44e3f000 rwxp 00000000 00:07 500        /dev/ashmem/mspace (deleted)
+44e3f000-44f3d000 ---p 00002000 00:07 500        /dev/ashmem/mspace (deleted)
+44f3d000-44f4e000 r-xs 0000a000 1f:00 437        /system/app/DownloadProviderUi.apk
+44f52000-44f5a000 rwxs 00000000 00:07 1616       /dev/ashmem/SurfaceFlinger Client control-block (deleted)
+44f5a000-44f62000 rwxs 00000000 00:07 1510       /dev/ashmem/SurfaceFlinger Client control-block (deleted)
+44f66000-44f6e000 rwxs 00000000 00:07 1539       /dev/ashmem/SurfaceFlinger Client control-block (deleted)
+44f6e000-44f76000 rwxs 00000000 00:07 1765       /dev/ashmem/SurfaceFlinger Client control-block (deleted)
+44f82000-44f88000 r-xs 00562000 1f:00 434        /system/app/Launcher2.apk
+44fae000-44fdd000 r-xs 00000000 1f:00 478        /system/fonts/DroidSans-Bold.ttf
+44ff9000-44ffc000 rwxp 44ff9000 00:00 0 
+44ffc000-44ffd000 ---p 44ffc000 00:00 0 
+44ffd000-450fc000 rwxp 44ffd000 00:00 0 
+450fc000-450ff000 rwxp 450fc000 00:00 0 
+450ff000-45100000 ---p 450ff000 00:00 0 
+45100000-451ff000 rwxp 45100000 00:00 0 
+451ff000-45202000 rwxp 451ff000 00:00 0 
+45202000-45203000 ---p 45202000 00:00 0 
+45203000-45302000 rwxp 45203000 00:00 0 
+45302000-45305000 rwxp 45302000 00:00 0 
+45305000-45336000 r-xs 00dbc000 1f:01 742        /data/app/cn.wps.moffice_eng-1.apk
+4534f000-45357000 rwxs 00000000 00:07 768        /dev/ashmem/SurfaceFlinger Client control-block (deleted)
+45357000-4535b000 rwxs 00000000 00:07 799        /dev/ashmem/405f6800 StatusBarExpanded (deleted)
+4535b000-4536d000 rwxs 00000000 00:07 800        /dev/ashmem/gralloc-buffer (deleted)
+4536d000-4537f000 rwxs 00000000 00:07 850        /dev/ashmem/gralloc-buffer (deleted)
+4537f000-45383000 rwxs 00000000 00:07 858        /dev/ashmem/406416d8 com.android.internal.service.wallpaper.ImageWallpaper (deleted)
+45383000-45387000 rwxs 00000000 00:07 988        /dev/ashmem/40566a30 com.android.launcher/com.android.launcher2.Launcher (deleted)
+4538b000-4538f000 rwxs 00000000 00:07 858        /dev/ashmem/406416d8 com.android.internal.service.wallpaper.ImageWallpaper (deleted)
+4538f000-45397000 rwxs 00000000 00:07 866        /dev/ashmem/SurfaceFlinger Client control-block (deleted)
+45397000-4539f000 rwxs 00000000 00:07 990        /dev/ashmem/SurfaceFlinger Client control-block (deleted)
+453a1000-453a3000 r-xs 00000000 1f:00 484        /system/fonts/Clockopia.ttf
+453a3000-453c4000 r-xs 00542000 1f:00 434        /system/app/Launcher2.apk
+453d9000-45408000 r-xs 00000000 1f:00 478        /system/fonts/DroidSans-Bold.ttf
+45419000-4541c000 rwxp 45419000 00:00 0 
+4541d000-45420000 rwxp 4541d000 00:00 0 
+45420000-45421000 ---p 45420000 00:00 0 
+45421000-45520000 rwxp 45421000 00:00 0 
+45520000-45521000 r-xs 0000c000 1f:00 448        /system/app/SettingsProvider.apk
+45521000-45525000 r-xs 00009000 1f:00 448        /system/app/SettingsProvider.apk
+45525000-45526000 r-xs 0000c000 1f:00 448        /system/app/SettingsProvider.apk
+45526000-45534000 r-xp 00000000 1f:01 437        /data/dalvik-cache/system@app@SettingsProvider.apk@classes.dex
+45534000-45537000 rwxp 45534000 00:00 0 
+45537000-45538000 ---p 45537000 00:00 0 
+45538000-45637000 rwxp 45538000 00:00 0 
+45637000-4563a000 rwxp 45637000 00:00 0 
+4563a000-4563b000 ---p 4563a000 00:00 0 
+4563b000-4573a000 rwxp 4563b000 00:00 0 
+4573a000-45740000 rwxp 4573a000 00:00 0 
+45757000-4575b000 rwxs 00000000 00:07 738        /dev/ashmem/406aa768 StatusBar (deleted)
+457ae000-457b1000 rwxp 457ae000 00:00 0 
+457b1000-457b4000 rwxp 457b1000 00:00 0 
+457b4000-457b8000 rwxs 00000000 00:07 757        /dev/ashmem/406cb2f8 TrackingView (deleted)
+457b9000-457bf000 rwxp 457b9000 00:00 0 
+457c9000-457e7000 rwxp 457c9000 00:00 0 
+457ea000-457ee000 rwxs 00000000 00:07 578        /dev/ashmem/40698280 Keyguard (deleted)
+457ee000-457f2000 rwxs 00000000 00:07 578        /dev/ashmem/40698280 Keyguard (deleted)
+457f2000-45806000 rwxp 457f2000 00:00 0 
+4583a000-4583d000 rwxp 4583a000 00:00 0 
+4583d000-4583e000 ---p 4583d000 00:00 0 
+4583e000-4593d000 rwxp 4583e000 00:00 0 
+4593d000-45940000 rwxp 4593d000 00:00 0 
+45940000-45941000 ---p 45940000 00:00 0 
+45941000-45a40000 rwxp 45941000 00:00 0 
+45a40000-45b40000 rwxs 00000000 00:07 552        /dev/ashmem/CursorWindow (deleted)
+45b40000-45b41000 ---p 45b40000 00:00 0 
+45b41000-45c40000 rwxp 45b41000 00:00 0 
+45c40000-45c41000 ---p 45c40000 00:00 0 
+45c41000-45d40000 rwxp 45c41000 00:00 0 
+45d40000-45e40000 rwxs 00000000 00:07 556        /dev/ashmem/CursorWindow (deleted)
+45e40000-45e41000 ---p 45e40000 00:00 0 
+45e41000-45f40000 rwxp 45e41000 00:00 0 
+45f40000-45f41000 ---p 45f40000 00:00 0 
+45f41000-46040000 rwxp 45f41000 00:00 0 
+46040000-46041000 ---p 46040000 00:00 0 
+46041000-46140000 rwxp 46041000 00:00 0 
+46140000-46141000 ---p 46140000 00:00 0 
+46141000-46240000 rwxp 46141000 00:00 0 
+46240000-46241000 ---p 46240000 00:00 0 
+46241000-46340000 rwxp 46241000 00:00 0 
+46340000-46341000 ---p 46340000 00:00 0 
+46341000-46440000 rwxp 46341000 00:00 0 
+46440000-46441000 ---p 46440000 00:00 0 
+46441000-46540000 rwxp 46441000 00:00 0 
+46540000-46541000 ---p 46540000 00:00 0 
+46541000-46640000 rwxp 46541000 00:00 0 
+46640000-46641000 ---p 46640000 00:00 0 
+46641000-46740000 rwxp 46641000 00:00 0 
+46740000-46741000 ---p 46740000 00:00 0 
+46741000-46840000 rwxp 46741000 00:00 0 
+46840000-46841000 ---p 46840000 00:00 0 
+46841000-46940000 rwxp 46841000 00:00 0 
+46940000-46941000 ---p 46940000 00:00 0 
+46941000-46a40000 rwxp 46941000 00:00 0 
+46a40000-46a97000 rwxp 46a40000 00:00 0 
+46b3b000-46b3e000 rwxp 46b3b000 00:00 0 
+46b40000-46bc0000 r-xp 00000000 00:07 571        /dev/ashmem/dalvik-jit-code-cache (deleted)
+46bc0000-46bc1000 ---p 46bc0000 00:00 0 
+46bc1000-46cc0000 rwxp 46bc1000 00:00 0 
+46cc0000-46cc1000 ---p 46cc0000 00:00 0 
+46cc1000-46dc0000 rwxp 46cc1000 00:00 0 
+46dc0000-46ec0000 rwxs 00000000 00:07 659        /dev/ashmem/CursorWindow (deleted)
+46fc0000-46fc1000 ---p 46fc0000 00:00 0 
+46fc1000-470c0000 rwxp 46fc1000 00:00 0 
+47157000-47158000 ---p 47157000 00:00 0 
+47158000-47257000 rwxp 47158000 00:00 0 
+47257000-4725a000 rwxp 47257000 00:00 0 
+4725a000-4725b000 ---p 4725a000 00:00 0 
+4725b000-4735a000 rwxp 4725b000 00:00 0 
+4735a000-4735d000 rwxp 4735a000 00:00 0 
+4735d000-4735e000 ---p 4735d000 00:00 0 
+4735e000-4745d000 rwxp 4735e000 00:00 0 
+4745d000-4745e000 ---p 4745d000 00:00 0 
+4745e000-4755d000 rwxp 4745e000 00:00 0 
+4755d000-4755e000 ---p 4755d000 00:00 0 
+4755e000-4765d000 rwxp 4755e000 00:00 0 
+4765d000-47719000 rwxs 00000000 00:07 867        /dev/ashmem/gralloc-buffer (deleted)
+477b8000-477b9000 ---p 477b8000 00:00 0 
+477b9000-478b8000 rwxp 477b9000 00:00 0 
+478b8000-4798b000 r-xs 00091000 1f:00 417        /system/app/Contacts.apk
+479e5000-47b5d000 rwxp 479e5000 00:00 0 
+47b5d000-47cae000 rwxs 00000000 00:07 854        /dev/ashmem/gralloc-buffer (deleted)
+47cae000-47e25000 rwxs 00000000 00:07 100741     /dev/ashmem/gralloc-buffer (deleted)
+47f74000-48030000 rwxs 00000000 00:07 875        /dev/ashmem/gralloc-buffer (deleted)
+48030000-481a7000 rwxs 00000000 00:07 101313     /dev/ashmem/gralloc-buffer (deleted)
+481a7000-482d0000 r-xs 008e8000 1f:01 742        /data/app/cn.wps.moffice_eng-1.apk
+80000000-800a2000 r-xp 00000000 1f:00 311        /system/lib/libdvm.so
+800a2000-800a9000 rwxp 000a2000 1f:00 311        /system/lib/libdvm.so
+800a9000-800ab000 rwxp 800a9000 00:00 0 
+80100000-80101000 r-xp 00000000 1f:00 350        /system/lib/libnfc_ndef.so
+80101000-80102000 rwxp 00001000 1f:00 350        /system/lib/libnfc_ndef.so
+80200000-80201000 r-xp 00000000 1f:00 353        /system/lib/libstagefright_enc_common.so
+80201000-80202000 rwxp 00001000 1f:00 353        /system/lib/libstagefright_enc_common.so
+80300000-80309000 r-xp 00000000 1f:00 343        /system/lib/libstagefright_foundation.so
+80309000-8030a000 rwxp 00009000 1f:00 343        /system/lib/libstagefright_foundation.so
+80400000-8040f000 r-xp 00000000 1f:00 397        /system/lib/libsensorservice.so
+8040f000-80411000 rwxp 0000f000 1f:00 397        /system/lib/libsensorservice.so
+80500000-80502000 r-xp 00000000 1f:00 366        /system/lib/hw/gralloc.default.so
+80502000-80503000 rwxp 00002000 1f:00 366        /system/lib/hw/gralloc.default.so
+80600000-80602000 r-xp 00000000 1f:00 365        /system/lib/hw/sensors.goldfish.so
+80602000-80603000 rwxp 00002000 1f:00 365        /system/lib/hw/sensors.goldfish.so
+80700000-80702000 r-xp 00000000 1f:00 367        /system/lib/hw/gps.goldfish.so
+80702000-80703000 rwxp 00002000 1f:00 367        /system/lib/hw/gps.goldfish.so
+80800000-80805000 r-xp 00000000 00:0a 1443       /dev/libhello.so (deleted)
+80805000-80807000 rwxp 00004000 00:0a 1443       /dev/libhello.so (deleted)
+80900000-80903000 r-xp 00000000 00:0a 1446       /dev/libhook_open.so (deleted)
+80903000-80905000 rwxp 00002000 00:0a 1446       /dev/libhook_open.so (deleted)
+9d100000-9d139000 r-xp 00000000 1f:00 361        /system/lib/libstlport.so
+9d139000-9d13b000 rwxp 00039000 1f:00 361        /system/lib/libstlport.so
+9d700000-9d732000 r-xp 00000000 1f:00 370        /system/lib/libjpeg.so
+9d732000-9d733000 rwxp 00032000 1f:00 370        /system/lib/libjpeg.so
+a2f00000-a3060000 r-xp 00000000 1f:00 403        /system/lib/libstagefright.so
+a3060000-a306a000 rwxp 00160000 1f:00 403        /system/lib/libstagefright.so
+a306a000-a306b000 rwxp a306a000 00:00 0 
+a3400000-a340d000 r-xp 00000000 1f:00 363        /system/lib/libstagefright_omx.so
+a340d000-a340f000 rwxp 0000d000 1f:00 363        /system/lib/libstagefright_omx.so
+a3500000-a3503000 r-xp 00000000 1f:00 388        /system/lib/libstagefright_color_conversion.so
+a3503000-a3504000 rwxp 00003000 1f:00 388        /system/lib/libstagefright_color_conversion.so
+a3600000-a3605000 r-xp 00000000 1f:00 387        /system/lib/libstagefright_avc_common.so
+a3605000-a3606000 rwxp 00005000 1f:00 387        /system/lib/libstagefright_avc_common.so
+a3700000-a370c000 r-xp 00000000 1f:00 382        /system/lib/libstagefright_amrnb_common.so
+a370c000-a370d000 rwxp 0000c000 1f:00 382        /system/lib/libstagefright_amrnb_common.so
+a7500000-a7502000 r-xp 00000000 1f:00 401        /system/lib/libemoji.so
+a7502000-a7503000 rwxp 00002000 1f:00 401        /system/lib/libemoji.so
+a7c00000-a7c02000 r-xp 00000000 1f:00 331        /system/lib/libsystem_server.so
+a7c02000-a7c03000 rwxp 00002000 1f:00 331        /system/lib/libsystem_server.so
+a7e00000-a7e04000 r-xp 00000000 1f:00 323        /system/lib/libhardware_legacy.so
+a7e04000-a7e05000 rwxp 00004000 1f:00 323        /system/lib/libhardware_legacy.so
+a7f00000-a7f01000 r-xp 00000000 1f:00 322        /system/lib/libhardware.so
+a7f01000-a7f02000 rwxp 00001000 1f:00 322        /system/lib/libhardware.so
+a8000000-a8012000 r-xp 00000000 1f:00 362        /system/lib/libcameraservice.so
+a8012000-a8014000 rwxp 00012000 1f:00 362        /system/lib/libcameraservice.so
+a8100000-a8127000 r-xp 00000000 1f:00 360        /system/lib/libutils.so
+a8127000-a8128000 rwxp 00027000 1f:00 360        /system/lib/libutils.so
+a8200000-a821e000 r-xp 00000000 1f:00 316        /system/lib/libbinder.so
+a821e000-a8224000 rwxp 0001e000 1f:00 316        /system/lib/libbinder.so
+a8300000-a8682000 r-xp 00000000 1f:00 349        /system/lib/libwebcore.so
+a8682000-a86dc000 rwxp 00382000 1f:00 349        /system/lib/libwebcore.so
+a86dc000-a86de000 rwxp a86dc000 00:00 0 
+a8a00000-a8a13000 r-xp 00000000 1f:00 344        /system/lib/libexpat.so
+a8a13000-a8a15000 rwxp 00013000 1f:00 344        /system/lib/libexpat.so
+a8b00000-a8b4d000 r-xp 00000000 1f:00 332        /system/lib/libsqlite.so
+a8b4d000-a8b4f000 rwxp 0004d000 1f:00 332        /system/lib/libsqlite.so
+a8d00000-a8d3a000 r-xp 00000000 1f:00 313        /system/lib/libaudioflinger.so
+a8d3a000-a8d3f000 rwxp 0003a000 1f:00 313        /system/lib/libaudioflinger.so
+a9000000-a9053000 r-xp 00000000 1f:00 319        /system/lib/libmedia.so
+a9053000-a9062000 rwxp 00053000 1f:00 319        /system/lib/libmedia.so
+a9200000-a9222000 r-xp 00000000 1f:00 392        /system/lib/libmediaplayerservice.so
+a9222000-a9226000 rwxp 00022000 1f:00 392        /system/lib/libmediaplayerservice.so
+a9300000-a930c000 r-xp 00000000 1f:00 384        /system/lib/libmedia_jni.so
+a930c000-a930d000 rwxp 0000c000 1f:00 384        /system/lib/libmedia_jni.so
+a9400000-a941c000 r-xp 00000000 1f:00 389        /system/lib/libvorbisidec.so
+a941c000-a941d000 rwxp 0001c000 1f:00 389        /system/lib/libvorbisidec.so
+a9500000-a9551000 r-xp 00000000 1f:00 395        /system/lib/libsonivox.so
+a9551000-a9552000 rwxp 00051000 1f:00 395        /system/lib/libsonivox.so
+a9552000-a9557000 rwxp a9552000 00:00 0 
+a9800000-a9806000 r-xp 00000000 1f:00 338        /system/lib/libsoundpool.so
+a9806000-a9807000 rwxp 00006000 1f:00 338        /system/lib/libsoundpool.so
+a9980000-a9982000 r-xp 00000000 1f:00 328        /system/lib/libeffects.so
+a9982000-a9983000 rwxp 00002000 1f:00 328        /system/lib/libeffects.so
+a9c00000-a9c0a000 r-xp 00000000 1f:00 315        /system/lib/libskiagl.so
+a9c0a000-a9c0b000 rwxp 0000a000 1f:00 315        /system/lib/libskiagl.so
+ab100000-ab210000 r-xp 00000000 1f:00 373        /system/lib/libskia.so
+ab210000-ab214000 rwxp 00110000 1f:00 373        /system/lib/libskia.so
+ab214000-ab217000 rwxp ab214000 00:00 0 
+ab800000-ab80a000 r-xp 00000000 1f:00 376        /system/lib/libgui.so
+ab80a000-ab80c000 rwxp 0000a000 1f:00 376        /system/lib/libgui.so
+ab900000-ab930000 r-xp 00000000 1f:00 398        /system/lib/libui.so
+ab930000-ab933000 rwxp 00030000 1f:00 398        /system/lib/libui.so
+aba80000-aba90000 r-xp 00000000 1f:00 329        /system/lib/libcamera_client.so
+aba90000-aba93000 rwxp 00010000 1f:00 329        /system/lib/libcamera_client.so
+abb00000-abb09000 r-xp 00000000 1f:00 369        /system/lib/libexif.so
+abb09000-abb0a000 rwxp 00009000 1f:00 369        /system/lib/libexif.so
+abb0a000-abb0c000 rwxp abb0a000 00:00 0 
+abd00000-abd02000 r-xp 00000000 1f:00 383        /system/lib/libETC1.so
+abd02000-abd03000 rwxp 00002000 1f:00 383        /system/lib/libETC1.so
+abe00000-abe08000 r-xp 00000000 1f:00 385        /system/lib/libEGL.so
+abe08000-abe09000 rwxp 00008000 1f:00 385        /system/lib/libEGL.so
+abe09000-abe0b000 rwxp abe09000 00:00 0 
+ac100000-ac104000 r-xp 00000000 1f:00 347        /system/lib/libGLESv2.so
+ac104000-ac105000 rwxp 00004000 1f:00 347        /system/lib/libGLESv2.so
+ac200000-ac205000 r-xp 00000000 1f:00 314        /system/lib/libGLESv1_CM.so
+ac205000-ac206000 rwxp 00005000 1f:00 314        /system/lib/libGLESv1_CM.so
+ac400000-ac417000 r-xp 00000000 1f:00 375        /system/lib/egl/libGLES_android.so
+ac417000-ac418000 rwxp 00017000 1f:00 375        /system/lib/egl/libGLES_android.so
+ac500000-ac529000 r-xp 00000000 1f:00 341        /system/lib/libsurfaceflinger.so
+ac529000-ac52d000 rwxp 00029000 1f:00 341        /system/lib/libsurfaceflinger.so
+ac700000-ac717000 r-xp 00000000 1f:00 358        /system/lib/libsurfaceflinger_client.so
+ac717000-ac71a000 rwxp 00017000 1f:00 358        /system/lib/libsurfaceflinger_client.so
+ac900000-ac919000 r-xp 00000000 1f:00 352        /system/lib/libpixelflinger.so
+ac919000-ac91b000 rwxp 00019000 1f:00 352        /system/lib/libpixelflinger.so
+ad100000-ad12c000 r-xp 00000000 1f:00 312        /system/lib/libnativehelper.so
+ad12c000-ad12f000 rwxp 0002c000 1f:00 312        /system/lib/libnativehelper.so
+ad300000-ad375000 r-xp 00000000 1f:00 391        /system/lib/libandroid_runtime.so
+ad375000-ad37d000 rwxp 00075000 1f:00 391        /system/lib/libandroid_runtime.so
+ad37d000-ad37e000 rwxp ad37d000 00:00 0 
+ad900000-ad9f5000 r-xp 00000000 1f:00 309        /system/lib/libicui18n.so
+ad9f5000-ad9fa000 rwxp 000f5000 1f:00 309        /system/lib/libicui18n.so
+ade00000-adec1000 r-xp 00000000 1f:00 317        /system/lib/libicuuc.so
+adec1000-adec9000 rwxp 000c1000 1f:00 317        /system/lib/libicuuc.so
+adec9000-adecc000 rwxp adec9000 00:00 0 
+ae200000-ae20e000 r-xp 00000000 1f:00 345        /system/lib/libandroid_servers.so
+ae20e000-ae20f000 rwxp 0000e000 1f:00 345        /system/lib/libandroid_servers.so
+ae20f000-ae210000 rwxp ae20f000 00:00 0 
+ae300000-ae304000 r-xp 00000000 1f:00 357        /system/lib/libnetutils.so
+ae304000-ae305000 rwxp 00004000 1f:00 357        /system/lib/libnetutils.so
+ae400000-ae402000 r-xp 00000000 1f:00 325        /system/lib/libwpa_client.so
+ae402000-ae403000 rwxp 00002000 1f:00 325        /system/lib/libwpa_client.so
+af000000-af0af000 r-xp 00000000 1f:00 321        /system/lib/libcrypto.so
+af0af000-af0bf000 rwxp 000af000 1f:00 321        /system/lib/libcrypto.so
+af0bf000-af0c1000 rwxp af0bf000 00:00 0 
+af400000-af42a000 r-xp 00000000 1f:00 333        /system/lib/libssl.so
+af42a000-af42e000 rwxp 0002a000 1f:00 333        /system/lib/libssl.so
+af700000-af714000 r-xp 00000000 1f:00 320        /system/lib/libz.so
+af714000-af715000 rwxp 00014000 1f:00 320        /system/lib/libz.so
+af900000-af90e000 r-xp 00000000 1f:00 310        /system/lib/libcutils.so
+af90e000-af90f000 rwxp 0000e000 1f:00 310        /system/lib/libcutils.so
+af90f000-af91e000 rwxp af90f000 00:00 0 
+afa00000-afa03000 r-xp 00000000 1f:00 380        /system/lib/liblog.so
+afa03000-afa04000 rwxp 00003000 1f:00 380        /system/lib/liblog.so
+afb00000-afb20000 r-xp 00000000 1f:00 348        /system/lib/libm.so
+afb20000-afb21000 rwxp 00020000 1f:00 348        /system/lib/libm.so
+afc00000-afc01000 r-xp 00000000 1f:00 326        /system/lib/libstdc++.so
+afc01000-afc02000 rwxp 00001000 1f:00 326        /system/lib/libstdc++.so
+afd00000-afd40000 r-xp 00000000 1f:00 351        /system/lib/libc.so
+afd40000-afd43000 rwxp 00040000 1f:00 351        /system/lib/libc.so
+afd43000-afd4e000 rwxp afd43000 00:00 0 
+b0001000-b0009000 r-xp 00001000 1f:00 606        /system/bin/linker
+b0009000-b000a000 rwxp 00009000 1f:00 606        /system/bin/linker
+b000a000-b0013000 rwxp b000a000 00:00 0 
+be892000-be8a7000 rw-p befeb000 00:00 0          [stack]

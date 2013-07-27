@@ -1,0 +1,1716 @@
+D/inject  ( 1743): [+] Target process returned from mmap, return value=44e5b000, pc=0 
+D/inject  ( 1743): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  ( 1743): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  ( 1743): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  ( 1743): [+] Get imports: dlopen: b00059bd, dlsym: b0005915, dlclose: b0005849
+D/inject  ( 1743): [+] Inject code start: c008, end: c084
+D/inject  ( 1743): [+] _dlopen_param1_s: 44e5ec9c
+D/inject  ( 1743): [+] _dlsym_param2_s: 44e5ed9c
+D/inject  ( 1743): [+] _saved_r0_pc_s: 44e5ee9c
+D/inject  ( 1743): [+] _inject_function_param_s: 44e5ef9c
+D/inject  ( 1743): [+] Remote shellcode address: 44e5ec00
+D/inject  ( 1743): [+] Process Detach: 10
+D/inject  ( 1542): hello ARM! I'm parameter1324! pid:1542
+D/inject  ( 1542): The Handle of libhook_open: b000d2b0
+D/inject  ( 1542): find it pre 0
+D/inject  ( 1542): find it 80601424
+D/inject  ( 1542): [+] aaaaaaa do_hook function is invoked 
+D/inject  ( 1542): [+] open addr: 0xafd17111. New addr 0x8060132c
+D/inject  ( 1542): [+] just for test info 
+D/inject  ( 1542): [+] set ok 
+D/inject  ( 1542): [+] Get the persist.sys.test  bbbbbbbb
+D/inject  ( 1542): [+] just for test print old_open address 0xafd17111
+D/inject  ( 1542): [+] just for test print new_open address 0x8060132c
+D/inject  ( 1542): [+] Get old address global  afd17111
+D/inject  ( 1542): [+] Get new address global  8060132c
+D/inject  ( 1542): [+] binder path ad100000
+D/inject  ( 1542): [+] Section header table file offset 2e23c
+D/inject  ( 1542): [+] Section header table entry count 15
+D/inject  ( 1542): [+] Section header table entry size 28
+D/inject  ( 1542): [+] Section header string table index 14
+D/inject  ( 1542): [+] Object file type 3
+D/inject  ( 1542): [+] Object file version 1
+D/inject  ( 1542): [+] Out_addr in GOT table before 0
+D/inject  ( 1542): [+] Out_size of func in GOT table before 0
+D/inject  ( 1542): [+] Out_addr in GOT table ad12c138
+D/inject  ( 1542): [+] Out_size of func in GOT table 8c4
+D/inject  ( 1542): [+] Out_addr in GOT table ad12c138
+D/inject  ( 1542): [+] Out_size of func in GOT table 8c4
+D/inject  ( 1542): [+] Out_addr in GOT afd4d5c8
+D/inject  ( 1542): [+] old open address 20000 afd17111
+D/inject  ( 1542): [+] Out_addr in GOT 464c457f
+D/inject  ( 1542): [+] target pid 606
+D/inject  ( 1542): [+] old open address 22223 afd17111
+D/inject  ( 1542): [+] Find got_item ff 
+D/inject  ( 1542): [+] old open address 3333 afd17111
+D/inject  ( 1542): [+] old open address 3333 afffffff
+D/inject  ( 1542): [+] new open address 3333 8060132c
+D/inject  ( 1542): [+] new open address 3333 8060132c
+D/inject  ( 1542): [+] Find got item afd4d5c8 
+D/inject  ( 1542): [+] Find got item ad12e2a4 
+D/inject  ( 1542): [+] Find got item ad12e28c 
+D/inject  ( 1542): [+] Find got item ad12e268 
+D/inject  ( 1542): [+] Find got item ad12e258 
+D/inject  ( 1542): [+] Find got item afd4631c 
+D/inject  ( 1542): [+] Find got item ad12e298 
+D/inject  ( 1542): [+] Find got item ad12e250 
+D/inject  ( 1542): [+] Find got item ad12e280 
+D/inject  ( 1542): [+] Find got item ad12e294 
+D/inject  ( 1542): [+] Find got item ad12e260 
+D/inject  ( 1542): [+] Find got item ad12e278 
+D/inject  ( 1542): [+] Find got item afd415c0 
+D/inject  ( 1542): [+] Find got item ad12e2a8 
+D/inject  ( 1542): [+] Find got item ad12e274 
+D/inject  ( 1542): [+] Find got item ad12e27c 
+D/inject  ( 1542): [+] Find got item ad12e248 
+D/inject  ( 1542): [+] Find got item ad12e2a0 
+D/inject  ( 1542): [+] Find got item ad12e25c 
+D/inject  ( 1542): [+] Find got item ad12e270 
+D/inject  ( 1542): [+] Find got item ad12e288 
+D/inject  ( 1542): [+] Find got item ad12e264 
+D/inject  ( 1542): [+] Find got item ad12e284 
+D/inject  ( 1542): [+] Find got item ad9bc7f1 
+D/inject  ( 1542): [+] Find got item ad9bc7f9 
+D/inject  ( 1542): [+] Find got item ade45f55 
+D/inject  ( 1542): [+] Find got item ade45f69 
+D/inject  ( 1542): [+] Find got item ad9bb339 
+D/inject  ( 1542): [+] Find got item ad9bb341 
+D/inject  ( 1542): [+] Find got item ad9b481d 
+D/inject  ( 1542): [+] Find got item ad9b4831 
+D/inject  ( 1542): [+] Find got item ad9a5561 
+D/inject  ( 1542): [+] Find got item ad9a5569 
+D/inject  ( 1542): [+] Find got item ade31305 
+D/inject  ( 1542): [+] Find got item ade3130d 
+D/inject  ( 1542): [+] Find got item ad12e240 
+D/inject  ( 1542): [+] Find got item ad12e244 
+D/inject  ( 1542): [+] Find got item ad12e24c 
+D/inject  ( 1542): [+] Find got item ad12e254 
+D/inject  ( 1542): [+] Find got item ad12e26c 
+D/inject  ( 1542): [+] Find got item ad12e290 
+D/inject  ( 1542): [+] Find got item ad12e29c 
+D/inject  ( 1542): [+] Find got item ade5f751 
+D/inject  ( 1542): [+] Find got item ade5f749 
+D/inject  ( 1542): [+] Find got item ade5f74d 
+D/inject  ( 1542): [+] Find got item adec6b68 
+D/inject  ( 1542): [+] Find got item ad12ca00 
+D/inject  ( 1542): [+] Find got item afd42610 
+D/inject  ( 1542): [+] Find got item 0 
+D/inject  ( 1542): [+] Find got item 0 
+D/inject  ( 1542): [+] Find got item 0 
+D/inject  ( 1542): [+] Find got item afd2092d 
+D/inject  ( 1542): [+] Find got item afd19c3d 
+D/inject  ( 1542): [+] Find got item afd20a45 
+D/inject  ( 1542): [+] Find got item af9038e5 
+D/inject  ( 1542): [+] Find got item afd28321 
+D/inject  ( 1542): [+] Find got item af9037b1 
+D/inject  ( 1542): [+] Find got item afd1c87d 
+D/inject  ( 1542): [+] Find got item ade3a295 
+D/inject  ( 1542): [+] Find got item ade394bd 
+D/inject  ( 1542): [+] Find got item ade39c31 
+D/inject  ( 1542): [+] Find got item ad9a4ef5 
+D/inject  ( 1542): [+] Find got item ad96a6b1 
+D/inject  ( 1542): [+] Find got item ade39141 
+D/inject  ( 1542): [+] Find got item ad99e381 
+D/inject  ( 1542): [+] Find got item ad96a3f1 
+D/inject  ( 1542): [+] Find got item ad99d059 
+D/inject  ( 1542): [+] Find got item ade256f1 
+D/inject  ( 1542): [+] Find got item ad9a3e51 
+D/inject  ( 1542): [+] Find got item ad9a3839 
+D/inject  ( 1542): [+] Find got item afd25c95 
+D/inject  ( 1542): [+] Find got item afd11fbd 
+D/inject  ( 1542): [+] Find got item afd17049 
+D/inject  ( 1542): [+] Find got item afd0bba0 
+D/inject  ( 1542): [+] Find got item afd0bad0 
+D/inject  ( 1542): [+] Find got item afd0e3e0 
+D/inject  ( 1542): [+] Find got item afd0e3f4 
+D/inject  ( 1542): [+] Find got item afd29855 
+D/inject  ( 1542): [+] Find got item afd0bc40 
+D/inject  ( 1542): [+] Find got item afc009e1 
+D/inject  ( 1542): [+] Find got item afd0bc00 
+D/inject  ( 1542): [+] Find got item afc009c1 
+D/inject  ( 1542): [+] Find got item afd0bbe0 
+D/inject  ( 1542): [+] Find got item afd14de4 
+D/inject  ( 1542): [+] Find got item afd20859 
+D/inject  ( 1542): [+] Find got item afc009e9 
+D/inject  ( 1542): [+] Find got item afd172fd 
+D/inject  ( 1542): [+] Find got item afd3742d 
+D/inject  ( 1542): [+] Find got item afd17249 
+D/inject  ( 1542): [+] Find got item afd171a1 
+D/inject  ( 1542): [+] Find got item afc009c9 
+D/inject  ( 1542): [+] Find got item afd17ac5 
+D/inject  ( 1542): [+] Find got item afd0bc80 
+D/inject  ( 1542): [+] Find got item afd19a49 
+D/inject  ( 1542): [+] Find got item afd17111 
+D/inject  ( 1542): [+] Find open and replace 
+D/inject  ( 1542): [+]-----------open test txt file-----------
+D/inject  ( 1542): [+] The New open path /mnt/sdcard/documents/test.txt
+D/inject  ( 1542): [+] The New open count 1
+D/inject  ( 1542): [+] test copy file
+D/inject  ( 1542): [+] The old file fd 47
+D/inject  ( 1542): [+] The copy file fd 48
+D/inject  ( 1542): [+] The New open file fd 47
+D/inject  ( 1542): [+] The Name of fd /mnt/sdcard/documents/testcopy1.txt
+D/inject  ( 1542): [+] The S of fd /proc/1542/fd/47
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 184
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 185
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 186
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 187
+D/inject  (  419): [+] The old openfile fd 40
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 188
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 189
+D/inject  (  419): [+] The old openfile fd 40
+I/dalvikvm(  255): Jit: resizing JitTable from 512 to 1024
+W/InputManagerService(   61): Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@407b86b0
+D/inject  ( 1542): [+]-----------open test txt file-----------
+D/inject  ( 1542): [+] The New open path /mnt/sdcard/documents/test.txt
+D/inject  ( 1542): [+] The New open count 2
+D/inject  ( 1542): [+] test copy file
+D/inject  ( 1542): [+] The old file fd 48
+D/inject  ( 1542): [+] The copy file fd 49
+D/inject  ( 1542): [+] The New open file fd 48
+D/inject  ( 1542): [+] The Name of fd /mnt/sdcard/documents/testcopy1.txt
+D/inject  ( 1542): [+] The S of fd /proc/1542/fd/48
+D/dalvikvm(  118): GC_CONCURRENT freed 290K, 46% free 3517K/6471K, external 6397K/7268K, paused 3ms+3ms
+W/KeyCharacterMap(  118): No keyboard for id 0
+W/KeyCharacterMap(  118): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+D/inject  ( 1542): [+]-----------open test txt file-----------
+D/inject  ( 1542): [+] The New open path /mnt/sdcard/documents/testcopy1.txt
+D/inject  ( 1542): [+] The New open count 3
+D/inject  ( 1542): [+] The old openfile fd 49
+W/KeyCharacterMap( 1542): No keyboard for id 0
+W/KeyCharacterMap( 1542): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+D/inject  ( 1542): [+]-----------open test txt file-----------
+D/inject  ( 1542): [+] The New open path /mnt/sdcard/documents/test.txt
+D/inject  ( 1542): [+] The New open count 4
+D/inject  ( 1542): [+] test copy file
+D/inject  ( 1542): [+] The old file fd 50
+D/inject  ( 1542): [+] The copy file fd 51
+D/inject  ( 1542): [+] The New open file fd 50
+D/inject  ( 1542): [+] The Name of fd /mnt/sdcard/documents/testcopy1.txt
+D/inject  ( 1542): [+] The S of fd /proc/1542/fd/50
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher/com.android.launcher2.Launcher } from pid 61
+W/InputManagerService(   61): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@4063a640 (uid=10042 pid=1542)
+W/IInputConnectionWrapper( 1542): showStatusIcon on inactive InputConnection
+D/dalvikvm( 1542): GC_EXPLICIT freed 200K, 52% free 2631K/5447K, external 1657K/2137K, paused 435ms
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity } from pid 145
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 190
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  419): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager } from pid 419
+W/ActivityManager(   61): Duplicate finish request for HistoryRecord{407c7f50 cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity}
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 191
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  419): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 192
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 193
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  419): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 194
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  419): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 195
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  419): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 196
+D/inject  (  419): [+] The old openfile fd 40
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/cloudsetting
+D/inject  (  419): [+] The New open count 197
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/cloudsetting
+D/inject  (  419): [+] The New open count 198
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 199
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  419): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 200
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 201
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  419): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.startactivity.writer.StartWriterActivity1 (has extras) } from pid 419
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.writer.Writer1 (has extras) } from pid 483
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/water   (  483): packageName: cn.wps.moffice_eng
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/HistoryRecordDataSource
+D/inject  (  419): [+] The New open count 202
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /mnt/sdcard/documents/test.txt
+D/inject  (  419): [+] The New open count 203
+D/inject  (  419): [+] test copy file
+D/inject  (  419): [+] The old file fd 40
+D/inject  (  419): [+] The copy file fd 60
+D/inject  (  419): [+] The New open file fd 40
+D/inject  (  419): [+] The Name of fd /mnt/sdcard/documents/testcopy1.txt
+D/inject  (  419): [+] The S of fd /proc/419/fd/40
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/.connectionPersistence
+D/inject  (  419): [+] The New open count 204
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/ActivityManager(   61): Displayed cn.wps.moffice_eng/cn.wps.moffice.writer.Writer1: +1s385ms (total +5s111ms)
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/lable.db
+D/inject  (  419): [+] The New open count 205
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  483): GC_EXTERNAL_ALLOC freed 1074K, 42% free 5304K/9095K, external 12463K/13711K, paused 83ms
+D/dalvikvm(  483): GC_EXTERNAL_ALLOC freed 59K, 43% free 5267K/9095K, external 15732K/16136K, paused 71ms
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/lable.db
+D/inject  (  419): [+] The New open count 206
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  419): GC_CONCURRENT freed 1589K, 47% free 4912K/9159K, external 5713K/6579K, paused 4ms+9ms
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 207
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 208
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/lable.db
+D/inject  (  419): [+] The New open count 209
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  145): GC_EXPLICIT freed 56K, 50% free 2962K/5895K, external 6442K/7612K, paused 49ms
+D/dalvikvm(  118): GC_EXTERNAL_ALLOC freed 311K, 47% free 3482K/6471K, external 6963K/7268K, paused 588ms
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/lable.db
+D/inject  (  419): [+] The New open count 210
+D/inject  (  419): [+] The old openfile fd 40
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.writer.Writer1 (has extras) } from pid 483
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/lable.db
+D/inject  (  419): [+] The New open count 211
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/lable.db
+D/inject  (  419): [+] The New open count 212
+D/inject  (  419): [+] The old openfile fd 40
+W/KeyCharacterMap(   61): No keyboard for id 0
+W/KeyCharacterMap(   61): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+W/InputManagerService(   61): Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@407f33c8
+W/KeyCharacterMap(  118): No keyboard for id 0
+W/KeyCharacterMap(  118): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+W/KeyCharacterMap(  483): No keyboard for id 0
+W/KeyCharacterMap(  483): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  483): GC_CONCURRENT freed 1501K, 44% free 5374K/9543K, external 18535K/19061K, paused 5ms+4ms
+D/dalvikvm(  483): GC_EXTERNAL_ALLOC freed 21K, 44% free 5352K/9543K, external 18508K/19061K, paused 73ms
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager } from pid 483
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/lable.db
+D/inject  (  419): [+] The New open count 213
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 214
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  419): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 215
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 216
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  419): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 217
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  419): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 218
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  419): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 219
+D/inject  (  419): [+] The old openfile fd 40
+W/IInputConnectionWrapper(  483): showStatusIcon on inactive InputConnection
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/cloudsetting
+D/inject  (  419): [+] The New open count 220
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/cloudsetting
+D/inject  (  419): [+] The New open count 221
+D/inject  (  419): [+] The old openfile fd 40
+I/System.out(  419): flushRecord:f88f681f-f3cd-41aa-ae9b-7557bba0320e
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /mnt/sdcard/Android/data/cn.wps.moffice_eng/cache/KingsoftOffice/file/.timeBox/HistoryRecord/records/f88f681f-f3cd-41aa-ae9b-7557bba0320e
+D/inject  (  419): [+] The New open count 222
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /mnt/sdcard/Android/data/cn.wps.moffice_eng/cache/KingsoftOffice/file/.timeBox/HistoryRecord/persistence/records_upload_list
+D/inject  (  419): [+] The New open count 223
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /mnt/sdcard/Android/data/cn.wps.moffice_eng/cache/KingsoftOffice/file/.timeBox/HistoryRecord/persistence/records_upload_list
+D/inject  (  419): [+] The New open count 224
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/cloudsetting
+D/inject  (  419): [+] The New open count 225
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/cloudsetting
+D/inject  (  419): [+] The New open count 226
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 227
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  419): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 228
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/AppPersistence
+D/inject  (  419): [+] The New open count 229
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  419): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.startactivity.writer.StartWriterActivity1 (has extras) } from pid 419
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.writer.Writer1 (has extras) } from pid 483
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/water   (  483): packageName: cn.wps.moffice_eng
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /mnt/sdcard/KingsoftOffice/.history/HistoryRecordDataSource
+D/inject  (  419): [+] The New open count 230
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /mnt/sdcard/documents/test.txt
+D/inject  (  419): [+] The New open count 231
+D/inject  (  419): [+] test copy file
+D/inject  (  419): [+] The old file fd 40
+D/inject  (  419): [+] The copy file fd 60
+D/inject  (  419): [+] The New open file fd 40
+D/inject  (  419): [+] The Name of fd /mnt/sdcard/documents/testcopy1.txt
+D/inject  (  419): [+] The S of fd /proc/419/fd/40
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/.cloud/.connectionPersistence
+D/inject  (  419): [+] The New open count 232
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/lable.db
+D/inject  (  419): [+] The New open count 233
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  483): GC_EXTERNAL_ALLOC freed 1402K, 42% free 5585K/9607K, external 15977K/17255K, paused 101ms
+I/ActivityManager(   61): Displayed cn.wps.moffice_eng/cn.wps.moffice.writer.Writer1: +1s509ms (total +1s548ms)
+D/dalvikvm(  483): GC_EXTERNAL_ALLOC freed 72K, 43% free 5535K/9607K, external 16502K/16905K, paused 76ms
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/lable.db
+D/inject  (  419): [+] The New open count 234
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  483): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher/com.android.launcher2.Launcher } from pid 61
+W/IInputConnectionWrapper(  483): showStatusIcon on inactive InputConnection
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=in.wptraffcianalyzer.filereadwritedemo/demo.MainActivity } from pid 145
+D/inject  ( 1542): [+]-----------open test txt file-----------
+D/inject  ( 1542): [+] The New open path /mnt/sdcard/documents/test.txt
+D/inject  ( 1542): [+] The New open count 5
+D/inject  ( 1542): [+] test copy file
+D/inject  ( 1542): [+] The old file fd 38
+D/inject  ( 1542): [+] The copy file fd 48
+D/inject  ( 1542): [+] The New open file fd 38
+D/inject  ( 1542): [+] The Name of fd /mnt/sdcard/documents/testcopy1.txt
+D/inject  ( 1542): [+] The S of fd /proc/1542/fd/38
+D/dalvikvm(  483): GC_EXPLICIT freed 153K, 43% free 5555K/9607K, external 17995K/19830K, paused 75ms
+D/dalvikvm(  419): GC_EXPLICIT freed 1382K, 51% free 4497K/9159K, external 5713K/6579K, paused 125ms
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 235
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 236
+D/inject  (  419): [+] The old openfile fd 40
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher/com.android.launcher2.Launcher } from pid 61
+W/InputManagerService(   61): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@4063a640 (uid=10042 pid=1542)
+W/IInputConnectionWrapper( 1542): showStatusIcon on inactive InputConnection
+D/AndroidRuntime( 2877): 
+D/AndroidRuntime( 2877): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+D/AndroidRuntime( 2877): CheckJNI is ON
+D/AndroidRuntime( 2877): Calling main entry com.android.commands.pm.Pm
+D/dalvikvm( 1542): GC_EXPLICIT freed 53K, 52% free 2629K/5447K, external 1657K/2137K, paused 1045ms
+D/dalvikvm( 1135): GC_EXPLICIT freed 4K, 54% free 2545K/5511K, external 1625K/2137K, paused 44ms
+W/ActivityManager(   61): No content provider found for: 
+W/ActivityManager(   61): No content provider found for: 
+D/PackageParser(   61): Scanning package: /data/app/vmdl-809989602.tmp
+W/PackageParser(   61): No actions in intent filter at /data/app/vmdl-809989602.tmp Binary XML file line #427
+D/dalvikvm(   61): GC_CONCURRENT freed 1104K, 45% free 4768K/8519K, external 3454K/3903K, paused 4ms+8ms
+I/dalvikvm(   61): Total arena pages for JIT: 11
+D/dalvikvm(   61): GC_FOR_MALLOC freed 446K, 44% free 5002K/8775K, external 3127K/3903K, paused 59ms
+I/dalvikvm(   61): Jit: resizing JitTable from 2048 to 4096
+D/dalvikvm(   61): GC_FOR_MALLOC freed 475K, 39% free 5543K/9031K, external 3127K/3903K, paused 59ms
+D/dalvikvm(   61): GC_CONCURRENT freed 1236K, 40% free 5808K/9671K, external 3127K/3903K, paused 5ms+5ms
+D/dalvikvm(   61): GC_CONCURRENT freed 1548K, 42% free 5844K/10055K, external 3127K/3903K, paused 5ms+12ms
+D/dalvikvm(   61): GC_CONCURRENT freed 1553K, 42% free 5864K/10055K, external 3127K/3903K, paused 10ms+11ms
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=cn.wps.livespace/cn.kuaipan.android.home.LogoActivity } from pid 145
+I/ActivityManager(   61): Start proc cn.wps.livespace for activity cn.wps.livespace/cn.kuaipan.android.home.LogoActivity: pid=2892 uid=10039 gids={3003, 1015, 1006}
+D/dalvikvm(   61): GC_CONCURRENT freed 1537K, 42% free 5867K/10055K, external 3127K/3903K, paused 4ms+6ms
+D/dalvikvm(   61): GC_CONCURRENT freed 1570K, 43% free 5862K/10119K, external 3127K/3903K, paused 5ms+6ms
+D/PackageManager(   61): Scanning package com.qq.reader
+I/PackageManager(   61): Unpacking native libraries for /data/app/com.qq.reader-1.apk
+D/dalvikvm(   61): GC_CONCURRENT freed 1349K, 40% free 6080K/10119K, external 3127K/3903K, paused 4ms+21ms
+D/installd(   35): DexInv: --- BEGIN '/data/app/com.qq.reader-1.apk' ---
+D/dalvikvm( 2906): DexOpt: 'Landroid/os/FileUtils;' has an earlier definition; blocking out
+D/dalvikvm( 2906): DexOpt: 'Lorg/apache/commons/logging/Log;' has an earlier definition; blocking out
+D/dalvikvm( 2906): DexOpt: 'Lorg/apache/commons/logging/LogConfigurationException;' has an earlier definition; blocking out
+D/dalvikvm( 2906): DexOpt: 'Lorg/apache/commons/logging/LogFactory$1;' has an earlier definition; blocking out
+D/dalvikvm( 2906): DexOpt: 'Lorg/apache/commons/logging/LogFactory$2;' has an earlier definition; blocking out
+D/dalvikvm( 2906): DexOpt: 'Lorg/apache/commons/logging/LogFactory$3;' has an earlier definition; blocking out
+D/dalvikvm( 2906): DexOpt: 'Lorg/apache/commons/logging/LogFactory;' has an earlier definition; blocking out
+D/dalvikvm( 2906): DexOpt: 'Lorg/apache/commons/logging/LogSource;' has an earlier definition; blocking out
+D/dalvikvm( 2906): DexOpt: 'Lorg/apache/commons/logging/impl/Jdk14Logger;' has an earlier definition; blocking out
+D/dalvikvm( 2906): DexOpt: 'Lorg/apache/commons/logging/impl/LogFactoryImpl;' has an earlier definition; blocking out
+D/dalvikvm( 2906): DexOpt: 'Lorg/apache/commons/logging/impl/NoOpLog;' has an earlier definition; blocking out
+D/dalvikvm( 2906): DexOpt: 'Lorg/apache/commons/logging/impl/SimpleLog$1;' has an earlier definition; blocking out
+D/dalvikvm( 2906): DexOpt: 'Lorg/apache/commons/logging/impl/SimpleLog;' has an earlier definition; blocking out
+D/dalvikvm( 2906): DexOpt: not verifying 'Landroid/os/FileUtils;': multiple definitions
+I/dalvikvm( 2906): DexOpt: not resolving ambiguous class 'Landroid/os/FileUtils;'
+I/dalvikvm( 2906): DexOpt: not resolving ambiguous class 'Landroid/os/FileUtils;'
+I/dalvikvm( 2906): DexOpt: not resolving ambiguous class 'Lorg/apache/commons/logging/LogFactory;'
+I/dalvikvm( 2906): DexOpt: not resolving ambiguous class 'Lorg/apache/commons/logging/LogFactory;'
+I/dalvikvm( 2906): DexOpt: not resolving ambiguous class 'Lorg/apache/commons/logging/LogFactory;'
+I/dalvikvm( 2906): DexOpt: not resolving ambiguous class 'Lorg/apache/commons/logging/LogFactory;'
+I/dalvikvm( 2906): DexOpt: not resolving ambiguous class 'Lorg/apache/commons/logging/LogFactory;'
+I/dalvikvm( 2906): DexOpt: not resolving ambiguous class 'Lorg/apache/commons/logging/LogFactory;'
+I/dalvikvm( 2906): DexOpt: not resolving ambiguous class 'Lorg/apache/commons/logging/LogFactory;'
+I/dalvikvm( 2906): DexOpt: not resolving ambiguous class 'Lorg/apache/commons/logging/LogFactory;'
+I/dalvikvm( 2906): DexOpt: not resolving ambiguous class 'Lorg/apache/commons/logging/LogFactory;'
+D/dalvikvm( 2906): DexOpt: not verifying 'Lorg/apache/commons/logging/Log;': multiple definitions
+D/dalvikvm( 2906): DexOpt: not verifying 'Lorg/apache/commons/logging/LogConfigurationException;': multiple definitions
+D/dalvikvm( 2906): DexOpt: not verifying 'Lorg/apache/commons/logging/LogFactory$1;': multiple definitions
+D/dalvikvm( 2906): DexOpt: not verifying 'Lorg/apache/commons/logging/LogFactory$2;': multiple definitions
+D/dalvikvm( 2906): DexOpt: not verifying 'Lorg/apache/commons/logging/LogFactory$3;': multiple definitions
+D/dalvikvm( 2906): DexOpt: not verifying 'Lorg/apache/commons/logging/LogFactory;': multiple definitions
+D/dalvikvm( 2906): DexOpt: not verifying 'Lorg/apache/commons/logging/LogSource;': multiple definitions
+D/dalvikvm( 2906): DexOpt: not verifying 'Lorg/apache/commons/logging/impl/Jdk14Logger;': multiple definitions
+I/dalvikvm( 2906): DexOpt: not resolving ambiguous class 'Lorg/apache/commons/logging/impl/LogFactoryImpl;'
+D/dalvikvm( 2906): DexOpt: not verifying 'Lorg/apache/commons/logging/impl/LogFactoryImpl;': multiple definitions
+D/dalvikvm( 2906): DexOpt: not verifying 'Lorg/apache/commons/logging/impl/NoOpLog;': multiple definitions
+D/dalvikvm( 2906): DexOpt: not verifying 'Lorg/apache/commons/logging/impl/SimpleLog$1;': multiple definitions
+D/dalvikvm( 2906): DexOpt: not verifying 'Lorg/apache/commons/logging/impl/SimpleLog;': multiple definitions
+D/dalvikvm( 2906): DexOpt: load 349ms, verify+opt 3515ms
+D/installd(   35): DexInv: --- END '/data/app/com.qq.reader-1.apk' (success) ---
+D/PackageManager(   61):   Services: com.qq.reader.music.core.QQPlayerService com.tencent.appwallsdk.service.DownloadService
+D/PackageManager(   61):   Receivers: com.qq.reader.widget.ReaderWidget com.qq.reader.music.core.MediaButtonIntentReceiver com.qq.reader.plugin.wps.WPSReceiver com.qq.reader.pay.chapter.ChapterDownloadReceiver com.qq.reader.alarm.NewUserAlarmReceiver com.qq.reader.bookfollow.OrderBookReceiver
+D/PackageManager(   61):   Activities: com.qq.reader.ReaderPage com.qq.reader.OnlineHistoryActivity com.qq.reader.mark.TabViewActivity com.qq.reader.mark.BookMarkActivity com.qq.reader.mark.BookStandActivity com.qq.reader.picbrowser.PictureActivity com.qq.reader.web.WebBrowser com.qq.reader.web.VIPBrowser com.qq.reader.web.WebBrowserForContents com.qq.reader.SuggestActivity com.qq.reader.AllBookNoteActivity com.qq.reader.OneBookNoteActivity com.qq.reader.SplashActivity com.qq.reader.SwitchViewActivity com.qq.reader.TypeContext com.qq.reader.MainActivity com.qq.reader.ProfileActivity com.tencent.pdf.PdfNewActivity com.tencent.chm.ChmReaderPage com.qq.reader.ImportBookActivity com.qq.reader.LocalBookActivity com.qq.reader.plugin.PlugInDefaultActivity com.qq.reader.plugin.PlugInFontsActivity com.qq.reader.plugin.PlugInListActivity com.tencent.epub.ImageViewActivity com.qq.reader.qqdisk.QQDiskActivity com.qq.reader.music.MusicActivity com.qq.reader.decompress.ArchiveFileBrowser com.qq.reader.cloud.CloudBookListActivity com.qq.reader.online.OnlineChapterActivity com.qq.reader.pay.chapter.ChapterPayActivity com.qq.reader.alarm.NewUserAlarmActivity com.qq.reader.wxapi.WXEntryActivity com.qq.reader.wxapi.WXShareBookActivity com.tencent.appwallsdk.activity.QQAppWallActivity
+D/PackageManager(   61):   Permissions: com.qq.reader.permission.MM_MESSAGE
+I/installd(   35): move /data/dalvik-cache/data@app@com.qq.reader-1.apk@classes.dex -> /data/dalvik-cache/data@app@com.qq.reader-1.apk@classes.dex
+D/PackageManager(   61): New package installed in /data/app/com.qq.reader-1.apk
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH.mail in package com.android.contacts
+W/PackageManager(   61): Unknown permission android.permission.ADD_SYSTEM_SERVICE in package com.android.phone
+W/PackageManager(   61): Unknown permission com.android.vending.BILLING in package cn.wps.moffice_eng
+W/PackageManager(   61): Not granting permission com.android.email.permission.ACCESS_PROVIDER to package cn.wps.moffice_eng (protectionLevel=3 flags=0x8be44)
+W/PackageManager(   61): Not granting permission android.permission.SEND_DOWNLOAD_COMPLETED_INTENTS to package com.android.browser (protectionLevel=2 flags=0x9be45)
+W/PackageManager(   61): Unknown permission com.google.android.gm.permission.WRITE_GMAIL in package com.android.settings
+W/PackageManager(   61): Unknown permission com.google.android.gm.permission.READ_GMAIL in package com.android.settings
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH in package com.android.settings
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH in package com.android.providers.contacts
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH.cp in package com.android.providers.contacts
+W/PackageManager(   61): Unknown permission com.android.launcher.permission.CREATE_SHORTCUT in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission org.adw.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission org.adw.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.qihoo360.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.qihoo360.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.lge.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.lge.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission net.qihoo.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission net.qihoo.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission org.adwfreak.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission org.adwfreak.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.huawei.launcher3.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.huawei.launcher3.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.fede.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.fede.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.sec.android.app.twlauncher.settings.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.sec.android.app.twlauncher.settings.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Not granting permission android.permission.ACCESS_DRM to package com.wandoujia.phoenix2 (protectionLevel=2 flags=0x8be44)
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.ACCESS_GOOGLE_PASSWORD in package com.android.development
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH in package com.android.development
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH.ALL_SERVICES in package com.android.development
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH.YouTubeUser in package com.android.development
+W/PackageManager(   61): Not granting permission android.permission.SET_PREFERRED_APPLICATIONS to package com.mx.browser (protectionLevel=2 flags=0x8be44)
+W/PackageManager(   61): Unknown permission android.permission.READ_OWNER_DATA in package com.android.email
+W/PackageManager(   61): Not granting permission android.permission.DEVICE_POWER to package com.android.deskclock (protectionLevel=2 flags=0x8be45)
+I/ActivityManager(   61): Force stopping package com.qq.reader uid=10044
+I/dalvikvm( 2892): Total arena pages for JIT: 11
+V/KssApp  ( 2892): Process: cn.wps.livespace started
+V/KssApp  ( 2892): Application Created.
+D/ImageCache( 2892): ImageCache MaxSize set to 8388608
+D/KssApp  ( 2892): Prepare connecte ServiceManager
+V/ServiceManager( 2892): Process: cn.wps.livespace started
+I/ActivityManager(   61): Start proc cn.wps.livespace:remote for service cn.wps.livespace/cn.kuaipan.android.service.KscService: pid=2914 uid=10039 gids={3003, 1015, 1006}
+E/ThemeManager( 2892): mMainIni is null, mThemeIni is null
+E/ThemeManager( 2892): mMainIni is null, mThemeIni is null
+V/KssApp  ( 2914): Process: cn.wps.livespace:remote started
+I/ActivityThread( 2914): Pub cn.wps.livespace.kssdata: cn.kuaipan.android.provider.KssProvider
+I/ActivityManager(   61): Displayed cn.wps.livespace/cn.kuaipan.android.home.LogoActivity: +9s256ms
+V/KssApp  ( 2914): Application Created.
+W/RecognitionManagerService(   61): no available voice recognition services found
+V/ServiceManager( 2914): Process: cn.wps.livespace:remote started
+I/ConfigFactory( 2914): Not define KSC_MID_CONFIG meta-data in AndroidManifest.xml
+V/KscService( 2914): Receive event: Intent { act=KscService.START (has extras) }, from KscService
+D/ServiceManager( 2892): ServiceManager connected
+D/KssApp  ( 2892): AccountService connected
+E/KscScheduleService( 2914): Failed to load a ScheduleTask cn.kuaipan.android.promotion.PromotionScheduleTask
+E/KscScheduleService( 2914): java.lang.ClassNotFoundException: cn.kuaipan.android.promotion.PromotionScheduleTask
+E/KscScheduleService( 2914): 	at java.lang.Class.classForName(Native Method)
+E/KscScheduleService( 2914): 	at java.lang.Class.forName(Class.java:234)
+E/KscScheduleService( 2914): 	at java.lang.Class.forName(Class.java:181)
+E/KscScheduleService( 2914): 	at cn.kuaipan.android.service.impl.KscScheduleService.init(Unknown Source)
+E/KscScheduleService( 2914): 	at cn.kuaipan.android.service.impl.KscScheduleService.onStart(Unknown Source)
+E/KscScheduleService( 2914): 	at cn.kuaipan.android.service.KscService.onReceiveEvent(Unknown Source)
+E/KscScheduleService( 2914): 	at cn.kuaipan.android.service.KscService.dispatchEvent(Unknown Source)
+E/KscScheduleService( 2914): 	at cn.kuaipan.android.service.KscService.a(Unknown Source)
+E/KscScheduleService( 2914): 	at cn.kuaipan.android.service.g.handleMessage(Unknown Source)
+E/KscScheduleService( 2914): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+E/KscScheduleService( 2914): 	at android.os.Looper.loop(Looper.java:123)
+E/KscScheduleService( 2914): 	at android.os.HandlerThread.run(HandlerThread.java:60)
+E/KscScheduleService( 2914): Caused by: java.lang.NoClassDefFoundError: cn.kuaipan.android.promotion.PromotionScheduleTask
+E/KscScheduleService( 2914): 	... 12 more
+E/KscScheduleService( 2914): Caused by: java.lang.ClassNotFoundException: cn.kuaipan.android.promotion.PromotionScheduleTask in loader dalvik.system.PathClassLoader[/mnt/asec/cn.wps.livespace-1/pkg.apk]
+E/KscScheduleService( 2914): 	at dalvik.system.PathClassLoader.findClass(PathClassLoader.java:240)
+E/KscScheduleService( 2914): 	at java.lang.ClassLoader.loadClass(ClassLoader.java:551)
+E/KscScheduleService( 2914): 	at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+E/KscScheduleService( 2914): 	... 12 more
+D/dalvikvm(   61): GC_EXPLICIT freed 1701K, 52% free 4932K/10119K, external 3127K/3903K, paused 110ms
+D/AndroidRuntime( 2877): Shutting down VM
+D/dalvikvm( 2877): GC_CONCURRENT freed 101K, 72% free 295K/1024K, external 0K/0K, paused 1ms+2ms
+D/jdwp    ( 2877): Got wake-up signal, bailing out of select
+D/dalvikvm( 2877): Debugger has detached; object registry had 1 entries
+I/dalvikvm( 2877): JNI: AttachCurrentThread (from ???.???)
+I/AndroidRuntime( 2877): NOTE: attach of thread 'Binder Thread #3' failed
+I/Launcher(  145): setLoadOnResume
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.livespace/cn.kuaipan.android.home.TourActivity } from pid 2892
+I/dalvikvm(  145): Jit: resizing JitTable from 512 to 1024
+D/dalvikvm(  255): GC_FOR_MALLOC freed 917K, 50% free 3850K/7687K, external 1753K/2137K, paused 227ms
+I/Type    ( 2892): Type = Normal
+I/SetType int Type( 2892): Type = 0
+I/Type    ( 2892): Type = null
+I/SetType int Type( 2892): Type = -1
+I/Launcher(  145): setLoadOnResume
+I/Launcher(  145): setLoadOnResume
+D/dalvikvm( 2892): GC_EXTERNAL_ALLOC freed 438K, 52% free 2859K/5895K, external 1937K/2137K, paused 63ms
+I/com.a.b.b( 2892): Could not get location from GPS or Cell-id, lack ACCESS_COARSE_LOCATION or ACCESS_COARSE_LOCATION permission?
+I/ActivityManager(   61): Displayed cn.wps.livespace/cn.kuaipan.android.home.TourActivity: +1s832ms
+I/Launcher(  145): setLoadOnResume
+I/Launcher(  145): setLoadOnResume
+I/Launcher(  145): setLoadOnResume
+I/Launcher(  145): setLoadOnResume
+D/dalvikvm(  145): GC_EXPLICIT freed 709K, 52% free 3149K/6471K, external 6812K/7612K, paused 54ms
+I/AnalysisHelper:( 2892): add:1
+W/KeyCharacterMap( 2892): No keyboard for id 0
+W/KeyCharacterMap( 2892): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.livespace/cn.kuaipan.android.home.LoginActivity } from pid 2892
+I/com.a.b.b( 2892): Could not get location from GPS or Cell-id, lack ACCESS_COARSE_LOCATION or ACCESS_COARSE_LOCATION permission?
+W/InputManagerService(   61): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@4095a438 (uid=10039 pid=2892)
+I/dalvikvm( 2892): Could not find method android.widget.ArrayAdapter.addAll, referenced from method cn.kuaipan.android.home.LoginActivity.w
+W/dalvikvm( 2892): VFY: unable to resolve virtual method 1811: Landroid/widget/ArrayAdapter;.addAll (Ljava/util/Collection;)V
+D/dalvikvm( 2892): VFY: replacing opcode 0x6e at 0x0071
+I/Type    ( 2892): Type = Normal
+I/SetType int Type( 2892): Type = 0
+I/Type    ( 2892): Type = Back
+I/SetType int Type( 2892): Type = 3
+I/ActivityManager(   61): Displayed cn.wps.livespace/cn.kuaipan.android.home.LoginActivity: +625ms
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 237
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 238
+D/inject  (  419): [+] The old openfile fd 40
+I/com.a.b.b( 2892): Could not get location from GPS or Cell-id, lack ACCESS_COARSE_LOCATION or ACCESS_COARSE_LOCATION permission?
+W/IInputConnectionWrapper( 2892): showStatusIcon on inactive InputConnection
+I/ActivityManager(   61): No longer want com.android.settings (pid 135): hidden #16
+I/ThemeUpdateThread( 2892): {result=ok, info=[]}
+D/dalvikvm(  255): GC_CONCURRENT freed 915K, 51% free 3843K/7687K, external 1753K/2137K, paused 4ms+4ms
+I/dalvikvm(  255): Uncaught exception thrown by finalizer (will be discarded):
+I/dalvikvm(  255): Ljava/lang/IllegalStateException;: y.setParams() must call super.setParams()
+I/dalvikvm(  255): 	at com.wandoujia.phoenix4.http.request.AbstractHttpRequestBuilder.finalize((null):-1)
+I/dalvikvm(  255): 	at dalvik.system.NativeStart.run(Native Method)
+I/dalvikvm(  255): Uncaught exception thrown by finalizer (will be discarded):
+I/dalvikvm(  255): Ljava/lang/IllegalStateException;: aa.setParams() must call super.setParams()
+I/dalvikvm(  255): 	at com.wandoujia.phoenix4.http.request.AbstractHttpRequestBuilder.finalize((null):-1)
+I/dalvikvm(  255): 	at dalvik.system.NativeStart.run(Native Method)
+I/dalvikvm(  255): Uncaught exception thrown by finalizer (will be discarded):
+I/dalvikvm(  255): Ljava/lang/IllegalStateException;: p.setParams() must call super.setParams()
+I/dalvikvm(  255): 	at com.wandoujia.phoenix4.http.request.AbstractHttpRequestBuilder.finalize((null):-1)
+I/dalvikvm(  255): 	at dalvik.system.NativeStart.run(Native Method)
+D/dalvikvm( 2892): GC_FOR_MALLOC freed 840K, 52% free 3214K/6663K, external 4273K/4334K, paused 56ms
+I/AnalysisHelper:( 2892): send:0
+D/dalvikvm(  145): GC_EXTERNAL_ALLOC freed 115K, 53% free 3075K/6471K, external 7559K/7612K, paused 53ms
+D/dalvikvm( 1148): GC_EXPLICIT freed 3K, 54% free 2538K/5511K, external 1625K/2137K, paused 86ms
+D/dalvikvm(  145): GC_EXPLICIT freed 148K, 52% free 3158K/6471K, external 7702K/8653K, paused 50ms
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.qq.reader/.SplashActivity } from pid 145
+I/ActivityManager(   61): Start proc com.qq.reader for activity com.qq.reader/.SplashActivity: pid=2978 uid=10044 gids={1015, 3003}
+D/dalvikvm( 2978): GC_EXTERNAL_ALLOC freed 392K, 52% free 2876K/5895K, external 1740K/2137K, paused 58ms
+I/ActivityManager(   61): Displayed com.qq.reader/.SplashActivity: +1s510ms
+I/DB      ( 2978):  createTable 
+W/Resources( 2978): Converting to string: TypedValue{t=0x10/d=0x26039 a=2}
+W/Resources( 2978): Converting to string: TypedValue{t=0x10/d=0x2d887 a=2}
+E/MicroMsg.SDK.WXAPIFactory( 2978): setup profile from amm_manifest.xml failed
+W/System.err( 2978): java.io.FileNotFoundException: amm_manifest.xml
+W/System.err( 2978): 	at android.content.res.AssetManager.openAsset(Native Method)
+W/System.err( 2978): 	at android.content.res.AssetManager.open(AssetManager.java:314)
+W/System.err( 2978): 	at android.content.res.AssetManager.open(AssetManager.java:288)
+W/System.err( 2978): 	at com.tencent.mm.sdk.openapi.o.a(Unknown Source)
+W/System.err( 2978): 	at com.qq.reader.wxapi.WXApiManager.getWXAPIInterface(Unknown Source)
+W/System.err( 2978): 	at com.qq.reader.wxapi.WXApiManager.justRegisterWXNoBroadcast(Unknown Source)
+W/System.err( 2978): 	at com.qq.reader.ek.handleMessage(Unknown Source)
+W/System.err( 2978): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+W/System.err( 2978): 	at android.os.Looper.loop(Looper.java:123)
+W/System.err( 2978): 	at android.app.ActivityThread.main(ActivityThread.java:3683)
+W/System.err( 2978): 	at java.lang.reflect.Method.invokeNative(Native Method)
+W/System.err( 2978): 	at java.lang.reflect.Method.invoke(Method.java:507)
+W/System.err( 2978): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:839)
+W/System.err( 2978): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:597)
+W/System.err( 2978): 	at dalvik.system.NativeStart.main(Native Method)
+D/dalvikvm( 2978): GC_CONCURRENT freed 1048K, 55% free 3074K/6727K, external 3190K/3943K, paused 3ms+5ms
+I/ActivityManager(   61): Starting: Intent { cmp=com.qq.reader/.MainActivity } from pid 2978
+D/dalvikvm( 2978): GC_EXTERNAL_ALLOC freed 160K, 55% free 3059K/6727K, external 3288K/3943K, paused 58ms
+V/LoggingProgress( 2978): main, startService is called.
+V/LoggingProgress( 2978): main, startService is called.
+V/Thread = main k.setConcurrentTasks( 2978): DownloadTaskManager is started.
+V/Thread = main k.getDownloadTasks( 2978): fetching all tasks.
+D/dalvikvm( 2978): GC_EXTERNAL_ALLOC freed 98K, 54% free 3153K/6727K, external 7077K/7521K, paused 48ms
+I/AdvertisementHandle( 2978):  createTable 
+W/PhoneStateChangeListene:( 2978): Data Connected.
+V/Thread = main k.activateTasks( 2978): All deactivated tasks are activating.
+V/Thread = main k.activateTasks( 2978): All deactivated tasks are activated.
+D/dalvikvm(   61): GREF has increased to 501
+I/ActivityManager(   61): Displayed com.qq.reader/.MainActivity: +2s402ms
+I/Launcher(  145): setLoadOnResume
+I/Launcher(  145): setLoadOnResume
+I/Launcher(  145): setLoadOnResume
+I/Launcher(  145): setLoadOnResume
+I/Launcher(  145): setLoadOnResume
+I/Launcher(  145): setLoadOnResume
+D/dalvikvm(  145): GC_EXPLICIT freed 336K, 50% free 3278K/6471K, external 6490K/7894K, paused 51ms
+D/dalvikvm(  238): GC_EXPLICIT freed 8K, 55% free 2597K/5703K, external 1625K/2137K, paused 62ms
+D/dalvikvm(  145): GC_EXPLICIT freed 71K, 51% free 3207K/6471K, external 6303K/7872K, paused 117ms
+I/ActivityManager(   61): Starting: Intent { cmp=com.qq.reader/.ImportBookActivity } from pid 2978
+D/PhoneWindow( 2978): couldn't save which view has focus because the focused view com.android.internal.policy.impl.PhoneWindow$DecorView@405ea918 has no id.
+D/dalvikvm( 2978): Trying to load lib /data/data/com.qq.reader/lib/libscan.so 0x40514d20
+D/dalvikvm( 2978): Added shared lib /data/data/com.qq.reader/lib/libscan.so 0x40514d20
+D/dalvikvm( 2978): No JNI_OnLoad found in /data/data/com.qq.reader/lib/libscan.so 0x40514d20, skipping init
+D/dalvikvm( 2978): GC_EXTERNAL_ALLOC freed 447K, 49% free 3583K/6983K, external 9394K/10582K, paused 85ms
+D/dalvikvm( 2978): GC_EXTERNAL_ALLOC freed 658K, 51% free 3470K/6983K, external 11373K/11410K, paused 54ms
+W/ResourceType(   61): Skipping entry 0x7f04001f in package table 0 because it is not complex!
+W/ResourceType(   61): Skipping entry 0x7f040022 in package table 0 because it is not complex!
+I/ActivityManager(   61): Displayed com.qq.reader/.ImportBookActivity: +1s697ms
+W/InputManagerService(   61): Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@4085f608
+W/KeyCharacterMap( 2978): No keyboard for id 0
+W/KeyCharacterMap( 2978): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+W/ResourceType(   61): Skipping entry 0x7f04001e in package table 0 because it is not complex!
+W/ResourceType(   61): Skipping entry 0x7f040023 in package table 0 because it is not complex!
+V/KscService( 2914): startMNRMoniter action:Intent { act=ReportService.SEND_FILE flg=0x4 cmp=cn.wps.livespace/cn.kuaipan.android.service.KscService (has extras) }, type=2
+V/KscService( 2914): stopMNRMoniter
+D/inject  ( 3170): [+] The pid of com.qq.reader: 2978
+D/inject  ( 3170): [+] Injecting process: 2978
+D/inject  ( 3170): [+] get_remote_addr: local[afd00000], remote[afd00000]
+D/inject  ( 3170): [+] Remote mmap address: afd170cd
+D/inject  ( 3170): [+] Calling mmap in target process.
+D/inject  ( 3170): [+] Target process returned from mmap, return value=44702000, pc=0 
+D/inject  ( 3170): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  ( 3170): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  ( 3170): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  ( 3170): [+] Get imports: dlopen: b00059bd, dlsym: b0005915, dlclose: b0005849
+D/inject  ( 3170): [+] Inject code start: c008, end: c084
+D/inject  ( 3170): [+] _dlopen_param1_s: 44705c9c
+D/inject  ( 3170): [+] _dlsym_param2_s: 44705d9c
+D/inject  ( 3170): [+] _saved_r0_pc_s: 44705e9c
+D/inject  ( 3170): [+] _inject_function_param_s: 44705f9c
+D/inject  ( 3170): [+] Remote shellcode address: 44705c00
+D/inject  ( 3170): [+] Process Detach: 10
+D/inject  ( 2978): hello ARM! I'm parameter1324! pid:2978
+D/inject  ( 2978): The Handle of libhook_open: b000d3c8
+D/inject  ( 2978): find it pre 0
+D/inject  ( 2978): find it 80701424
+D/inject  ( 2978): [+] aaaaaaa do_hook function is invoked 
+D/inject  ( 2978): [+] open addr: 0xafd17111. New addr 0x8070132c
+D/inject  ( 2978): [+] just for test info 
+D/inject  ( 2978): [+] set ok 
+D/inject  ( 2978): [+] Get the persist.sys.test  bbbbbbbb
+D/inject  ( 2978): [+] just for test print old_open address 0xafd17111
+D/inject  ( 2978): [+] just for test print new_open address 0x8070132c
+D/inject  ( 2978): [+] Get old address global  afd17111
+D/inject  ( 2978): [+] Get new address global  8070132c
+D/inject  ( 2978): [+] binder path ad100000
+D/inject  ( 2978): [+] Section header table file offset 2e23c
+D/inject  ( 2978): [+] Section header table entry count 15
+D/inject  ( 2978): [+] Section header table entry size 28
+D/inject  ( 2978): [+] Section header string table index 14
+D/inject  ( 2978): [+] Object file type 3
+D/inject  ( 2978): [+] Object file version 1
+D/inject  ( 2978): [+] Out_addr in GOT table before 0
+D/inject  ( 2978): [+] Out_size of func in GOT table before 0
+D/inject  ( 2978): [+] Out_addr in GOT table ad12c138
+D/inject  ( 2978): [+] Out_size of func in GOT table 8c4
+D/inject  ( 2978): [+] Out_addr in GOT table ad12c138
+D/inject  ( 2978): [+] Out_size of func in GOT table 8c4
+D/inject  ( 2978): [+] Out_addr in GOT afd4d5c8
+D/inject  ( 2978): [+] old open address 20000 afd17111
+D/inject  ( 2978): [+] Out_addr in GOT 464c457f
+D/inject  ( 2978): [+] target pid ba2
+D/inject  ( 2978): [+] old open address 22223 afd17111
+D/inject  ( 2978): [+] Find got_item ff 
+D/inject  ( 2978): [+] old open address 3333 afd17111
+D/inject  ( 2978): [+] old open address 3333 afffffff
+D/inject  ( 2978): [+] new open address 3333 8070132c
+D/inject  ( 2978): [+] new open address 3333 8070132c
+D/inject  ( 2978): [+] Find got item afd4d5c8 
+D/inject  ( 2978): [+] Find got item ad12e2a4 
+D/inject  ( 2978): [+] Find got item ad12e28c 
+D/inject  ( 2978): [+] Find got item ad12e268 
+D/inject  ( 2978): [+] Find got item ad12e258 
+D/inject  ( 2978): [+] Find got item afd4631c 
+D/inject  ( 2978): [+] Find got item ad12e298 
+D/inject  ( 2978): [+] Find got item ad12e250 
+D/inject  ( 2978): [+] Find got item ad12e280 
+D/inject  ( 2978): [+] Find got item ad12e294 
+D/inject  ( 2978): [+] Find got item ad12e260 
+D/inject  ( 2978): [+] Find got item ad12e278 
+D/inject  ( 2978): [+] Find got item afd415c0 
+D/inject  ( 2978): [+] Find got item ad12e2a8 
+D/inject  ( 2978): [+] Find got item ad12e274 
+D/inject  ( 2978): [+] Find got item ad12e27c 
+D/inject  ( 2978): [+] Find got item ad12e248 
+D/inject  ( 2978): [+] Find got item ad12e2a0 
+D/inject  ( 2978): [+] Find got item ad12e25c 
+D/inject  ( 2978): [+] Find got item ad12e270 
+D/inject  ( 2978): [+] Find got item ad12e288 
+D/inject  ( 2978): [+] Find got item ad12e264 
+D/inject  ( 2978): [+] Find got item ad12e284 
+D/inject  ( 2978): [+] Find got item ad9bc7f1 
+D/inject  ( 2978): [+] Find got item ad9bc7f9 
+D/inject  ( 2978): [+] Find got item ade45f55 
+D/inject  ( 2978): [+] Find got item ade45f69 
+D/inject  ( 2978): [+] Find got item ad9bb339 
+D/inject  ( 2978): [+] Find got item ad9bb341 
+D/inject  ( 2978): [+] Find got item ad9b481d 
+D/inject  ( 2978): [+] Find got item ad9b4831 
+D/inject  ( 2978): [+] Find got item ad9a5561 
+D/inject  ( 2978): [+] Find got item ad9a5569 
+D/inject  ( 2978): [+] Find got item ade31305 
+D/inject  ( 2978): [+] Find got item ade3130d 
+D/inject  ( 2978): [+] Find got item ad12e240 
+D/inject  ( 2978): [+] Find got item ad12e244 
+D/inject  ( 2978): [+] Find got item ad12e24c 
+D/inject  ( 2978): [+] Find got item ad12e254 
+D/inject  ( 2978): [+] Find got item ad12e26c 
+D/inject  ( 2978): [+] Find got item ad12e290 
+D/inject  ( 2978): [+] Find got item ad12e29c 
+D/inject  ( 2978): [+] Find got item ade5f751 
+D/inject  ( 2978): [+] Find got item ade5f749 
+D/inject  ( 2978): [+] Find got item ade5f74d 
+D/inject  ( 2978): [+] Find got item adec6b68 
+D/inject  ( 2978): [+] Find got item ad12ca00 
+D/inject  ( 2978): [+] Find got item afd42610 
+D/inject  ( 2978): [+] Find got item 0 
+D/inject  ( 2978): [+] Find got item 0 
+D/inject  ( 2978): [+] Find got item 0 
+D/inject  ( 2978): [+] Find got item afd2092d 
+D/inject  ( 2978): [+] Find got item afd19c3d 
+D/inject  ( 2978): [+] Find got item afd20a45 
+D/inject  ( 2978): [+] Find got item af9038e5 
+D/inject  ( 2978): [+] Find got item afd28321 
+D/inject  ( 2978): [+] Find got item af9037b1 
+D/inject  ( 2978): [+] Find got item afd1c87d 
+D/inject  ( 2978): [+] Find got item ade3a295 
+D/inject  ( 2978): [+] Find got item ade394bd 
+D/inject  ( 2978): [+] Find got item ade39c31 
+D/inject  ( 2978): [+] Find got item ad9a4ef5 
+D/inject  ( 2978): [+] Find got item ad96a6b1 
+D/inject  ( 2978): [+] Find got item ade39141 
+D/inject  ( 2978): [+] Find got item ad99e381 
+D/inject  ( 2978): [+] Find got item ad96a3f1 
+D/inject  ( 2978): [+] Find got item ad99d059 
+D/inject  ( 2978): [+] Find got item ade256f1 
+D/inject  ( 2978): [+] Find got item ad9a3e51 
+D/inject  ( 2978): [+] Find got item ad9a3839 
+D/inject  ( 2978): [+] Find got item afd25c95 
+D/inject  ( 2978): [+] Find got item afd11fbd 
+D/inject  ( 2978): [+] Find got item afd17049 
+D/inject  ( 2978): [+] Find got item afd0bba0 
+D/inject  ( 2978): [+] Find got item afd0bad0 
+D/inject  ( 2978): [+] Find got item afd0e3e0 
+D/inject  ( 2978): [+] Find got item afd0e3f4 
+D/inject  ( 2978): [+] Find got item afd29855 
+D/inject  ( 2978): [+] Find got item afd0bc40 
+D/inject  ( 2978): [+] Find got item afc009e1 
+D/inject  ( 2978): [+] Find got item afd0bc00 
+D/inject  ( 2978): [+] Find got item afc009c1 
+D/inject  ( 2978): [+] Find got item afd0bbe0 
+D/inject  ( 2978): [+] Find got item afd14de4 
+D/inject  ( 2978): [+] Find got item afd20859 
+D/inject  ( 2978): [+] Find got item afc009e9 
+D/inject  ( 2978): [+] Find got item afd172fd 
+D/inject  ( 2978): [+] Find got item afd3742d 
+D/inject  ( 2978): [+] Find got item afd17249 
+D/inject  ( 2978): [+] Find got item afd171a1 
+D/inject  ( 2978): [+] Find got item afc009c9 
+D/inject  ( 2978): [+] Find got item afd17ac5 
+D/inject  ( 2978): [+] Find got item afd0bc80 
+D/inject  ( 2978): [+] Find got item afd19a49 
+D/inject  ( 2978): [+] Find got item afd17111 
+D/inject  ( 2978): [+] Find open and replace 
+I/ActivityManager(   61): Starting: Intent { cmp=com.qq.reader/.ReaderPage (has extras) } from pid 2978
+D/PhoneWindow( 2978): couldn't save which view has focus because the focused view com.android.internal.policy.impl.PhoneWindow$DecorView@405ea918 has no id.
+I/dalvikvm( 2978): Jit: resizing JitTable from 512 to 1024
+D/dalvikvm( 2978): GC_CONCURRENT freed 600K, 48% free 3698K/6983K, external 12833K/13021K, paused 4ms+6ms
+D/dalvikvm( 2978): GC_EXTERNAL_ALLOC freed 295K, 52% free 3421K/6983K, external 10950K/11381K, paused 53ms
+D/dalvikvm( 2978): GC_EXPLICIT freed 7K, 51% free 3424K/6983K, external 12535K/14458K, paused 50ms
+W/BackupManagerService(   61): dataChanged but no participant pkg='com.android.providers.settings' uid=10044
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/record.db
+D/inject  ( 2978): [+] The New open count 1
+D/inject  ( 2978): [+] The old openfile fd 39
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /data/data/com.qq.reader/shared_prefs/SETTING.xml
+D/inject  ( 2978): [+] The New open count 2
+D/inject  ( 2978): [+] The old openfile fd 39
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/testcopy2.png
+D/inject  ( 2978): [+] The New open count 3
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/open.png
+D/inject  ( 2978): [+] The New open count 4
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/ope11.png
+D/inject  ( 2978): [+] The New open count 5
+D/inject  ( 2978): [+] The old openfile fd -1
+D/dalvikvm( 2978): GC_EXPLICIT freed 122K, 51% free 3440K/6983K, external 12534K/14458K, paused 55ms
+D/dalvikvm( 2978): GC_EXPLICIT freed 6K, 51% free 3434K/6983K, external 12534K/13082K, paused 51ms
+D/dalvikvm( 2978): GC_EXTERNAL_ALLOC freed <1K, 51% free 3434K/6983K, external 12534K/13082K, paused 55ms
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/documents/test.txt
+D/inject  ( 2978): [+] The New open count 6
+D/inject  ( 2978): [+] test copy file
+D/inject  ( 2978): [+] The old file fd 39
+D/inject  ( 2978): [+] The copy file fd 41
+D/inject  ( 2978): [+] The New open file fd 39
+D/inject  ( 2978): [+] The Name of fd /mnt/sdcard/documents/testcopy1.txt
+D/inject  ( 2978): [+] The S of fd /proc/2978/fd/39
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/documents/test.txt
+D/inject  ( 2978): [+] The New open count 7
+D/inject  ( 2978): [+] test copy file
+D/inject  ( 2978): [+] The old file fd 39
+D/inject  ( 2978): [+] The copy file fd 41
+D/inject  ( 2978): [+] The New open file fd 39
+D/inject  ( 2978): [+] The Name of fd /mnt/sdcard/documents/testcopy1.txt
+D/inject  ( 2978): [+] The S of fd /proc/2978/fd/39
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cha/-1585632626test.txt.m
+D/inject  ( 2978): [+] The New open count 8
+D/inject  ( 2978): [+] The old openfile fd 41
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cha/-1585632626test.txt.m
+D/inject  ( 2978): [+] The New open count 9
+D/inject  ( 2978): [+] The old openfile fd 41
+I/ActivityManager(   61): Displayed com.qq.reader/.ReaderPage: +1s739ms
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/documents/test.txt
+D/inject  ( 2978): [+] The New open count 10
+D/inject  ( 2978): [+] test copy file
+D/inject  ( 2978): [+] The old file fd 41
+D/inject  ( 2978): [+] The copy file fd 55
+D/inject  ( 2978): [+] The New open file fd 41
+D/inject  ( 2978): [+] The Name of fd /mnt/sdcard/documents/testcopy1.txt
+D/inject  ( 2978): [+] The S of fd /proc/2978/fd/41
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cha/-1585632626test.txt.m
+D/inject  ( 2978): [+] The New open count 11
+D/inject  ( 2978): [+] The old openfile fd 41
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cha/-1585632626test.txt.m
+D/inject  ( 2978): [+] The New open count 12
+D/inject  ( 2978): [+] The old openfile fd 41
+I/InputQueue-JNI( 2978): Sending finished signal for input channel '40715b80 com.qq.reader/com.qq.reader.ReaderPage (client)' since it is being unregistered while an input message is still in progress.
+I/InputQueue-JNI( 2978): Ignoring finish signal on channel that is no longer registered.
+D/dalvikvm( 2978): GC_EXTERNAL_ALLOC freed 104K, 48% free 3678K/6983K, external 13834K/15332K, paused 80ms
+D/dalvikvm( 2978): GC_EXPLICIT freed 22K, 48% free 3655K/6983K, external 15334K/17382K, paused 90ms
+W/KeyCharacterMap( 2978): No keyboard for id 0
+W/KeyCharacterMap( 2978): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+W/BackupManagerService(   61): dataChanged but no participant pkg='com.android.providers.settings' uid=10044
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /data/data/com.qq.reader/shared_prefs/SETTING.xml
+D/inject  ( 2978): [+] The New open count 13
+D/inject  ( 2978): [+] The old openfile fd 38
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /data/data/com.qq.reader/shared_prefs/SETTING.xml
+D/inject  ( 2978): [+] The New open count 14
+D/inject  ( 2978): [+] The old openfile fd 38
+D/dalvikvm( 2978): GC_EXPLICIT freed 103K, 48% free 3677K/6983K, external 15334K/17382K, paused 58ms
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/record.db
+D/inject  ( 2978): [+] The New open count 15
+D/inject  ( 2978): [+] The old openfile fd 55
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/test.png
+D/inject  ( 2978): [+] The New open count 16
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/testcopy2.png
+D/inject  ( 2978): [+] The New open count 17
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/open.png
+D/inject  ( 2978): [+] The New open count 18
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/test.png
+D/inject  ( 2978): [+] The New open count 19
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/testcopy2.png
+D/inject  ( 2978): [+] The New open count 20
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/open.png
+D/inject  ( 2978): [+] The New open count 21
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/ope11.png
+D/inject  ( 2978): [+] The New open count 22
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/About Kingsoft Office.png
+D/inject  ( 2978): [+] The New open count 23
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/1.png
+D/inject  ( 2978): [+] The New open count 24
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/testcopy1.png
+D/inject  ( 2978): [+] The New open count 25
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/testcopy.png
+D/inject  ( 2978): [+] The New open count 26
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/致我们终将逝去的青春.png
+D/inject  ( 2978): [+] The New open count 27
+D/inject  ( 2978): [+] The old openfile fd 55
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/阴阳鬼探.png
+D/inject  ( 2978): [+] The New open count 28
+D/inject  ( 2978): [+] The old openfile fd 55
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/三体.epub.p
+D/inject  ( 2978): [+] The New open count 29
+D/inject  ( 2978): [+] The old openfile fd 55
+D/dalvikvm( 2978): GC_EXPLICIT freed 362K, 47% free 3701K/6983K, external 12493K/14541K, paused 109ms
+D/dalvikvm( 2978): GC_EXPLICIT freed 32K, 48% free 3670K/6983K, external 10084K/12132K, paused 173ms
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /data/data/com.qq.reader/shared_prefs/SETTING.xml
+D/inject  ( 2978): [+] The New open count 30
+D/inject  ( 2978): [+] The old openfile fd 39
+D/dalvikvm( 2978): GC_EXPLICIT freed 25K, 48% free 3671K/6983K, external 10084K/12132K, paused 56ms
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 239
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 240
+D/inject  (  419): [+] The old openfile fd 40
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 241
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 242
+D/inject  (  419): [+] The old openfile fd 40
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 243
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 244
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 245
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 246
+D/inject  (  419): [+] The old openfile fd 40
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 247
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 248
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  419): GC_CONCURRENT freed 1443K, 46% free 5010K/9159K, external 5713K/6579K, paused 9ms+10ms
+D/dalvikvm(  255): GC_CONCURRENT freed 919K, 51% free 3827K/7687K, external 1753K/2137K, paused 4ms+3ms
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 249
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 250
+D/inject  (  419): [+] The old openfile fd 40
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 251
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 252
+D/inject  (  419): [+] The old openfile fd 40
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 253
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 254
+D/inject  (  419): [+] The old openfile fd 40
+I/ActivityManager(   61): Starting: Intent { cmp=com.qq.reader/.ReaderPage (has extras) } from pid 2978
+D/PhoneWindow( 2978): couldn't save which view has focus because the focused view com.android.internal.policy.impl.PhoneWindow$DecorView@405ea918 has no id.
+D/dalvikvm( 2978): GC_EXTERNAL_ALLOC freed 243K, 50% free 3537K/6983K, external 11623K/12132K, paused 54ms
+D/dalvikvm( 2978): GC_EXPLICIT freed 33K, 50% free 3507K/6983K, external 12535K/14458K, paused 54ms
+W/BackupManagerService(   61): dataChanged but no participant pkg='com.android.providers.settings' uid=10044
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/record.db
+D/inject  ( 2978): [+] The New open count 31
+D/inject  ( 2978): [+] The old openfile fd 39
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/test.png
+D/inject  ( 2978): [+] The New open count 32
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/testcopy2.png
+D/inject  ( 2978): [+] The New open count 33
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/open.png
+D/inject  ( 2978): [+] The New open count 34
+D/inject  ( 2978): [+] The old openfile fd -1
+D/dalvikvm( 2978): GC_EXPLICIT freed 27K, 50% free 3517K/6983K, external 12534K/14458K, paused 51ms
+D/dalvikvm( 2978): GC_EXPLICIT freed 5K, 50% free 3511K/6983K, external 12534K/13082K, paused 51ms
+D/dalvikvm( 2978): GC_EXTERNAL_ALLOC freed <1K, 50% free 3512K/6983K, external 12534K/13082K, paused 54ms
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/documents/testcopy.txt
+D/inject  ( 2978): [+] The New open count 35
+D/inject  ( 2978): [+] The old openfile fd 39
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/documents/testcopy.txt
+D/inject  ( 2978): [+] The New open count 36
+D/inject  ( 2978): [+] The old openfile fd 39
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cha/1585361283testcopy.txt.m
+D/inject  ( 2978): [+] The New open count 37
+D/inject  ( 2978): [+] The old openfile fd 57
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cha/1585361283testcopy.txt.m
+D/inject  ( 2978): [+] The New open count 38
+D/inject  ( 2978): [+] The old openfile fd 57
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/documents/testcopy.txt
+D/inject  ( 2978): [+] The New open count 39
+D/inject  ( 2978): [+] The old openfile fd 52
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cha/1585361283testcopy.txt.m
+D/inject  ( 2978): [+] The New open count 40
+D/inject  ( 2978): [+] The old openfile fd 52
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cha/1585361283testcopy.txt.m
+D/inject  ( 2978): [+] The New open count 41
+D/inject  ( 2978): [+] The old openfile fd 52
+I/ActivityManager(   61): Displayed com.qq.reader/.ReaderPage: +1s165ms
+D/dalvikvm( 2978): GC_EXPLICIT freed 42K, 49% free 3595K/6983K, external 15023K/15332K, paused 51ms
+W/KeyCharacterMap( 2978): No keyboard for id 0
+W/KeyCharacterMap( 2978): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+W/BackupManagerService(   61): dataChanged but no participant pkg='com.android.providers.settings' uid=10044
+D/dalvikvm( 2978): GC_EXPLICIT freed 91K, 49% free 3592K/6983K, external 15023K/15332K, paused 58ms
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/record.db
+D/inject  ( 2978): [+] The New open count 42
+D/inject  ( 2978): [+] The old openfile fd 40
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/testcopy.png
+D/inject  ( 2978): [+] The New open count 43
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/test.png
+D/inject  ( 2978): [+] The New open count 44
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/testcopy2.png
+D/inject  ( 2978): [+] The New open count 45
+D/inject  ( 2978): [+] The old openfile fd -1
+D/dalvikvm(   61): GC_CONCURRENT freed 1412K, 53% free 4794K/10119K, external 3286K/3903K, paused 5ms+9ms
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/testcopy.png
+D/inject  ( 2978): [+] The New open count 46
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/testcopy2.png
+D/inject  ( 2978): [+] The New open count 47
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/open.png
+D/inject  ( 2978): [+] The New open count 48
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/ope11.png
+D/inject  ( 2978): [+] The New open count 49
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/About Kingsoft Office.png
+D/inject  ( 2978): [+] The New open count 50
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/1.png
+D/inject  ( 2978): [+] The New open count 51
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/testcopy1.png
+D/inject  ( 2978): [+] The New open count 52
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/致我们终将逝去的青春.png
+D/inject  ( 2978): [+] The New open count 53
+D/inject  ( 2978): [+] The old openfile fd 40
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/阴阳鬼探.png
+D/inject  ( 2978): [+] The New open count 54
+D/inject  ( 2978): [+] The old openfile fd 40
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/三体.epub.p
+D/inject  ( 2978): [+] The New open count 55
+D/inject  ( 2978): [+] The old openfile fd 40
+D/dalvikvm( 2978): GC_EXPLICIT freed 345K, 49% free 3613K/6983K, external 12182K/14230K, paused 70ms
+D/dalvikvm( 2978): GC_EXPLICIT freed 29K, 49% free 3584K/6983K, external 9773K/11821K, paused 53ms
+D/dalvikvm( 2978): GC_EXPLICIT freed 3K, 49% free 3581K/6983K, external 9773K/11821K, paused 58ms
+I/ActivityManager(   61): Starting: Intent { cmp=com.qq.reader/.ReaderPage (has extras) } from pid 2978
+D/PhoneWindow( 2978): couldn't save which view has focus because the focused view com.android.internal.policy.impl.PhoneWindow$DecorView@405ea918 has no id.
+D/dalvikvm( 2978): GC_EXTERNAL_ALLOC freed 155K, 50% free 3527K/6983K, external 11312K/11821K, paused 53ms
+D/dalvikvm( 2978): GC_EXPLICIT freed 23K, 50% free 3507K/6983K, external 12535K/14458K, paused 52ms
+W/BackupManagerService(   61): dataChanged but no participant pkg='com.android.providers.settings' uid=10044
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/record.db
+D/inject  ( 2978): [+] The New open count 56
+D/inject  ( 2978): [+] The old openfile fd 39
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/testcopy.png
+D/inject  ( 2978): [+] The New open count 57
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/test.png
+D/inject  ( 2978): [+] The New open count 58
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/testcopy2.png
+D/inject  ( 2978): [+] The New open count 59
+D/inject  ( 2978): [+] The old openfile fd -1
+D/dalvikvm( 2978): GC_EXPLICIT freed 27K, 50% free 3517K/6983K, external 12534K/14458K, paused 54ms
+D/dalvikvm( 2978): GC_EXPLICIT freed 6K, 50% free 3511K/6983K, external 12534K/13082K, paused 51ms
+D/dalvikvm( 2978): GC_EXTERNAL_ALLOC freed <1K, 50% free 3511K/6983K, external 12534K/13082K, paused 55ms
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/documents/testcopy1.txt
+D/inject  ( 2978): [+] The New open count 60
+D/inject  ( 2978): [+] The old openfile fd 39
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/documents/testcopy1.txt
+D/inject  ( 2978): [+] The New open count 61
+D/inject  ( 2978): [+] The old openfile fd 39
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cha/1902241106testcopy1.txt.m
+D/inject  ( 2978): [+] The New open count 62
+D/inject  ( 2978): [+] The old openfile fd 53
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cha/1902241106testcopy1.txt.m
+D/inject  ( 2978): [+] The New open count 63
+D/inject  ( 2978): [+] The old openfile fd 53
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/documents/testcopy1.txt
+D/inject  ( 2978): [+] The New open count 64
+D/inject  ( 2978): [+] The old openfile fd 57
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cha/1902241106testcopy1.txt.m
+D/inject  ( 2978): [+] The New open count 65
+D/inject  ( 2978): [+] The old openfile fd 57
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cha/1902241106testcopy1.txt.m
+D/inject  ( 2978): [+] The New open count 66
+D/inject  ( 2978): [+] The old openfile fd 57
+I/ActivityManager(   61): Displayed com.qq.reader/.ReaderPage: +1s152ms
+D/dalvikvm( 2978): GC_EXPLICIT freed 43K, 49% free 3595K/6983K, external 15023K/15332K, paused 52ms
+W/KeyCharacterMap( 2978): No keyboard for id 0
+W/KeyCharacterMap( 2978): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+W/BackupManagerService(   61): dataChanged but no participant pkg='com.android.providers.settings' uid=10044
+D/dalvikvm( 2978): GC_EXPLICIT freed 32K, 49% free 3595K/6983K, external 15023K/15332K, paused 60ms
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/record.db
+D/inject  ( 2978): [+] The New open count 67
+D/inject  ( 2978): [+] The old openfile fd 40
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/testcopy1.png
+D/inject  ( 2978): [+] The New open count 68
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/testcopy.png
+D/inject  ( 2978): [+] The New open count 69
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/test.png
+D/inject  ( 2978): [+] The New open count 70
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/testcopy1.png
+D/inject  ( 2978): [+] The New open count 71
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/testcopy2.png
+D/inject  ( 2978): [+] The New open count 72
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/open.png
+D/inject  ( 2978): [+] The New open count 73
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/ope11.png
+D/inject  ( 2978): [+] The New open count 74
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/About Kingsoft Office.png
+D/inject  ( 2978): [+] The New open count 75
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/1.png
+D/inject  ( 2978): [+] The New open count 76
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/致我们终将逝去的青春.png
+D/inject  ( 2978): [+] The New open count 77
+D/inject  ( 2978): [+] The old openfile fd 40
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/阴阳鬼探.png
+D/inject  ( 2978): [+] The New open count 78
+D/inject  ( 2978): [+] The old openfile fd 40
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/三体.epub.p
+D/inject  ( 2978): [+] The New open count 79
+D/inject  ( 2978): [+] The old openfile fd 40
+D/dalvikvm( 2978): GC_EXPLICIT freed 345K, 49% free 3615K/6983K, external 12182K/14230K, paused 63ms
+D/dalvikvm( 2978): GC_EXPLICIT freed 29K, 49% free 3585K/6983K, external 9773K/11821K, paused 56ms
+D/dalvikvm( 2978): GC_EXPLICIT freed 2K, 49% free 3584K/6983K, external 9773K/11821K, paused 54ms
+I/ActivityManager(   61): Starting: Intent { cmp=com.qq.reader/.ReaderPage (has extras) } from pid 2978
+D/PhoneWindow( 2978): couldn't save which view has focus because the focused view com.android.internal.policy.impl.PhoneWindow$DecorView@405ea918 has no id.
+D/dalvikvm( 2978): GC_EXTERNAL_ALLOC freed 112K, 49% free 3574K/6983K, external 11312K/11821K, paused 58ms
+D/dalvikvm( 2978): GC_EXPLICIT freed 23K, 50% free 3553K/6983K, external 12535K/14458K, paused 52ms
+W/BackupManagerService(   61): dataChanged but no participant pkg='com.android.providers.settings' uid=10044
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/record.db
+D/inject  ( 2978): [+] The New open count 80
+D/inject  ( 2978): [+] The old openfile fd 39
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/testcopy1.png
+D/inject  ( 2978): [+] The New open count 81
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/testcopy.png
+D/inject  ( 2978): [+] The New open count 82
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/test.png
+D/inject  ( 2978): [+] The New open count 83
+D/inject  ( 2978): [+] The old openfile fd -1
+D/dalvikvm( 2978): GC_EXPLICIT freed 72K, 50% free 3518K/6983K, external 12534K/14458K, paused 53ms
+D/dalvikvm( 2978): GC_EXPLICIT freed 5K, 50% free 3512K/6983K, external 12534K/13082K, paused 52ms
+D/dalvikvm( 2978): GC_EXTERNAL_ALLOC freed <1K, 50% free 3513K/6983K, external 12534K/13082K, paused 53ms
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/documents/test.txt
+D/inject  ( 2978): [+] The New open count 84
+D/inject  ( 2978): [+] test copy file
+D/inject  ( 2978): [+] The old file fd 39
+D/inject  ( 2978): [+] The copy file fd 53
+D/inject  ( 2978): [+] The New open file fd 39
+D/inject  ( 2978): [+] The Name of fd /mnt/sdcard/documents/testcopy1.txt
+D/inject  ( 2978): [+] The S of fd /proc/2978/fd/39
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cha/-1585632626test.txt.m
+D/inject  ( 2978): [+] The New open count 85
+D/inject  ( 2978): [+] The old openfile fd 53
+I/ActivityManager(   61): Displayed com.qq.reader/.ReaderPage: +1s132ms
+D/dalvikvm( 2978): GC_EXPLICIT freed 38K, 49% free 3591K/6983K, external 15023K/15332K, paused 53ms
+W/KeyCharacterMap( 2978): No keyboard for id 0
+W/KeyCharacterMap( 2978): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+W/BackupManagerService(   61): dataChanged but no participant pkg='com.android.providers.settings' uid=10044
+D/dalvikvm( 2978): GC_EXPLICIT freed 29K, 49% free 3597K/6983K, external 15023K/15332K, paused 61ms
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/record.db
+D/inject  ( 2978): [+] The New open count 86
+D/inject  ( 2978): [+] The old openfile fd 40
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/test.png
+D/inject  ( 2978): [+] The New open count 87
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/testcopy1.png
+D/inject  ( 2978): [+] The New open count 88
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/testcopy.png
+D/inject  ( 2978): [+] The New open count 89
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/test.png
+D/inject  ( 2978): [+] The New open count 90
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/testcopy2.png
+D/inject  ( 2978): [+] The New open count 91
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/open.png
+D/inject  ( 2978): [+] The New open count 92
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/ope11.png
+D/inject  ( 2978): [+] The New open count 93
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/About Kingsoft Office.png
+D/inject  ( 2978): [+] The New open count 94
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/1.png
+D/inject  ( 2978): [+] The New open count 95
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/致我们终将逝去的青春.png
+D/inject  ( 2978): [+] The New open count 96
+D/inject  ( 2978): [+] The old openfile fd 40
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/阴阳鬼探.png
+D/inject  ( 2978): [+] The New open count 97
+D/inject  ( 2978): [+] The old openfile fd 40
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/三体.epub.p
+D/inject  ( 2978): [+] The New open count 98
+D/inject  ( 2978): [+] The old openfile fd 40
+D/dalvikvm( 2978): GC_EXPLICIT freed 344K, 49% free 3617K/6983K, external 12182K/14230K, paused 56ms
+D/dalvikvm( 2978): GC_EXPLICIT freed 30K, 49% free 3586K/6983K, external 9773K/11821K, paused 54ms
+D/dalvikvm( 2978): GC_EXPLICIT freed <1K, 49% free 3586K/6983K, external 9773K/11821K, paused 54ms
+I/ActivityManager(   61): Starting: Intent { cmp=com.qq.reader/.ReaderPage (has extras) } from pid 2978
+D/PhoneWindow( 2978): couldn't save which view has focus because the focused view com.android.internal.policy.impl.PhoneWindow$DecorView@405ea918 has no id.
+D/dalvikvm( 2978): GC_EXTERNAL_ALLOC freed 158K, 50% free 3531K/6983K, external 11312K/11821K, paused 53ms
+D/dalvikvm( 2978): GC_EXPLICIT freed 23K, 50% free 3511K/6983K, external 12535K/14458K, paused 55ms
+W/BackupManagerService(   61): dataChanged but no participant pkg='com.android.providers.settings' uid=10044
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/record.db
+D/inject  ( 2978): [+] The New open count 99
+D/inject  ( 2978): [+] The old openfile fd 39
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/test.png
+D/inject  ( 2978): [+] The New open count 100
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/testcopy1.png
+D/inject  ( 2978): [+] The New open count 101
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/testcopy.png
+D/inject  ( 2978): [+] The New open count 102
+D/inject  ( 2978): [+] The old openfile fd -1
+D/dalvikvm( 2978): GC_EXPLICIT freed 27K, 50% free 3520K/6983K, external 12534K/14458K, paused 53ms
+I/ActivityManager(   61): Starting: Intent { cmp=com.qq.reader/.ReaderPage (has extras) } from pid 2978
+D/dalvikvm( 2978): GC_EXPLICIT freed 7K, 50% free 3514K/6983K, external 12534K/13082K, paused 51ms
+D/dalvikvm( 2978): GC_EXTERNAL_ALLOC freed <1K, 50% free 3514K/6983K, external 12534K/13082K, paused 55ms
+E/test    ( 2978): onSaveInstanceState
+W/BackupManagerService(   61): dataChanged but no participant pkg='com.android.providers.settings' uid=10044
+D/dalvikvm( 2978): GC_EXPLICIT freed 4K, 50% free 3515K/6983K, external 13284K/15332K, paused 146ms
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/documents/open.txt
+D/inject  ( 2978): [+] The New open count 103
+D/inject  ( 2978): [+] The old openfile fd 39
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/documents/open.txt
+D/inject  ( 2978): [+] The New open count 104
+D/inject  ( 2978): [+] The old openfile fd 39
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cha/-943493050open.txt.m
+D/inject  ( 2978): [+] The New open count 105
+D/inject  ( 2978): [+] The old openfile fd 53
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cha/-943493050open.txt.m
+D/inject  ( 2978): [+] The New open count 106
+D/inject  ( 2978): [+] The old openfile fd 53
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/documents/open.txt
+D/inject  ( 2978): [+] The New open count 107
+D/inject  ( 2978): [+] The old openfile fd 53
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cha/-943493050open.txt.m
+D/inject  ( 2978): [+] The New open count 108
+D/inject  ( 2978): [+] The old openfile fd 53
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cha/-943493050open.txt.m
+D/inject  ( 2978): [+] The New open count 109
+D/inject  ( 2978): [+] The old openfile fd 53
+I/dalvikvm( 2978): Jit: resizing JitTable from 1024 to 2048
+D/dalvikvm( 2978): GC_EXTERNAL_ALLOC freed 136K, 49% free 3622K/6983K, external 14824K/15332K, paused 78ms
+D/dalvikvm( 2978): GC_EXPLICIT freed 63K, 50% free 3560K/6983K, external 16408K/18332K, paused 53ms
+W/BackupManagerService(   61): dataChanged but no participant pkg='com.android.providers.settings' uid=10044
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/record.db
+D/inject  ( 2978): [+] The New open count 110
+D/inject  ( 2978): [+] The old openfile fd 53
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/test.png
+D/inject  ( 2978): [+] The New open count 111
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/testcopy1.png
+D/inject  ( 2978): [+] The New open count 112
+D/inject  ( 2978): [+] The old openfile fd -1
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cover/testcopy.png
+D/inject  ( 2978): [+] The New open count 113
+D/inject  ( 2978): [+] The old openfile fd -1
+D/dalvikvm( 2978): GC_EXPLICIT freed 26K, 49% free 3571K/6983K, external 16408K/18332K, paused 52ms
+D/dalvikvm( 2978): GC_EXPLICIT freed 5K, 49% free 3566K/6983K, external 16408K/16956K, paused 53ms
+D/dalvikvm( 2978): GC_EXTERNAL_ALLOC freed <1K, 49% free 3566K/6983K, external 16408K/16956K, paused 54ms
+I/ActivityManager(   61): Displayed com.qq.reader/.ReaderPage: +2s783ms
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/documents/open.txt
+D/inject  ( 2978): [+] The New open count 114
+D/inject  ( 2978): [+] The old openfile fd 53
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/documents/open.txt
+D/inject  ( 2978): [+] The New open count 115
+D/inject  ( 2978): [+] The old openfile fd 53
+D/inject  ( 2978): [+]-----------open test txt file-----------
+D/inject  ( 2978): [+] The New open path /mnt/sdcard/QQReader/cha/-943493050open.txt.m
+D/inject  ( 2978): [+] The New open count 116
+D/inject  ( 2978): [+] The old openfile fd 62
+I/ActivityManager(   61): Displayed com.qq.reader/.ReaderPage: +1s945ms
+D/dalvikvm( 2978): GC_EXPLICIT freed 121K, 48% free 3661K/6983K, external 18896K/19206K, paused 56ms
+D/dalvikvm( 2978): GC_EXTERNAL_ALLOC freed 168K, 45% free 3842K/6983K, external 18896K/19206K, paused 59ms
+D/dalvikvm( 2978): GC_EXPLICIT freed 104K, 47% free 3737K/6983K, external 20396K/22444K, paused 55ms
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 255
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 256
+D/inject  (  419): [+] The old openfile fd 40
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 257
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 258
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  140): GC_CONCURRENT freed 275K, 52% free 2823K/5767K, external 2174K/2674K, paused 3ms+5ms
+V/BackupManagerService(   61): Backup requested but nothing pending
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 259
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 260
+D/inject  (  419): [+] The old openfile fd 40
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 261
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 262
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  419): GC_CONCURRENT freed 1936K, 48% free 5033K/9607K, external 5713K/6579K, paused 4ms+12ms
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 263
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 264
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 265
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 266
+D/inject  (  419): [+] The old openfile fd 40
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 267
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 268
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 269
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 270
+D/inject  (  419): [+] The old openfile fd 40
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 271
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 272
+D/inject  (  419): [+] The old openfile fd 40
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 273
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 274
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 275
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 276
+D/inject  (  419): [+] The old openfile fd 40
+D/dalvikvm(  419): GC_CONCURRENT freed 1968K, 48% free 5069K/9671K, external 5713K/6579K, paused 8ms+12ms
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/dalvikvm(  255): GC_CONCURRENT freed 897K, 51% free 3828K/7687K, external 1753K/2137K, paused 16ms+3ms
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 277
+D/inject  (  419): [+] The old openfile fd 40
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 278
+D/inject  (  419): [+] The old openfile fd 40
+E/dalvikvm(   61): No free temp registers
+E/dalvikvm(   61): Jit: aborting trace compilation, reverting to interpreter
+D/dalvikvm(  255): Debugger has detached; object registry had 1 entries
+D/dalvikvm(   61): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  118): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  136): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  140): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 2914): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 2978): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 2892): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  145): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  196): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  203): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  218): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  229): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  238): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  246): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  318): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  331): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  359): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  419): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  483): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1135): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1148): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1542): Debugger has detached; object registry had 1 entries
+D/dalvikvm(   61): GC_CONCURRENT freed 1287K, 53% free 4771K/10119K, external 3127K/3903K, paused 11ms+8ms
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 279
+D/inject  (  419): [+] The old openfile fd 9
+D/inject  (  419): [+]-----------open test txt file-----------
+D/inject  (  419): [+] The New open path /data/data/cn.wps.moffice_eng/files/_localRecord
+D/inject  (  419): [+] The New open count 280
+D/inject  (  419): [+] The old openfile fd 9

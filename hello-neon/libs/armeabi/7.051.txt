@@ -1,0 +1,856 @@
+D/dalvikvm(  250): VFY: dead code 0x0022-0022 in Lcom/wandoujia/phoenix2/appwash/controller/ay;.a (Lcom/wandoujia/phoenix2/appwash/controller/ay;Landroid/content/pm/PackageStats;)J
+D/dalvikvm(  250): DexOpt: couldn't find field Landroid/content/pm/PackageStats;.externalDataSize
+I/dalvikvm(  250): DexOpt: unable to optimize instance field ref 0x0038 at 0x10 in Lcom/wandoujia/phoenix2/appwash/controller/ay;.a
+D/dalvikvm(  250): DexOpt: couldn't find field Landroid/content/pm/PackageStats;.externalMediaSize
+I/dalvikvm(  250): DexOpt: unable to optimize instance field ref 0x0039 at 0x13 in Lcom/wandoujia/phoenix2/appwash/controller/ay;.a
+D/dalvikvm(  250): DexOpt: couldn't find field Landroid/content/pm/PackageStats;.externalObbSize
+I/dalvikvm(  250): DexOpt: unable to optimize instance field ref 0x003a at 0x16 in Lcom/wandoujia/phoenix2/appwash/controller/ay;.a
+W/PackageManager(   61): Not granting permission com.android.email.permission.ACCESS_PROVIDER to package cn.wps.moffice_eng (protectionLevel=3 flags=0x8be44)
+W/PackageManager(   61): Not granting permission android.permission.SEND_DOWNLOAD_COMPLETED_INTENTS to package com.android.browser (protectionLevel=2 flags=0x9be45)
+W/PackageManager(   61): Unknown permission com.google.android.gm.permission.WRITE_GMAIL in package com.android.settings
+W/PackageManager(   61): Unknown permission com.google.android.gm.permission.READ_GMAIL in package com.android.settings
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH in package com.android.settings
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH in package com.android.providers.contacts
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH.cp in package com.android.providers.contacts
+W/PackageManager(   61): Unknown permission com.android.launcher.permission.CREATE_SHORTCUT in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission org.adw.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission org.adw.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.qihoo360.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.qihoo360.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.lge.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.lge.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission net.qihoo.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission net.qihoo.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission org.adwfreak.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission org.adwfreak.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.huawei.launcher3.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.huawei.launcher3.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.fede.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.fede.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.sec.android.app.twlauncher.settings.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.sec.android.app.twlauncher.settings.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Not granting permission android.permission.ACCESS_DRM to package com.wandoujia.phoenix2 (protectionLevel=2 flags=0x8be44)
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.ACCESS_GOOGLE_PASSWORD in package com.android.development
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH in package com.android.development
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH.ALL_SERVICES in package com.android.development
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH.YouTubeUser in package com.android.development
+W/PackageManager(   61): Not granting permission android.permission.SET_PREFERRED_APPLICATIONS to package com.mx.browser (protectionLevel=2 flags=0x8be44)
+W/PackageManager(   61): Unknown permission android.permission.READ_OWNER_DATA in package com.android.email
+W/PackageManager(   61): Not granting permission android.permission.DEVICE_POWER to package com.android.deskclock (protectionLevel=2 flags=0x8be45)
+D/dalvikvm(  250): Trying to load lib /data/data/com.wandoujia.phoenix2/lib/libcipher.so 0x405150a8
+D/dalvikvm(  250): Added shared lib /data/data/com.wandoujia.phoenix2/lib/libcipher.so 0x405150a8
+D/dalvikvm(  250): No JNI_OnLoad found in /data/data/com.wandoujia.phoenix2/lib/libcipher.so 0x405150a8, skipping init
+I/dalvikvm(  250): Total arena pages for JIT: 11
+I/dalvikvm(  250): Total arena pages for JIT: 12
+D/dalvikvm(  123): GC_EXTERNAL_ALLOC freed 227K, 49% free 3027K/5895K, external 6689K/6692K, paused 55ms
+D/dalvikvm(   61): GC_EXPLICIT freed 572K, 44% free 4464K/7879K, external 4373K/5573K, paused 75ms
+W/RecognitionManagerService(   61): no available voice recognition services found
+D/dalvikvm(  250): GC_CONCURRENT freed 669K, 49% free 3587K/6919K, external 1753K/2137K, paused 4ms+4ms
+D/OtaStartupReceiver(  115): Not a CDMA phone, no need to process OTA
+I/RecoverySystem(   61): No recovery log file
+I/ActivityManager(   61): Start proc com.android.mms for broadcast com.android.mms/.transaction.MmsSystemEventReceiver: pid=299 uid=10015 gids={3003, 1015}
+I/ActivityThread(  299): Pub com.android.mms.SuggestionsProvider: com.android.mms.SuggestionsProvider
+I/ActivityManager(   61): Start proc com.android.email for broadcast com.android.email/.service.EmailBroadcastReceiver: pid=320 uid=10028 gids={3003, 1015}
+I/ActivityThread(  320): Pub com.android.email.provider: com.android.email.provider.EmailProvider
+I/ActivityThread(  320): Pub com.android.email.attachmentprovider: com.android.email.provider.AttachmentProvider
+I/ActivityThread(  320): Pub com.android.exchange.provider: com.android.exchange.provider.ExchangeProvider
+D/EAS SyncManager(  320): !!! EAS SyncManager, onCreate
+D/Eas Debug(  320): Logging: 
+D/EAS SyncManager(  320): !!! EAS SyncManager, onDestroy
+D/MediaScannerService(  228): start scanning volume internal
+I/dalvikvm(   61): Jit: resizing JitTable from 512 to 1024
+W/ba      (  250): EXCEPTION, please implement com.wandoujia.phoenix2.cloud.e.exceptionCaught() for proper handling.
+W/ba      (  250): java.util.concurrent.RejectedExecutionException: Worker has already been shutdown
+W/ba      (  250): 	at org.jboss.netty.channel.socket.a.d.a(Unknown Source)
+W/ba      (  250): 	at org.jboss.netty.channel.socket.a.d.a(Unknown Source)
+W/ba      (  250): 	at org.jboss.netty.channel.socket.a.n.a(Unknown Source)
+W/ba      (  250): 	at org.jboss.netty.channel.socket.a.s.b(Unknown Source)
+W/ba      (  250): 	at org.jboss.netty.channel.ai$a.b(Unknown Source)
+W/ba      (  250): 	at org.jboss.netty.handler.codec.a.a.a(Unknown Source)
+W/ba      (  250): 	at org.jboss.netty.channel.ai.b(Unknown Source)
+W/ba      (  250): 	at org.jboss.netty.channel.ai.b(Unknown Source)
+W/ba      (  250): 	at org.jboss.netty.channel.a.b(Unknown Source)
+W/ba      (  250): 	at org.jboss.netty.a.b.a(Unknown Source)
+W/ba      (  250): 	at org.jboss.netty.a.b.a(Unknown Source)
+W/ba      (  250): 	at com.wandoujia.phoenix2.cloud.l.run(Unknown Source)
+W/ba      (  250): 	at java.util.Timer$TimerImpl.run(Timer.java:284)
+D/Email   (  320): BOOT_COMPLETED
+D/EAS SyncManager(  320): !!! EAS SyncManager, onCreate
+D/EAS SyncManager(  320): !!! EAS SyncManager, onStartCommand
+D/EAS SyncManager(  320): !!! EAS SyncManager, stopping self
+D/EAS SyncManager(  320): !!! EAS SyncManager, onDestroy
+D/dalvikvm(  115): GREF has increased to 201
+I/Launcher.Model(  123): not binding apps: no Launcher activity
+D/dalvikvm(  123): GC_EXPLICIT freed 143K, 50% free 2986K/5895K, external 5009K/5599K, paused 49ms
+D/MediaScanner(  228):  prescan time: 672ms
+D/MediaScanner(  228):     scan time: 8ms
+D/MediaScanner(  228): postscan time: 0ms
+D/MediaScanner(  228):    total time: 680ms
+D/MediaScannerService(  228): done scanning volume internal
+D/dalvikvm(  123): GC_EXPLICIT freed 226K, 49% free 3040K/5895K, external 4939K/5599K, paused 46ms
+D/MediaScannerService(  228): start scanning volume external
+V/MediaProvider(  228): /mnt/sdcard volume ID: 218050065
+V/MediaProvider(  228): Attached volume: external
+V/MediaScanner(  228): pruneDeadThumbnailFiles... android.database.sqlite.SQLiteCursor@405bdfa8
+V/MediaScanner(  228): /pruneDeadThumbnailFiles... android.database.sqlite.SQLiteCursor@405bdfa8
+D/MediaScanner(  228):  prescan time: 49ms
+D/MediaScanner(  228):     scan time: 13ms
+D/MediaScanner(  228): postscan time: 6ms
+D/MediaScanner(  228):    total time: 68ms
+D/MediaScannerService(  228): done scanning volume external
+D/dalvikvm(  250): GC_CONCURRENT freed 578K, 46% free 3877K/7111K, external 1753K/2137K, paused 7ms+8ms
+I/dalvikvm(  250): Could not find method android.app.ActivityManager.getLauncherLargeIconSize, referenced from method com.wandoujia.phoenix2.utils.ShortcutUtil.a
+W/dalvikvm(  250): VFY: unable to resolve virtual method 60: Landroid/app/ActivityManager;.getLauncherLargeIconSize ()I
+D/dalvikvm(  250): VFY: replacing opcode 0x6e at 0x0013
+D/dalvikvm(  250): VFY: dead code 0x0016-0040 in Lcom/wandoujia/phoenix2/utils/ShortcutUtil;.a (Landroid/graphics/Bitmap;Landroid/content/Context;)Landroid/graphics/Bitmap;
+W/ActivityManager(   61): finishReceiver called but no pending broadcasts
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/dalvikvm(  250): GC_CONCURRENT freed 1012K, 50% free 3814K/7495K, external 1753K/2137K, paused 8ms+3ms
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/dalvikvm(   61): GC_CONCURRENT freed 1455K, 48% free 4520K/8647K, external 4373K/5573K, paused 9ms+4ms
+I/dalvikvm(   61): Jit: resizing JitTable from 1024 to 2048
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/dalvikvm(  237): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  228): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  198): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  220): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  152): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  184): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  320): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  111): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  117): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  115): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  250): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  179): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  299): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  123): Debugger has detached; object registry had 1 entries
+D/dalvikvm(   61): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  211): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  237): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  228): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  198): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  220): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  152): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  184): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  320): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  179): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  299): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  111): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  117): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  115): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  250): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  123): Debugger has detached; object registry had 1 entries
+D/dalvikvm(   61): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  211): Debugger has detached; object registry had 1 entries
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+V/BackupManagerService(   61): Backup requested but nothing pending
+D/dalvikvm(  250): GC_CONCURRENT freed 894K, 50% free 3808K/7495K, external 1753K/2137K, paused 4ms+2ms
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/dalvikvm(  117): GC_CONCURRENT freed 309K, 52% free 2790K/5767K, external 2168K/2674K, paused 3ms+6ms
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/dalvikvm(   61): GC_CONCURRENT freed 1518K, 49% free 4521K/8711K, external 4373K/5573K, paused 5ms+5ms
+I/dalvikvm(  250): Jit: resizing JitTable from 512 to 1024
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/dalvikvm(  250): GC_CONCURRENT freed 889K, 50% free 3804K/7495K, external 1753K/2137K, paused 8ms+3ms
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/dalvikvm(  115): GC_CONCURRENT freed 555K, 53% free 2928K/6151K, external 1625K/2137K, paused 3ms+3ms
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+V/BackupManagerService(   61): Backup requested but nothing pending
+D/inject  (14785): [+] The pid of system_server: 61
+D/inject  (14785): [+] Injecting process: 61
+D/inject  (14785): [+] get_remote_addr: local[afd00000], remote[afd00000]
+D/inject  (14785): [+] Remote mmap address: afd170cd
+D/inject  (14785): [+] Calling mmap in target process.
+D/inject  (14785): [+] Target process returned from mmap, return value=44c76000, pc=0 
+D/inject  (14785): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  (14785): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  (14785): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  (14785): [+] Get imports: dlopen: b00059bd, dlsym: b0005915, dlclose: b0005849
+D/inject  (14785): [+] Inject code start: c008, end: c084
+D/inject  (14785): [+] _dlopen_param1_s: 44c79c9c
+D/inject  (14785): [+] _dlsym_param2_s: 44c79d9c
+D/inject  (14785): [+] _saved_r0_pc_s: 44c79e9c
+D/inject  (14785): [+] _inject_function_param_s: 44c79f9c
+D/inject  (14785): [+] Remote shellcode address: 44c79c00
+D/inject  (14785): [+] Process Detach: 10
+D/inject  (   61): Hello ARM! I'm parameter1324! pid:61
+D/inject  (   61): The Handle of libhook_open: b000dfd0
+D/inject  (   61): find it pre 0
+D/inject  (   61): find it 80901118
+D/inject  (   61): [+] aaaaaaa do_hook function is invoked 
+D/inject  (   61): [+] open addr: 0xafd17111. New addr 0x80900f60
+D/inject  (   61): [+] just for test 
+D/inject  (   61): [+] set ok 
+D/inject  (   61): [+] Get the persist.sys.test  bbbbbbbb
+D/inject  (   61): [+] just for test print open address 44c79ad8
+D/inject  (   61): get old address
+D/inject  (   61): [+] Get old address property  afd17111
+D/inject  (   61): get new address
+D/inject  (   61): [+] Get new address property  80900f60
+D/inject  (   61): [+] binder path ad100000
+D/inject  (   61): [+] Section header table file offset 2e23c
+D/inject  (   61): [+] Section header table entry count 15
+D/inject  (   61): [+] Section header table entry size 28
+D/inject  (   61): [+] Section header string table index 14
+D/inject  (   61): [+] Object file type 3
+D/inject  (   61): [+] Object file version 1
+D/inject  (   61): [+] Out_addr in GOT table before 0
+D/inject  (   61): [+] Out_size of func in GOT table before 0
+D/inject  (   61): [+] Out_addr in GOT table ad12c138
+D/inject  (   61): [+] Out_size of func in GOT table 8c4
+D/inject  (   61): [+] Out_addr in GOT table ad12c138
+D/inject  (   61): [+] Out_size of func in GOT table 8c4
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] word ffffffff
+D/inject  (   61): [+] wordelf ffffffff
+D/inject  (   61): [+] Out_addr in GOT 464c457f
+D/inject  (   61): [+] target pid 3d
+D/inject  (   61): [+] Find got_item ff 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd4d5c8 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad12e2a4 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad12e28c 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad12e268 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad12e258 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd4631c 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad12e298 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad12e250 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad12e280 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad12e294 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad12e260 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad12e278 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd415c0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad12e2a8 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad12e274 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad12e27c 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad12e248 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad12e2a0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad12e25c 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad12e270 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad12e288 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad12e264 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad12e284 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad9bc7f1 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad9bc7f9 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ade45f55 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ade45f69 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad9bb339 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad9bb341 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad9b481d 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad9b4831 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad9a5561 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad9a5569 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ade31305 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ade3130d 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad12e240 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad12e244 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad12e24c 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad12e254 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad12e26c 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad12e290 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad12e29c 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ade5f751 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ade5f749 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ade5f74d 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item adec6b68 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad12ca00 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd42610 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd2092d 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd19c3d 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd20a45 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item af9038e5 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd28321 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item af9037b1 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd1c87d 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ade3a295 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ade394bd 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ade39c31 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad9a4ef5 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad96a6b1 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ade39141 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad99e381 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad96a3f1 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad99d059 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ade256f1 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad9a3e51 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ad9a3839 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd25c95 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd11fbd 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd17049 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd0bba0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd0bad0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd0e3e0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd0e3f4 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd29855 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd0bc40 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afc009e1 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd0bc00 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afc009c1 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd0bbe0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd14de4 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd20859 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afc009e9 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd172fd 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd3742d 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd17249 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd171a1 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afc009c9 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd17ac5 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd0bc80 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd19a49 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd17111 
+D/inject  (   61): [+] Find open and replace 
+D/inject  (   61): [+] The New open count 0
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /proc/14816/cmdline
+D/inject  (   61): [+] The New open count 1
+D/inject  (   61): [+] The New open count 1
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 2
+I/InputReader(   61): Device reconfigured: id=0x0, name=qwerty2, display size is now 480x800
+D/inject  (   61): [+] The New open count 2
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/board_properties/virtualkeys.qwerty2
+D/inject  (   61): [+] The New open count 3
+I/InputManager-Callbacks(   61): No virtual keys found for device qwerty2.
+I/ARMAssembler(   61): generated scanline__00000177:03515104_00001001_00000000 [ 91 ipp] (114 ins) at [0x44e3d520:0x44e3d6e8] in 666811 ns
+I/ActivityManager(   61): Displayed com.android.launcher/com.android.launcher2.Launcher: +2h6m29s165ms
+D/inject  (   61): [+] The New open count 3
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /data/system/usagestats/usage-20130705
+D/inject  (   61): [+] The New open count 4
+D/dalvikvm(  123): GC_EXTERNAL_ALLOC freed 146K, 50% free 3004K/5895K, external 4856K/5599K, paused 43ms
+D/inject  (   61): [+] The New open count 4
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 5
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.example.readtxt/.MainActivity } from pid 123
+I/ActivityManager(   61): Start proc com.example.readtxt for activity com.example.readtxt/.MainActivity: pid=14830 uid=10040 gids={1015}
+I/ARMAssembler(   61): generated scanline__00000177:03515104_00001002_00000000 [ 87 ipp] (110 ins) at [0x44e3d6f0:0x44e3d8a8] in 416870 ns
+I/ActivityManager(   61): Displayed com.example.readtxt/.MainActivity: +892ms
+W/KeyCharacterMap(14830): No keyboard for id 0
+W/KeyCharacterMap(14830): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+D/inject  (   61): [+] The New open count 5
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /proc/14830/cmdline
+D/inject  (   61): [+] The New open count 6
+D/inject  (   61): [+] The New open count 6
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 7
+D/inject  (   61): [+] The New open count 7
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 8
+D/dalvikvm(  123): GC_EXTERNAL_ALLOC freed 21K, 49% free 3007K/5895K, external 7580K/7590K, paused 46ms
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=in.wptraffcianalyzer.filereadwritedemo/.MainActivity } from pid 123
+I/ActivityManager(   61): Start proc in.wptraffcianalyzer.filereadwritedemo for activity in.wptraffcianalyzer.filereadwritedemo/.MainActivity: pid=14966 uid=10042 gids={1015}
+I/ActivityManager(   61): Displayed in.wptraffcianalyzer.filereadwritedemo/.MainActivity: +889ms
+W/KeyCharacterMap(14966): No keyboard for id 0
+W/KeyCharacterMap(14966): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+W/InputManagerService(   61): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@407c0a48 (uid=10042 pid=14966)
+W/IInputConnectionWrapper(14966): showStatusIcon on inactive InputConnection
+D/inject  (   61): [+] The New open count 8
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /proc/14953/cmdline
+D/inject  (   61): [+] The New open count 9
+D/inject  (   61): [+] The New open count 9
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /proc/14966/cmdline
+D/inject  (   61): [+] The New open count 10
+D/inject  (   61): [+] The New open count 10
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 11
+D/dalvikvm(   61): GC_CONCURRENT freed 1518K, 49% free 4526K/8711K, external 4373K/5573K, paused 4ms+7ms
+W/KeyCharacterMap(  123): No keyboard for id 0
+W/KeyCharacterMap(  123): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+D/inject  (   61): [+] The New open count 11
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 12
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/inject  (   61): [+] The New open count 12
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 13
+D/inject  (   61): [+] The New open count 13
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 14
+D/inject  (   61): [+] The New open count 14
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /data/system/throttle/407640534
+D/inject  (   61): [+] The New open count 15
+D/inject  (   61): [+] The New open count 15
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 16
+D/inject  (   61): [+] The New open count 16
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 17
+D/inject  (   61): [+] The New open count 17
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 18
+D/inject  (   61): [+] The New open count 18
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 19
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=in.wptraffcianalyzer.filereadwritedemo/.MainActivity } from pid 123
+I/ActivityManager(   61): Displayed in.wptraffcianalyzer.filereadwritedemo/.MainActivity: +568ms
+D/inject  (   61): [+] The New open count 19
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /proc/15442/cmdline
+D/inject  (   61): [+] The New open count 20
+D/inject  (   61): [+] The New open count 20
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 21
+W/InputManagerService(   61): Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@406aba18
+D/dalvikvm(  111): GC_EXTERNAL_ALLOC freed 78K, 49% free 3193K/6215K, external 2107K/2137K, paused 93ms
+D/dalvikvm(  111): GC_EXTERNAL_ALLOC freed 63K, 47% free 3299K/6215K, external 2670K/2680K, paused 42ms
+D/dalvikvm(  111): GC_EXTERNAL_ALLOC freed 13K, 47% free 3306K/6215K, external 3364K/3373K, paused 42ms
+D/dalvikvm(  111): GC_EXTERNAL_ALLOC freed 15K, 47% free 3333K/6215K, external 4243K/4254K, paused 48ms
+D/dalvikvm(  111): GC_EXTERNAL_ALLOC freed 75K, 45% free 3465K/6215K, external 5273K/5338K, paused 65ms
+D/dalvikvm(  123): GC_EXPLICIT freed 112K, 50% free 2952K/5895K, external 6242K/7795K, paused 54ms
+W/KeyCharacterMap(  111): No keyboard for id 0
+W/KeyCharacterMap(  111): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+I/dalvikvm(   61): Jit: resizing JitTable from 2048 to 4096
+D/inject  (   61): [+] The New open count 21
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /data/system/dropbox/drop62.tmp
+D/inject  (   61): [+] The New open count 22
+D/inject  (   61): [+] The New open count 22
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 23
+W/InputManagerService(   61): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@407c0a48 (uid=10042 pid=14966)
+W/IInputConnectionWrapper(14966): showStatusIcon on inactive InputConnection
+D/inject  (   61): [+] The New open count 23
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 24
+D/dalvikvm(14966): GC_EXPLICIT freed 265K, 52% free 2650K/5511K, external 2043K/2137K, paused 63ms
+D/inject  (   61): [+] The New open count 24
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 25
+D/inject  (   61): [+] The New open count 25
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 26
+D/inject  (   61): [+] The New open count 26
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 27
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=in.wptraffcianalyzer.filereadwritedemo/.MainActivity } from pid 123
+I/ActivityManager(   61): Displayed in.wptraffcianalyzer.filereadwritedemo/.MainActivity: +548ms
+D/inject  (   61): [+] The New open count 27
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 28
+D/dalvikvm(  123): GC_EXPLICIT freed 18K, 51% free 2939K/5895K, external 6120K/7643K, paused 145ms
+D/dalvikvm(   61): GREF has increased to 401
+W/KeyCharacterMap(14966): No keyboard for id 0
+W/KeyCharacterMap(14966): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+D/dalvikvm(  111): GC_CONCURRENT freed 476K, 47% free 3517K/6599K, external 6397K/7268K, paused 3ms+3ms
+W/System.err(14966): java.io.FileNotFoundException: /mnt/sdcard/documents/ope11.txt (No such file or directory)
+W/System.err(14966): 	at org.apache.harmony.luni.platform.OSFileSystem.open(Native Method)
+W/System.err(14966): 	at dalvik.system.BlockGuard$WrappedFileSystem.open(BlockGuard.java:232)
+W/System.err(14966): 	at java.io.FileInputStream.<init>(FileInputStream.java:80)
+W/System.err(14966): 	at java.io.FileReader.<init>(FileReader.java:42)
+W/System.err(14966): 	at in.wptraffcianalyzer.filereadwritedemo.MainActivity$2.onClick(MainActivity.java:90)
+W/System.err(14966): 	at android.view.View.performClick(View.java:2485)
+W/System.err(14966): 	at android.view.View$PerformClick.run(View.java:9080)
+W/System.err(14966): 	at android.os.Handler.handleCallback(Handler.java:587)
+W/System.err(14966): 	at android.os.Handler.dispatchMessage(Handler.java:92)
+W/System.err(14966): 	at android.os.Looper.loop(Looper.java:123)
+W/System.err(14966): 	at android.app.ActivityThread.main(ActivityThread.java:3683)
+W/System.err(14966): 	at java.lang.reflect.Method.invokeNative(Native Method)
+W/System.err(14966): 	at java.lang.reflect.Method.invoke(Method.java:507)
+W/System.err(14966): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:839)
+W/System.err(14966): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:597)
+W/System.err(14966): 	at dalvik.system.NativeStart.main(Native Method)
+W/KeyCharacterMap(  111): No keyboard for id 0
+W/KeyCharacterMap(  111): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+D/inject  (   61): [+] The New open count 28
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 29
+W/IInputConnectionWrapper(14966): showStatusIcon on inactive InputConnection
+D/inject  (   61): [+] The New open count 29
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 30
+D/dalvikvm(14966): GC_EXPLICIT freed 391K, 54% free 2666K/5703K, external 1657K/2137K, paused 40ms
+D/inject  (   61): [+] The New open count 30
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 31
+D/dalvikvm(  250): GC_CONCURRENT freed 876K, 50% free 3813K/7495K, external 1753K/2137K, paused 3ms+3ms
+D/inject  (   61): [+] The New open count 31
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 32
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/inject  (   61): [+] The New open count 32
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 33
+D/inject  (   61): [+] The New open count 33
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 34
+D/inject  (   61): [+] The New open count 34
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /data/system/throttle/407640534
+D/inject  (   61): [+] The New open count 35
+D/inject  (   61): [+] The New open count 35
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 36
+D/inject  (   61): [+] The New open count 36
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 37
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=in.wptraffcianalyzer.filereadwritedemo/.MainActivity } from pid 123
+I/ActivityManager(   61): Displayed in.wptraffcianalyzer.filereadwritedemo/.MainActivity: +557ms
+D/inject  (   61): [+] The New open count 37
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 38
+D/dalvikvm(  123): GC_EXPLICIT freed 4K, 51% free 2939K/5895K, external 6120K/7643K, paused 109ms
+D/inject  (   61): [+] The New open count 38
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 39
+D/dalvikvm(14966): GREF has increased to 201
+D/inject  (   61): [+] The New open count 39
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 40
+D/inject  (   61): [+] The New open count 40
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 41
+D/inject  (   61): [+] The New open count 41
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 42
+D/inject  (   61): [+] The New open count 42
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 43
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/inject  (   61): [+] The New open count 43
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 44
+D/inject  (   61): [+] The New open count 44
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 45
+D/inject  (   61): [+] The New open count 45
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 46
+D/inject  (   61): [+] The New open count 46
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 47
+D/inject  (   61): [+] The New open count 47
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 48
+D/inject  (   61): [+] The New open count 48
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /data/system/batterystats.bin.tmp
+D/inject  (   61): [+] The New open count 49
+D/inject  (   61): [+] The New open count 49
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 50
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/inject  (   61): [+] The New open count 50
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 51
+D/inject  (   61): [+] The New open count 51
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 52
+D/inject  (   61): [+] The New open count 52
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 53
+D/inject  (   61): [+] The New open count 53
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /data/system/throttle/407640534
+D/inject  (   61): [+] The New open count 54
+D/inject  (   61): [+] The New open count 54
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 55
+D/inject  (   61): [+] The New open count 55
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 56
+D/inject  (   61): [+] The New open count 56
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 57
+D/inject  (   61): [+] The New open count 57
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 58
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/inject  (   61): [+] The New open count 58
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 59
+D/inject  (   61): [+] The New open count 59
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 60
+D/inject  (   61): [+] The New open count 60
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 61
+D/inject  (   61): [+] The New open count 61
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 62
+D/inject  (   61): [+] The New open count 62
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 63
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/inject  (   61): [+] The New open count 63
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 64
+I/dalvikvm(14966): Jit: resizing JitTable from 512 to 1024
+D/inject  (   61): [+] The New open count 64
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 65
+D/inject  (   61): [+] The New open count 65
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /data/system/throttle/407640534
+D/inject  (   61): [+] The New open count 66
+D/inject  (   61): [+] The New open count 66
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 67
+D/inject  (   61): [+] The New open count 67
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 68
+I/dalvikvm(  117): Jit: resizing JitTable from 512 to 1024
+D/inject  (   61): [+] The New open count 68
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 69
+D/inject  (   61): [+] The New open count 69
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 70
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/inject  (   61): [+] The New open count 70
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /proc/17679/cmdline
+D/inject  (   61): [+] The New open count 71
+D/inject  (   61): [+] The New open count 71
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /proc/17680/cmdline
+D/inject  (   61): [+] The New open count 72
+D/inject  (   61): [+] The New open count 72
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 73
+D/inject  (   61): [+] The New open count 73
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 74
+D/inject  (   61): [+] The New open count 74
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 75
+D/inject  (   61): [+] The New open count 75
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 76
+D/inject  (   61): [+] The New open count 76
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 77
+D/inject  (   61): [+] The New open count 77
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 78
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+W/KeyCharacterMap(14966): No keyboard for id 0
+W/KeyCharacterMap(14966): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+W/System.err(14966): java.io.FileNotFoundException: /mnt/sdcard/documents/ope.txt (No such file or directory)
+W/System.err(14966): 	at org.apache.harmony.luni.platform.OSFileSystem.open(Native Method)
+W/System.err(14966): 	at dalvik.system.BlockGuard$WrappedFileSystem.open(BlockGuard.java:232)
+W/System.err(14966): 	at java.io.FileInputStream.<init>(FileInputStream.java:80)
+W/System.err(14966): 	at java.io.FileReader.<init>(FileReader.java:42)
+W/System.err(14966): 	at in.wptraffcianalyzer.filereadwritedemo.MainActivity$2.onClick(MainActivity.java:90)
+W/System.err(14966): 	at android.view.View.performClick(View.java:2485)
+W/System.err(14966): 	at android.view.View$PerformClick.run(View.java:9080)
+W/System.err(14966): 	at android.os.Handler.handleCallback(Handler.java:587)
+W/System.err(14966): 	at android.os.Handler.dispatchMessage(Handler.java:92)
+W/System.err(14966): 	at android.os.Looper.loop(Looper.java:123)
+W/System.err(14966): 	at android.app.ActivityThread.main(ActivityThread.java:3683)
+W/System.err(14966): 	at java.lang.reflect.Method.invokeNative(Native Method)
+W/System.err(14966): 	at java.lang.reflect.Method.invoke(Method.java:507)
+W/System.err(14966): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:839)
+W/System.err(14966): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:597)
+W/System.err(14966): 	at dalvik.system.NativeStart.main(Native Method)
+D/inject  (   61): [+] The New open count 78
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 79
+W/System.err(14966): java.io.FileNotFoundException: /mnt/sdcard/documents/ope4 (No such file or directory)
+W/System.err(14966): 	at org.apache.harmony.luni.platform.OSFileSystem.open(Native Method)
+W/System.err(14966): 	at dalvik.system.BlockGuard$WrappedFileSystem.open(BlockGuard.java:232)
+W/System.err(14966): 	at java.io.FileInputStream.<init>(FileInputStream.java:80)
+W/System.err(14966): 	at java.io.FileReader.<init>(FileReader.java:42)
+W/System.err(14966): 	at in.wptraffcianalyzer.filereadwritedemo.MainActivity$2.onClick(MainActivity.java:90)
+W/System.err(14966): 	at android.view.View.performClick(View.java:2485)
+W/System.err(14966): 	at android.view.View$PerformClick.run(View.java:9080)
+W/System.err(14966): 	at android.os.Handler.handleCallback(Handler.java:587)
+W/System.err(14966): 	at android.os.Handler.dispatchMessage(Handler.java:92)
+W/System.err(14966): 	at android.os.Looper.loop(Looper.java:123)
+W/System.err(14966): 	at android.app.ActivityThread.main(ActivityThread.java:3683)
+W/System.err(14966): 	at java.lang.reflect.Method.invokeNative(Native Method)
+W/System.err(14966): 	at java.lang.reflect.Method.invoke(Method.java:507)
+W/System.err(14966): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:839)
+W/System.err(14966): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:597)
+W/System.err(14966): 	at dalvik.system.NativeStart.main(Native Method)
+D/dalvikvm(  111): GC_EXTERNAL_ALLOC freed 121K, 48% free 3481K/6599K, external 6963K/7268K, paused 52ms
+W/KeyCharacterMap(  111): No keyboard for id 0
+W/KeyCharacterMap(  111): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+D/dalvikvm(14966): GC_CONCURRENT freed 434K, 53% free 2747K/5831K, external 1657K/2137K, paused 3ms+51ms
+D/inject  (   61): [+] The New open count 79
+D/inject  (   61): [+]open test txt file
+D/inject  (   61): [+] The New open count /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
+D/inject  (   61): [+] The New open count 80

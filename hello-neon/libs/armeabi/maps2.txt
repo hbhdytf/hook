@@ -1,0 +1,37 @@
+400ad000-400af000 r-xp 00000000 b3:03 24675      /system/bin/servicemanager
+400af000-400b0000 r--p 00001000 b3:03 24675      /system/bin/servicemanager
+400b0000-400b1000 rw-p 00002000 b3:03 24675      /system/bin/servicemanager
+400b1000-400c9000 r-xp 00000000 b3:03 24616      /system/bin/linker
+400c9000-400ca000 r--p 00018000 b3:03 24616      /system/bin/linker
+400ca000-400cb000 rw-p 00019000 b3:03 24616      /system/bin/linker
+400cb000-400d9000 rw-p 00000000 00:00 0 
+400d9000-400dd000 r-xp 00000000 b3:03 24995      /system/lib/liblog.so
+400dd000-400de000 r--p 00003000 b3:03 24995      /system/lib/liblog.so
+400de000-400df000 rw-p 00004000 b3:03 24995      /system/lib/liblog.so
+400df000-40146000 r-xp 00000000 b3:03 24872      /system/lib/libc.so
+40146000-40149000 rw-p 00067000 b3:03 24872      /system/lib/libc.so
+40149000-40155000 rw-p 00000000 00:00 0 
+40155000-40156000 r-xp 00000000 b3:03 25108      /system/lib/libstdc++.so
+40156000-40157000 r--p 00000000 b3:03 25108      /system/lib/libstdc++.so
+40157000-40158000 rw-p 00000000 00:00 0 
+40158000-4016d000 r-xp 00000000 b3:03 24996      /system/lib/libm.so
+4016d000-4016e000 r--p 00014000 b3:03 24996      /system/lib/libm.so
+4016e000-4016f000 rw-p 00000000 00:00 0 
+4016f000-4017c000 r--s 00000000 00:0a 1096       /dev/__properties__ (deleted)
+4017c000-4017d000 r--p 00000000 00:00 0 
+4017d000-4019d000 r--p 00000000 00:0a 1176       /dev/binder
+4019d000-401b1000 rwxp 00000000 00:00 0 
+401b1000-401b4000 r-xp 00000000 00:0a 51380      /dev/yuki/payload.so
+401b4000-401b5000 r--p 00002000 00:0a 51380      /dev/yuki/payload.so
+401b5000-401b6000 rw-p 00003000 00:0a 51380      /dev/yuki/payload.so
+401b6000-401b7000 r--s 00000000 00:0a 1161       /dev/xLog
+401b7000-401bf000 rwxp 00000000 00:00 0          [stack:5037]
+401bf000-401c2000 r-xp 00000000 00:0a 57547      /dev/libhello.so
+401c2000-401c3000 r--p 00002000 00:0a 57547      /dev/libhello.so
+401c3000-401c4000 rw-p 00003000 00:0a 57547      /dev/libhello.so
+401c4000-401c7000 r-xp 00000000 00:0a 57550      /dev/libhook_ioctl.so
+401c7000-401c8000 r--p 00002000 00:0a 57550      /dev/libhook_ioctl.so
+401c8000-401c9000 rw-p 00003000 00:0a 57550      /dev/libhook_ioctl.so
+40200000-40202000 rw-p 00000000 00:00 0          [heap]
+be8bc000-be8dd000 rw-p 00000000 00:00 0 
+ffff0000-ffff1000 r-xp 00000000 00:00 0          [vectors]

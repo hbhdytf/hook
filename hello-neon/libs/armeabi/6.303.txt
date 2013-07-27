@@ -1,0 +1,1328 @@
+I/DEBUG   (   31): debuggerd: Feb  3 2011 14:45:34
+D/qemud   (   38): entering main loop
+I/Vold    (   29): Vold 2.1 (the revenge) firing up
+I/Netd    (   30): Netd 1.0 starting
+D/Vold    (   29): USB mass storage support is not enabled in the kernel
+D/Vold    (   29): usb_configuration switch is not enabled in the kernel
+D/Vold    (   29): Volume sdcard state changing -1 (Initializing) -> 0 (No-Media)
+D/Vold    (   29): Volume sdcard state changing 0 (No-Media) -> 1 (Idle-Unmounted)
+D/qemud   (   38): fdhandler_accept_event: accepting on fd 9
+D/qemud   (   38): created client 0xe078 listening on fd 10
+D/qemud   (   38): client_fd_receive: attempting registration for service 'boot-properties'
+D/qemud   (   38): client_fd_receive:    -> received channel id 1
+D/qemud   (   38): client_registration: registration succeeded for client 1
+I/qemu-props(   52): connected to 'boot-properties' qemud service.
+I/qemu-props(   52): receiving..
+I/qemu-props(   52): received: dalvik.vm.heapsize=32m
+I/qemu-props(   52): receiving..
+I/qemu-props(   52): received: qemu.sf.lcd_density=240
+I/qemu-props(   52): receiving..
+I/qemu-props(   52): received: qemu.hw.mainkeys=1
+I/qemu-props(   52): receiving..
+I/qemu-props(   52): received: qemu.sf.fake_camera=none
+I/qemu-props(   52): receiving..
+D/qemud   (   38): fdhandler_event: disconnect on fd 10
+I/qemu-props(   52): exiting (4 properties set).
+D/AndroidRuntime(   33): 
+D/AndroidRuntime(   33): >>>>>> AndroidRuntime START com.android.internal.os.ZygoteInit <<<<<<
+D/AndroidRuntime(   33): CheckJNI is ON
+I/        (   34): ServiceManager: 0xad50
+D/AudioHardwareInterface(   34): setMode(NORMAL)
+I/CameraService(   34): CameraService started (pid=34)
+I/AudioFlinger(   34): AudioFlinger's thread 0xc658 ready to run
+D/qemud   (   38): fdhandler_accept_event: accepting on fd 9
+D/qemud   (   38): created client 0xe078 listening on fd 10
+D/qemud   (   38): fdhandler_event: disconnect on fd 10
+D/qemud   (   38): fdhandler_accept_event: accepting on fd 9
+D/qemud   (   38): created client 0xe078 listening on fd 10
+D/qemud   (   38): client_fd_receive: attempting registration for service 'gsm'
+D/qemud   (   38): client_fd_receive:    -> received channel id 2
+D/qemud   (   38): client_registration: registration succeeded for client 2
+I/SamplingProfilerIntegration(   33): Profiler is disabled.
+I/Zygote  (   33): Preloading classes...
+E/Zygote  (   33): setreuid() failed. errno: 2
+D/dalvikvm(   33): GC_EXPLICIT freed 47K, 78% free 234K/1024K, external 0K/0K, paused 6ms
+D/dalvikvm(   33): GC_EXPLICIT freed 1K, 73% free 284K/1024K, external 0K/0K, paused 3ms
+D/dalvikvm(   33): GC_EXPLICIT freed 22K, 69% free 318K/1024K, external 0K/0K, paused 3ms
+D/dalvikvm(   33): GC_EXPLICIT freed 17K, 66% free 356K/1024K, external 0K/0K, paused 4ms
+D/dalvikvm(   33): GC_EXPLICIT freed 26K, 63% free 385K/1024K, external 0K/0K, paused 4ms
+D/dalvikvm(   33): GC_EXPLICIT freed 20K, 57% free 441K/1024K, external 0K/0K, paused 5ms
+W/MediaProfiles(   33): could not find media config xml file
+D/dalvikvm(   33): GC_EXPLICIT freed 99K, 47% free 547K/1024K, external 0K/0K, paused 7ms
+D/dalvikvm(   33): GC_EXPLICIT freed 272K, 28% free 885K/1219K, external 0K/0K, paused 14ms
+D/dalvikvm(   33): GC_EXPLICIT freed 21K, 24% free 932K/1219K, external 0K/0K, paused 12ms
+D/RenderScript_jni(   33): RenderScript JNI library not found!
+D/dalvikvm(   33): GC_EXPLICIT freed 25K, 19% free 999K/1219K, external 0K/0K, paused 11ms
+D/dalvikvm(   33): GC_EXPLICIT freed 47K, 5% free 1281K/1347K, external 0K/0K, paused 18ms
+D/dalvikvm(   33): GC_EXPLICIT freed 24K, 3% free 1311K/1347K, external 0K/0K, paused 18ms
+D/dalvikvm(   33): GC_EXPLICIT freed 28K, 6% free 1336K/1411K, external 0K/0K, paused 19ms
+D/dalvikvm(   33): GC_EXPLICIT freed 14K, 3% free 1377K/1411K, external 0K/0K, paused 18ms
+D/dalvikvm(   33): GC_EXPLICIT freed 28K, 5% free 1402K/1475K, external 0K/0K, paused 18ms
+D/dalvikvm(   33): GC_EXPLICIT freed 28K, 3% free 1439K/1475K, external 0K/0K, paused 21ms
+D/dalvikvm(   33): GC_EXPLICIT freed 38K, 6% free 1457K/1539K, external 0K/0K, paused 20ms
+D/dalvikvm(   33): GC_EXPLICIT freed 40K, 5% free 1471K/1539K, external 0K/0K, paused 20ms
+D/dalvikvm(   33): GC_EXPLICIT freed 55K, 8% free 1485K/1603K, external 0K/0K, paused 20ms
+D/dalvikvm(   33): GC_FOR_MALLOC freed 2954K, 58% free 2168K/5123K, external 0K/0K, paused 65ms
+D/dalvikvm(   33): GC_EXPLICIT freed 1403K, 55% free 2310K/5123K, external 0K/0K, paused 45ms
+D/dalvikvm(   33): GC_EXPLICIT freed 148K, 54% free 2373K/5123K, external 0K/0K, paused 36ms
+D/dalvikvm(   33): GC_EXPLICIT freed 73K, 54% free 2398K/5123K, external 0K/0K, paused 34ms
+D/dalvikvm(   33): GC_EXPLICIT freed 36K, 53% free 2416K/5123K, external 0K/0K, paused 33ms
+D/dalvikvm(   33): GC_EXPLICIT freed 31K, 53% free 2439K/5123K, external 0K/0K, paused 34ms
+D/dalvikvm(   33): GC_EXPLICIT freed 38K, 52% free 2462K/5123K, external 0K/0K, paused 34ms
+I/Zygote  (   33): ...preloaded 1830 classes in 6859ms.
+E/Zygote  (   33): setreuid() failed. errno: 17
+D/dalvikvm(   33): GC_EXPLICIT freed 18K, 52% free 2460K/5123K, external 0K/0K, paused 35ms
+I/Zygote  (   33): Preloading resources...
+D/dalvikvm(   33): GC_EXTERNAL_ALLOC freed <1K, 52% free 2462K/5123K, external 0K/0K, paused 34ms
+W/Zygote  (   33): Preloaded drawable resource #0x1080093 (res/drawable-hdpi/sym_def_app_icon.png) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x1080002 (res/drawable-hdpi/arrow_down_float.png) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x10800b4 (res/drawable/btn_check.xml) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x10800b7 (res/drawable-hdpi/btn_check_label_background.9.png) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x10800b8 (res/drawable-hdpi/btn_check_off.png) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x10800bd (res/drawable-hdpi/btn_check_on.png) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x1080004 (res/drawable/btn_default.xml) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x1080005 (res/drawable/btn_default_small.xml) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x1080006 (res/drawable/btn_dropdown.xml) that varies with configuration!!
+D/dalvikvm(   33): GC_EXTERNAL_ALLOC freed 15K, 52% free 2484K/5123K, external 508K/532K, paused 34ms
+W/Zygote  (   33): Preloaded drawable resource #0x1080008 (res/drawable/btn_plus.xml) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x1080007 (res/drawable/btn_minus.xml) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x1080009 (res/drawable/btn_radio.xml) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x108000a (res/drawable/btn_star.xml) that varies with configuration!!
+D/dalvikvm(   33): GC_EXPLICIT freed 9K, 52% free 2499K/5123K, external 927K/1049K, paused 34ms
+W/Zygote  (   33): Preloaded drawable resource #0x1080132 (res/drawable/btn_toggle.xml) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x1080196 (res/drawable-hdpi/ic_emergency.png) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x1080012 (res/drawable-hdpi/divider_horizontal_bright.9.png) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x1080014 (res/drawable-hdpi/divider_horizontal_dark.9.png) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x1080016 (res/drawable/edit_text.xml) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x1080170 (res/drawable/expander_group.xml) that varies with configuration!!
+D/dalvikvm(   33): GC_EXTERNAL_ALLOC freed 10K, 52% free 2507K/5123K, external 1032K/1049K, paused 34ms
+W/Zygote  (   33): Preloaded drawable resource #0x1080062 (res/drawable/list_selector_background.xml) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x108022a (res/drawable-hdpi/menu_background.9.png) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x108022b (res/drawable-hdpi/menu_background_fill_parent_width.9.png) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x108022c (res/drawable/menu_selector.xml) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x108023a (res/drawable-hdpi/panel_background.9.png) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x1080242 (res/drawable-hdpi/popup_bottom_bright.9.png) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x1080243 (res/drawable-hdpi/popup_bottom_dark.9.png) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x1080244 (res/drawable-hdpi/popup_bottom_medium.9.png) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x1080245 (res/drawable-hdpi/popup_center_bright.9.png) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x1080246 (res/drawable-hdpi/popup_center_dark.9.png) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x1080249 (res/drawable-hdpi/popup_full_dark.9.png) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x108024c (res/drawable-hdpi/popup_top_bright.9.png) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x108024d (res/drawable-hdpi/popup_top_dark.9.png) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x108006d (res/drawable/progress_indeterminate_horizontal.xml) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x1080253 (res/drawable/progress_small.xml) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x1080254 (res/drawable/progress_small_titlebar.xml) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x1080274 (res/drawable-hdpi/scrollbar_handle_horizontal.9.png) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x1080275 (res/drawable-hdpi/scrollbar_handle_vertical.9.png) that varies with configuration!!
+D/dalvikvm(   33): GC_EXPLICIT freed 20K, 51% free 2525K/5123K, external 1327K/1566K, paused 35ms
+W/Zygote  (   33): Preloaded drawable resource #0x1080071 (res/drawable/spinner_dropdown_background.xml) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x1080312 (res/drawable-hdpi/text_select_handle_left.png) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x1080313 (res/drawable-hdpi/text_select_handle_middle.png) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x1080314 (res/drawable-hdpi/text_select_handle_right.png) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x1080335 (res/drawable-hdpi/title_bar_shadow.9.png) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x10801d8 (res/drawable-hdpi/indicator_code_lock_drag_direction_green_up.png) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x10801d9 (res/drawable-hdpi/indicator_code_lock_drag_direction_red_up.png) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x10801da (res/drawable-hdpi/indicator_code_lock_point_area_default.png) that varies with configuration!!
+W/Zygote  (   33): Preloaded drawable resource #0x10801db (res/drawable-hdpi/indicator_code_lock_point_area_green.png) that varies with configuration!!
+D/dalvikvm(   33): GC_EXTERNAL_ALLOC freed 15K, 51% free 2526K/5123K, external 1561K/1566K, paused 34ms
+W/Zygote  (   33): Preloaded drawable resource #0x10801dc (res/drawable-hdpi/indicator_code_lock_point_area_red.png) that varies with configuration!!
+I/Zygote  (   33): ...preloaded 51 resources in 693ms.
+I/Zygote  (   33): ...preloaded 15 resources in 13ms.
+D/dalvikvm(   33): GC_EXPLICIT freed 8K, 51% free 2532K/5123K, external 1625K/2137K, paused 35ms
+D/dalvikvm(   33): GC_EXPLICIT freed 5K, 51% free 2527K/5123K, external 1625K/2137K, paused 34ms
+D/dalvikvm(   33): GC_EXPLICIT freed <1K, 51% free 2526K/5123K, external 1625K/2137K, paused 35ms
+I/dalvikvm(   33): System server process 61 has been created
+I/Zygote  (   33): Accepting command socket connections
+E/BatteryService(   61): usbOnlinePath not found
+E/BatteryService(   61): batteryVoltagePath not found
+E/BatteryService(   61): batteryTemperaturePath not found
+I/sysproc (   61): Entered system_init()
+I/sysproc (   61): ServiceManager: 0xead98
+I/SurfaceFlinger(   61): SurfaceFlinger is starting
+I/SurfaceFlinger(   61): SurfaceFlinger's main thread ready to run. Initializing graphics H/W...
+E/SurfaceFlinger(   61): Couldn't open /sys/power/wait_for_fb_sleep or /sys/power/wait_for_fb_wake
+I/gralloc (   61): using (fd=26)
+I/gralloc (   61): id           = 
+I/gralloc (   61): xres         = 480 px
+I/gralloc (   61): yres         = 800 px
+I/gralloc (   61): xres_virtual = 480 px
+I/gralloc (   61): yres_virtual = 1600 px
+I/gralloc (   61): bpp          = 16
+I/gralloc (   61): r            = 11:5
+I/gralloc (   61): g            =  5:6
+I/gralloc (   61): b            =  0:5
+I/gralloc (   61): width        = 74 mm (164.756760 dpi)
+I/gralloc (   61): height       = 123 mm (165.203247 dpi)
+I/gralloc (   61): refresh rate = 60.00 Hz
+D/libEGL  (   61): egl.cfg not found, using default config
+D/libEGL  (   61): loaded /system/lib/egl/libGLES_android.so
+I/SurfaceFlinger(   61): EGL informations:
+I/SurfaceFlinger(   61): # of configs : 8
+I/SurfaceFlinger(   61): vendor    : Android
+I/SurfaceFlinger(   61): version   : 1.4 Android META-EGL
+I/SurfaceFlinger(   61): extensions: EGL_KHR_image EGL_KHR_image_base EGL_KHR_image_pixmap EGL_ANDROID_image_native_buffer EGL_ANDROID_swap_rectangle 
+I/SurfaceFlinger(   61): Client API: OpenGL ES
+I/SurfaceFlinger(   61): EGLSurface: 5-6-5-0, config=0x0
+I/SurfaceFlinger(   61): OpenGL informations:
+I/SurfaceFlinger(   61): vendor    : Android
+I/SurfaceFlinger(   61): renderer  : Android PixelFlinger 1.4
+I/SurfaceFlinger(   61): version   : OpenGL ES-CM 1.0
+I/SurfaceFlinger(   61): extensions: GL_OES_byte_coordinates GL_OES_fixed_point GL_OES_single_precision GL_OES_read_format GL_OES_compressed_paletted_texture GL_OES_draw_texture GL_OES_matrix_get GL_OES_query_matrix GL_OES_EGL_image GL_OES_compressed_ETC1_RGB8_texture GL_ARB_texture_compression GL_ARB_texture_non_power_of_two GL_ANDROID_user_clip_plane GL_ANDROID_vertex_buffer_object GL_ANDROID_generate_mipmap 
+I/SurfaceFlinger(   61): GL_MAX_TEXTURE_SIZE = 4096
+I/SurfaceFlinger(   61): GL_MAX_VIEWPORT_DIMS = 4096
+I/SurfaceFlinger(   61): flags = 000c0000
+D/SensorService(   61): nuSensorService starting...
+E/SensorService(   61): couldn't open device for module sensors (Invalid argument)
+I/sysproc (   61): System server: starting Android runtime.
+I/sysproc (   61): System server: starting Android services.
+I/SystemServer(   61): Entered the Android system server!
+I/sysproc (   61): System server: entering thread pool.
+I/SystemServer(   61): Entropy Service
+I/SystemServer(   61): Power Manager
+I/SystemServer(   61): Activity Manager
+I/ActivityManager(   61): Memory class: 32
+D/libEGL  (   73): egl.cfg not found, using default config
+D/libEGL  (   73): loaded /system/lib/egl/libGLES_android.so
+I/UsageStats(   61): Deleting usage file : usage-20130617
+W/zipro   (   73): Unable to open zip '/data/local/bootanimation.zip': No such file or directory
+W/zipro   (   73): Unable to open zip '/system/media/bootanimation.zip': No such file or directory
+I/ARMAssembler(   61): generated scanline__00000077:03010104_00000004_00000000 [ 22 ipp] (41 ins) at [0x44e3d1e8:0x44e3d28c] in 3132703 ns
+I/ARMAssembler(   73): generated scanline__00000077:03545404_00000A01_00000000 [ 30 ipp] (51 ins) at [0x404281e8:0x404282b4] in 1790935 ns
+I/SystemServer(   61): Telephony Registry
+I/SystemServer(   61): Package Manager
+I/Installer(   61): connecting...
+I/installd(   35): new connection
+D/dalvikvm(   61): GC_CONCURRENT freed 141K, 50% free 2855K/5639K, external 1625K/2137K, paused 3ms+4ms
+W/PackageManager(   61): Running ENG build: no pre-dexopt!
+D/dalvikvm(   61): GC_CONCURRENT freed 301K, 49% free 3040K/5959K, external 1625K/2137K, paused 3ms+11ms
+D/dalvikvm(   61): GC_CONCURRENT freed 216K, 46% free 3325K/6151K, external 1625K/2137K, paused 3ms+5ms
+D/PackageManager(   61): No files in app dir /vendor/app
+D/szipinf (   61): Initializing inflate state
+I/PackageManager(   61): Unpacking native libraries for /data/app/cn.wps.moffice_eng-1.apk
+D/dalvikvm(   61): GC_CONCURRENT freed 288K, 44% free 3700K/6599K, external 1625K/2137K, paused 7ms+5ms
+I/PackageManager(   61): Unpacking native libraries for /data/app/com.example.hellojni-1.apk
+D/NativeHelper(   61): Found gdbserver: lib/armeabi/gdbserver
+I/PackageManager(   61): Unpacking native libraries for /data/app/com.wandoujia.phoenix2-2.apk
+D/dalvikvm(   61): GC_CONCURRENT freed 247K, 41% free 4184K/7047K, external 1625K/2137K, paused 4ms+15ms
+I/PackageManager(   61): Unpacking native libraries for /data/app/com.wandoujia.phoenix2.usbproxy-1.apk
+W/PackageParser(   61): No actions in intent filter at /data/app/com.mx.browser-1.apk Binary XML file line #48
+W/ResourceType(   61): getEntry failing because entryIndex 296 is beyond type entryCount 171
+W/ResourceType(   61): Failure getting entry for 0x01030128 (t=2 e=296) in package 0 (error -2147483647)
+I/PackageManager(   61): Unpacking native libraries for /data/app/com.mx.browser-1.apk
+D/dalvikvm(   61): GC_CONCURRENT freed 807K, 45% free 4194K/7623K, external 1625K/2137K, paused 7ms+9ms
+I/PackageManager(   61): Unpacking native libraries for /data/app/GestureBuilder.apk
+I/PackageManager(   61): Unpacking native libraries for /data/app/SoftKeyboard.apk
+I/PackageManager(   61): Unpacking native libraries for /data/app/CubeLiveWallpapers.apk
+D/szipinf (   61): Initializing inflate state
+W/PackageParser(   61): No actions in intent filter at /data/app/ApiDemos.apk Binary XML file line #1882
+W/PackageParser(   61): No actions in intent filter at /data/app/ApiDemos.apk Binary XML file line #1888
+W/PackageManager(   61): Package com.example.android.apis desires unavailable shared library com.example.will.never.exist; ignoring!
+I/PackageManager(   61): Unpacking native libraries for /data/app/ApiDemos.apk
+I/PackageManager(   61): Time to scan packages: 3.683 seconds
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH.mail in package com.android.contacts
+W/PackageManager(   61): Unknown permission android.permission.ADD_SYSTEM_SERVICE in package com.android.phone
+W/PackageManager(   61): Unknown permission com.android.vending.BILLING in package cn.wps.moffice_eng
+W/PackageManager(   61): Not granting permission com.android.email.permission.ACCESS_PROVIDER to package cn.wps.moffice_eng (protectionLevel=3 flags=0x8be44)
+W/PackageManager(   61): Not granting permission android.permission.SEND_DOWNLOAD_COMPLETED_INTENTS to package com.android.browser (protectionLevel=2 flags=0x9be45)
+W/PackageManager(   61): Unknown permission com.google.android.gm.permission.WRITE_GMAIL in package com.android.settings
+W/PackageManager(   61): Unknown permission com.google.android.gm.permission.READ_GMAIL in package com.android.settings
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH in package com.android.settings
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH in package com.android.providers.contacts
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH.cp in package com.android.providers.contacts
+W/PackageManager(   61): Unknown permission com.android.launcher.permission.CREATE_SHORTCUT in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission org.adw.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission org.adw.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.qihoo360.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.qihoo360.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.lge.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.lge.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission net.qihoo.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission net.qihoo.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission org.adwfreak.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission org.adwfreak.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.huawei.launcher3.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.huawei.launcher3.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.fede.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.fede.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.sec.android.app.twlauncher.settings.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.sec.android.app.twlauncher.settings.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Not granting permission android.permission.ACCESS_DRM to package com.wandoujia.phoenix2 (protectionLevel=2 flags=0x8be44)
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.ACCESS_GOOGLE_PASSWORD in package com.android.development
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH in package com.android.development
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH.ALL_SERVICES in package com.android.development
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH.YouTubeUser in package com.android.development
+W/PackageManager(   61): Not granting permission android.permission.SET_PREFERRED_APPLICATIONS to package com.mx.browser (protectionLevel=2 flags=0x8be44)
+W/PackageManager(   61): Unknown permission android.permission.READ_OWNER_DATA in package com.android.email
+W/PackageManager(   61): Not granting permission android.permission.DEVICE_POWER to package com.android.deskclock (protectionLevel=2 flags=0x8be45)
+D/dalvikvm(   61): GC_EXPLICIT freed 681K, 46% free 4221K/7687K, external 1625K/2137K, paused 68ms
+I/SystemServer(   61): Account Manager
+I/SystemServer(   61): Content Manager
+I/SystemServer(   61): System Content Providers
+I/ActivityThread(   61): Pub settings: com.android.providers.settings.SettingsProvider
+I/SystemServer(   61): Battery Service
+I/SystemServer(   61): Lights Service
+I/SystemServer(   61): Vibrator Service
+D/qemud   (   38): fdhandler_accept_event: accepting on fd 9
+D/qemud   (   38): created client 0x12f38 listening on fd 11
+D/qemud   (   38): client_fd_receive: attempting registration for service 'hw-control'
+D/qemud   (   38): client_fd_receive:    -> received channel id 3
+D/qemud   (   38): client_registration: registration succeeded for client 3
+D/SettingsProvider(   61): cache for settings table 'secure' rows=27; fullycached=true
+D/SettingsProvider(   61): cache for settings table 'system' rows=47; fullycached=true
+I/SystemServer(   61): Alarm Manager
+I/SystemServer(   61): Init Watchdog
+I/SystemServer(   61): Window Manager
+I/InputManager(   61): Initializing input manager
+I/InputManager(   61): Starting input manager
+I/SystemServer(   61): Registering null Bluetooth Service (emulator)
+E/System  (   61): Failure starting core service
+E/System  (   61): java.lang.SecurityException
+E/System  (   61): 	at android.os.BinderProxy.transact(Native Method)
+E/System  (   61): 	at android.os.ServiceManagerProxy.addService(ServiceManagerNative.java:146)
+E/System  (   61): 	at android.os.ServiceManager.addService(ServiceManager.java:72)
+E/System  (   61): 	at com.android.server.ServerThread.run(SystemServer.java:206)
+I/SystemServer(   61): Device Policy
+I/SystemServer(   61): Status Bar
+I/SystemServer(   61): Clipboard Service
+I/SystemServer(   61): Input Method Service
+I/EventHub(   61): New keyboard: device->id=0x10000 devname='qwerty2' propName='hw.keyboards.65536.devname' keylayout='/system/usr/keylayout/qwerty.kl'
+I/EventHub(   61): New device: path=/dev/input/event0 name=qwerty2 id=0x10000 (of 0x1) index=1 fd=86 classes=0x87
+E/EventHub(   61): could not get driver version for /dev/input/mouse0, Not a typewriter
+E/EventHub(   61): could not get driver version for /dev/input/mice, Not a typewriter
+I/InputManager-Callbacks(   61): No input device calibration properties found for device qwerty2.
+I/InputReader(   61): Device added: id=0x0, name=qwerty2, sources=00001103
+I/InputManagerService(   61): Enabled input methods: jp.co.omronsoft.openwnn/.OpenWnnJAJP:com.android.inputmethod.latin/.LatinIME:com.android.inputmethod.pinyin/.PinyinIME:com.example.android.softkeyboard/.SoftKeyboard
+I/SystemServer(   61): NetStat Service
+I/SystemServer(   61): NetworkManagement Service
+I/SystemServer(   61): Connectivity Service
+I/WifiService(   61): WifiService starting up with Wi-Fi disabled
+D/NetworkManagmentService(   61): Registering observer
+I/SystemServer(   61): Throttle Service
+I/SystemServer(   61): Accessibility Manager
+I/SystemServer(   61): Mount Service
+I/SystemServer(   61): Notification Manager
+I/SystemServer(   61): Device Storage Monitor
+I/SystemServer(   61): Location Manager
+I/SystemServer(   61): Search Service
+I/SystemServer(   61): DropBox Service
+I/SystemServer(   61): Wallpaper Service
+D/VoldCmdListener(   29): volume list
+I/PackageManager(   61): Updating external media status from unmounted to unmounted
+D/VoldCmdListener(   29): share status ums
+I/SystemServer(   61): Audio Service
+D/AudioHardwareInterface(   34): setMode(NORMAL)
+W/AudioPolicyManagerBase(   34): setPhoneState() setting same state 0
+E/SoundPool(   61): error loading /system/media/audio/ui/Effect_Tick.ogg
+W/AudioService(   61): Soundpool could not load file: /system/media/audio/ui/Effect_Tick.ogg
+E/SoundPool(   61): error loading /system/media/audio/ui/KeypressStandard.ogg
+W/AudioService(   61): Soundpool could not load file: /system/media/audio/ui/KeypressStandard.ogg
+E/SoundPool(   61): error loading /system/media/audio/ui/KeypressSpacebar.ogg
+W/AudioService(   61): Soundpool could not load file: /system/media/audio/ui/KeypressSpacebar.ogg
+E/SoundPool(   61): error loading /system/media/audio/ui/KeypressDelete.ogg
+W/AudioService(   61): Soundpool could not load file: /system/media/audio/ui/KeypressDelete.ogg
+E/SoundPool(   61): error loading /system/media/audio/ui/KeypressReturn.ogg
+W/AudioService(   61): Soundpool could not load file: /system/media/audio/ui/KeypressReturn.ogg
+I/SystemServer(   61): Headset Observer
+W/HeadsetObserver(   61): This kernel does not have wired headset support
+I/SystemServer(   61): Dock Observer
+W/DockObserver(   61): This kernel does not have dock station support
+I/SystemServer(   61): USB Observer
+W/UsbObserver(   61): This kernel does not have USB configuration switch support
+E/UsbObserver(   61): 
+E/UsbObserver(   61): java.lang.NullPointerException
+E/UsbObserver(   61): 	at com.android.server.UsbObserver.init(UsbObserver.java:131)
+E/UsbObserver(   61): 	at com.android.server.UsbObserver.<init>(UsbObserver.java:65)
+E/UsbObserver(   61): 	at com.android.server.ServerThread.run(SystemServer.java:402)
+I/SystemServer(   61): UI Mode Manager Service
+I/SystemServer(   61): Backup Service
+I/BackupManagerService(   61): Backup enabled => true
+I/SystemServer(   61): AppWidget Service
+I/SystemServer(   61): Recognition Service
+I/SystemServer(   61): DiskStats Service
+I/WindowManager(   61): SAFE MODE not enabled
+D/dalvikvm(   61): JIT started for system_server
+D/PowerManagerService(   61): system ready!
+I/ActivityManager(   61): System now ready
+I/SystemServer(   61): Making services ready
+I/StatusBarManagerService(   61): Starting service: ComponentInfo{com.android.systemui/com.android.systemui.statusbar.StatusBarService}
+I/Zygote  (   61): Process: zygote socket opened
+I/ActivityManager(   61): Start proc com.android.systemui for service com.android.systemui/.statusbar.StatusBarService: pid=107 uid=1000 gids={3002, 3001, 3003}
+I/ActivityManager(   61): Config changed: { scale=1.0 imsi=0/0 loc=en_US touch=0 keys=0/0/0 nav=0/0 orien=0 layout=0 uiMode=17 seq=2}
+I/ActivityManager(   61): Config changed: { scale=1.0 imsi=0/0 loc=en_US touch=3 keys=2/1/2 nav=1/1 orien=1 layout=34 uiMode=17 seq=3}
+W/RecognitionManagerService(   61): no available voice recognition services found
+D/dalvikvm(   61): GREF has increased to 201
+I/ActivityManager(   61): Start proc jp.co.omronsoft.openwnn for service jp.co.omronsoft.openwnn/.OpenWnnJAJP: pid=111 uid=10004 gids={}
+W/GpsLocationProvider(   61): Could not open GPS configuration file /etc/gps.conf
+W/ActivityManager(   61): Unable to start service Intent { act=@0 }: not found
+D/NetworkManagmentService(   61): Registering observer
+E/ThrottleService(   61): Could not open GPS configuration file /etc/gps.conf
+I/ActivityManager(   61): Start proc com.android.phone for added application com.android.phone: pid=120 uid=1001 gids={3002, 3001, 3003, 1015}
+I/ActivityManager(   61): Start proc com.android.systemui for added application com.android.systemui: pid=121 uid=1000 gids={3002, 3001, 3003}
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10000000 cmp=com.android.launcher/com.android.launcher2.Launcher } from pid 0
+I/ActivityManager(   61): Start proc com.android.launcher for activity com.android.launcher/com.android.launcher2.Launcher: pid=127 uid=10013 gids={}
+W/ActivityManager(   61): Unable to start service Intent { act=@0 }: not found
+I/SystemServer(   61): Enabled StrictMode for system server main thread.
+D/qemud   (   38): fdhandler_accept_event: accepting on fd 9
+D/qemud   (   38): created client 0x12f88 listening on fd 12
+E/logwrapper(  131): executing /system/bin/tc failed: No such file or directory
+I/logwrapper(   30): /system/bin/tc terminated by exit(1)
+W/ActivityManager(   61): No pending application record for pid 107 (IApplicationThread android.app.ApplicationThreadProxy@40543118); dropping process
+I/Process (   61): Sending signal. PID: 107 SIG: 9
+E/logwrapper(  134): executing /system/bin/tc failed: No such file or directory
+I/logwrapper(   30): /system/bin/tc terminated by exit(1)
+E/logwrapper(  136): executing /system/bin/tc failed: No such file or directory
+D/qemud   (   38): client_fd_receive: attempting registration for service 'gps'
+D/qemud   (   38): client_fd_receive:    -> received channel id 4
+I/logwrapper(   30): /system/bin/tc terminated by exit(1)
+D/qemud   (   38): client_registration: registration succeeded for client 4
+D/dalvikvm(   61): GC_CONCURRENT freed 826K, 46% free 4198K/7687K, external 2130K/2137K, paused 4ms+59ms
+D/dalvikvm(   61): GC_EXTERNAL_ALLOC freed 19K, 46% free 4178K/7687K, external 2130K/2137K, paused 234ms
+I/ActivityManager(   61): Start proc com.android.settings for broadcast com.android.settings/.widget.SettingsAppWidgetProvider: pid=163 uid=1000 gids={3002, 3001, 3003}
+D/dalvikvm(  111): GC_CONCURRENT freed 404K, 54% free 2640K/5639K, external 1625K/2137K, paused 4ms+67ms
+D/dalvikvm(  120): GC_CONCURRENT freed 404K, 54% free 2641K/5639K, external 1625K/2137K, paused 4ms+8ms
+D/dalvikvm(  121): GC_CONCURRENT freed 403K, 54% free 2638K/5639K, external 1625K/2137K, paused 4ms+60ms
+D/dalvikvm(   61): GC_EXTERNAL_ALLOC freed 184K, 46% free 4165K/7687K, external 2742K/2770K, paused 359ms
+D/dalvikvm(  127): GC_CONCURRENT freed 407K, 54% free 2638K/5639K, external 1625K/2137K, paused 4ms+31ms
+I/ActivityThread(  127): Pub com.android.launcher2.settings: com.android.launcher2.LauncherProvider
+I/ActivityThread(  120): Pub mms: com.android.providers.telephony.MmsProvider
+D/dalvikvm(  111): No JNI_OnLoad found in /system/lib/libwnndict.so 0x40513488, skipping init
+I/ActivityThread(  120): Pub sms: com.android.providers.telephony.SmsProvider
+I/ActivityThread(  120): Pub telephony: com.android.providers.telephony.TelephonyProvider
+I/ActivityThread(  120): Pub icc: com.android.phone.IccProvider
+I/ActivityThread(  120): Pub mms-sms: com.android.providers.telephony.MmsSmsProvider
+D/dalvikvm(  111): GC_CONCURRENT freed 274K, 50% free 2921K/5831K, external 1625K/2137K, paused 3ms+70ms
+D/dalvikvm(  163): GC_CONCURRENT freed 408K, 54% free 2636K/5639K, external 1625K/2137K, paused 3ms+50ms
+D/dalvikvm(  111): GC_CONCURRENT freed 413K, 50% free 3085K/6151K, external 1625K/2137K, paused 4ms+12ms
+D/dalvikvm(   61): GC_EXTERNAL_ALLOC freed 57K, 45% free 4243K/7687K, external 3337K/3347K, paused 147ms
+I/StatusBarManagerService(   61): registerStatusBar bar=com.android.internal.statusbar.IStatusBar$Stub$Proxy@405211f8
+D/VoldCmdListener(   29): share status ums
+D/StorageNotification(  121): Startup with UMS connection false (media state unmounted)
+I/StorageNotification(  121): UMS connection changed to false (media state unmounted)
+D/CallManager(  120): registerPhone(GSM Handler{40556e30})
+I/ActivityManager(   61): Start proc android.process.acore for content provider com.android.providers.contacts/.CallLogProvider: pid=186 uid=10006 gids={3003, 1015}
+D/dalvikvm(   61): GC_EXTERNAL_ALLOC freed 161K, 45% free 4288K/7751K, external 3201K/3747K, paused 160ms
+W/ActivityManager(   61): Unable to start service Intent { act=com.android.ussd.IExtendedNetworkService }: not found
+I/TelephonyRegistry(   61): notifyServiceState: 3 home null null null  Unknown CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false
+D/dalvikvm(  127): GC_EXTERNAL_ALLOC freed 50K, 53% free 2697K/5639K, external 2128K/2137K, paused 288ms
+D/AlarmManagerService(   61): Kernel timezone updated to 0 minutes west of GMT
+I/ActivityManager(   61): Start proc com.android.deskclock for broadcast com.android.deskclock/.AlarmInitReceiver: pid=189 uid=10019 gids={}
+W/SystemClock(  120): Unable to set rtc to 1372589582: Invalid argument
+I/TelephonyRegistry(   61): notifyDataConnection: state=0 isDataConnectivityPossible=false reason=radioTurnedOff interfaceName=null networkType=0
+I/TelephonyRegistry(   61): notifyDataConnection: state=0 isDataConnectivityPossible=false reason=gprsDetached interfaceName=null networkType=0
+D/SystemClock(  120): Setting time of day to sec=1372589582
+D/dalvikvm(   61): GC_EXTERNAL_ALLOC freed 74K, 45% free 4301K/7751K, external 4073K/5086K, paused 219ms
+I/TelephonyRegistry(   61): notifyServiceState: 0 home Android Android 310260  UMTS CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false
+I/TelephonyRegistry(   61): notifyDataConnection: state=0 isDataConnectivityPossible=false reason=null interfaceName=null networkType=3
+D/dalvikvm(  127): GC_EXTERNAL_ALLOC freed 25K, 52% free 2719K/5639K, external 2668K/2681K, paused 695ms
+I/ActivityThread(  186): Pub com.android.social: com.android.providers.contacts.SocialProvider
+D/MccTable(  120): updateMccMncConfiguration: mcc=310, mnc=260
+D/MccTable(  120): locale set to en_us
+D/MccTable(  120): WIFI_NUM_ALLOWED_CHANNELS set to 11
+I/WifiService(   61): WifiService trying to setNumAllowed to 11 with persist set to true
+D/dalvikvm(  120): GC_CONCURRENT freed 221K, 50% free 2927K/5767K, external 1625K/2137K, paused 3ms+3ms
+I/ActivityManager(   61): Config changed: { scale=1.0 imsi=310/260 loc=en_US touch=3 keys=2/1/2 nav=1/1 orien=1 layout=34 uiMode=17 seq=4}
+I/TelephonyRegistry(   61): notifyMessageWaitingChanged: false
+I/TelephonyRegistry(   61): notifyCallForwardingChanged: false
+I/ActivityThread(  186): Pub applications: com.android.providers.applications.ApplicationsProvider
+I/ActivityThread(  189): Pub com.android.deskclock: com.android.deskclock.AlarmProvider
+D/dalvikvm(  189): GC_CONCURRENT freed 374K, 54% free 2614K/5639K, external 1625K/2137K, paused 3ms+3ms
+D/dalvikvm(  186): GC_CONCURRENT freed 407K, 54% free 2613K/5639K, external 1625K/2137K, paused 5ms+58ms
+D/dalvikvm(  127): GC_EXTERNAL_ALLOC freed 7K, 52% free 2734K/5639K, external 3368K/3387K, paused 259ms
+D/dalvikvm(   61): GC_FOR_MALLOC freed 280K, 45% free 4338K/7815K, external 4373K/5573K, paused 157ms
+I/ActivityManager(   61): Start proc com.android.protips for broadcast com.android.protips/.ProtipWidget: pid=215 uid=10024 gids={}
+D/TelephonyProvider(  120): Setting numeric '310260' to be the current operator
+I/ActivityThread(  186): Pub contacts;com.android.contacts: com.android.providers.contacts.ContactsProvider2
+I/TelephonyRegistry(   61): notifyDataConnection: state=1 isDataConnectivityPossible=true reason=simLoaded interfaceName=null networkType=3
+I/TelephonyRegistry(   61): notifyDataConnection: state=2 isDataConnectivityPossible=true reason=simLoaded interfaceName=/dev/omap_csmi_tty1 networkType=3
+D/Tethering(   61): MasterInitialState.processMessage what=3
+D/dalvikvm(   33): GC_EXPLICIT freed 10K, 53% free 2538K/5379K, external 1625K/2137K, paused 412ms
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/dalvikvm(   33): GC_EXPLICIT freed <1K, 53% free 2538K/5379K, external 1625K/2137K, paused 249ms
+D/dalvikvm(   33): GC_EXPLICIT freed <1K, 53% free 2538K/5379K, external 1625K/2137K, paused 209ms
+I/ActivityManager(   61): Start proc com.android.music for broadcast com.android.music/.MediaAppWidgetProvider: pid=227 uid=10005 gids={3003, 1015}
+D/dalvikvm(  127): GC_EXTERNAL_ALLOC freed 55K, 51% free 2779K/5639K, external 4217K/4261K, paused 183ms
+I/ActivityThread(  186): Pub call_log: com.android.providers.contacts.CallLogProvider
+I/ActivityThread(  186): Pub user_dictionary: com.android.providers.userdictionary.UserDictionaryProvider
+I/ActivityManager(   61): Start proc com.android.quicksearchbox for broadcast com.android.quicksearchbox/.SearchWidgetProvider: pid=236 uid=10002 gids={3003}
+D/dalvikvm(  127): GC_EXTERNAL_ALLOC freed 28K, 51% free 2799K/5639K, external 5345K/5346K, paused 126ms
+D/dalvikvm(   61): GREF has increased to 301
+D/dalvikvm(  127): GC_EXPLICIT freed 16K, 51% free 2809K/5639K, external 5417K/6692K, paused 73ms
+I/ActivityThread(  236): Pub com.android.quicksearchbox.google: com.android.quicksearchbox.google.GoogleSuggestionProvider
+I/ActivityThread(  236): Pub com.android.quicksearchbox.shortcuts: com.android.quicksearchbox.ShortcutsProvider
+I/ActivityManager(   61): Start proc android.process.media for broadcast com.android.providers.downloads/.DownloadReceiver: pid=244 uid=10000 gids={1015, 1006, 2001, 3003}
+I/ActivityThread(  244): Pub media: com.android.providers.media.MediaProvider
+V/MediaProvider(  244): Attached volume: internal
+I/ActivityThread(  244): Pub downloads: com.android.providers.downloads.DownloadProvider
+I/ActivityThread(  244): Pub drm: com.android.providers.drm.DrmProvider
+I/ActivityManager(   61): Start proc com.wandoujia.phoenix2 for broadcast com.wandoujia.phoenix2/com.wandoujia.phoenix4.receiver.ConnectivityChangedReceiver: pid=253 uid=10035 gids={3003, 1007, 1015, 1006}
+I/ActivityThread(  253): Pub com.wandoujia.thumbnail;com.wandoujia.imagecache: com.wandoujia.phoenix2.providers.ThumbProvider
+I/ActivityThread(  253): Pub com.wandoujia.phoenix4.download: com.wandoujia.phoenix4.download.lib.rpc.DownloadProvider
+I/ActivityThread(  253): Pub com.wandoujia.app;com.wandoujia.image;com.wandoujia.photosync;com.wandoujia.share;com.wandoujia.sync;com.wandoujia.offlinetask: com.wandoujia.phoenix2.providers.PhoenixProvider
+D/dalvikvm(  253): Trying to load lib /data/data/com.wandoujia.phoenix2/lib/libudid.so 0x405153c0
+D/dalvikvm(  253): Added shared lib /data/data/com.wandoujia.phoenix2/lib/libudid.so 0x405153c0
+I/dalvikvm(  253): Could not find method android.os.Environment.isExternalStorageEmulated, referenced from method com.wandoujia.phoenix2.utils.at.o
+W/dalvikvm(  253): VFY: unable to resolve static method 873: Landroid/os/Environment;.isExternalStorageEmulated ()Z
+D/dalvikvm(  253): VFY: replacing opcode 0x71 at 0x001d
+D/dalvikvm(  253): VFY: dead code 0x0020-0024 in Lcom/wandoujia/phoenix2/utils/at;.o ()Z
+I/SurfaceFlinger(   61): Boot is finished (16834 ms)
+D/PowerManagerService(   61): bootCompleted
+I/ARMAssembler(   61): generated scanline__00000177:03010104_00000002_00000000 [ 44 ipp] (66 ins) at [0x44e3d290:0x44e3d398] in 644169 ns
+I/ARMAssembler(   61): generated scanline__00000177:03515104_00000001_00000000 [ 73 ipp] (95 ins) at [0x44e3d3a0:0x44e3d51c] in 651111 ns
+D/VoldCmdListener(   29): volume mount /mnt/sdcard
+I/Vold    (   29): /dev/block/vold/179:0 being considered for volume sdcard
+D/Vold    (   29): Volume sdcard state changing 1 (Idle-Unmounted) -> 3 (Checking)
+I/StorageNotification(  121): Media {/mnt/sdcard} state changed from {unmounted} -> {checking}
+I//system/bin/fsck_msdos(   29): ** /dev/block/vold/179:0
+D/dalvikvm(  121): GC_EXTERNAL_ALLOC freed 150K, 52% free 2722K/5639K, external 2129K/2137K, paused 140ms
+I/SearchManagerService(   61): Building list of searchable activities
+I//system/bin/fsck_msdos(   29): ** Phase 1 - Read and Compare FATs
+I//system/bin/fsck_msdos(   29): Attempting to allocate 2032 KB for FAT
+D/dalvikvm(   61): GC_EXPLICIT freed 700K, 45% free 4376K/7943K, external 4373K/5573K, paused 64ms
+E/dalvikvm(  253): Could not find class 'android.app.Notification$Builder', referenced from method com.wandoujia.phoenix2.photosync.b.handleMessage
+W/dalvikvm(  253): VFY: unable to resolve new-instance 33 (Landroid/app/Notification$Builder;) in Lcom/wandoujia/phoenix2/photosync/b;
+D/dalvikvm(  253): VFY: replacing opcode 0x22 at 0x007d
+D/dalvikvm(  253): VFY: dead code 0x007f-00af in Lcom/wandoujia/phoenix2/photosync/b;.handleMessage (Landroid/os/Message;)V
+D/dalvikvm(  253): VFY: dead code 0x00b8-00c9 in Lcom/wandoujia/phoenix2/photosync/b;.handleMessage (Landroid/os/Message;)V
+I//system/bin/fsck_msdos(   29): Attempting to allocate 2032 KB for FAT
+E/dalvikvm(  253): Could not find class 'android.app.Notification$Builder', referenced from method com.wandoujia.phoenix2.appwash.controller.AppWashController.a
+W/dalvikvm(  253): VFY: unable to resolve new-instance 33 (Landroid/app/Notification$Builder;) in Lcom/wandoujia/phoenix2/appwash/controller/AppWashController;
+D/dalvikvm(  253): VFY: replacing opcode 0x22 at 0x00c1
+D/dalvikvm(  253): VFY: dead code 0x00c3-010b in Lcom/wandoujia/phoenix2/appwash/controller/AppWashController;.a (Ljava/util/List;Lcom/wandoujia/phoenix2/appwash/controller/AppWashController$WashEntryType;)V
+I//system/bin/fsck_msdos(   29): ** Phase 2 - Check Cluster Chains
+I//system/bin/fsck_msdos(   29): ** Phase 3 - Checking Directories
+I//system/bin/fsck_msdos(   29): ** Phase 4 - Checking for Lost Files
+I//system/bin/fsck_msdos(   29): 177 files, 240327 free (480654 clusters)
+I/Vold    (   29): Filesystem check completed OK
+I/Vold    (   29): Device /dev/block/vold/179:0, target /mnt/sdcard mounted @ /mnt/secure/staging
+D/Vold    (   29): Volume sdcard state changing 3 (Checking) -> 4 (Mounted)
+I/PackageManager(   61): Updating external media status from unmounted to mounted
+I/StorageNotification(  121): Media {/mnt/sdcard} state changed from {checking} -> {mounted}
+D/VoldCmdListener(   29): asec list
+D/VoldCmdListener(   29): asec path cn.wps.livespace-1
+D/VoldCmdListener(   29): asec mount cn.wps.livespace-1 {} 1000
+D/VoldCmdListener(   29): asec path cn.wps.livespace-1
+W/dalvikvm(  253): threadid=6: spin on suspend #1 threadid=11 (pcf=0)
+D/dalvikvm(  253): Temporarily moving tid 275 to fg (was 0)
+D/dalvikvm(  253): Temporarily raised priority on tid 275 (19 -> 0)
+W/dalvikvm(  253): threadid=6: spin on suspend resolved in 1014 msec
+D/dalvikvm(  253): Restored policy of 275 to 0
+D/dalvikvm(  253): Restored priority on 275 to 19
+I/PackageManager(   61): Linking native library dir for /mnt/asec/cn.wps.livespace-1/pkg.apk
+I/InputReader(   61): Device reconfigured: id=0x0, name=qwerty2, display size is now 480x800
+I/InputManager-Callbacks(   61): No virtual keys found for device qwerty2.
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH.mail in package com.android.contacts
+W/PackageManager(   61): Unknown permission android.permission.ADD_SYSTEM_SERVICE in package com.android.phone
+D/dalvikvm(  253): Trying to load lib /data/data/com.wandoujia.phoenix2/lib/libcipher.so 0x405153c0
+D/dalvikvm(  253): Added shared lib /data/data/com.wandoujia.phoenix2/lib/libcipher.so 0x405153c0
+D/dalvikvm(  253): No JNI_OnLoad found in /data/data/com.wandoujia.phoenix2/lib/libcipher.so 0x405153c0, skipping init
+W/PackageManager(   61): Unknown permission com.android.vending.BILLING in package cn.wps.moffice_eng
+W/PackageManager(   61): Not granting permission com.android.email.permission.ACCESS_PROVIDER to package cn.wps.moffice_eng (protectionLevel=3 flags=0x8be44)
+W/PackageManager(   61): Not granting permission android.permission.SEND_DOWNLOAD_COMPLETED_INTENTS to package com.android.browser (protectionLevel=2 flags=0x9be45)
+W/PackageManager(   61): Unknown permission com.google.android.gm.permission.WRITE_GMAIL in package com.android.settings
+W/PackageManager(   61): Unknown permission com.google.android.gm.permission.READ_GMAIL in package com.android.settings
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH in package com.android.settings
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH in package com.android.providers.contacts
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH.cp in package com.android.providers.contacts
+W/PackageManager(   61): Unknown permission com.android.launcher.permission.CREATE_SHORTCUT in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission org.adw.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission org.adw.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.qihoo360.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.qihoo360.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.lge.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.lge.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission net.qihoo.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission net.qihoo.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission org.adwfreak.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission org.adwfreak.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.huawei.launcher3.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.huawei.launcher3.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.fede.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.fede.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.sec.android.app.twlauncher.settings.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.sec.android.app.twlauncher.settings.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Not granting permission android.permission.ACCESS_DRM to package com.wandoujia.phoenix2 (protectionLevel=2 flags=0x8be44)
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.ACCESS_GOOGLE_PASSWORD in package com.android.development
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH in package com.android.development
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH.ALL_SERVICES in package com.android.development
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH.YouTubeUser in package com.android.development
+W/PackageManager(   61): Not granting permission android.permission.SET_PREFERRED_APPLICATIONS to package com.mx.browser (protectionLevel=2 flags=0x8be44)
+W/PackageManager(   61): Unknown permission android.permission.READ_OWNER_DATA in package com.android.email
+W/PackageManager(   61): Not granting permission android.permission.DEVICE_POWER to package com.android.deskclock (protectionLevel=2 flags=0x8be45)
+D/dalvikvm(  127): GC_EXTERNAL_ALLOC freed 223K, 49% free 3019K/5895K, external 6689K/6692K, paused 53ms
+D/dalvikvm(  253): GC_CONCURRENT freed 595K, 49% free 3474K/6727K, external 1625K/2137K, paused 4ms+3ms
+I/ARMAssembler(   61): generated scanline__00000177:03515104_00001001_00000000 [ 91 ipp] (114 ins) at [0x44e3d520:0x44e3d6e8] in 634509 ns
+D/dalvikvm(  127): GC_EXPLICIT freed 112K, 51% free 2932K/5895K, external 4831K/5599K, paused 382ms
+D/dalvikvm(   61): GC_EXPLICIT freed 313K, 45% free 4388K/7943K, external 4373K/5573K, paused 185ms
+I/ActivityManager(   61): Displayed com.android.launcher/com.android.launcher2.Launcher: +15s613ms
+W/RecognitionManagerService(   61): no available voice recognition services found
+D/dalvikvm(  253): DexOpt: couldn't find field Landroid/content/pm/PackageStats;.externalCacheSize
+W/dalvikvm(  253): VFY: unable to resolve instance field 54
+D/dalvikvm(  253): VFY: replacing opcode 0x53 at 0x000e
+D/dalvikvm(  253): DexOpt: couldn't find field Landroid/content/pm/PackageStats;.externalCodeSize
+W/dalvikvm(  253): VFY: unable to resolve instance field 55
+D/dalvikvm(  253): VFY: replacing opcode 0x53 at 0x0020
+D/dalvikvm(  253): VFY: dead code 0x0010-0019 in Lcom/wandoujia/phoenix2/appwash/controller/ay;.a (Lcom/wandoujia/phoenix2/appwash/controller/ay;Landroid/content/pm/PackageStats;)J
+D/dalvikvm(  253): VFY: dead code 0x0022-0022 in Lcom/wandoujia/phoenix2/appwash/controller/ay;.a (Lcom/wandoujia/phoenix2/appwash/controller/ay;Landroid/content/pm/PackageStats;)J
+D/dalvikvm(  253): DexOpt: couldn't find field Landroid/content/pm/PackageStats;.externalDataSize
+I/dalvikvm(  253): DexOpt: unable to optimize instance field ref 0x0038 at 0x10 in Lcom/wandoujia/phoenix2/appwash/controller/ay;.a
+D/dalvikvm(  253): DexOpt: couldn't find field Landroid/content/pm/PackageStats;.externalMediaSize
+I/dalvikvm(  253): DexOpt: unable to optimize instance field ref 0x0039 at 0x13 in Lcom/wandoujia/phoenix2/appwash/controller/ay;.a
+D/dalvikvm(  253): DexOpt: couldn't find field Landroid/content/pm/PackageStats;.externalObbSize
+I/dalvikvm(  253): DexOpt: unable to optimize instance field ref 0x003a at 0x16 in Lcom/wandoujia/phoenix2/appwash/controller/ay;.a
+I/ActivityManager(   61): Start proc com.mx.browser for broadcast com.mx.browser/.cloud.CloudReceiver: pid=309 uid=10036 gids={3003, 1015}
+I/ActivityThread(  309): Pub com.mx.browser.downloadprovider: com.mx.browser.download.DownloadProvider
+I/ActivityThread(  309): Pub com.mx.browser.browserprovider: com.mx.browser.BrowserProvider
+D/OtaStartupReceiver(  120): Not a CDMA phone, no need to process OTA
+I/ActivityManager(   61): Start proc com.android.mms for broadcast com.android.mms/.transaction.MmsSystemEventReceiver: pid=322 uid=10015 gids={3003, 1015}
+I/RecoverySystem(   61): No recovery log file
+I/ActivityThread(  322): Pub com.android.mms.SuggestionsProvider: com.android.mms.SuggestionsProvider
+I/ActivityManager(   61): Start proc com.android.email for broadcast com.android.email/.service.EmailBroadcastReceiver: pid=343 uid=10028 gids={3003, 1015}
+I/ActivityThread(  343): Pub com.android.email.provider: com.android.email.provider.EmailProvider
+I/ActivityThread(  343): Pub com.android.email.attachmentprovider: com.android.email.provider.AttachmentProvider
+I/ActivityThread(  343): Pub com.android.exchange.provider: com.android.exchange.provider.ExchangeProvider
+D/EAS SyncManager(  343): !!! EAS SyncManager, onCreate
+D/Eas Debug(  343): Logging: 
+D/EAS SyncManager(  343): !!! EAS SyncManager, onDestroy
+D/MediaScannerService(  244): start scanning volume internal
+D/Email   (  343): BOOT_COMPLETED
+D/EAS SyncManager(  343): !!! EAS SyncManager, onCreate
+D/EAS SyncManager(  343): !!! EAS SyncManager, onStartCommand
+D/EAS SyncManager(  343): !!! EAS SyncManager, stopping self
+D/EAS SyncManager(  343): !!! EAS SyncManager, onDestroy
+D/dalvikvm(  120): GREF has increased to 201
+D/dalvikvm(  186): GC_CONCURRENT freed 292K, 52% free 2809K/5767K, external 1625K/2137K, paused 3ms+3ms
+D/MediaScanner(  244):  prescan time: 707ms
+D/MediaScanner(  244):     scan time: 8ms
+D/MediaScanner(  244): postscan time: 0ms
+D/MediaScanner(  244):    total time: 715ms
+D/MediaScannerService(  244): done scanning volume internal
+D/dalvikvm(  127): GC_EXPLICIT freed 151K, 49% free 3031K/5895K, external 4842K/5599K, paused 43ms
+D/dalvikvm(  253): GC_CONCURRENT freed 741K, 50% free 3518K/6919K, external 1753K/2137K, paused 9ms+6ms
+D/MediaScannerService(  244): start scanning volume external
+V/MediaProvider(  244): /mnt/sdcard volume ID: 218050065
+V/MediaProvider(  244): Attached volume: external
+V/MediaScanner(  244): pruneDeadThumbnailFiles... android.database.sqlite.SQLiteCursor@405be8b8
+V/MediaScanner(  244): /pruneDeadThumbnailFiles... android.database.sqlite.SQLiteCursor@405be8b8
+D/MediaScanner(  244):  prescan time: 30ms
+D/MediaScanner(  244):     scan time: 13ms
+D/MediaScanner(  244): postscan time: 9ms
+D/MediaScanner(  244):    total time: 52ms
+D/MediaScannerService(  244): done scanning volume external
+I/dalvikvm(   61): Jit: resizing JitTable from 512 to 1024
+D/dalvikvm(  253): GC_CONCURRENT freed 488K, 46% free 3838K/6983K, external 1753K/2137K, paused 6ms+8ms
+I/dalvikvm(  253): Could not find method android.app.ActivityManager.getLauncherLargeIconSize, referenced from method com.wandoujia.phoenix2.utils.ShortcutUtil.a
+W/dalvikvm(  253): VFY: unable to resolve virtual method 60: Landroid/app/ActivityManager;.getLauncherLargeIconSize ()I
+D/dalvikvm(  253): VFY: replacing opcode 0x6e at 0x0013
+D/dalvikvm(  253): VFY: dead code 0x0016-0040 in Lcom/wandoujia/phoenix2/utils/ShortcutUtil;.a (Landroid/graphics/Bitmap;Landroid/content/Context;)Landroid/graphics/Bitmap;
+D/dalvikvm(  127): GC_EXTERNAL_ALLOC freed 146K, 50% free 2988K/5895K, external 4769K/5599K, paused 43ms
+D/inject  (  423): [+] The pid of system_server: 61
+D/inject  (  423): [+] Injecting process: 61
+D/inject  (  423): [+] get_remote_addr: local[afd00000], remote[afd00000]
+D/inject  (  423): [+] Remote mmap address: afd170cd
+D/inject  (  423): [+] Calling mmap in target process.
+D/inject  (  423): [+] Target process returned from mmap, return value=44e33000, pc=0 
+D/inject  (  423): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  (  423): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  (  423): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  (  423): [+] Get imports: dlopen: b00059bd, dlsym: b0005915, dlclose: b0005849
+D/inject  (  423): [+] Inject code start: c008, end: c084
+D/inject  (  423): [+] _dlopen_param1_s: 44e36c9c
+D/inject  (  423): [+] _dlsym_param2_s: 44e36d9c
+D/inject  (  423): [+] _saved_r0_pc_s: 44e36e9c
+D/inject  (  423): [+] _inject_function_param_s: 44e36f9c
+D/inject  (  423): [+] Remote shellcode address: 44e36c00
+D/inject  (  423): [+] Process Detach: 10
+D/inject  (   61): Hello ARM! I'm parameter1324! pid:61
+D/inject  (   61): The Handle of libhook_open: b000dfd0
+D/inject  (   61): find it pre 0
+D/inject  (   61): find it 80901078
+D/inject  (   61): [+] aaaaaaa do_hook function is invoked 
+D/inject  (   61): [+] open addr: 0xafd17111. New addr 0x80900f60
+D/inject  (   61): [+] just for test 
+D/inject  (   61): [+] set ok 
+D/inject  (   61): [+] Get the persist.sys.test  bbbbbbbb
+D/inject  (   61): [+] just for test print open address 44e36ad8
+D/inject  (   61): get old address
+D/inject  (   61): [+] Get old address property  afd17111
+D/inject  (   61): get new address
+D/inject  (   61): [+] Get new address property  80900f60
+D/inject  (   61): [+] binder path afd00000
+D/inject  (   61): [+] Section header table file offset 42a54
+D/inject  (   61): [+] Section header table entry count 16
+D/inject  (   61): [+] Section header table entry size 28
+D/inject  (   61): [+] Section header string table index 15
+D/inject  (   61): [+] Object file type 3
+D/inject  (   61): [+] Object file version 1
+D/inject  (   61): [+] Out_addr in GOT table before 0
+D/inject  (   61): [+] Out_size of func in GOT table before 0
+D/inject  (   61): [+] Out_addr in GOT table afd41420
+D/inject  (   61): [+] Out_size of func in GOT table 108
+D/inject  (   61): [+] Out_addr in GOT table afd41420
+D/inject  (   61): [+] Out_size of func in GOT table 108
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] word ffffffff
+D/inject  (   61): [+] wordelf ffffffff
+D/inject  (   61): [+] Out_addr in GOT 464c457f
+D/inject  (   61): [+] target pid 3d
+D/inject  (   61): [+] Find got_item ff 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd4d5c8 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd4717c 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd42610 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd425f4 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd415c0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd4630c 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd14169 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd46648 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd44abc 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd25db9 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd46300 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd46304 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd4631c 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd4271c 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd41554 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd41550 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd41558 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd46320 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd46324 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd40020 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd19d95 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd19d61 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd19d35 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd19d29 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd183d9 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd18669 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd46310 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd4270c 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd42718 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd415a0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd415a6 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd415a8 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd41598 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd42720 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd42724 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd4d318 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd4d314 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd415b8 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd415be 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd415b0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd4d5cc 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd46328 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd42750 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd2ae8d 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd2adc1 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd46308 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd40824 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd42760 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd40c3c 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd408dc 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd40918 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd4087c 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd409e4 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd40838 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd46314 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd46318 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item afd3a650 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item b0003709 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item b00059bd 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item b0005915 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item b0005849 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 4000 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ffffffff 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ffffffff 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ffffffff 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 1 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 1 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 3f 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ffffffff 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 8 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item ff 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 20202020 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 20202020 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 20202020 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 20202020 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 30303030 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 30303030 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 30303030 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 30303030 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 4173c091 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 39f3 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item deece66d 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item b0005 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 202020 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item abcd330e 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 1234 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item deece66d 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item b0005 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 1000 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item c 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 7261762f 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 6e75722f 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 6d74752f 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 70 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+D/inject  (   61): [+] Out_addr in GOT afd4d5c8
+D/inject  (   61): [+] Find got item 0 
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.providers.downloads.ui/.DownloadList } from pid 127
+I/ARMAssembler(   61): generated scanline__00000177:03515104_00001002_00000000 [ 87 ipp] (110 ins) at [0x44e3d6f0:0x44e3d8a8] in 555120 ns
+D/dalvikvm(  244): GC_EXTERNAL_ALLOC freed 832K, 56% free 2746K/6215K, external 2002K/2137K, paused 54ms
+I/ActivityManager(   61): Displayed com.android.providers.downloads.ui/.DownloadList: +964ms
+W/KeyCharacterMap(  244): No keyboard for id 0
+W/KeyCharacterMap(  244): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+W/InputManagerService(   61): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@40746aa8 (uid=10000 pid=244)
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.contacts/.DialtactsContactsEntryActivity } from pid 127
+D/dalvikvm(  186): GC_CONCURRENT freed 488K, 52% free 2933K/6087K, external 1625K/2137K, paused 3ms+3ms
+D/dalvikvm(  186): GC_EXTERNAL_ALLOC freed 37K, 52% free 2977K/6087K, external 2112K/2137K, paused 43ms
+D/dalvikvm(  186): GC_EXTERNAL_ALLOC freed 16K, 51% free 3001K/6087K, external 2668K/2671K, paused 41ms
+I/ContactsListActivity(  186): Called with action: com.android.contacts.action.LIST_DEFAULT
+D/dalvikvm(   61): GREF has increased to 401
+I/ActivityManager(   61): Displayed com.android.contacts/.DialtactsContactsEntryActivity: +1s664ms
+W/KeyCharacterMap(  186): No keyboard for id 0
+W/KeyCharacterMap(  186): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+W/InputManagerService(   61): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@407bef30 (uid=10006 pid=186)
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity } from pid 127
+I/ActivityManager(   61): Start proc cn.wps.moffice_eng for activity cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity: pid=454 uid=10037 gids={3003, 1015}
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/dalvikvm(  454): Could not find method cn.wps.moffice.documentmanager.PreStartActivity.getActionBar, referenced from method cn.wps.moffice.documentmanager.PreStartActivity.setDisplayShowCustomEnabled
+W/dalvikvm(  454): VFY: unable to resolve virtual method 11013: Lcn/wps/moffice/documentmanager/PreStartActivity;.getActionBar ()Landroid/app/ActionBar;
+D/dalvikvm(  454): VFY: replacing opcode 0x6e at 0x0006
+D/dalvikvm(  454): VFY: dead code 0x0009-000e in Lcn/wps/moffice/documentmanager/PreStartActivity;.setDisplayShowCustomEnabled (Z)V
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager } from pid 454
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GC_EXTERNAL_ALLOC freed 636K, 50% free 3331K/6599K, external 2129K/2137K, paused 60ms
+D/dalvikvm(  454): GC_EXTERNAL_ALLOC freed 46K, 49% free 3382K/6599K, external 2611K/2673K, paused 84ms
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/dalvikvm(  454): Failed resolving Lcn/wps/moffice/common/beans/k$1; interface 540 'Landroid/nfc/NfcAdapter$OnNdefPushCompleteCallback;'
+W/dalvikvm(  454): Link of class 'Lcn/wps/moffice/common/beans/k$1;' failed
+E/dalvikvm(  454): Could not find class 'cn.wps.moffice.common.beans.k$1', referenced from method cn.wps.moffice.common.beans.k.<init>
+W/dalvikvm(  454): VFY: unable to resolve new-instance 1597 (Lcn/wps/moffice/common/beans/k$1;) in Lcn/wps/moffice/common/beans/k;
+D/dalvikvm(  454): VFY: replacing opcode 0x22 at 0x0039
+I/dalvikvm(  454): Failed resolving Lcn/wps/moffice/common/beans/k$3; interface 538 'Landroid/nfc/NfcAdapter$CreateBeamUrisCallback;'
+W/dalvikvm(  454): Link of class 'Lcn/wps/moffice/common/beans/k$3;' failed
+E/dalvikvm(  454): Could not find class 'cn.wps.moffice.common.beans.k$3', referenced from method cn.wps.moffice.common.beans.k.<init>
+W/dalvikvm(  454): VFY: unable to resolve new-instance 1599 (Lcn/wps/moffice/common/beans/k$3;) in Lcn/wps/moffice/common/beans/k;
+D/dalvikvm(  454): VFY: replacing opcode 0x22 at 0x0070
+D/dalvikvm(  454): VFY: dead code 0x003b-005c in Lcn/wps/moffice/common/beans/k;.<init> (Landroid/app/Activity;)V
+D/dalvikvm(  454): VFY: dead code 0x0072-0079 in Lcn/wps/moffice/common/beans/k;.<init> (Landroid/app/Activity;)V
+D/water   (  454): packageName: cn.wps.moffice_eng
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GC_CONCURRENT freed 532K, 47% free 3589K/6727K, external 3121K/3694K, paused 3ms+3ms
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GC_EXTERNAL_ALLOC freed 303K, 48% free 3574K/6791K, external 3121K/3694K, paused 55ms
+D/dalvikvm(  454): GC_EXTERNAL_ALLOC freed 150K, 48% free 3594K/6855K, external 3545K/4295K, paused 49ms
+W/ResourceType(   61): Skipping entry 0x7f040000 in package table 0 because it is not complex!
+W/ResourceType(   61): Skipping entry 0x7f040017 in package table 0 because it is not complex!
+I/ActivityManager(   61): Displayed cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager: +3s167ms (total +4s87ms)
+D/dalvikvm(  454): GC_EXTERNAL_ALLOC freed 330K, 45% free 3881K/6983K, external 5163K/5193K, paused 64ms
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.startactivity.writer.StartWriterActivity1 (has extras) } from pid 454
+I/ActivityManager(   61): Start proc cn.wps.moffice_eng:writer1 for activity cn.wps.moffice_eng/cn.wps.moffice.startactivity.writer.StartWriterActivity1: pid=488 uid=10037 gids={3003, 1015}
+D/dalvikvm(  488): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  488): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  488): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.writer.Writer1 (has extras) } from pid 488
+D/dalvikvm(  488): GC_EXTERNAL_ALLOC freed 624K, 50% free 3305K/6535K, external 2131K/2137K, paused 52ms
+D/dalvikvm(  488): GC_EXTERNAL_ALLOC freed 41K, 50% free 3316K/6535K, external 2657K/2675K, paused 56ms
+D/dalvikvm(  488): GC_EXTERNAL_ALLOC freed 50K, 48% free 3418K/6535K, external 3330K/3332K, paused 60ms
+D/dalvikvm(  488): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  488): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/dalvikvm(  488): Failed resolving Lcn/wps/moffice/common/beans/k$1; interface 540 'Landroid/nfc/NfcAdapter$OnNdefPushCompleteCallback;'
+W/dalvikvm(  488): Link of class 'Lcn/wps/moffice/common/beans/k$1;' failed
+E/dalvikvm(  488): Could not find class 'cn.wps.moffice.common.beans.k$1', referenced from method cn.wps.moffice.common.beans.k.<init>
+W/dalvikvm(  488): VFY: unable to resolve new-instance 1597 (Lcn/wps/moffice/common/beans/k$1;) in Lcn/wps/moffice/common/beans/k;
+D/dalvikvm(  488): VFY: replacing opcode 0x22 at 0x0039
+I/dalvikvm(  488): Failed resolving Lcn/wps/moffice/common/beans/k$3; interface 538 'Landroid/nfc/NfcAdapter$CreateBeamUrisCallback;'
+W/dalvikvm(  488): Link of class 'Lcn/wps/moffice/common/beans/k$3;' failed
+E/dalvikvm(  488): Could not find class 'cn.wps.moffice.common.beans.k$3', referenced from method cn.wps.moffice.common.beans.k.<init>
+W/dalvikvm(  488): VFY: unable to resolve new-instance 1599 (Lcn/wps/moffice/common/beans/k$3;) in Lcn/wps/moffice/common/beans/k;
+D/dalvikvm(  488): VFY: replacing opcode 0x22 at 0x0070
+D/dalvikvm(  488): VFY: dead code 0x003b-005c in Lcn/wps/moffice/common/beans/k;.<init> (Landroid/app/Activity;)V
+D/dalvikvm(  488): VFY: dead code 0x0072-0079 in Lcn/wps/moffice/common/beans/k;.<init> (Landroid/app/Activity;)V
+D/water   (  488): packageName: cn.wps.moffice_eng
+I/dalvikvm(  454): Jit: resizing JitTable from 512 to 1024
+D/dalvikvm(  488): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  488): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  488): GC_CONCURRENT freed 479K, 46% free 3642K/6727K, external 3627K/4173K, paused 5ms+5ms
+D/dalvikvm(  488): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  488): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  488): GC_EXTERNAL_ALLOC freed 767K, 48% free 3791K/7175K, external 3630K/4173K, paused 65ms
+D/dalvikvm(  488): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/ActivityManager(   61): Displayed cn.wps.moffice_eng/cn.wps.moffice.writer.Writer1: +2s689ms (total +3s565ms)
+D/dalvikvm(  488): GC_EXTERNAL_ALLOC freed 567K, 46% free 3971K/7303K, external 4979K/6132K, paused 69ms
+D/dalvikvm(  488): GC_EXTERNAL_ALLOC freed 31K, 46% free 3962K/7303K, external 6604K/8246K, paused 55ms
+D/dalvikvm(  488): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  488): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  488): GC_EXTERNAL_ALLOC freed 207K, 46% free 3999K/7303K, external 10209K/10296K, paused 111ms
+D/dalvikvm(  454): GC_EXTERNAL_ALLOC freed 703K, 45% free 4160K/7495K, external 4368K/5455K, paused 160ms
+D/dalvikvm(  454): GC_EXTERNAL_ALLOC freed 314K, 48% free 3934K/7495K, external 5536K/5954K, paused 75ms
+D/dalvikvm(  127): GC_EXPLICIT freed 60K, 51% free 2945K/5895K, external 6033K/7482K, paused 41ms
+D/dalvikvm(  186): GC_EXPLICIT freed 203K, 50% free 3079K/6087K, external 3198K/3361K, paused 101ms
+D/dalvikvm(  244): GC_EXPLICIT freed 183K, 57% free 2726K/6215K, external 2156K/2692K, paused 59ms
+W/KeyCharacterMap(  488): No keyboard for id 0
+W/KeyCharacterMap(  488): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+D/dalvikvm(  488): GC_EXTERNAL_ALLOC freed 232K, 45% free 4045K/7303K, external 10819K/11586K, paused 55ms
+D/dalvikvm(  454): GC_EXTERNAL_ALLOC freed 195K, 48% free 3968K/7495K, external 4982K/6222K, paused 190ms
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager } from pid 488
+D/dalvikvm(  454): GC_EXTERNAL_ALLOC freed 143K, 48% free 3938K/7495K, external 5536K/5954K, paused 88ms
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  454): GC_EXTERNAL_ALLOC freed 262K, 47% free 3990K/7495K, external 4982K/6222K, paused 61ms
+D/dalvikvm(  454): GC_EXTERNAL_ALLOC freed 118K, 48% free 3960K/7495K, external 5536K/5954K, paused 49ms
+W/IInputConnectionWrapper(  488): showStatusIcon on inactive InputConnection
+W/KeyCharacterMap(  454): No keyboard for id 0
+W/KeyCharacterMap(  454): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+I/System.out(  454): flushRecord:f88f681f-f3cd-41aa-ae9b-7557bba0320e
+D/dalvikvm(  454): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } from pid 454
+W/InputManagerService(   61): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@407f9888 (uid=10037 pid=454)

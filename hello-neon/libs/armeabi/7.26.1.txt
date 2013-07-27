@@ -1,0 +1,1492 @@
+D/inject  ( 8016): [+] Find got item ad126ca4 
+D/inject  ( 8016): [+] Find got item ad126c69 
+D/inject  ( 8016): [+] Find got item ad1105dd 
+D/inject  ( 8016): [+] Find got item ad126cae 
+D/inject  ( 8016): [+] Find got item ad126cc0 
+D/inject  ( 8016): [+] Find got item ad11086d 
+D/inject  ( 8016): [+] Find got item ad126ace 
+D/inject  ( 8016): [+] Find got item ad126cc0 
+D/inject  ( 8016): [+] Find got item ad1105b1 
+D/inject  ( 8016): [+] Find got item ad126cc9 
+D/inject  ( 8016): [+] Find got item ad126cd7 
+D/inject  ( 8016): [+] Find got item ad1104f5 
+D/inject  ( 8016): [+] Find got item ad126c37 
+D/inject  ( 8016): [+] Find got item ad126d27 
+D/inject  ( 8016): [+] Find got item ad110a7d 
+D/inject  ( 8016): [+] Find got item ad126c61 
+D/inject  ( 8016): [+] Find got item ad126c69 
+D/inject  ( 8016): [+] Find got item ad110a5d 
+D/inject  ( 8016): [+] Find got item ad126c6e 
+D/inject  ( 8016): [+] Find got item ad126c7b 
+D/inject  ( 8016): [+] Find got item ad110881 
+D/inject  ( 8016): [+] Find got item ad126c80 
+D/inject  ( 8016): [+] Find got item ad126c8f 
+D/inject  ( 8016): [+] Find got item ad11088d 
+D/inject  ( 8016): [+] Find got item ad126c94 
+D/inject  ( 8016): [+] Find got item ad126c8f 
+D/inject  ( 8016): [+] Find got item ad110885 
+D/inject  ( 8016): [+] Find got item ad126d2c 
+D/inject  ( 8016): [+] Find got item ad126d38 
+D/inject  ( 8016): [+] Find got item ad11097d 
+D/inject  ( 8016): [+] Find got item ad126ca4 
+D/inject  ( 8016): [+] Find got item ad126c69 
+D/inject  ( 8016): [+] Find got item ad11095d 
+D/inject  ( 8016): [+] Find got item ad126cae 
+D/inject  ( 8016): [+] Find got item ad126cc0 
+D/inject  ( 8016): [+] Find got item ad110bf1 
+D/inject  ( 8016): [+] Find got item ad126d41 
+D/inject  ( 8016): [+] Find got item ad126d52 
+D/inject  ( 8016): [+] Find got item ad1108a9 
+D/inject  ( 8016): [+] Find got item ad126ace 
+D/inject  ( 8016): [+] Find got item ad126cc0 
+D/inject  ( 8016): [+] Find got item ad110895 
+D/inject  ( 8016): [+] Find got item ad126d84 
+D/inject  ( 8016): [+] Find got item ad126d8a 
+D/inject  ( 8016): [+] Find got item ad110ca5 
+D/inject  ( 8016): [+] Find got item ad126da6 
+D/inject  ( 8016): [+] Find got item ad126dac 
+D/inject  ( 8016): [+] Find got item ad110c05 
+D/inject  ( 8016): [+] Find got item ad126dc8 
+D/inject  ( 8016): [+] Find got item ad126dcd 
+D/inject  ( 8016): [+] Find got item ad110c49 
+D/inject  ( 8016): [+] Find got item ad126dd3 
+D/inject  ( 8016): [+] Find got item ad126dd9 
+D/inject  ( 8016): [+] Find got item ad110c3d 
+D/inject  ( 8016): [+] Find got item ad126df6 
+D/inject  ( 8016): [+] Find got item ad126e02 
+D/inject  ( 8016): [+] Find got item ad110c11 
+D/inject  ( 8016): [+] Find got item ad126ec3 
+D/inject  ( 8016): [+] Find got item ad126b0b 
+D/inject  ( 8016): [+] Find got item ad1114a5 
+D/inject  ( 8016): [+] Find got item ad126ec9 
+D/inject  ( 8016): [+] Find got item ad126edd 
+D/inject  ( 8016): [+] Find got item ad111465 
+D/inject  ( 8016): [+] Find got item ad126ee1 
+D/inject  ( 8016): [+] Find got item ad126dac 
+D/inject  ( 8016): [+] Find got item ad111415 
+D/inject  ( 8016): [+] Find got item ad126ef0 
+D/inject  ( 8016): [+] Find got item ad126ef7 
+D/inject  ( 8016): [+] Find got item ad1113dd 
+D/inject  ( 8016): [+] Find got item ad126efc 
+D/inject  ( 8016): [+] Find got item ad126f05 
+D/inject  ( 8016): [+] Find got item ad110fa9 
+D/inject  ( 8016): [+] Find got item ad126f0e 
+D/inject  ( 8016): [+] Find got item ad126b77 
+D/inject  ( 8016): [+] Find got item ad11126d 
+D/inject  ( 8016): [+] Find got item ad126f13 
+D/inject  ( 8016): [+] Find got item ad126f18 
+D/inject  ( 8016): [+] Find got item ad111219 
+D/inject  ( 8016): [+] Find got item ad126f21 
+D/inject  ( 8016): [+] Find got item ad126f2c 
+D/inject  ( 8016): [+] Find got item ad1111ad 
+D/inject  ( 8016): [+] Find got item ad126f34 
+D/inject  ( 8016): [+] Find got item ad126f3a 
+D/inject  ( 8016): [+] Find got item ad111151 
+D/inject  ( 8016): [+] Find got item ad126f46 
+D/inject  ( 8016): [+] Find got item ad126f4b 
+D/inject  ( 8016): [+] Find got item ad1110e1 
+D/inject  ( 8016): [+] Find got item ad126f52 
+D/inject  ( 8016): [+] Find got item ad126f5b 
+D/inject  ( 8016): [+] Find got item ad111099 
+D/inject  ( 8016): [+] Find got item ad126f7a 
+D/inject  ( 8016): [+] Find got item ad126f83 
+D/inject  ( 8016): [+] Find got item ad111051 
+D/inject  ( 8016): [+] Find got item ad126f89 
+D/inject  ( 8016): [+] Find got item ad126f94 
+D/inject  ( 8016): [+] Find got item ad110f11 
+D/inject  ( 8016): [+] Find got item ad126f9b 
+D/inject  ( 8016): [+] Find got item ad126f18 
+D/inject  ( 8016): [+] Find got item ad110eb9 
+D/inject  ( 8016): [+] Find got item ad126fa1 
+D/inject  ( 8016): [+] Find got item ad126f2c 
+D/inject  ( 8016): [+] Find got item ad110e61 
+D/inject  ( 8016): [+] Find got item ad126fad 
+D/inject  ( 8016): [+] Find got item ad126f3a 
+D/inject  ( 8016): [+] Find got item ad110e11 
+D/inject  ( 8016): [+] Find got item ad1270c1 
+D/inject  ( 8016): [+] Find got item ad126f83 
+D/inject  ( 8016): [+] Find got item ad1119a5 
+D/inject  ( 8016): [+] Find got item ad1270c7 
+D/inject  ( 8016): [+] Find got item ad126535 
+D/inject  ( 8016): [+] Find got item ad111979 
+D/inject  ( 8016): [+] Find got item ad1270cc 
+D/inject  ( 8016): [+] Find got item ad1261e3 
+D/inject  ( 8016): [+] Find got item ad111689 
+D/inject  ( 8016): [+] Find got item ad1270d7 
+D/inject  ( 8016): [+] Find got item ad1261ca 
+D/inject  ( 8016): [+] Find got item ad1114f9 
+D/inject  ( 8016): [+] Find got item ad1270df 
+D/inject  ( 8016): [+] Find got item ad1270ec 
+D/inject  ( 8016): [+] Find got item ad111501 
+D/inject  ( 8016): [+] Find got item ad1270f5 
+D/inject  ( 8016): [+] Find got item ad1270ff 
+D/inject  ( 8016): [+] Find got item ad11173d 
+D/inject  ( 8016): [+] Find got item ad127104 
+D/inject  ( 8016): [+] Find got item ad1263af 
+D/inject  ( 8016): [+] Find got item ad111721 
+D/inject  ( 8016): [+] Find got item ad12710d 
+D/inject  ( 8016): [+] Find got item ad1261e3 
+D/inject  ( 8016): [+] Find got item ad111641 
+D/inject  ( 8016): [+] Find got item ad127114 
+D/inject  ( 8016): [+] Find got item ad126ef7 
+D/inject  ( 8016): [+] Find got item ad111701 
+D/inject  ( 8016): [+] Find got item ad12711c 
+D/inject  ( 8016): [+] Find got item ad127125 
+D/inject  ( 8016): [+] Find got item ad111601 
+D/inject  ( 8016): [+] Find got item ad12712a 
+D/inject  ( 8016): [+] Find got item ad127133 
+D/inject  ( 8016): [+] Find got item ad1118bd 
+D/inject  ( 8016): [+] Find got item ad127139 
+D/inject  ( 8016): [+] Find got item ad126f83 
+D/inject  ( 8016): [+] Find got item ad1118a1 
+D/inject  ( 8016): [+] Find got item ad12713e 
+D/inject  ( 8016): [+] Find got item ad1261e3 
+D/inject  ( 8016): [+] Find got item ad111831 
+D/inject  ( 8016): [+] Find got item ad127145 
+D/inject  ( 8016): [+] Find got item ad126cd7 
+D/inject  ( 8016): [+] Find got item ad1117e1 
+D/inject  ( 8016): [+] Find got item ad12714d 
+D/inject  ( 8016): [+] Find got item ad127154 
+D/inject  ( 8016): [+] Find got item ad1117d1 
+D/inject  ( 8016): [+] Find got item ad12715b 
+D/inject  ( 8016): [+] Find got item ad127164 
+D/inject  ( 8016): [+] Find got item ad11175d 
+D/inject  ( 8016): [+] Find got item ad12716c 
+D/inject  ( 8016): [+] Find got item ad126511 
+D/inject  ( 8016): [+] Find got item ad11168d 
+D/inject  ( 8016): [+] Find got item ad127177 
+D/inject  ( 8016): [+] Find got item ad12717f 
+D/inject  ( 8016): [+] Find got item ad11151d 
+D/inject  ( 8016): [+] Find got item ad127185 
+D/inject  ( 8016): [+] Find got item ad1270ec 
+D/inject  ( 8016): [+] Find got item ad111521 
+D/inject  ( 8016): [+] Find got item ad127192 
+D/inject  ( 8016): [+] Find got item ad12719c 
+D/inject  ( 8016): [+] Find got item ad1116dd 
+D/inject  ( 8016): [+] Find got item ad1271a2 
+D/inject  ( 8016): [+] Find got item ad1271ab 
+D/inject  ( 8016): [+] Find got item ad1116c1 
+D/inject  ( 8016): [+] Find got item ad1271b1 
+D/inject  ( 8016): [+] Find got item ad1271bf 
+D/inject  ( 8016): [+] Find got item ad11153d 
+D/inject  ( 8016): [+] Find got item ad1271c9 
+D/inject  ( 8016): [+] Find got item ad126511 
+D/inject  ( 8016): [+] Find got item ad111665 
+D/inject  ( 8016): [+] Find got item ad1271d0 
+D/inject  ( 8016): [+] Find got item ad1271dc 
+D/inject  ( 8016): [+] Find got item ad111581 
+D/inject  ( 8016): [+] Find got item ad1271e6 
+D/inject  ( 8016): [+] Find got item ad126f83 
+D/inject  ( 8016): [+] Find got item ad11169d 
+D/inject  ( 8016): [+] Find got item ad1271ee 
+D/inject  ( 8016): [+] Find got item ad1271f7 
+D/inject  ( 8016): [+] Find got item ad111621 
+D/inject  ( 8016): [+] Find got item ad1271fd 
+D/inject  ( 8016): [+] Find got item ad12720b 
+D/inject  ( 8016): [+] Find got item ad1115c5 
+D/inject  ( 8016): [+] Find got item ad127215 
+D/inject  ( 8016): [+] Find got item ad126f83 
+D/inject  ( 8016): [+] Find got item ad111691 
+D/inject  ( 8016): [+] Find got item ad1273fd 
+D/inject  ( 8016): [+] Find got item ad127404 
+D/inject  ( 8016): [+] Find got item ad112e21 
+D/inject  ( 8016): [+] Find got item ad12744d 
+D/inject  ( 8016): [+] Find got item ad127452 
+D/inject  ( 8016): [+] Find got item ad112d8d 
+D/inject  ( 8016): [+] Find got item ad126d84 
+D/inject  ( 8016): [+] Find got item ad126d8a 
+D/inject  ( 8016): [+] Find got item ad112d51 
+D/inject  ( 8016): [+] Find got item ad127485 
+D/inject  ( 8016): [+] Find got item ad127498 
+D/inject  ( 8016): [+] Find got item ad112c49 
+D/inject  ( 8016): [+] Find got item ad1274cb 
+D/inject  ( 8016): [+] Find got item ad1274d3 
+D/inject  ( 8016): [+] Find got item ad112ca9 
+D/inject  ( 8016): [+] Find got item ad127507 
+D/inject  ( 8016): [+] Find got item ad126d8a 
+D/inject  ( 8016): [+] Find got item ad112a79 
+D/inject  ( 8016): [+] Find got item ad12751a 
+D/inject  ( 8016): [+] Find got item ad127530 
+D/inject  ( 8016): [+] Find got item ad1129d9 
+D/inject  ( 8016): [+] Find got item ad127561 
+D/inject  ( 8016): [+] Find got item ad126dac 
+D/inject  ( 8016): [+] Find got item ad111fc5 
+D/inject  ( 8016): [+] Find got item ad127574 
+D/inject  ( 8016): [+] Find got item ad127584 
+D/inject  ( 8016): [+] Find got item ad11326d 
+D/inject  ( 8016): [+] Find got item ad1275b2 
+D/inject  ( 8016): [+] Find got item ad1275be 
+D/inject  ( 8016): [+] Find got item ad112935 
+D/inject  ( 8016): [+] Find got item ad1275db 
+D/inject  ( 8016): [+] Find got item ad126dd9 
+D/inject  ( 8016): [+] Find got item ad112741 
+D/inject  ( 8016): [+] Find got item ad126f13 
+D/inject  ( 8016): [+] Find got item ad1275e2 
+D/inject  ( 8016): [+] Find got item ad112701 
+D/inject  ( 8016): [+] Find got item ad126f21 
+D/inject  ( 8016): [+] Find got item ad127602 
+D/inject  ( 8016): [+] Find got item ad112669 
+D/inject  ( 8016): [+] Find got item ad127620 
+D/inject  ( 8016): [+] Find got item ad127625 
+D/inject  ( 8016): [+] Find got item ad112615 
+D/inject  ( 8016): [+] Find got item ad127660 
+D/inject  ( 8016): [+] Find got item ad12766b 
+D/inject  ( 8016): [+] Find got item ad112459 
+D/inject  ( 8016): [+] Find got item ad1276a5 
+D/inject  ( 8016): [+] Find got item ad1276b0 
+D/inject  ( 8016): [+] Find got item ad112329 
+D/inject  ( 8016): [+] Find got item ad1276eb 
+D/inject  ( 8016): [+] Find got item ad1276f0 
+D/inject  ( 8016): [+] Find got item ad1122cd 
+D/inject  ( 8016): [+] Find got item ad127727 
+D/inject  ( 8016): [+] Find got item ad127732 
+D/inject  ( 8016): [+] Find got item ad1121cd 
+D/inject  ( 8016): [+] Find got item ad127768 
+D/inject  ( 8016): [+] Find got item ad127777 
+D/inject  ( 8016): [+] Find got item ad112189 
+D/inject  ( 8016): [+] Find got item ad127794 
+D/inject  ( 8016): [+] Find got item ad1277a3 
+D/inject  ( 8016): [+] Find got item ad111ad1 
+D/inject  ( 8016): [+] Find got item ad1277bf 
+D/inject  ( 8016): [+] Find got item ad1277cf 
+D/inject  ( 8016): [+] Find got item ad1135a9 
+D/inject  ( 8016): [+] Find got item ad1277fe 
+D/inject  ( 8016): [+] Find got item ad126d8a 
+D/inject  ( 8016): [+] Find got item ad111d89 
+D/inject  ( 8016): [+] Find got item ad12780c 
+D/inject  ( 8016): [+] Find got item ad126d8a 
+D/inject  ( 8016): [+] Find got item ad111d7d 
+D/inject  ( 8016): [+] Find got item ad12781b 
+D/inject  ( 8016): [+] Find got item ad126e02 
+D/inject  ( 8016): [+] Find got item ad111cb5 
+D/inject  ( 8016): [+] Find got item ad126f9b 
+D/inject  ( 8016): [+] Find got item ad1275e2 
+D/inject  ( 8016): [+] Find got item ad111c31 
+D/inject  ( 8016): [+] Find got item ad126fa1 
+D/inject  ( 8016): [+] Find got item ad127822 
+D/inject  ( 8016): [+] Find got item ad111b91 
+D/inject  ( 8016): [+] Find got item ad127892 
+D/inject  ( 8016): [+] Find got item ad12789f 
+D/inject  ( 8016): [+] Find got item ad11483d 
+D/inject  ( 8016): [+] Find got item ad1278b6 
+D/inject  ( 8016): [+] Find got item ad1278c3 
+D/inject  ( 8016): [+] Find got item ad1140b9 
+D/inject  ( 8016): [+] Find got item ad127b1f 
+D/inject  ( 8016): [+] Find got item ad127b2c 
+D/inject  ( 8016): [+] Find got item ad115631 
+D/inject  ( 8016): [+] Find got item ad127b44 
+D/inject  ( 8016): [+] Find got item ad1270ec 
+D/inject  ( 8016): [+] Find got item ad1155e5 
+D/inject  ( 8016): [+] Find got item ad127b50 
+D/inject  ( 8016): [+] Find got item ad127b5c 
+D/inject  ( 8016): [+] Find got item ad115595 
+D/inject  ( 8016): [+] Find got item ad127b65 
+D/inject  ( 8016): [+] Find got item ad12618c 
+D/inject  ( 8016): [+] Find got item ad115479 
+D/inject  ( 8016): [+] Find got item ad127b75 
+D/inject  ( 8016): [+] Find got item ad1261e3 
+D/inject  ( 8016): [+] Find got item ad11546d 
+D/inject  ( 8016): [+] Find got item ad127b7c 
+D/inject  ( 8016): [+] Find got item ad127b8f 
+D/inject  ( 8016): [+] Find got item ad115431 
+D/inject  ( 8016): [+] Find got item ad127ba6 
+D/inject  ( 8016): [+] Find got item ad127bb1 
+D/inject  ( 8016): [+] Find got item ad115209 
+D/inject  ( 8016): [+] Find got item ad127bc8 
+D/inject  ( 8016): [+] Find got item ad1261e3 
+D/inject  ( 8016): [+] Find got item ad1151fd 
+D/inject  ( 8016): [+] Find got item ad127bcd 
+D/inject  ( 8016): [+] Find got item ad126535 
+D/inject  ( 8016): [+] Find got item ad1151e1 
+D/inject  ( 8016): [+] Find got item ad127bd5 
+D/inject  ( 8016): [+] Find got item ad126535 
+D/inject  ( 8016): [+] Find got item ad1151d5 
+D/inject  ( 8016): [+] Find got item ad12653a 
+D/inject  ( 8016): [+] Find got item ad1279e4 
+D/inject  ( 8016): [+] Find got item ad114949 
+D/inject  ( 8016): [+] Find got item ad127be3 
+D/inject  ( 8016): [+] Find got item ad126535 
+D/inject  ( 8016): [+] Find got item ad114f7d 
+D/inject  ( 8016): [+] Find got item ad127bf2 
+D/inject  ( 8016): [+] Find got item ad127b8f 
+D/inject  ( 8016): [+] Find got item ad115159 
+D/inject  ( 8016): [+] Find got item ad127c03 
+D/inject  ( 8016): [+] Find got item ad127c0c 
+D/inject  ( 8016): [+] Find got item ad115061 
+D/[TCP_SERVER](  553): Session local:localhost/127.0.0.1:10201 remote:localhost/127.0.0.1:58061@Dispatching 105 bytes data to uplayer
+D/inject  ( 8016): [+] Find got item ad127c35 
+D/inject  ( 8016): [+] Find got item ad127c42 
+D/inject  ( 8016): [+] Find got item ad1159e9 
+D/inject  ( 8016): [+] Find got item ad127c5a 
+D/inject  ( 8016): [+] Find got item ad127c42 
+D/inject  ( 8016): [+] Find got item ad115add 
+D/inject  ( 8016): [+] Find got item ad127c63 
+D/inject  ( 8016): [+] Find got item ad127c42 
+D/inject  ( 8016): [+] Find got item ad1159bd 
+D/inject  ( 8016): [+] Find got item ad127c6a 
+D/inject  ( 8016): [+] Find got item ad127c7a 
+D/inject  ( 8016): [+] Find got item ad114939 
+D/inject  ( 8016): [+] Find got item ad127c91 
+D/inject  ( 8016): [+] Find got item ad127ca2 
+D/inject  ( 8016): [+] Find got item ad1151b5 
+D/inject  ( 8016): [+] Find got item ad127cca 
+D/inject  ( 8016): [+] Find got item ad127cd3 
+D/inject  ( 8016): [+] Find got item ad1150dd 
+D/inject  ( 8016): [+] Find got item ad127f67 
+D/inject  ( 8016): [+] Find got item ad127f34 
+D/inject  ( 8016): [+] Find got item ad127f3f 
+D/inject  ( 8016): [+] Find got item ad115ee1 
+D/inject  ( 8016): [+] Find got item ad127fff 
+D/inject  ( 8016): [+] Find got item ad12554e 
+D/inject  ( 8016): [+] Find got item ad116255 
+D/inject  ( 8016): [+] Find got item ad128015 
+D/inject  ( 8016): [+] Find got item ad12802b 
+D/inject  ( 8016): [+] Find got item ad116259 
+D/inject  ( 8016): [+] Find got item ad128035 
+D/inject  ( 8016): [+] Find got item ad12804c 
+D/inject  ( 8016): [+] Find got item ad11625d 
+D/inject  ( 8016): [+] Find got item ad1285b7 
+D/inject  ( 8016): [+] Find got item ad1285de 
+D/inject  ( 8016): [+] Find got item ad11668d 
+D/inject  ( 8016): [+] Find got item ad1285f4 
+D/inject  ( 8016): [+] Find got item ad1285de 
+D/inject  ( 8016): [+] Find got item ad11666d 
+D/inject  ( 8016): [+] Find got item ad128616 
+D/inject  ( 8016): [+] Find got item ad1285de 
+D/inject  ( 8016): [+] Find got item ad11664d 
+D/inject  ( 8016): [+] Find got item ad128638 
+D/inject  ( 8016): [+] Find got item ad1285de 
+D/inject  ( 8016): [+] Find got item ad11662d 
+D/inject  ( 8016): [+] Find got item ad12865c 
+D/inject  ( 8016): [+] Find got item ad1285de 
+D/inject  ( 8016): [+] Find got item ad11660d 
+D/inject  ( 8016): [+] Find got item ad128676 
+D/inject  ( 8016): [+] Find got item ad1285de 
+D/inject  ( 8016): [+] Find got item ad1165ed 
+D/inject  ( 8016): [+] Find got item ad12869c 
+D/inject  ( 8016): [+] Find got item ad125993 
+D/inject  ( 8016): [+] Find got item ad116f09 
+D/inject  ( 8016): [+] Find got item ad1286b2 
+D/inject  ( 8016): [+] Find got item ad12619e 
+D/inject  ( 8016): [+] Find got item ad116e95 
+D/inject  ( 8016): [+] Find got item ad1286d2 
+D/inject  ( 8016): [+] Find got item ad1286ea 
+D/inject  ( 8016): [+] Find got item ad116b29 
+D/inject  ( 8016): [+] Find got item ad128723 
+D/inject  ( 8016): [+] Find got item ad1286ea 
+D/inject  ( 8016): [+] Find got item ad116ded 
+D/inject  ( 8016): [+] Find got item ad12873b 
+D/inject  ( 8016): [+] Find got item ad1286ea 
+D/inject  ( 8016): [+] Find got item ad116d45 
+D/inject  ( 8016): [+] Find got item ad128754 
+D/inject  ( 8016): [+] Find got item ad1286ea 
+D/inject  ( 8016): [+] Find got item ad116c9d 
+D/inject  ( 8016): [+] Find got item ad12876c 
+D/inject  ( 8016): [+] Find got item ad125993 
+D/inject  ( 8016): [+] Find got item ad116c51 
+D/inject  ( 8016): [+] Find got item ad128781 
+D/inject  ( 8016): [+] Find got item ad125993 
+D/inject  ( 8016): [+] Find got item ad116c05 
+D/inject  ( 8016): [+] Find got item ad128797 
+D/inject  ( 8016): [+] Find got item ad1285de 
+D/inject  ( 8016): [+] Find got item ad116bf1 
+D/inject  ( 8016): [+] Find got item ad1287ad 
+D/inject  ( 8016): [+] Find got item ad1285de 
+D/inject  ( 8016): [+] Find got item ad116bdd 
+D/inject  ( 8016): [+] Find got item ad1287c3 
+D/inject  ( 8016): [+] Find got item ad1287d6 
+D/inject  ( 8016): [+] Find got item ad117099 
+D/inject  ( 8016): [+] Find got item ad12880d 
+D/inject  ( 8016): [+] Find got item ad1286ea 
+D/inject  ( 8016): [+] Find got item ad1177a9 
+D/inject  ( 8016): [+] Find got item ad128819 
+D/inject  ( 8016): [+] Find got item ad1286ea 
+D/inject  ( 8016): [+] Find got item ad1176e9 
+D/inject  ( 8016): [+] Find got item ad128b6a 
+D/inject  ( 8016): [+] Find got item ad128b71 
+D/inject  ( 8016): [+] Find got item ad11876d 
+D/inject  ( 8016): [+] Find got item ad128b78 
+D/inject  ( 8016): [+] Find got item ad128b84 
+D/inject  ( 8016): [+] Find got item ad118749 
+D/inject  ( 8016): [+] Find got item ad128b8a 
+D/inject  ( 8016): [+] Find got item ad128b94 
+D/inject  ( 8016): [+] Find got item ad117d41 
+D/inject  ( 8016): [+] Find got item ad128b9d 
+D/inject  ( 8016): [+] Find got item ad128ba7 
+D/inject  ( 8016): [+] Find got item ad1186d9 
+D/inject  ( 8016): [+] Find got item ad128bad 
+D/inject  ( 8016): [+] Find got item ad126667 
+D/inject  ( 8016): [+] Find got item ad11866d 
+D/inject  ( 8016): [+] Find got item ad128bb7 
+D/inject  ( 8016): [+] Find got item ad126667 
+D/inject  ( 8016): [+] Find got item ad118601 
+D/inject  ( 8016): [+] Find got item ad128bc1 
+D/inject  ( 8016): [+] Find got item ad12618c 
+D/inject  ( 8016): [+] Find got item ad1185e1 
+D/inject  ( 8016): [+] Find got item ad128bc8 
+D/inject  ( 8016): [+] Find got item ad128b84 
+D/inject  ( 8016): [+] Find got item ad1185bd 
+D/inject  ( 8016): [+] Find got item ad128bd0 
+D/inject  ( 8016): [+] Find got item ad127b8f 
+D/inject  ( 8016): [+] Find got item ad118565 
+D/inject  ( 8016): [+] Find got item ad128bda 
+D/inject  ( 8016): [+] Find got item ad128be1 
+D/inject  ( 8016): [+] Find got item ad118519 
+D/inject  ( 8016): [+] Find got item ad128be9 
+D/inject  ( 8016): [+] Find got item ad12618c 
+D/inject  ( 8016): [+] Find got item ad1184f9 
+D/inject  ( 8016): [+] Find got item ad128bf5 
+D/inject  ( 8016): [+] Find got item ad128b71 
+D/inject  ( 8016): [+] Find got item ad1184bd 
+D/inject  ( 8016): [+] Find got item ad128bfc 
+D/inject  ( 8016): [+] Find got item ad126535 
+D/inject  ( 8016): [+] Find got item ad1184a5 
+D/inject  ( 8016): [+] Find got item ad128c04 
+D/inject  ( 8016): [+] Find got item ad128b71 
+D/inject  ( 8016): [+] Find got item ad118469 
+D/inject  ( 8016): [+] Find got item ad128c0b 
+D/inject  ( 8016): [+] Find got item ad128c20 
+D/inject  ( 8016): [+] Find got item ad118431 
+D/inject  ( 8016): [+] Find got item ad128c2a 
+D/inject  ( 8016): [+] Find got item ad127b8f 
+D/inject  ( 8016): [+] Find got item ad1183d9 
+D/inject  ( 8016): [+] Find got item ad128c34 
+D/inject  ( 8016): [+] Find got item ad128b84 
+D/inject  ( 8016): [+] Find got item ad118129 
+D/inject  ( 8016): [+] Find got item ad128c42 
+D/inject  ( 8016): [+] Find got item ad128b71 
+D/inject  ( 8016): [+] Find got item ad1183a1 
+D/inject  ( 8016): [+] Find got item ad128c51 
+D/inject  ( 8016): [+] Find got item ad128be1 
+D/inject  ( 8016): [+] Find got item ad11835d 
+D/inject  ( 8016): [+] Find got item ad128c5c 
+D/inject  ( 8016): [+] Find got item ad128b71 
+D/inject  ( 8016): [+] Find got item ad11831d 
+D/inject  ( 8016): [+] Find got item ad128c6b 
+D/inject  ( 8016): [+] Find got item ad12618c 
+D/inject  ( 8016): [+] Find got item ad1182fd 
+D/inject  ( 8016): [+] Find got item ad128c77 
+D/inject  ( 8016): [+] Find got item ad128b71 
+D/inject  ( 8016): [+] Find got item ad1182c1 
+D/inject  ( 8016): [+] Find got item ad128c7e 
+D/inject  ( 8016): [+] Find got item ad128b84 
+D/inject  ( 8016): [+] Find got item ad11829d 
+D/inject  ( 8016): [+] Find got item ad128c8a 
+D/inject  ( 8016): [+] Find got item ad126edd 
+D/inject  ( 8016): [+] Find got item ad118295 
+D/inject  ( 8016): [+] Find got item ad128c91 
+D/inject  ( 8016): [+] Find got item ad128b71 
+D/inject  ( 8016): [+] Find got item ad118259 
+D/inject  ( 8016): [+] Find got item ad128c9a 
+D/inject  ( 8016): [+] Find got item ad126511 
+D/inject  ( 8016): [+] Find got item ad117ca1 
+D/inject  ( 8016): [+] Find got item ad128caa 
+D/inject  ( 8016): [+] Find got item ad128b71 
+D/inject  ( 8016): [+] Find got item ad118209 
+D/inject  ( 8016): [+] Find got item ad128cb3 
+D/inject  ( 8016): [+] Find got item ad128b71 
+D/inject  ( 8016): [+] Find got item ad1181dd 
+D/inject  ( 8016): [+] Find got item ad128cba 
+D/inject  ( 8016): [+] Find got item ad128b84 
+D/inject  ( 8016): [+] Find got item ad1181b9 
+D/inject  ( 8016): [+] Find got item ad128cc6 
+D/inject  ( 8016): [+] Find got item ad126667 
+D/inject  ( 8016): [+] Find got item ad11819d 
+D/inject  ( 8016): [+] Find got item ad128cd7 
+D/inject  ( 8016): [+] Find got item ad126edd 
+D/inject  ( 8016): [+] Find got item ad118195 
+D/inject  ( 8016): [+] Find got item ad128ce5 
+D/inject  ( 8016): [+] Find got item ad1261e3 
+D/inject  ( 8016): [+] Find got item ad11814d 
+D/inject  ( 8016): [+] Find got item ad128cef 
+D/inject  ( 8016): [+] Find got item ad128cfd 
+D/inject  ( 8016): [+] Find got item ad117db5 
+D/inject  ( 8016): [+] Find got item ad128d03 
+D/inject  ( 8016): [+] Find got item ad128d11 
+D/inject  ( 8016): [+] Find got item ad118031 
+D/inject  ( 8016): [+] Find got item ad128d1a 
+D/inject  ( 8016): [+] Find got item ad126ef7 
+D/inject  ( 8016): [+] Find got item ad117c49 
+D/inject  ( 8016): [+] Find got item ad128d22 
+D/inject  ( 8016): [+] Find got item ad128b71 
+D/inject  ( 8016): [+] Find got item ad1180e1 
+D/inject  ( 8016): [+] Find got item ad128d2c 
+D/inject  ( 8016): [+] Find got item ad127133 
+D/inject  ( 8016): [+] Find got item ad118005 
+D/inject  ( 8016): [+] Find got item ad128d37 
+D/inject  ( 8016): [+] Find got item ad128d43 
+D/inject  ( 8016): [+] Find got item ad117fb5 
+D/inject  ( 8016): [+] Find got item ad128d4a 
+D/inject  ( 8016): [+] Find got item ad1261e3 
+D/inject  ( 8016): [+] Find got item ad117c1d 
+D/inject  ( 8016): [+] Find got item ad128d4f 
+D/inject  ( 8016): [+] Find got item ad128d5b 
+D/inject  ( 8016): [+] Find got item ad117f35 
+D/inject  ( 8016): [+] Find got item ad128d8d 
+D/inject  ( 8016): [+] Find got item ad126c69 
+D/inject  ( 8016): [+] Find got item ad1188cd 
+D/inject  ( 8016): [+] Find got item ad128d99 
+D/inject  ( 8016): [+] Find got item ad126c7b 
+D/inject  ( 8016): [+] Find got item ad118975 
+D/inject  ( 8016): [+] Find got item ad128da9 
+D/inject  ( 8016): [+] Find got item ad126c7b 
+D/inject  ( 8016): [+] Find got item ad118aed 
+D/inject  ( 8016): [+] Find got item ad128dbc 
+D/inject  ( 8016): [+] Find got item ad126c7b 
+D/inject  ( 8016): [+] Find got item ad118ae1 
+D/inject  ( 8016): [+] Find got item ad128dcc 
+D/inject  ( 8016): [+] Find got item ad128ddc 
+D/inject  ( 8016): [+] Find got item ad118a85 
+D/inject  ( 8016): [+] Find got item ad128de2 
+D/inject  ( 8016): [+] Find got item ad128df5 
+D/inject  ( 8016): [+] Find got item ad118a75 
+D/inject  ( 8016): [+] Find got item ad128dfa 
+D/inject  ( 8016): [+] Find got item ad128e08 
+D/inject  ( 8016): [+] Find got item ad118999 
+D/inject  ( 8016): [+] Find got item ad128e2e 
+D/inject  ( 8016): [+] Find got item ad128e39 
+D/inject  ( 8016): [+] Find got item ad11895d 
+D/inject  ( 8016): [+] Find got item ad128e3d 
+D/inject  ( 8016): [+] Find got item ad128e51 
+D/inject  ( 8016): [+] Find got item ad1188e1 
+D/inject  ( 8016): [+] Find got item ad128e59 
+D/inject  ( 8016): [+] Find got item ad128e67 
+D/inject  ( 8016): [+] Find got item ad118869 
+D/inject  ( 8016): [+] Find got item ad128e6e 
+D/inject  ( 8016): [+] Find got item ad128e7c 
+D/inject  ( 8016): [+] Find got item ad1187b5 
+D/inject  ( 8016): [+] Find got item ad128eb0 
+D/inject  ( 8016): [+] Find got item ad1261e3 
+D/inject  ( 8016): [+] Find got item ad118c95 
+D/inject  ( 8016): [+] Find got item ad128eba 
+D/inject  ( 8016): [+] Find got item ad126535 
+D/inject  ( 8016): [+] Find got item ad118c89 
+D/inject  ( 8016): [+] Find got item ad128ed1 
+D/inject  ( 8016): [+] Find got item ad1261e3 
+D/inject  ( 8016): [+] Find got item ad118b81 
+D/inject  ( 8016): [+] Find got item ad128edd 
+D/inject  ( 8016): [+] Find got item ad1261e3 
+D/inject  ( 8016): [+] Find got item ad118c7d 
+D/inject  ( 8016): [+] Find got item ad128ee7 
+D/inject  ( 8016): [+] Find got item ad12618c 
+D/inject  ( 8016): [+] Find got item ad118c71 
+D/inject  ( 8016): [+] Find got item ad128ef5 
+D/inject  ( 8016): [+] Find got item ad12619e 
+D/inject  ( 8016): [+] Find got item ad118c65 
+D/inject  ( 8016): [+] Find got item ad128f0e 
+D/inject  ( 8016): [+] Find got item ad12619e 
+D/inject  ( 8016): [+] Find got item ad118c59 
+D/inject  ( 8016): [+] Find got item ad128f22 
+D/inject  ( 8016): [+] Find got item ad12619e 
+D/inject  ( 8016): [+] Find got item ad118c4d 
+D/inject  ( 8016): [+] Find got item ad128f3a 
+D/inject  ( 8016): [+] Find got item ad12619e 
+D/inject  ( 8016): [+] Find got item ad118c41 
+D/inject  ( 8016): [+] Find got item ad128f4e 
+D/inject  ( 8016): [+] Find got item ad128b84 
+D/inject  ( 8016): [+] Find got item ad118bd9 
+D/inject  ( 8016): [+] Find got item ad128f5d 
+D/inject  ( 8016): [+] Find got item ad1261e3 
+D/inject  ( 8016): [+] Find got item ad118bcd 
+D/inject  ( 8016): [+] Find got item ad128f66 
+D/inject  ( 8016): [+] Find got item ad12618c 
+D/inject  ( 8016): [+] Find got item ad118b8d 
+D/inject  ( 8016): [+] Find got item ad128f6f 
+D/inject  ( 8016): [+] Find got item ad12618c 
+D/inject  ( 8016): [+] Find got item ad118b75 
+D/inject  ( 8016): [+] Find got item ad128f7d 
+D/inject  ( 8016): [+] Find got item ad1261e3 
+D/inject  ( 8016): [+] Find got item ad118b69 
+D/inject  ( 8016): [+] Find got item ad128f8a 
+D/inject  ( 8016): [+] Find got item ad128f96 
+D/inject  ( 8016): [+] Find got item ad118b15 
+D/inject  ( 8016): [+] Find got item ad128fd2 
+D/inject  ( 8016): [+] Find got item ad126535 
+D/inject  ( 8016): [+] Find got item ad119105 
+D/inject  ( 8016): [+] Find got item ad128fe0 
+D/inject  ( 8016): [+] Find got item ad126535 
+D/inject  ( 8016): [+] Find got item ad1190f9 
+D/inject  ( 8016): [+] Find got item ad128fee 
+D/inject  ( 8016): [+] Find got item ad127c0c 
+D/inject  ( 8016): [+] Find got item ad11907d 
+D/inject  ( 8016): [+] Find got item ad128ff6 
+D/inject  ( 8016): [+] Find got item ad12618c 
+D/inject  ( 8016): [+] Find got item ad118ff5 
+D/inject  ( 8016): [+] Find got item ad129003 
+D/inject  ( 8016): [+] Find got item ad127b8f 
+D/inject  ( 8016): [+] Find got item ad119025 
+D/inject  ( 8016): [+] Find got item ad12901f 
+D/inject  ( 8016): [+] Find got item ad12618c 
+D/inject  ( 8016): [+] Find got item ad119019 
+D/inject  ( 8016): [+] Find got item ad12902f 
+D/inject  ( 8016): [+] Find got item ad1261e3 
+D/inject  ( 8016): [+] Find got item ad118fd1 
+D/inject  ( 8016): [+] Find got item ad129040 
+D/inject  ( 8016): [+] Find got item ad1261e3 
+D/inject  ( 8016): [+] Find got item ad118fc5 
+D/inject  ( 8016): [+] Find got item ad12904a 
+D/inject  ( 8016): [+] Find got item ad126667 
+D/inject  ( 8016): [+] Find got item ad118f9d 
+D/inject  ( 8016): [+] Find got item ad129053 
+D/inject  ( 8016): [+] Find got item ad12905e 
+D/inject  ( 8016): [+] Find got item ad118eb9 
+D/inject  ( 8016): [+] Find got item ad129076 
+D/inject  ( 8016): [+] Find got item ad1261e3 
+D/inject  ( 8016): [+] Find got item ad118e95 
+D/inject  ( 8016): [+] Find got item ad12907b 
+D/inject  ( 8016): [+] Find got item ad12619e 
+D/inject  ( 8016): [+] Find got item ad118e51 
+D/inject  ( 8016): [+] Find got item ad129088 
+D/inject  ( 8016): [+] Find got item ad12909e 
+D/inject  ( 8016): [+] Find got item ad118df5 
+D/inject  ( 8016): [+] Find got item ad1290b6 
+D/inject  ( 8016): [+] Find got item ad1261e3 
+D/inject  ( 8016): [+] Find got item ad118dd1 
+D/inject  ( 8016): [+] Find got item ad1290bf 
+D/inject  ( 8016): [+] Find got item ad126535 
+D/inject  ( 8016): [+] Find got item ad118dc5 
+D/inject  ( 8016): [+] Find got item ad1290c5 
+D/inject  ( 8016): [+] Find got item ad1261e3 
+D/inject  ( 8016): [+] Find got item ad118d99 
+D/inject  ( 8016): [+] Find got item ad1290cf 
+D/inject  ( 8016): [+] Find got item ad128d63 
+D/inject  ( 8016): [+] Find got item ad118d75 
+D/inject  ( 8016): [+] Find got item ad1290dc 
+D/inject  ( 8016): [+] Find got item ad126511 
+D/inject  ( 8016): [+] Find got item ad118d51 
+D/inject  ( 8016): [+] Find got item ad1290ed 
+D/inject  ( 8016): [+] Find got item ad126511 
+D/inject  ( 8016): [+] Find got item ad118d31 
+D/inject  ( 8016): [+] Find got item ad1290f7 
+D/inject  ( 8016): [+] Find got item ad128f96 
+D/inject  ( 8016): [+] Find got item ad118cdd 
+D/inject  ( 8016): [+] Find got item ad129175 
+D/inject  ( 8016): [+] Find got item ad12917f 
+D/inject  ( 8016): [+] Find got item ad1197f1 
+D/inject  ( 8016): [+] Find got item ad129185 
+D/inject  ( 8016): [+] Find got item ad129194 
+D/inject  ( 8016): [+] Find got item ad119e2d 
+D/inject  ( 8016): [+] Find got item ad1291c3 
+D/inject  ( 8016): [+] Find got item ad126c69 
+D/inject  ( 8016): [+] Find got item ad119c65 
+D/inject  ( 8016): [+] Find got item ad1291d2 
+D/inject  ( 8016): [+] Find got item ad1259c7 
+D/inject  ( 8016): [+] Find got item ad119ba9 
+D/inject  ( 8016): [+] Find got item ad1291db 
+D/inject  ( 8016): [+] Find got item ad1291e2 
+D/inject  ( 8016): [+] Find got item ad119a41 
+D/inject  ( 8016): [+] Find got item ad1291f0 
+D/inject  ( 8016): [+] Find got item ad1291f7 
+D/inject  ( 8016): [+] Find got item ad11990d 
+D/inject  ( 8016): [+] Find got item ad129205 
+D/inject  ( 8016): [+] Find got item ad129215 
+D/inject  ( 8016): [+] Find got item ad119875 
+D/inject  ( 8016): [+] Find got item ad12921f 
+D/inject  ( 8016): [+] Find got item ad12922f 
+D/inject  ( 8016): [+] Find got item ad11975d 
+D/inject  ( 8016): [+] Find got item ad129239 
+D/inject  ( 8016): [+] Find got item ad1285de 
+D/inject  ( 8016): [+] Find got item ad1196e5 
+D/inject  ( 8016): [+] Find got item ad129252 
+D/inject  ( 8016): [+] Find got item ad129265 
+D/inject  ( 8016): [+] Find got item ad1195b9 
+D/inject  ( 8016): [+] Find got item ad12926a 
+D/inject  ( 8016): [+] Find got item ad129265 
+D/inject  ( 8016): [+] Find got item ad119591 
+D/inject  ( 8016): [+] Find got item ad12927d 
+D/inject  ( 8016): [+] Find got item ad126c7b 
+D/inject  ( 8016): [+] Find got item ad119579 
+D/inject  ( 8016): [+] Find got item ad129290 
+D/inject  ( 8016): [+] Find got item ad126c7b 
+D/inject  ( 8016): [+] Find got item ad119561 
+D/inject  ( 8016): [+] Find got item ad1292a3 
+D/inject  ( 8016): [+] Find got item ad128ddc 
+D/inject  ( 8016): [+] Find got item ad1194c9 
+D/inject  ( 8016): [+] Find got item ad1292b8 
+D/inject  ( 8016): [+] Find got item ad125905 
+D/inject  ( 8016): [+] Find got item ad119489 
+D/inject  ( 8016): [+] Find got item ad1292c6 
+D/inject  ( 8016): [+] Find got item ad126c69 
+D/inject  ( 8016): [+] Find got item ad119479 
+D/inject  ( 8016): [+] Find got item ad1292d6 
+D/inject  ( 8016): [+] Find got item ad126c69 
+D/inject  ( 8016): [+] Find got item ad119469 
+D/inject  ( 8016): [+] Find got item ad1292e6 
+D/inject  ( 8016): [+] Find got item ad1292f8 
+D/inject  ( 8016): [+] Find got item ad119325 
+D/inject  ( 8016): [+] Find got item ad129301 
+D/inject  ( 8016): [+] Find got item ad129313 
+D/inject  ( 8016): [+] Find got item ad119179 
+D/inject  ( 8016): [+] Find got item ad129e7e 
+D/inject  ( 8016): [+] Find got item ad12554e 
+D/inject  ( 8016): [+] Find got item ad11c81d 
+D/inject  ( 8016): [+] Find got item ad129e85 
+D/inject  ( 8016): [+] Find got item ad129e96 
+D/inject  ( 8016): [+] Find got item ad11c67d 
+D/inject  ( 8016): [+] Find got item ad129ea4 
+D/inject  ( 8016): [+] Find got item ad129e96 
+D/inject  ( 8016): [+] Find got item ad11c5ad 
+D/inject  ( 8016): [+] Find got item ad129eb5 
+D/inject  ( 8016): [+] Find got item ad126535 
+D/inject  ( 8016): [+] Find got item ad11b8c1 
+D/inject  ( 8016): [+] Find got item ad129ec3 
+D/inject  ( 8016): [+] Find got item ad126edd 
+D/inject  ( 8016): [+] Find got item ad11c529 
+D/inject  ( 8016): [+] Find got item ad129ed5 
+D/inject  ( 8016): [+] Find got item ad126535 
+D/inject  ( 8016): [+] Find got item ad11c59d 
+D/inject  ( 8016): [+] Find got item ad129ee8 
+D/inject  ( 8016): [+] Find got item ad1261e3 
+D/inject  ( 8016): [+] Find got item ad11c549 
+D/inject  ( 8016): [+] Find got item ad129ef8 
+D/inject  ( 8016): [+] Find got item ad129f08 
+D/inject  ( 8016): [+] Find got item ad11c4c9 
+D/inject  ( 8016): [+] Find got item ad129f10 
+D/inject  ( 8016): [+] Find got item ad128f96 
+D/inject  ( 8016): [+] Find got item ad11c3f1 
+D/inject  ( 8016): [+] Find got item ad129f1f 
+D/inject  ( 8016): [+] Find got item ad1261e3 
+D/inject  ( 8016): [+] Find got item ad11c495 
+D/inject  ( 8016): [+] Find got item ad129f35 
+D/inject  ( 8016): [+] Find got item ad1261e3 
+D/inject  ( 8016): [+] Find got item ad11c461 
+D/inject  ( 8016): [+] Find got item ad129f45 
+D/inject  ( 8016): [+] Find got item ad1270ec 
+D/inject  ( 8016): [+] Find got item ad11c315 
+D/inject  ( 8016): [+] Find got item ad129f56 
+D/inject  ( 8016): [+] Find got item ad128f96 
+D/inject  ( 8016): [+] Find got item ad11c381 
+D/inject  ( 8016): [+] Find got item ad129f65 
+D/inject  ( 8016): [+] Find got item ad1270ec 
+D/inject  ( 8016): [+] Find got item ad11c2c5 
+D/inject  ( 8016): [+] Find got item ad129f76 
+D/inject  ( 8016): [+] Find got item ad129f86 
+D/inject  ( 8016): [+] Find got item ad11c25d 
+D/inject  ( 8016): [+] Find got item ad129f90 
+D/inject  ( 8016): [+] Find got item ad129fa0 
+D/inject  ( 8016): [+] Find got item ad11c131 
+D/inject  ( 8016): [+] Find got item ad129fbe 
+D/inject  ( 8016): [+] Find got item ad129fc8 
+D/inject  ( 8016): [+] Find got item ad11bfbd 
+D/inject  ( 8016): [+] Find got item ad129fce 
+D/inject  ( 8016): [+] Find got item ad129fdd 
+D/inject  ( 8016): [+] Find got item ad11bf8d 
+D/inject  ( 8016): [+] Find got item ad129b02 
+D/inject  ( 8016): [+] Find got item ad126edd 
+D/inject  ( 8016): [+] Find got item ad11ba59 
+D/inject  ( 8016): [+] Find got item ad129ff4 
+D/inject  ( 8016): [+] Find got item ad126535 
+D/inject  ( 8016): [+] Find got item ad11ba3d 
+D/inject  ( 8016): [+] Find got item ad12a001 
+D/inject  ( 8016): [+] Find got item ad1261e3 
+D/inject  ( 8016): [+] Find got item ad11b9f9 
+D/inject  ( 8016): [+] Find got item ad12a009 
+D/inject  ( 8016): [+] Find got item ad12a01c 
+D/inject  ( 8016): [+] Find got item ad11b8d1 
+D/inject  ( 8016): [+] Find got item ad12a023 
+D/inject  ( 8016): [+] Find got item ad12a037 
+D/inject  ( 8016): [+] Find got item ad11b641 
+D/inject  ( 8016): [+] Find got item ad12a03f 
+D/inject  ( 8016): [+] Find got item ad126535 
+D/inject  ( 8016): [+] Find got item ad11b60d 
+D/inject  ( 8016): [+] Find got item ad12a055 
+D/inject  ( 8016): [+] Find got item ad12a037 
+D/inject  ( 8016): [+] Find got item ad11b4ad 
+D/inject  ( 8016): [+] Find got item ad12a06c 
+D/inject  ( 8016): [+] Find got item ad126ef7 
+D/inject  ( 8016): [+] Find got item ad11b281 
+D/inject  ( 8016): [+] Find got item ad12a079 
+D/inject  ( 8016): [+] Find got item ad126bc7 
+D/inject  ( 8016): [+] Find got item ad11b259 
+D/inject  ( 8016): [+] Find got item ad12a086 
+D/inject  ( 8016): [+] Find got item ad126bc7 
+D/inject  ( 8016): [+] Find got item ad11b231 
+D/inject  ( 8016): [+] Find got item ad12a095 
+D/inject  ( 8016): [+] Find got item ad126ef7 
+D/inject  ( 8016): [+] Find got item ad11b209 
+D/inject  ( 8016): [+] Find got item ad12a0a5 
+D/inject  ( 8016): [+] Find got item ad126bc7 
+D/inject  ( 8016): [+] Find got item ad11b1e1 
+D/inject  ( 8016): [+] Find got item ad12a0b5 
+D/inject  ( 8016): [+] Find got item ad126bc7 
+D/inject  ( 8016): [+] Find got item ad11b1b9 
+D/inject  ( 8016): [+] Find got item ad12a0c7 
+D/inject  ( 8016): [+] Find got item ad12a0dc 
+D/inject  ( 8016): [+] Find got item ad11b32d 
+D/inject  ( 8016): [+] Find got item ad12a0f4 
+D/inject  ( 8016): [+] Find got item ad126511 
+D/inject  ( 8016): [+] Find got item ad11b311 
+D/inject  ( 8016): [+] Find got item ad12a103 
+D/inject  ( 8016): [+] Find got item ad126511 
+D/inject  ( 8016): [+] Find got item ad11b2c1 
+D/inject  ( 8016): [+] Find got item ad12a113 
+D/inject  ( 8016): [+] Find got item ad126b0b 
+D/inject  ( 8016): [+] Find got item ad11b2a9 
+D/inject  ( 8016): [+] Find got item ad12a134 
+D/inject  ( 8016): [+] Find got item ad128f96 
+D/inject  ( 8016): [+] Find got item ad11b15d 
+D/inject  ( 8016): [+] Find got item ad12a14d 
+D/inject  ( 8016): [+] Find got item ad126667 
+D/inject  ( 8016): [+] Find got item ad11b135 
+D/inject  ( 8016): [+] Find got item ad12a160 
+D/inject  ( 8016): [+] Find got item ad12a171 
+D/inject  ( 8016): [+] Find got item ad11af21 
+D/inject  ( 8016): [+] Find got item ad12a1da 
+D/inject  ( 8016): [+] Find got item ad126535 
+D/inject  ( 8016): [+] Find got item ad11ae7d 
+D/inject  ( 8016): [+] Find got item ad12a1ea 
+D/inject  ( 8016): [+] Find got item ad12a1fe 
+D/inject  ( 8016): [+] Find got item ad11add9 
+D/inject  ( 8016): [+] Find got item ad12a205 
+D/inject  ( 8016): [+] Find got item ad12a1fe 
+D/inject  ( 8016): [+] Find got item ad11ad51 
+D/inject  ( 8016): [+] Find got item ad12a21d 
+D/inject  ( 8016): [+] Find got item ad12a22b 
+D/inject  ( 8016): [+] Find got item ad11abbd 
+D/inject  ( 8016): [+] Find got item ad12a293 
+D/inject  ( 8016): [+] Find got item ad12a29c 
+D/inject  ( 8016): [+] Find got item ad11aaf1 
+D/inject  ( 8016): [+] Find got item ad12a308 
+D/inject  ( 8016): [+] Find got item ad12a317 
+D/inject  ( 8016): [+] Find got item ad11a905 
+D/inject  ( 8016): [+] Find got item ad12a37f 
+D/inject  ( 8016): [+] Find got item ad12a389 
+D/inject  ( 8016): [+] Find got item ad11a859 
+D/inject  ( 8016): [+] Find got item ad12a3f4 
+D/inject  ( 8016): [+] Find got item ad126535 
+D/inject  ( 8016): [+] Find got item ad11a519 
+D/inject  ( 8016): [+] Find got item ad12a402 
+D/inject  ( 8016): [+] Find got item ad12a40f 
+D/inject  ( 8016): [+] Find got item ad11a431 
+D/inject  ( 8016): [+] Find got item ad12a476 
+D/inject  ( 8016): [+] Find got item ad126535 
+D/inject  ( 8016): [+] Find got item ad11a209 
+D/inject  ( 8016): [+] Find got item ad12a47f 
+D/inject  ( 8016): [+] Find got item ad128ba7 
+D/inject  ( 8016): [+] Find got item ad119ff9 
+D/inject  ( 8016): [+] Find got item ad12a496 
+D/inject  ( 8016): [+] Find got item ad126ef7 
+D/inject  ( 8016): [+] Find got item ad11a199 
+D/inject  ( 8016): [+] Find got item ad12a4ab 
+D/inject  ( 8016): [+] Find got item ad126667 
+D/inject  ( 8016): [+] Find got item ad119f9d 
+D/inject  ( 8016): [+] Find got item ad12a4c3 
+D/inject  ( 8016): [+] Find got item ad126667 
+D/inject  ( 8016): [+] Find got item ad11a171 
+D/inject  ( 8016): [+] Find got item ad12a4d6 
+D/inject  ( 8016): [+] Find got item ad127c7a 
+D/inject  ( 8016): [+] Find got item ad11a0c5 
+D/inject  ( 8016): [+] Find got item ad12a4f0 
+D/inject  ( 8016): [+] Find got item ad126535 
+D/inject  ( 8016): [+] Find got item ad11a0b1 
+D/inject  ( 8016): [+] Find got item ad12a501 
+D/inject  ( 8016): [+] Find got item ad128ba7 
+D/inject  ( 8016): [+] Find got item ad11a055 
+D/inject  ( 8016): [+] Find got item ad12a511 
+D/inject  ( 8016): [+] Find got item ad12a521 
+D/inject  ( 8016): [+] Find got item ad119f4d 
+D/inject  ( 8016): [+] Find got item ad12a578 
+D/inject  ( 8016): [+] Find got item ad12a589 
+D/inject  ( 8016): [+] Find got item ad11d0f9 
+D/inject  ( 8016): [+] Find got item ad128eb0 
+D/inject  ( 8016): [+] Find got item ad1261e3 
+D/inject  ( 8016): [+] Find got item ad11c86d 
+D/inject  ( 8016): [+] Find got item ad126d84 
+D/inject  ( 8016): [+] Find got item ad126535 
+D/inject  ( 8016): [+] Find got item ad11c83d 
+D/inject  ( 8016): [+] Find got item ad12a5a1 
+D/inject  ( 8016): [+] Find got item ad12a5ae 
+D/inject  ( 8016): [+] Find got item ad11d479 
+D/inject  ( 8016): [+] Find got item ad12a5f5 
+D/inject  ( 8016): [+] Find got item ad12a600 
+D/inject  ( 8016): [+] Find got item ad11d405 
+D/inject  ( 8016): [+] Find got item ad12a647 
+D/inject  ( 8016): [+] Find got item ad12a657 
+D/inject  ( 8016): [+] Find got item ad11d355 
+D/inject  ( 8016): [+] Find got item ad128ff6 
+D/inject  ( 8016): [+] Find got item ad12618c 
+D/inject  ( 8016): [+] Find got item ad11d1bd 
+D/inject  ( 8016): [+] Find got item ad12a6af 
+D/inject  ( 8016): [+] Find got item ad127c7a 
+D/inject  ( 8016): [+] Find got item ad11d145 
+D/inject  ( 8016): [+] Find got item ad126f0e 
+D/inject  ( 8016): [+] Find got item ad12a6c0 
+D/inject  ( 8016): [+] Find got item ad11d031 
+D/inject  ( 8016): [+] Find got item ad12a739 
+D/inject  ( 8016): [+] Find got item ad12a73f 
+D/inject  ( 8016): [+] Find got item ad11cde1 
+D/inject  ( 8016): [+] Find got item ad1290cf 
+D/inject  ( 8016): [+] Find got item ad128d63 
+D/inject  ( 8016): [+] Find got item ad11ccf9 
+D/inject  ( 8016): [+] Find got item ad12a781 
+D/inject  ( 8016): [+] Find got item ad12a799 
+D/inject  ( 8016): [+] Find got item ad11cc99 
+D/inject  ( 8016): [+] Find got item ad12a801 
+D/inject  ( 8016): [+] Find got item ad12a811 
+D/inject  ( 8016): [+] Find got item ad11c84d 
+D/inject  ( 8016): [+] Find got item ad12a818 
+D/inject  ( 8016): [+] Find got item ad12a822 
+D/inject  ( 8016): [+] Find got item ad11ca61 
+D/inject  ( 8016): [+] Find got item ad12a83a 
+D/inject  ( 8016): [+] Find got item ad12a822 
+D/inject  ( 8016): [+] Find got item ad11ca09 
+D/inject  ( 8016): [+] Find got item ad12a84b 
+D/inject  ( 8016): [+] Find got item ad12a859 
+D/inject  ( 8016): [+] Find got item ad11c9a5 
+D/inject  ( 8016): [+] Find got item ad12a886 
+D/inject  ( 8016): [+] Find got item ad12a892 
+D/inject  ( 8016): [+] Find got item ad11d4ad 
+D/inject  ( 8016): [+] Find got item ad12a8d8 
+D/inject  ( 8016): [+] Find got item ad12a8e6 
+D/inject  ( 8016): [+] Find got item ad11d5e5 
+D/inject  ( 8016): [+] Find got item ad12a90e 
+D/inject  ( 8016): [+] Find got item ad12a91f 
+D/inject  ( 8016): [+] Find got item ad11d5a9 
+D/inject  ( 8016): [+] Find got item ad12a96a 
+D/inject  ( 8016): [+] Find got item ad126535 
+D/inject  ( 8016): [+] Find got item ad11d67d 
+D/inject  ( 8016): [+] Find got item ad12a977 
+D/inject  ( 8016): [+] Find got item ad12619e 
+D/inject  ( 8016): [+] Find got item ad11d68d 
+D/inject  ( 8016): [+] Find got item ad12a985 
+D/inject  ( 8016): [+] Find got item ad12618c 
+D/inject  ( 8016): [+] Find got item ad11d71d 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 4000d360 
+D/inject  ( 8016): [+] Find got item 4215d26c 
+D/inject  ( 8016): [+] Find got item 4215d208 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 4215f918 
+D/inject  ( 8016): [+] Find got item 4215f8dc 
+D/inject  ( 8016): [+] Find got item 42161120 
+D/inject  ( 8016): [+] Find got item 42161148 
+D/inject  ( 8016): [+] Find got item 42161134 
+D/inject  ( 8016): [+] Find got item 1 
+D/inject  ( 8016): [+] Find got item 1000 
+D/inject  ( 8016): [+] Find got item 42165b7c 
+D/inject  ( 8016): [+] Find got item 42165bb0 
+D/inject  ( 8016): [+] Find got item 40011560 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 421604c4 
+D/inject  ( 8016): [+] Find got item 4215bfb0 
+D/inject  ( 8016): [+] Find got item 42158da8 
+D/inject  ( 8016): [+] Find got item 42163740 
+D/inject  ( 8016): [+] Find got item 42163790 
+D/inject  ( 8016): [+] Find got item 4216377c 
+D/inject  ( 8016): [+] Find got item 4215f3c0 
+D/inject  ( 8016): [+] Find got item 4215f424 
+D/inject  ( 8016): [+] Find got item 4215f3fc 
+D/inject  ( 8016): [+] Find got item 4217a494 
+D/inject  ( 8016): [+] Find got item 4217a258 
+D/inject  ( 8016): [+] Find got item 4217a4fc 
+D/inject  ( 8016): [+] Find got item 4217a1bc 
+D/inject  ( 8016): [+] Find got item 4217a42c 
+D/inject  ( 8016): [+] Find got item 4217a1f0 
+D/inject  ( 8016): [+] Find got item 4217a460 
+D/inject  ( 8016): [+] Find got item 4217a224 
+D/inject  ( 8016): [+] Find got item 4217a4c8 
+D/inject  ( 8016): [+] Find got item 4217a28c 
+D/inject  ( 8016): [+] Find got item 4217a3f8 
+D/inject  ( 8016): [+] Find got item 4217a328 
+D/inject  ( 8016): [+] Find got item 4217a35c 
+D/inject  ( 8016): [+] Find got item 4217a530 
+D/inject  ( 8016): [+] Find got item 4216509c 
+D/inject  ( 8016): [+] Find got item 400200e0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 1 
+D/inject  ( 8016): [+] Find got item 42158f2c 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 1 
+D/inject  ( 8016): [+] Find got item 4215c4dc 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 4000d498 
+D/inject  ( 8016): [+] Find got item 4000d540 
+D/inject  ( 8016): [+] Find got item 4000c028 
+D/inject  ( 8016): [+] Find got item 4000cdc0 
+D/inject  ( 8016): [+] Find got item 4000d8a0 
+D/inject  ( 8016): [+] Find got item 4000d948 
+D/inject  ( 8016): [+] Find got item 4000aa98 
+D/inject  ( 8016): [+] Find got item 4000dac8 
+D/inject  ( 8016): [+] Find got item 4000db70 
+D/inject  ( 8016): [+] Find got item 4000cb68 
+D/inject  ( 8016): [+] Find got item 4000ad68 
+D/inject  ( 8016): [+] Find got item 4000dd50 
+D/inject  ( 8016): [+] Find got item 4000e170 
+D/inject  ( 8016): [+] Find got item 4000de10 
+D/inject  ( 8016): [+] Find got item 4000df48 
+D/inject  ( 8016): [+] Find got item 4000d030 
+D/inject  ( 8016): [+] Find got item 4000dff0 
+D/inject  ( 8016): [+] Find got item 4000e0b0 
+D/inject  ( 8016): [+] Find got item 4000d180 
+D/inject  ( 8016): [+] Find got item 4000af78 
+D/inject  ( 8016): [+] Find got item 4000e218 
+D/inject  ( 8016): [+] Find got item 4000e2c0 
+D/inject  ( 8016): [+] Find got item 4000e440 
+D/inject  ( 8016): [+] Find got item 4000e518 
+D/inject  ( 8016): [+] Find got item 4000e5d8 
+D/inject  ( 8016): [+] Find got item 4000e878 
+D/inject  ( 8016): [+] Find got item 4000ea40 
+D/inject  ( 8016): [+] Find got item b8830 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 1 
+D/inject  ( 8016): [+] Find got item 421602ec 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/inject  ( 8016): [+] Find got item 0 
+D/dalvikvm(  553): GC_CONCURRENT freed 497K, 61% free 2629K/6727K, external 1755K/2137K, paused 4ms+18ms
+D/[TCP_SERVER](  553): Session local:localhost/127.0.0.1:10201 remote:localhost/127.0.0.1:58062@Dispatching 167 bytes data to uplayer
+D/[TCP_SERVER](  553): Session local:localhost/127.0.0.1:10201 remote:localhost/127.0.0.1:58063@Dispatching 99 bytes data to uplayer
+D/[TCP_SERVER](  553): Session local:localhost/127.0.0.1:10201 remote:localhost/127.0.0.1:58064@Dispatching 105 bytes data to uplayer
+D/dalvikvm(  466): GC_CONCURRENT freed 1046K, 49% free 4161K/8071K, external 1753K/2137K, paused 5ms+15ms
+D/[TCP_SERVER](  553): Session local:localhost/127.0.0.1:10201 remote:localhost/127.0.0.1:58065@Dispatching 105 bytes data to uplayer
+D/[TCP_SERVER](  553): Session local:localhost/127.0.0.1:10201 remote:localhost/127.0.0.1:58066@Dispatching 154 bytes data to uplayer
+D/inject  ( 8016): [+]-----------open test txt file-----------
+D/inject  ( 8016): [+] The New open path /mnt/sdcard/Android/data/com.mobisystems.office/files/.test.txt.1.tmp0/txt0txtorig.bin
+D/inject  ( 8016): [+] The New open count 1
+D/inject  ( 8016): [+] The old openfile fd 40
+D/inject  ( 8016): [+]-----------open test txt file-----------
+D/inject  ( 8016): [+] The New open path /mnt/sdcard/Android/data/com.mobisystems.office/files/.test.txt.1.tmp0/txt0txtedit.bin
+D/inject  ( 8016): [+] The New open count 2
+D/inject  ( 8016): [+] The old openfile fd 41
+D/inject  ( 8016): [+]-----------open test txt file-----------
+D/inject  ( 8016): [+] The New open path /mnt/sdcard/Android/data/com.mobisystems.office/files/.test.txt.1.tmp0/state.bin
+D/inject  ( 8016): [+] The New open count 3
+D/inject  ( 8016): [+] The old openfile fd 42
+D/inject  ( 8016): [+]-----------open test txt file-----------
+D/inject  ( 8016): [+] The New open path /mnt/sdcard/Android/data/com.mobisystems.office/files/.test.txt.1.tmp0/log0.bin
+D/inject  ( 8016): [+] The New open count 4
+D/inject  ( 8016): [+] The old openfile fd 48
+W/TB DEBUG( 8016): setTextDocument
+D/dalvikvm( 8016): GC_CONCURRENT freed 1170K, 45% free 4667K/8455K, external 2806K/3505K, paused 4ms+4ms
+D/inject  ( 8016): [+]-----------close test txt file-----------
+D/inject  ( 8016): [+] The Name of fd pipe:[36832]
+D/inject  ( 8016): [+] The S of fd /proc/8016/fd/58
+D/inject  ( 8016): [+] The old close file return 0.
+D/inject  ( 8016): [+]-----------close test txt file-----------
+D/inject  ( 8016): [+] The Name of fd pipe:[36832]
+D/inject  ( 8016): [+] The S of fd /proc/8016/fd/59
+D/inject  ( 8016): [+] The old close file return 0.
+D/inject  ( 8016): [+]-----------close test txt file-----------
+D/inject  ( 8016): [+] The Name of fd pipe:[36803]
+D/inject  ( 8016): [+] The S of fd /proc/8016/fd/52
+D/inject  ( 8016): [+] The old close file return 0.
+D/inject  ( 8016): [+]-----------close test txt file-----------
+D/inject  ( 8016): [+] The Name of fd pipe:[36803]
+D/inject  ( 8016): [+] The S of fd /proc/8016/fd/53
+D/inject  ( 8016): [+] The old close file return 0.
+D/inject  ( 8016): [+]-----------close test txt file-----------
+D/inject  ( 8016): [+] The Name of fd socket:[36791]
+D/inject  ( 8016): [+] The S of fd /proc/8016/fd/51
+D/inject  ( 8016): [+] The old close file return 0.
+D/inject  ( 8016): [+]-----------close test txt file-----------
+D/inject  ( 8016): [+] The Name of fd pipe:[36749]
+D/inject  ( 8016): [+] The S of fd /proc/8016/fd/55
+D/inject  ( 8016): [+] The old close file return 0.
+D/inject  ( 8016): [+]-----------close test txt file-----------
+D/inject  ( 8016): [+] The Name of fd pipe:[36749]
+D/inject  ( 8016): [+] The S of fd /proc/8016/fd/56
+D/inject  ( 8016): [+] The old close file return 0.
+D/inject  ( 8016): [+]-----------close test txt file-----------
+D/inject  ( 8016): [+] The Name of fd socket:[36746]
+D/inject  ( 8016): [+] The S of fd /proc/8016/fd/54
+D/inject  ( 8016): [+] The old close file return 0.
+D/dalvikvm( 8016): GC_EXTERNAL_ALLOC freed 381K, 49% free 4342K/8455K, external 2797K/3493K, paused 67ms
+D/inject  ( 8016): [+]-----------open test txt file-----------
+D/inject  ( 8016): [+] The New open path /mnt/sdcard/documents/test.txt
+D/inject  ( 8016): [+] The New open count 5
+D/inject  ( 8016): [+] test copy file
+D/inject  ( 8016): -------------------------------------------
+D/inject  ( 8016): buffer:	$¶( óü7R;bœyœ‡·¤İöâ9£5UVæÀk_Ò ıŠj5ÕÚH§"$³¬)^f•òŸ 	~3LQ}`İüTSô
+D/inject  ( 8016): the len is 256
+D/inject  ( 8016): ptr:Culture11
+D/inject  ( 8016): 
+D/inject  ( 8016): Main articles: Culture of the People's Republic of China and Chinese culture
+D/inject  ( 8016): 
+D/inject  ( 8016): A traditional Beijing opera being performed.
+D/inject  ( 8016): 
+D/inject  ( 8016): Beijing's Forbidden City, showing its classical Chinese architectural style.
+D/inject  ( 8016): Since ancient times, Chinese culture has bee
+D/inject  ( 8016): len:272
+D/inject  ( 8016): buffer:	ÉÖÒl„¦ÄĞ¢-èÊÆ%RC
+D/inject  ( 8016): g¤ˆ*yˆ¦¢ùØYÇ/ÒVhe>œÜò½–øÙ©İ ?_§œ?‹ãË[¤ÊOÈS‡\t—'è<¦IÕ
+D/inject  ( 8016): Œ,ĞapMıÓDI˜JÔ—>Ñµ·õ'hc?tñ%‹,ÎX J”äÊN–_¬¢ÜÚÛLõ5ÓÍf›Ç
+D/inject  ( 8016): e¢heqÊmøÎXİñ›ø‚Ç8@™ÚäUOvê‰†ƒÔ^õ@#Ş&†m ÓßşßÉôLª°ğ¥®5\­Z8ê¡¦Ğ›º)·M»‰ô?Ö÷şºCë˜ô£`¸–ª¾êõ_;qa§S˜ï£Rš@~•[ıä:Z‰ÕÕ¡XÀÇİåe$èµ
+D/inject  ( 8016): the len is 256
+D/inject  ( 8016): ptr:n heavily influenced by Confucianism and conservative philosophies. For much of the country's dynastic era, opportunities for social advancement could be provided by high performance in the prestigious Imperial examinations, which were instituted in 605 AD
+D/inject  ( 8016): len:272
+D/inject  ( 8016): buffer:	¹€íòGE27“÷VÑÂfğ½ù;t‘D„Z
+D/inject  ( 8016): ‰‡˜%CÀ‹3sĞg¾nQGÀÑ&ò¬YĞAİ3ÜôU¯*!¼EkÄvzÕ`<“³[Po·Øl^[‚1Öê;¦?aK7.†Tó¡w–Ok§êaÄ;6ªË$˜niŠõ‚`…-ÓSoMÌÎÑ}³*óâ£ò‹)2½jÎ¤]ï˜½÷ùÊ †GküË¼XqğD¦²ÁĞãTš~jòepêùŠÌ0¦= ŒíãQ½–‹>Ğˆİf×MŸ<	ë!Ò×Fèİág; y/ıÀĞ‘â¥™wAÁjÆ¿¬õM£ÎTO +SF7˜—
+D/inject  ( 8016): DÂù‰WSvÄ?(]‚Ëíe$èµ
+D/inject  ( 8016): the len is 256
+D/inject  ( 8016): ptr: to help the Emperor select skilful bureaucrats.[435] The literary emphasis of the exams affected the general perception of cultural refinement in China, such as the belief that calligraphy, poetry and painting were higher forms of art than dancing or dram
+D/inject  ( 8016): len:272
+D/inject  ( 8016): buffer:	¦‡G\¿Æ FšßÉa2p½¶JµV7 …*;îÎËÑµâ³Ğæä£¦Jµa®ìªü9®ç))ƒ8”kû·İ±ÂğÑêé·«fv>OàÌ4˜ë‡å	‡6qêÜº¹ó7f£œ¹¿9Ë o*²ô¦D«•(®õ±Q8¢éTª:ÕqÇ5](
+D/inject  ( 8016): the len is 256
+D/inject  ( 8016): ptr:a. Chinese culture has long emphasized a sense of deep history and a largely inward-looking national perspective.[24] Examinations and a culture of merit remain greatly valued in China today. In recent years, a number of New Confucians have claimed that mo°°°´ÇÇÇÌßßßäùùùÿÜÜÜáQ
+D/inject  ( 8016): len:293
+D/inject  ( 8016): buffer:	-‘é#³SÇ‰´“ç˜í±=_ì¬úiÌ‡'ƒ–9/YèùË‰[rrŞQ‡+Ÿ«o&0ØªH‡u¥‘(*	.IZD{öS‰4mçºıŠùWRèÊihxˆ¡é¿‡ø××[$B(üİkkäÓˆ`“ÇŸÑ%4Ø:‘ãı¢ÃJñú¶¾L9½›l\¶ã¡™´€2j§~Öss0êb+™@¹ÜàóÜW%¶?-ÊìK+`²9Ö
+D/inject  ( 8016): PÏû`^™rB(8%ø…FÏ(=‡ï¦—–çÄù…F IÀ–z>1ˆq'ÇÏÖn‚¯6uÌ,Á„2‘üÊöìÔG0ÔSq—œMbüücÑä§e$èµ
+D/inject  ( 8016): the len is 256
+D/inject  ( 8016): ptr:dern democratic ideals and human rights are compatible with traditional Confucian values.[436]
+D/inject  ( 8016): The first leaders of the People's Republic of China were born into the traditional imperial order, but were influenced by the May Fourth Movement and reformist i
+D/inject  ( 8016): len:272
+D/inject  ( 8016): buffer:	bëfü"ÄAÑArúé}òkdÊFcÿ~âşDŞ§WÃ|’Ö™:›ÿú ¶öVîaãy‡SÂæ—fZo@–¬qšS\lÌc®¬À¾´‹$K"i¥xkÜğ+C{¬`°aáò9yLÎh?ÅfPš”½æÁ·S‡#¯µó ’ËˆH†ûIšÕ­^KVWı/¸¶”9ËëşV°Ü¹Ü!¡²Úİ÷Aµ† â0î~­)²T=W;©ş·iØ`‘S×oX!ü J…€—KåF:W°KÅøä†ËÓ¶†(Ëãš?MQªëwæ^¾Ì”ƒ£&ÁÙ °ñ±ÉíœÑAàqs ‘»e$èµ
+D/inject  ( 8016): the len is 256
+D/inject  ( 8016): ptr:deals. They sought to change some traditional aspects of Chinese culture, such as rural land tenure, sexism, and the Confucian system of education, while preserving others, such as the family structure and culture of obedience to the state. Some observers r
+D/inject  ( 8016): len:273
+D/inject  ( 8016): buffer:	¯ê}m:œ^M×›ïR0PÏœòåì†ò†²=Û¯Ø½˜ñ8¯FAHô}ßEéO<ŞNùƒÒqä‘gOOŠ‚Òö„Š|{+ø^FyõTWV2´˜®^Æ²&ób9ôÍí9ÓòŒë`M|d4Hq6ìm[“Ü‚/P@ÙSŞ¡TG†íªŠ³­ˆe½ºS¾4ÿIø!Ì{ƒmx-_¥Ùî`âú%À]s7—¨ÂgÀ\ïF¥´o¨ˆà2ï€ay,Blr˜!g¿&ûAğV’¨Íƒí†EíJ´8[è£Gl²W§ÕŒºn¿„çlFßF§¿ÓÓ“'|y.İñ¦9ïC0Åü?e$èµ
+D/inject  ( 8016): the len is 256
+D/inject  ( 8016): ptr:see the period following the establishment of the PRC in 1949 as a continuation of traditional Chinese dynastic history, while others claim that the Communist Party's rule has damaged the foundations of Chinese culture, especially through political movemenØK
+D/inject  ( 8016): len:275
+D/inject  ( 8016): buffer:	î9í÷D™µ<8 ¼N ‰hŸ‚iBı"$ÿiÜ9Êı;QI¯qìÍü¹®T‘cUáˆØ¼%ÆşòzÈ™²ËbÏÄÒû²ähx)b2c¡ì—¢®ªı>Ø1S)±h‚Ó¢¨ÿ§ö(]°â>œHõScÑıtBY¤7Q:™×toZ8²éQ@úfÌ“!1ªÈ_P~>à’á?ûâ†ceLìkeÀEë÷é¡*…ÂñÌ^ÜPRŒXüçŸ@D©kŠ/ÖÏzÕv¥:ö-Ò%K
+D/inject  ( 8016): the len is 256
+D/inject  ( 8016): ptr:ts such as the Cultural Revolution of the 1960s, where many aspects of traditional culture were destroyed, having been denounced as "regressive and harmful' or 'vestiges of feudalism'. Many important aspects of traditional Chinese morals and culture, such 
+D/inject  ( 8016): len:272
+D/inject  ( 8016): buffer:	=Ô}SR²ˆ7”ï¦«ÈÇŠËéÊÈ
+D/inject  ( 8016): ãs<si„EŠÓRæE­Íì«ù ãéf²ğ¯ñF²íæÔÇ'½
+D/inject  ( 8016): the len is 256
+D/inject  ( 8016): ptr:as Confucianism, art, literature, and performing arts like Peking opera,[437] were altered to conform to government policies and propaganda at the time.
+D/inject  ( 8016): Today, the Chinese government has accepted numerous elements of traditional Chinese culture as being inÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+D/inject  ( 8016): len:289
+D/inject  ( 8016): buffer:	o²ò£t×ÎŒÏuièhˆËo¥ÍÓ³”„9GÄÉDPs!LÛÃñL@$Ì`óı|”Çù AëÊtÛkÑiÉF_[F3fD_ùŞş©P£ë—c…'ÿ‘jšò=B1Şf¤”*¬Ò‹×¬35a†ì*'5&úøß°œ7‡ÕÃµZ²Åï©€%vÎû¡diÜÔÜ±®2ùÓ²‹£—ŞÖIŸDØİô¯B‹£oq+ãÇF_(^µûÿ/g$o¶‡&ü”
+D/inject  ( 8016): the len is 256
+D/inject  ( 8016): ptr:tegral to Chinese society. With the rise of Chinese nationalism and the end of the Cultural Revolution, various forms of traditional Chinese art, literature, music, film, fashion and architecture have seen a vigorous revival,[438][439] and folk and variety
+D/inject  ( 8016): len:272
+D/inject  ( 8016): buffer:	²â]~™šì`Ÿüy›-« ‰—«¡É[¼€EOÜšju½®{{Ÿé½Öê+cÏawœ‡
+D/inject  ( 8016): the len is 256
+D/inject  ( 8016): ptr: art in particular have sparked interest nationally and even worldwide.[440] Only 34 foreign films a year are allowed to be shown in Chinese cinemas.[441] China is now the third-most-visited country in the world, with 55.7 million inbound international visHÍP@˜ÔP@8×P@²R@€W@é
+D/inject  ( 8016): len:293
+D/inject  ( 8016): buffer:	ÈD–CP“©!ÜN4ù@Ë½CSB+Šadœ…2Ë/õÕÃ¾mF}o
+D/inject  ( 8016): the len is 256
+D/inject  ( 8016): ptr:itors in 2010.[442] It also experiences an enormous volume of domestic tourism; an estimated 740 million Chinese holidaymakers travelled within the country in October 2012 alone.[443]
+D/inject  ( 8016): len:183
+D/inject  ( 8016): [+] The old file fd 51
+D/inject  ( 8016): [+] The copy file fd 52
+D/inject  ( 8016): [+] The New open file fd 51
+D/inject  ( 8016): [+] The Name of fd /mnt/sdcard/documents/testcopy1.txt
+D/inject  ( 8016): [+] The S of fd /proc/8016/fd/51
+D/[TCP_SERVER](  553): Session local:localhost/127.0.0.1:10201 remote:localhost/127.0.0.1:58067@Dispatching 99 bytes data to uplayer
+D/[TCP_SERVER](  553): Session local:localhost/127.0.0.1:10201 remote:localhost/127.0.0.1:58068@Dispatching 105 bytes data to uplayer
+I/dalvikvm( 8016): Jit: resizing JitTable from 512 to 1024
+E/dalvikvm( 8016): Could not find class 'com.hp.pps.print.sdk.PrintContext', referenced from method com.mobisystems.office.ak.a
+W/dalvikvm( 8016): VFY: unable to resolve new-instance 1561 (Lcom/hp/pps/print/sdk/PrintContext;) in Lcom/mobisystems/office/ak;
+D/dalvikvm( 8016): VFY: replacing opcode 0x22 at 0x0000
+D/dalvikvm( 8016): VFY: dead code 0x0002-0031 in Lcom/mobisystems/office/ak;.a (Landroid/app/Activity;Ljava/io/File;Ljava/lang/String;Z)V
+E/dalvikvm( 8016): Could not find class 'com.amazon.device.print.PrintContext', referenced from method com.mobisystems.office.ak.b
+W/dalvikvm( 8016): VFY: unable to resolve new-instance 883 (Lcom/amazon/device/print/PrintContext;) in Lcom/mobisystems/office/ak;
+D/dalvikvm( 8016): VFY: replacing opcode 0x22 at 0x0000
+D/dalvikvm( 8016): VFY: dead code 0x0002-0031 in Lcom/mobisystems/office/ak;.b (Landroid/app/Activity;Ljava/io/File;Ljava/lang/String;Z)V
+D/PageView( 8016): findPageIdx result = 0 from 1
+D/[TCP_SERVER](  553): Session local:localhost/127.0.0.1:10201 remote:localhost/127.0.0.1:58069@Dispatching 105 bytes data to uplayer
+D/PageView( 8016): findPageIdx result = 0 from 1
+D/PageView( 8016): findPageIdx result = 0 from 1
+D/PageView( 8016): findPageIdx result = 0 from 1
+D/PageView( 8016): findPageIdx result = 0 from 1
+D/PageView( 8016): findPageIdx result = 0 from 1
+D/PageView( 8016): findPageIdx result = 0 from 1
+D/PageView( 8016): findPageIdx result = 0 from 1
+D/PageView( 8016): findPageIdx result = 0 from 1
+D/dalvikvm( 8016): GREF has increased to 201
+D/inject  ( 8016): [+]-----------close test txt file-----------
+D/inject  ( 8016): [+] The Name of fd /mnt/sdcard/documents/testcopy1.txt
+D/inject  ( 8016): [+] The S of fd /proc/8016/fd/51
+D/inject  ( 8016): [+] open pre test copy file
+D/inject  ( 8016): buffer:	Culture11
+D/inject  ( 8016): 
+D/inject  ( 8016): Main articles: Culture of the People's Republic of China and Chinese culture
+D/inject  ( 8016): 
+D/inject  ( 8016): A traditional Beijing opera being performed.
+D/inject  ( 8016): 
+D/inject  ( 8016): Beijing's Forbidden City, showing its classical Chinese architectural style.
+D/inject  ( 8016): Since ancient times, Chinese culture has beee$èµ
+D/inject  ( 8016): c_len:272
+D/inject  ( 8016): ptr:$¶( óü7R;bœyœ‡·¤İöâ9£5UVæÀk_Ò ıŠj5ÕÚH§"$³¬)^f•òŸ 	~3LQ}`İüTSô
+D/inject  ( 8016): len:75
+D/inject  ( 8016): c_len:272
+D/inject  ( 8016): bytes_write:272
+D/inject  ( 8016): buffer:	n heavily influenced by Confucianism and conservative philosophies. For much of the country's dynastic era, opportunities for social advancement could be provided by high performance in the prestigious Imperial examinations, which were instituted in 605 ADe$èµ
+D/inject  ( 8016): c_len:272
+D/inject  ( 8016): ptr:ÉÖÒl„¦ÄĞ¢-èÊÆ%RC
+D/inject  ( 8016): g¤ˆ*yˆ¦¢ùØYÇ/ÒVhe>œÜò½–øÙ©İ ?_§œ?‹ãË[¤ÊOÈS‡\t—'è<¦IÕ
+D/inject  ( 8016): Œ,ĞapMıÓDI˜JÔ—>Ñµ·õ'hc?tñ%‹,ÎX J”äÊN–_¬¢ÜÚÛLõ5ÓÍf›Ç
+D/inject  ( 8016): e¢heqÊmøÎXİñ›ø‚Ç8@™ÚäUOvê‰†ƒÔ^õ@#Ş&†m ÓßşßÉôLª°ğ¥®5\­Z8ê¡¦Ğ›º)·M»‰ô?Ö÷şºCë˜ô£`¸–ª¾êõ_;qa§S˜ï£Rš@~•[ıä:Z‰ÕÕ¡XÀÇİå&
+D/inject  ( 8016): len:273
+D/inject  ( 8016): c_len:272
+D/inject  ( 8016): bytes_write:272
+D/inject  ( 8016): buffer:	 to help the Emperor select skilful bureaucrats.[435] The literary emphasis of the exams affected the general perception of cultural refinement in China, such as the belief that calligraphy, poetry and painting were higher forms of art than dancing or drame$èµ
+D/inject  ( 8016): c_len:272
+D/inject  ( 8016): ptr:¹€íòGE27“÷VÑÂfğ½ù;t‘D„Z
+D/inject  ( 8016): ‰‡˜%CÀ‹3sĞg¾nQGÀÑ&ò¬YĞAİ3ÜôU¯*!¼EkÄvzÕ`<“³[Po·Øl^[‚1Öê;¦?aK7.†Tó¡w–Ok§êaÄ;6ªË$˜niŠõ‚`…-ÓSoMÌÎÑ}³*óâ£ò‹)2½jÎ¤]ï˜½÷ùÊ †GküË¼XqğD¦²ÁĞãTš~jòepêùŠÌ0¦= ŒíãQ½–‹>Ğˆİf×MŸ<	ë!Ò×Fèİág; y/ıÀĞ‘â¥™wAÁjÆ¿¬õM£ÎTO +SF7˜—
+D/inject  ( 8016): DÂù‰WSvÄ?(]‚Ëí&
+D/inject  ( 8016): len:273
+D/inject  ( 8016): c_len:272
+D/inject  ( 8016): bytes_write:272
+D/inject  ( 8016): buffer:	a. Chinese culture has long emphasized a sense of deep history and a largely inward-looking national perspective.[24] Examinations and a culture of merit remain greatly valued in China today. In recent years, a number of New Confucians have claimed that moe$èµ
+D/inject  ( 8016): c_len:272
+D/inject  ( 8016): ptr:¦‡G\¿Æ FšßÉa2p½¶JµV7 …*;îÎËÑµâ³Ğæä£¦Jµa®ìªü9®ç))ƒ8”kû·İ±ÂğÑêé·«fv>OàÌ4˜ë‡å	‡6qêÜº¹ó7f£œ¹¿9Ë o*²ô¦D«•(®õ±Q8¢éTª:ÕqÇ5](
+D/inject  ( 8016): len:136
+D/inject  ( 8016): c_len:272
+D/inject  ( 8016): bytes_write:272
+D/inject  ( 8016): buffer:	dern democratic ideals and human rights are compatible with traditional Confucian values.[436]
+D/inject  ( 8016): The first leaders of the People's Republic of China were born into the traditional imperial order, but were influenced by the May Fourth Movement and reformist ie$èµ
+D/inject  ( 8016): c_len:272
+D/inject  ( 8016): ptr:-‘é#³SÇ‰´“ç˜í±=_ì¬úiÌ‡'ƒ–9/YèùË‰[rrŞQ‡+Ÿ«o&0ØªH‡u¥‘(*	.IZD{öS‰4mçºıŠùWRèÊihxˆ¡é¿‡ø××[$B(üİkkäÓˆ`“ÇŸÑ%4Ø:‘ãı¢ÃJñú¶¾L9½›l\¶ã¡™´€2j§~Öss0êb+™@¹ÜàóÜW%¶?-ÊìK+`²9Ö
+D/inject  ( 8016): PÏû`^™rB(8%ø…FÏ(=‡ï¦—–çÄù…F IÀ–z>1ˆq'ÇÏÖn‚¯6uÌ,Á„2‘üÊöìÔG0ÔSq—œMbüücÑä§&
+D/inject  ( 8016): len:273
+D/inject  ( 8016): c_len:272
+D/inject  ( 8016): bytes_write:272
+D/inject  ( 8016): buffer:	deals. They sought to change some traditional aspects of Chinese culture, such as rural land tenure, sexism, and the Confucian system of education, while preserving others, such as the family structure and culture of obedience to the state. Some observers e$èµ
+D/inject  ( 8016): c_len:272
+D/inject  ( 8016): ptr:bëfü"ÄAÑArúé}òkdÊFcÿ~âşDŞ§WÃ|’Ö™:›ÿú ¶öVîaãy‡SÂæ—fZo@–¬qšS\lÌc®¬À¾´‹$K"i¥xkÜğ+C{¬`°aáò9yLÎh?ÅfPš”½æÁ·S‡#¯µó ’ËˆH†ûIšÕ­^KVWı/¸¶”9ËëşV°Ü¹Ü!¡²Úİ÷Aµ† â0î~­)²T=W;©ş·iØ`‘S×oX!ü J…€—KåF:W°KÅøä†ËÓ¶†(Ëãš?MQªëwæ^¾Ì”ƒ£&ÁÙ °ñ±ÉíœÑAàqs ‘»&
+D/inject  ( 8016): len:273
+D/inject  ( 8016): c_len:272
+D/inject  ( 8016): bytes_write:272
+D/inject  ( 8016): buffer:	see the period following the establishment of the PRC in 1949 as a continuation of traditional Chinese dynastic history, while others claim that the Communist Party's rule has damaged the foundations of Chinese culture, especially through political movemene$èµ
+D/inject  ( 8016): c_len:272
+D/inject  ( 8016): ptr:¯ê}m:œ^M×›ïR0PÏœòåì†ò†²=Û¯Ø½˜ñ8¯FAHô}ßEéO<ŞNùƒÒqä‘gOOŠ‚Òö„Š|{+ø^FyõTWV2´˜®^Æ²&ób9ôÍí9ÓòŒë`M|d4Hq6ìm[“Ü‚/P@ÙSŞ¡TG†íªŠ³­ˆe½ºS¾4ÿIø!Ì{ƒmx-_¥Ùî`âú%À]s7—¨ÂgÀ\ïF¥´o¨ˆà2ï€ay,Blr˜!g¿&ûAğV’¨Íƒí†EíJ´8[è£Gl²W§ÕŒºn¿„çlFßF§¿ÓÓ“'|y.İñ¦9ïC0Åü?&
+D/inject  ( 8016): len:273
+D/inject  ( 8016): c_len:272
+D/inject  ( 8016): bytes_write:272
+D/inject  ( 8016): buffer:	ts such as the Cultural Revolution of the 1960s, where many aspects of traditional culture were destroyed, having been denounced as "regressive and harmful' or 'vestiges of feudalism'. Many important aspects of traditional Chinese morals and culture, such e$èµ
+D/inject  ( 8016): c_len:272
+D/inject  ( 8016): ptr:î9í÷D™µ<8 ¼N ‰hŸ‚iBı"$ÿiÜ9Êı;QI¯qìÍü¹®T‘cUáˆØ¼%ÆşòzÈ™²ËbÏÄÒû²ähx)b2c¡ì—¢®ªı>Ø1S)±h‚Ó¢¨ÿ§ö(]°â>œHõScÑıtBY¤7Q:™×toZ8²éQ@úfÌ“!1ªÈ_P~>à’á?ûâ†ceLìkeÀEë÷é¡*…ÂñÌ^ÜPRŒXüçŸ@D©kŠ/ÖÏzÕv¥:ö-Ò%K
+D/inject  ( 8016): len:220
+D/inject  ( 8016): c_len:272
+D/inject  ( 8016): bytes_write:272
+D/inject  ( 8016): buffer:	as Confucianism, art, literature, and performing arts like Peking opera,[437] were altered to conform to government policies and propaganda at the time.
+D/inject  ( 8016): Today, the Chinese government has accepted numerous elements of traditional Chinese culture as being ine$èµ
+D/inject  ( 8016): c_len:272
+D/inject  ( 8016): ptr:=Ô}SR²ˆ7”ï¦«ÈÇŠËéÊÈ
+D/inject  ( 8016): ãs<si„EŠÓRæE­Íì«ù ãéf²ğ¯ñF²íæÔÇ'½
+D/inject  ( 8016): len:65
+D/inject  ( 8016): c_len:272
+D/inject  ( 8016): bytes_write:272
+D/inject  ( 8016): buffer:	tegral to Chinese society. With the rise of Chinese nationalism and the end of the Cultural Revolution, various forms of traditional Chinese art, literature, music, film, fashion and architecture have seen a vigorous revival,[438][439] and folk and varietye$èµ
+D/inject  ( 8016): c_len:272
+D/inject  ( 8016): ptr:o²ò£t×ÎŒÏuièhˆËo¥ÍÓ³”„9GÄÉDPs!LÛÃñL@$Ì`óı|”Çù AëÊtÛkÑiÉF_[F3fD_ùŞş©P£ë—c…'ÿ‘jšò=B1Şf¤”*¬Ò‹×¬35a†ì*'5&úøß°œ7‡ÕÃµZ²Åï©€%vÎû¡diÜÔÜ±®2ùÓ²‹£—ŞÖIŸDØİô¯B‹£oq+ãÇF_(^µûÿ/g$o¶‡&ü”
+D/inject  ( 8016): len:198
+D/inject  ( 8016): c_len:272
+D/inject  ( 8016): bytes_write:272
+D/inject  ( 8016): buffer:	 art in particular have sparked interest nationally and even worldwide.[440] Only 34 foreign films a year are allowed to be shown in Chinese cinemas.[441] China is now the third-most-visited country in the world, with 55.7 million inbound international vise$èµ
+D/inject  ( 8016): c_len:272
+D/inject  ( 8016): ptr:²â]~™šì`Ÿüy›-« ‰—«¡É[¼€EOÜšju½®{{Ÿé½Öê+cÏawœ‡
+D/inject  ( 8016): len:51
+D/inject  ( 8016): c_len:272
+D/inject  ( 8016): bytes_write:272
+D/inject  ( 8016): buffer:	itors in 2010.[442] It also experiences an enormous volume of domestic tourism; an estimated 740 million Chinese holidaymakers travelled within the country in October 2012 alone.[443]
+D/inject  ( 8016): c_len:272
+D/inject  ( 8016): ptr:ÈD–CP“©!ÜN4ù@Ë½CSB+Šadœ…2Ë/õÕÃ¾mF}o
+D/inject  ( 8016): len:46
+D/inject  ( 8016): c_len:272
+D/dalvikvm(  213): GC_EXPLICIT freed 140K, 50% free 2958K/5831K, external 1625K/2137K, paused 61ms
+D/inject  ( 8016): bytes_write:272
+D/inject  ( 8016): [+] The new close file return 0.
+D/inject  ( 8016): [+]-----------open test txt file-----------
+D/inject  ( 8016): [+] The New open path /mnt/sdcard/Android/data/com.mobisystems.office/files/.test.txt.1.tmp0/txt3txtorig.bin
+D/inject  ( 8016): [+] The New open count 6
+D/inject  ( 8016): [+] The old openfile fd 52
+D/inject  ( 8016): [+]-----------open test txt file-----------
+D/inject  ( 8016): [+] The New open path /mnt/sdcard/Android/data/com.mobisystems.office/files/.test.txt.1.tmp0/txt3txtedit.bin
+D/inject  ( 8016): [+] The New open count 7
+D/inject  ( 8016): [+] The old openfile fd 53
+D/inject  ( 8016): [+]-----------open test txt file-----------
+D/inject  ( 8016): [+] The New open path /mnt/sdcard/Android/data/com.mobisystems.office/files/.test.txt.1.tmp0/txt1txtorig.bin
+D/inject  ( 8016): [+] The New open count 8
+D/inject  ( 8016): [+] The old openfile fd 54
+D/inject  ( 8016): [+]-----------open test txt file-----------
+D/inject  ( 8016): [+] The New open path /mnt/sdcard/Android/data/com.mobisystems.office/files/.test.txt.1.tmp0/txt1txtedit.bin
+D/inject  ( 8016): [+] The New open count 9
+D/inject  ( 8016): [+] The old openfile fd 55
+D/inject  ( 8016): [+]-----------open test txt file-----------
+D/inject  ( 8016): [+] The New open path /mnt/sdcard/Android/data/com.mobisystems.office/files/.test.txt.1.tmp0/txt2txtorig.bin
+D/inject  ( 8016): [+] The New open count 10
+D/inject  ( 8016): [+] The old openfile fd 56
+D/inject  ( 8016): [+]-----------open test txt file-----------
+D/inject  ( 8016): [+] The New open path /mnt/sdcard/Android/data/com.mobisystems.office/files/.test.txt.1.tmp0/txt2txtedit.bin
+D/inject  ( 8016): [+] The New open count 11
+D/inject  ( 8016): [+] The old openfile fd 58
+D/inject  ( 8016): [+]-----------open test txt file-----------
+D/inject  ( 8016): [+] The New open path /mnt/sdcard/Android/data/com.mobisystems.office/files/.test.txt.1.tmp0/txt4txtorig.bin
+D/inject  ( 8016): [+] The New open count 12
+D/inject  ( 8016): [+] The old openfile fd 59
+D/inject  ( 8016): [+]-----------open test txt file-----------
+D/inject  ( 8016): [+] The New open path /mnt/sdcard/Android/data/com.mobisystems.office/files/.test.txt.1.tmp0/txt4txtedit.bin
+D/inject  ( 8016): [+] The New open count 13
+D/inject  ( 8016): [+] The old openfile fd 60
+D/inject  ( 8016): [+]-----------open test txt file-----------
+D/inject  ( 8016): [+] The New open path /mnt/sdcard/Android/data/com.mobisystems.office/files/.test.txt.1.tmp0/txt5txtorig.bin
+D/inject  ( 8016): [+] The New open count 14
+D/inject  ( 8016): [+] The old openfile fd 61
+D/inject  ( 8016): [+]-----------open test txt file-----------
+D/inject  ( 8016): [+] The New open path /mnt/sdcard/Android/data/com.mobisystems.office/files/.test.txt.1.tmp0/txt5txtedit.bin
+D/inject  ( 8016): [+] The New open count 15
+D/inject  ( 8016): [+] The old openfile fd 62
+D/inject  ( 8016): [+]-----------open test txt file-----------
+D/inject  ( 8016): [+] The New open path /mnt/sdcard/Android/data/com.mobisystems.office/files/.test.txt.1.tmp0/txt6txtorig.bin
+D/inject  ( 8016): [+] The New open count 16
+D/inject  ( 8016): [+] The old openfile fd 63
+D/inject  ( 8016): [+]-----------open test txt file-----------
+D/inject  ( 8016): [+] The New open path /mnt/sdcard/Android/data/com.mobisystems.office/files/.test.txt.1.tmp0/txt6txtedit.bin
+D/inject  ( 8016): [+] The New open count 17
+D/inject  ( 8016): [+] The old openfile fd 64
+D/inject  ( 8016): [+]-----------open test txt file-----------
+D/inject  ( 8016): [+] The New open path /mnt/sdcard/Android/data/com.mobisystems.office/files/.test.txt.1.tmp0/txt7txtorig.bin
+D/inject  ( 8016): [+] The New open count 18
+D/inject  ( 8016): [+] The old openfile fd 65
+D/inject  ( 8016): [+]-----------open test txt file-----------
+D/inject  ( 8016): [+] The New open path /mnt/sdcard/Android/data/com.mobisystems.office/files/.test.txt.1.tmp0/txt7txtedit.bin
+D/inject  ( 8016): [+] The New open count 19
+D/inject  ( 8016): [+] The old openfile fd 66
+D/dalvikvm( 8016): GC_EXPLICIT freed 465K, 37% free 5490K/8583K, external 4563K/5109K, paused 68ms
+D/inject  ( 8016): [+]-----------open test txt file-----------
+D/inject  ( 8016): [+] The New open path /mnt/sdcard/Android/data/com.mobisystems.office/files/.test.txt.1.tmp0/log1.bin
+D/inject  ( 8016): [+] The New open count 20
+D/inject  ( 8016): [+] The old openfile fd 67
+D/Thumbnails( 8016): Generating new bitmap.
+D/Thumbnails( 8016): Bitmap generated.
+D/inject  ( 8016): [+]-----------close test txt file-----------
+D/inject  ( 8016): [+] The Name of fd /mnt/sdcard/Android/data/com.mobisystems.office/files/.test.txt.1.tmp0/log0.bin
+D/inject  ( 8016): [+] The S of fd /proc/8016/fd/48
+D/inject  ( 8016): [+] The old close file return 0.
+D/DocumentRecoveryManager( 8016): openOrCreateDatabase dbVersion-1296 appVersion-1296
+D/Thumbnails( 8016): Generating new bitmap.
+I/dalvikvm( 8016): Jit: resizing JitTable from 1024 to 2048
+D/Thumbnails( 8016): Bitmap generated.
+D/[TCP_SERVER](  553): Session local:localhost/127.0.0.1:10201 remote:localhost/127.0.0.1:58070@Dispatching 167 bytes data to uplayer
+D/[TCP_SERVER](  553): Session local:localhost/127.0.0.1:10201 remote:localhost/127.0.0.1:58071@Dispatching 99 bytes data to uplayer
+D/[TCP_SERVER](  553): Session local:localhost/127.0.0.1:10201 remote:localhost/127.0.0.1:58072@Dispatching 105 bytes data to uplayer
+D/dalvikvm( 1353): GC_EXPLICIT freed 60K, 53% free 3175K/6663K, external 1625K/2137K, paused 209ms
+D/PageView( 8016): coordViewToModel x = 320 y = 540 pagesX = 1270 pagesY = 2143
+D/PageView( 8016): findPageIdx result = 0 from 1
+D/PageView( 8016): getCursor x = 320 y = 540 pagesX = 1270 pagesY = 2143
+D/PageView( 8016): findPageIdx result = 0 from 1
+D/[TCP_SERVER](  553): Session local:localhost/127.0.0.1:10201 remote:localhost/127.0.0.1:58073@Dispatching 105 bytes data to uplayer
+D/PageView( 8016): coordViewToModel x = 320 y = 540 pagesX = 1270 pagesY = 2143
+D/PageView( 8016): findPageIdx result = 0 from 1
+D/PageView( 8016): getCursor x = 320 y = 540 pagesX = 1270 pagesY = 2143
+D/PageView( 8016): findPageIdx result = 0 from 1
+D/[TCP_SERVER](  553): Session local:localhost/127.0.0.1:10201 remote:localhost/127.0.0.1:58074@Dispatching 154 bytes data to uplayer
+D/[TCP_SERVER](  553): Session local:localhost/127.0.0.1:10201 remote:localhost/127.0.0.1:58075@Dispatching 99 bytes data to uplayer
+D/[TCP_SERVER](  553): Session local:localhost/127.0.0.1:10201 remote:localhost/127.0.0.1:58076@Dispatching 105 bytes data to uplayer
+D/[TCP_SERVER](  553): Session local:localhost/127.0.0.1:10201 remote:localhost/127.0.0.1:58077@Dispatching 105 bytes data to uplayer
+D/[TCP_SERVER](  553): Session local:localhost/127.0.0.1:10201 remote:localhost/127.0.0.1:58078@Dispatching 167 bytes data to uplayer
+D/[TCP_SERVER](  553): Session local:localhost/127.0.0.1:10201 remote:localhost/127.0.0.1:58079@Dispatching 99 bytes data to uplayer
+D/[TCP_SERVER](  553): Session local:localhost/127.0.0.1:10201 remote:localhost/127.0.0.1:58080@Dispatching 105 bytes data to uplayer
+D/[TCP_SERVER](  553): Session local:localhost/127.0.0.1:10201 remote:localhost/127.0.0.1:58081@Dispatching 105 bytes data to uplayer
+D/[TCP_SERVER](  553): Session local:localhost/127.0.0.1:10201 remote:localhost/127.0.0.1:58082@Dispatching 154 bytes data to uplayer
+D/[TCP_SERVER](  553): Session local:localhost/127.0.0.1:10201 remote:localhost/127.0.0.1:58083@Dispatching 99 bytes data to uplayer
+D/[TCP_SERVER](  553): Session local:localhost/127.0.0.1:10201 remote:localhost/127.0.0.1:58084@Dispatching 105 bytes data to uplayer
+D/[TCP_SERVER](  553): Session local:localhost/127.0.0.1:10201 remote:localhost/127.0.0.1:58085@Dispatching 105 bytes data to uplayer

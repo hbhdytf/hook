@@ -1,0 +1,951 @@
+D/AlarmManagerService(   61): Kernel timezone updated to 0 minutes west of GMT
+I/ActivityManager(   61): Start proc com.android.deskclock for broadcast com.android.deskclock/.AlarmInitReceiver: pid=188 uid=10019 gids={}
+D/dalvikvm(  144): GC_EXTERNAL_ALLOC freed 53K, 53% free 2697K/5639K, external 2128K/2137K, paused 467ms
+W/SystemClock(  137): Unable to set rtc to 1374050281: Invalid argument
+I/TelephonyRegistry(   61): notifyDataConnection: state=0 isDataConnectivityPossible=false reason=radioTurnedOff interfaceName=null networkType=0
+I/TelephonyRegistry(   61): notifyDataConnection: state=0 isDataConnectivityPossible=false reason=gprsDetached interfaceName=null networkType=0
+D/dalvikvm(   61): GC_EXTERNAL_ALLOC freed 41K, 45% free 4314K/7815K, external 4073K/5086K, paused 214ms
+D/SystemClock(  137): Setting time of day to sec=1374050281
+I/TelephonyRegistry(   61): notifyServiceState: 0 home Android Android 310260  UMTS CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false
+I/TelephonyRegistry(   61): notifyDataConnection: state=0 isDataConnectivityPossible=false reason=null interfaceName=null networkType=3
+I/ActivityThread(  185): Pub com.android.social: com.android.providers.contacts.SocialProvider
+I/ActivityThread(  185): Pub applications: com.android.providers.applications.ApplicationsProvider
+D/dalvikvm(  144): GC_EXTERNAL_ALLOC freed 25K, 52% free 2719K/5639K, external 2668K/2681K, paused 536ms
+D/MccTable(  137): updateMccMncConfiguration: mcc=310, mnc=260
+D/MccTable(  137): locale set to en_us
+D/MccTable(  137): WIFI_NUM_ALLOWED_CHANNELS set to 11
+I/WifiService(   61): WifiService trying to setNumAllowed to 11 with persist set to true
+I/ActivityManager(   61): Config changed: { scale=1.0 imsi=310/260 loc=en_US touch=3 keys=2/1/2 nav=1/1 orien=1 layout=34 uiMode=17 seq=4}
+D/dalvikvm(  137): GC_CONCURRENT freed 222K, 50% free 2929K/5767K, external 1625K/2137K, paused 3ms+13ms
+I/TelephonyRegistry(   61): notifyMessageWaitingChanged: false
+I/TelephonyRegistry(   61): notifyCallForwardingChanged: false
+D/dalvikvm(  185): GC_CONCURRENT freed 408K, 54% free 2613K/5639K, external 1625K/2137K, paused 3ms+14ms
+D/dalvikvm(   61): GC_FOR_MALLOC freed 86K, 45% free 4331K/7815K, external 4373K/5573K, paused 206ms
+I/ActivityThread(  188): Pub com.android.deskclock: com.android.deskclock.AlarmProvider
+D/dalvikvm(  188): GC_CONCURRENT freed 368K, 54% free 2620K/5639K, external 1625K/2137K, paused 4ms+121ms
+I/ActivityThread(  185): Pub contacts;com.android.contacts: com.android.providers.contacts.ContactsProvider2
+D/dalvikvm(  144): GC_EXTERNAL_ALLOC freed 7K, 52% free 2734K/5639K, external 3368K/3387K, paused 362ms
+I/ActivityManager(   61): Start proc com.android.protips for broadcast com.android.protips/.ProtipWidget: pid=206 uid=10024 gids={}
+D/dalvikvm(   33): GC_EXPLICIT freed 10K, 53% free 2538K/5379K, external 1625K/2137K, paused 263ms
+D/TelephonyProvider(  137): Setting numeric '310260' to be the current operator
+I/TelephonyRegistry(   61): notifyDataConnection: state=1 isDataConnectivityPossible=true reason=simLoaded interfaceName=null networkType=3
+I/TelephonyRegistry(   61): notifyDataConnection: state=2 isDataConnectivityPossible=true reason=simLoaded interfaceName=/dev/omap_csmi_tty1 networkType=3
+D/Tethering(   61): MasterInitialState.processMessage what=3
+D/dalvikvm(   33): GC_EXPLICIT freed <1K, 53% free 2538K/5379K, external 1625K/2137K, paused 357ms
+D/dalvikvm(   33): GC_EXPLICIT freed <1K, 53% free 2538K/5379K, external 1625K/2137K, paused 271ms
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+I/ActivityManager(   61): Start proc com.android.music for broadcast com.android.music/.MediaAppWidgetProvider: pid=218 uid=10005 gids={3003, 1015}
+I/ActivityThread(  185): Pub call_log: com.android.providers.contacts.CallLogProvider
+I/ActivityThread(  185): Pub user_dictionary: com.android.providers.userdictionary.UserDictionaryProvider
+D/dalvikvm(  144): GC_EXTERNAL_ALLOC freed 55K, 51% free 2779K/5639K, external 4217K/4261K, paused 184ms
+I/ActivityManager(   61): Start proc com.android.quicksearchbox for broadcast com.android.quicksearchbox/.SearchWidgetProvider: pid=227 uid=10002 gids={3003}
+D/dalvikvm(  144): GC_EXTERNAL_ALLOC freed 28K, 51% free 2799K/5639K, external 5345K/5346K, paused 98ms
+D/dalvikvm(   61): GREF has increased to 301
+D/dalvikvm(  144): GC_EXPLICIT freed 18K, 51% free 2812K/5639K, external 5458K/6692K, paused 74ms
+I/ActivityThread(  227): Pub com.android.quicksearchbox.google: com.android.quicksearchbox.google.GoogleSuggestionProvider
+I/ActivityThread(  227): Pub com.android.quicksearchbox.shortcuts: com.android.quicksearchbox.ShortcutsProvider
+I/ActivityManager(   61): Start proc android.process.media for broadcast com.android.providers.downloads/.DownloadReceiver: pid=235 uid=10000 gids={1015, 1006, 2001, 3003}
+I/ActivityThread(  235): Pub media: com.android.providers.media.MediaProvider
+V/MediaProvider(  235): Attached volume: internal
+I/ActivityThread(  235): Pub downloads: com.android.providers.downloads.DownloadProvider
+I/ActivityThread(  235): Pub drm: com.android.providers.drm.DrmProvider
+I/ActivityManager(   61): Start proc com.mx.browser for broadcast com.mx.browser/.cloud.CloudReceiver: pid=244 uid=10036 gids={3003, 1015}
+I/ActivityThread(  244): Pub com.mx.browser.downloadprovider: com.mx.browser.download.DownloadProvider
+I/ActivityThread(  244): Pub com.mx.browser.browserprovider: com.mx.browser.BrowserProvider
+I/ActivityManager(   61): Start proc com.wandoujia.phoenix2 for broadcast com.wandoujia.phoenix2/com.wandoujia.phoenix4.receiver.ConnectivityChangedReceiver: pid=258 uid=10035 gids={3003, 1007, 1015, 1006}
+I/ActivityThread(  258): Pub com.wandoujia.thumbnail;com.wandoujia.imagecache: com.wandoujia.phoenix2.providers.ThumbProvider
+I/ActivityThread(  258): Pub com.wandoujia.phoenix4.download: com.wandoujia.phoenix4.download.lib.rpc.DownloadProvider
+I/ActivityThread(  258): Pub com.wandoujia.app;com.wandoujia.image;com.wandoujia.photosync;com.wandoujia.share;com.wandoujia.sync;com.wandoujia.offlinetask: com.wandoujia.phoenix2.providers.PhoenixProvider
+D/dalvikvm(  258): Trying to load lib /data/data/com.wandoujia.phoenix2/lib/libudid.so 0x40515820
+D/dalvikvm(  258): Added shared lib /data/data/com.wandoujia.phoenix2/lib/libudid.so 0x40515820
+I/dalvikvm(  258): Could not find method android.os.Environment.isExternalStorageEmulated, referenced from method com.wandoujia.phoenix2.utils.at.o
+W/dalvikvm(  258): VFY: unable to resolve static method 873: Landroid/os/Environment;.isExternalStorageEmulated ()Z
+D/dalvikvm(  258): VFY: replacing opcode 0x71 at 0x001d
+D/dalvikvm(  258): VFY: dead code 0x0020-0024 in Lcom/wandoujia/phoenix2/utils/at;.o ()Z
+I/SurfaceFlinger(   61): Boot is finished (17279 ms)
+D/PowerManagerService(   61): bootCompleted
+I/ARMAssembler(   61): generated scanline__00000177:03010104_00000002_00000000 [ 44 ipp] (66 ins) at [0x44d3a290:0x44d3a398] in 720541 ns
+I/ARMAssembler(   61): generated scanline__00000177:03515104_00000001_00000000 [ 73 ipp] (95 ins) at [0x44d3a3a0:0x44d3a51c] in 707259 ns
+D/VoldCmdListener(   29): volume mount /mnt/sdcard
+I/Vold    (   29): /dev/block/vold/179:0 being considered for volume sdcard
+D/Vold    (   29): Volume sdcard state changing 1 (Idle-Unmounted) -> 3 (Checking)
+I/StorageNotification(  140): Media {/mnt/sdcard} state changed from {unmounted} -> {checking}
+I//system/bin/fsck_msdos(   29): ** /dev/block/vold/179:0
+D/dalvikvm(  140): GC_EXTERNAL_ALLOC freed 147K, 52% free 2723K/5639K, external 2129K/2137K, paused 83ms
+I/SearchManagerService(   61): Building list of searchable activities
+W/dalvikvm(  206): threadid=6: spin on suspend #1 threadid=3 (pcf=0)
+D/dalvikvm(  206): Temporarily moving tid 208 to fg (was 0)
+W/dalvikvm(  206): threadid=6: spin on suspend resolved in 1085 msec
+D/dalvikvm(  206): Restored policy of 208 to 0
+I//system/bin/fsck_msdos(   29): ** Phase 1 - Read and Compare FATs
+I//system/bin/fsck_msdos(   29): Attempting to allocate 2032 KB for FAT
+D/dalvikvm(   61): GC_EXPLICIT freed 1112K, 46% free 4432K/8199K, external 4373K/5573K, paused 85ms
+D/dalvikvm(  206): GC_CONCURRENT freed 370K, 54% free 2595K/5575K, external 1625K/2137K, paused 4ms+2ms
+E/dalvikvm(  258): Could not find class 'android.app.Notification$Builder', referenced from method com.wandoujia.phoenix2.photosync.b.handleMessage
+W/dalvikvm(  258): VFY: unable to resolve new-instance 33 (Landroid/app/Notification$Builder;) in Lcom/wandoujia/phoenix2/photosync/b;
+D/dalvikvm(  258): VFY: replacing opcode 0x22 at 0x007d
+D/dalvikvm(  258): VFY: dead code 0x007f-00af in Lcom/wandoujia/phoenix2/photosync/b;.handleMessage (Landroid/os/Message;)V
+D/dalvikvm(  258): VFY: dead code 0x00b8-00c9 in Lcom/wandoujia/phoenix2/photosync/b;.handleMessage (Landroid/os/Message;)V
+E/dalvikvm(  258): Could not find class 'android.app.Notification$Builder', referenced from method com.wandoujia.phoenix2.appwash.controller.AppWashController.a
+W/dalvikvm(  258): VFY: unable to resolve new-instance 33 (Landroid/app/Notification$Builder;) in Lcom/wandoujia/phoenix2/appwash/controller/AppWashController;
+D/dalvikvm(  258): VFY: replacing opcode 0x22 at 0x00c1
+D/dalvikvm(  258): VFY: dead code 0x00c3-010b in Lcom/wandoujia/phoenix2/appwash/controller/AppWashController;.a (Ljava/util/List;Lcom/wandoujia/phoenix2/appwash/controller/AppWashController$WashEntryType;)V
+I//system/bin/fsck_msdos(   29): Attempting to allocate 2032 KB for FAT
+D/dalvikvm(  258): GC_CONCURRENT freed 560K, 48% free 3505K/6663K, external 1625K/2137K, paused 3ms+3ms
+D/OtaStartupReceiver(  137): Not a CDMA phone, no need to process OTA
+I/ActivityManager(   61): Start proc com.android.mms for broadcast com.android.mms/.transaction.MmsSystemEventReceiver: pid=297 uid=10015 gids={3003, 1015}
+I/RecoverySystem(   61): No recovery log file
+I/ActivityThread(  297): Pub com.android.mms.SuggestionsProvider: com.android.mms.SuggestionsProvider
+W/Mms/cache(  297): RecipientId 1 not in cache!
+D/dalvikvm(  137): GREF has increased to 201
+D/dalvikvm(  258): DexOpt: couldn't find field Landroid/content/pm/PackageStats;.externalCacheSize
+W/dalvikvm(  258): VFY: unable to resolve instance field 54
+D/dalvikvm(  258): VFY: replacing opcode 0x53 at 0x000e
+D/dalvikvm(  258): DexOpt: couldn't find field Landroid/content/pm/PackageStats;.externalCodeSize
+W/dalvikvm(  258): VFY: unable to resolve instance field 55
+D/dalvikvm(  258): VFY: replacing opcode 0x53 at 0x0020
+D/dalvikvm(  258): VFY: dead code 0x0010-0019 in Lcom/wandoujia/phoenix2/appwash/controller/ay;.a (Lcom/wandoujia/phoenix2/appwash/controller/ay;Landroid/content/pm/PackageStats;)J
+D/dalvikvm(  258): VFY: dead code 0x0022-0022 in Lcom/wandoujia/phoenix2/appwash/controller/ay;.a (Lcom/wandoujia/phoenix2/appwash/controller/ay;Landroid/content/pm/PackageStats;)J
+I/ActivityManager(   61): Start proc com.android.email for broadcast com.android.email/.service.EmailBroadcastReceiver: pid=319 uid=10028 gids={3003, 1015}
+I/ActivityThread(  319): Pub com.android.email.provider: com.android.email.provider.EmailProvider
+I/ActivityThread(  319): Pub com.android.email.attachmentprovider: com.android.email.provider.AttachmentProvider
+I/ActivityThread(  319): Pub com.android.exchange.provider: com.android.exchange.provider.ExchangeProvider
+D/EAS SyncManager(  319): !!! EAS SyncManager, onCreate
+D/dalvikvm(  258): DexOpt: couldn't find field Landroid/content/pm/PackageStats;.externalDataSize
+I/dalvikvm(  258): DexOpt: unable to optimize instance field ref 0x0038 at 0x10 in Lcom/wandoujia/phoenix2/appwash/controller/ay;.a
+D/dalvikvm(  258): DexOpt: couldn't find field Landroid/content/pm/PackageStats;.externalMediaSize
+I/dalvikvm(  258): DexOpt: unable to optimize instance field ref 0x0039 at 0x13 in Lcom/wandoujia/phoenix2/appwash/controller/ay;.a
+D/dalvikvm(  258): DexOpt: couldn't find field Landroid/content/pm/PackageStats;.externalObbSize
+I/dalvikvm(  258): DexOpt: unable to optimize instance field ref 0x003a at 0x16 in Lcom/wandoujia/phoenix2/appwash/controller/ay;.a
+D/Eas Debug(  319): Logging: 
+D/EAS SyncManager(  319): !!! EAS SyncManager, onDestroy
+D/MediaScannerService(  235): start scanning volume internal
+D/Email   (  319): BOOT_COMPLETED
+D/EAS SyncManager(  319): !!! EAS SyncManager, onCreate
+D/EAS SyncManager(  319): !!! EAS SyncManager, onStartCommand
+D/EAS SyncManager(  319): !!! EAS SyncManager, stopping self
+D/EAS SyncManager(  319): !!! EAS SyncManager, onDestroy
+I//system/bin/fsck_msdos(   29): ** Phase 2 - Check Cluster Chains
+I//system/bin/fsck_msdos(   29): ** Phase 3 - Checking Directories
+I//system/bin/fsck_msdos(   29): ** Phase 4 - Checking for Lost Files
+I//system/bin/fsck_msdos(   29): Next free cluster in FSInfo block (36727) not free
+I//system/bin/fsck_msdos(   29): FIXED
+I//system/bin/fsck_msdos(   29): 658 files, 239991 free (479982 clusters)
+I/Vold    (   29): Filesystem check completed OK
+I/Vold    (   29): Device /dev/block/vold/179:0, target /mnt/sdcard mounted @ /mnt/secure/staging
+D/Vold    (   29): Volume sdcard state changing 3 (Checking) -> 4 (Mounted)
+I/PackageManager(   61): Updating external media status from unmounted to mounted
+I/StorageNotification(  140): Media {/mnt/sdcard} state changed from {checking} -> {mounted}
+D/VoldCmdListener(   29): asec list
+D/VoldCmdListener(   29): asec path cn.wps.livespace-1
+D/VoldCmdListener(   29): asec mount cn.wps.livespace-1 {} 1000
+D/VoldCmdListener(   29): asec path cn.wps.livespace-1
+I/PackageManager(   61): Linking native library dir for /mnt/asec/cn.wps.livespace-1/pkg.apk
+D/MediaScanner(  235):  prescan time: 2059ms
+D/MediaScanner(  235):     scan time: 9ms
+D/MediaScanner(  235): postscan time: 0ms
+D/MediaScanner(  235):    total time: 2068ms
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH.mail in package com.android.contacts
+W/PackageManager(   61): Unknown permission android.permission.ADD_SYSTEM_SERVICE in package com.android.phone
+W/PackageManager(   61): Unknown permission com.android.vending.BILLING in package cn.wps.moffice_eng
+W/PackageManager(   61): Not granting permission com.android.email.permission.ACCESS_PROVIDER to package cn.wps.moffice_eng (protectionLevel=3 flags=0x8be44)
+W/PackageManager(   61): Not granting permission android.permission.SEND_DOWNLOAD_COMPLETED_INTENTS to package com.android.browser (protectionLevel=2 flags=0x9be45)
+W/PackageManager(   61): Unknown permission com.google.android.gm.permission.WRITE_GMAIL in package com.android.settings
+W/PackageManager(   61): Unknown permission com.google.android.gm.permission.READ_GMAIL in package com.android.settings
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH in package com.android.settings
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH in package com.android.providers.contacts
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH.cp in package com.android.providers.contacts
+W/PackageManager(   61): Unknown permission com.android.launcher.permission.CREATE_SHORTCUT in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission org.adw.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission org.adw.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.qihoo360.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.qihoo360.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.lge.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.lge.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission net.qihoo.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission net.qihoo.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission org.adwfreak.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission org.adwfreak.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.huawei.launcher3.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.huawei.launcher3.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.fede.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.fede.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.sec.android.app.twlauncher.settings.READ_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Unknown permission com.sec.android.app.twlauncher.settings.WRITE_SETTINGS in package com.wandoujia.phoenix2
+W/PackageManager(   61): Not granting permission android.permission.ACCESS_DRM to package com.wandoujia.phoenix2 (protectionLevel=2 flags=0x8be44)
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.ACCESS_GOOGLE_PASSWORD in package com.android.development
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH in package com.android.development
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH.ALL_SERVICES in package com.android.development
+W/PackageManager(   61): Unknown permission com.google.android.googleapps.permission.GOOGLE_AUTH.YouTubeUser in package com.android.development
+W/PackageManager(   61): Not granting permission android.permission.SET_PREFERRED_APPLICATIONS to package com.mx.browser (protectionLevel=2 flags=0x8be44)
+W/PackageManager(   61): Unknown permission android.permission.READ_OWNER_DATA in package com.android.email
+W/PackageManager(   61): Not granting permission android.permission.DEVICE_POWER to package com.android.deskclock (protectionLevel=2 flags=0x8be45)
+D/dalvikvm(  258): GC_CONCURRENT freed 732K, 50% free 3523K/6919K, external 1753K/2137K, paused 3ms+3ms
+I/dalvikvm(   61): Jit: resizing JitTable from 512 to 1024
+D/dalvikvm(  258): Trying to load lib /data/data/com.wandoujia.phoenix2/lib/libcipher.so 0x40515820
+D/dalvikvm(  258): Added shared lib /data/data/com.wandoujia.phoenix2/lib/libcipher.so 0x40515820
+D/dalvikvm(  258): No JNI_OnLoad found in /data/data/com.wandoujia.phoenix2/lib/libcipher.so 0x40515820, skipping init
+D/dalvikvm(  144): GC_EXTERNAL_ALLOC freed 265K, 50% free 3030K/5959K, external 6690K/6692K, paused 51ms
+D/dalvikvm(  144): GC_EXPLICIT freed 125K, 51% free 2942K/5959K, external 5027K/5572K, paused 45ms
+D/MediaScannerService(  235): done scanning volume internal
+D/MediaScannerService(  235): start scanning volume external
+W/RecognitionManagerService(   61): no available voice recognition services found
+D/dalvikvm(   61): GC_EXPLICIT freed 835K, 45% free 4531K/8199K, external 4373K/5573K, paused 106ms
+V/MediaProvider(  235): /mnt/sdcard volume ID: 218050065
+D/dalvikvm(  258): GC_CONCURRENT freed 786K, 50% free 3530K/6983K, external 1753K/2137K, paused 8ms+3ms
+V/MediaProvider(  235): Attached volume: external
+V/MediaScanner(  235): pruneDeadThumbnailFiles... android.database.sqlite.SQLiteCursor@405b8b78
+V/MediaScanner(  235): /pruneDeadThumbnailFiles... android.database.sqlite.SQLiteCursor@405b8b78
+D/MediaScanner(  235):  prescan time: 33ms
+D/MediaScanner(  235):     scan time: 16ms
+D/MediaScanner(  235): postscan time: 8ms
+D/MediaScanner(  235):    total time: 57ms
+D/MediaScannerService(  235): done scanning volume external
+D/dalvikvm(  258): GC_CONCURRENT freed 582K, 46% free 3836K/7047K, external 1753K/2137K, paused 4ms+3ms
+D/dalvikvm(  144): GC_EXPLICIT freed 204K, 51% free 2964K/5959K, external 4926K/5572K, paused 48ms
+D/dalvikvm(  185): GC_CONCURRENT freed 273K, 51% free 2853K/5767K, external 1625K/2137K, paused 4ms+95ms
+I/dalvikvm(  258): Could not find method android.app.ActivityManager.getLauncherLargeIconSize, referenced from method com.wandoujia.phoenix2.utils.ShortcutUtil.a
+W/dalvikvm(  258): VFY: unable to resolve virtual method 60: Landroid/app/ActivityManager;.getLauncherLargeIconSize ()I
+D/dalvikvm(  258): VFY: replacing opcode 0x6e at 0x0013
+D/dalvikvm(  258): VFY: dead code 0x0016-0040 in Lcom/wandoujia/phoenix2/utils/ShortcutUtil;.a (Landroid/graphics/Bitmap;Landroid/content/Context;)Landroid/graphics/Bitmap;
+I/InputReader(   61): Device reconfigured: id=0x0, name=qwerty2, display size is now 480x800
+I/InputManager-Callbacks(   61): No virtual keys found for device qwerty2.
+I/ARMAssembler(   61): generated scanline__00000177:03515104_00001001_00000000 [ 91 ipp] (114 ins) at [0x44d3a520:0x44d3a6e8] in 633907 ns
+I/ActivityManager(   61): Displayed com.android.launcher/com.android.launcher2.Launcher: +25s959ms
+D/dalvikvm(  144): GC_EXTERNAL_ALLOC freed 21K, 50% free 2998K/5959K, external 4854K/5572K, paused 40ms
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity } from pid 144
+I/ActivityManager(   61): Start proc cn.wps.moffice_eng for activity cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity: pid=345 uid=10037 gids={3003, 1015}
+D/dalvikvm(  345): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  345): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  345): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/dalvikvm(  345): Could not find method cn.wps.moffice.documentmanager.PreStartActivity.getActionBar, referenced from method cn.wps.moffice.documentmanager.PreStartActivity.setDisplayShowCustomEnabled
+W/dalvikvm(  345): VFY: unable to resolve virtual method 11013: Lcn/wps/moffice/documentmanager/PreStartActivity;.getActionBar ()Landroid/app/ActionBar;
+D/dalvikvm(  345): VFY: replacing opcode 0x6e at 0x0006
+D/dalvikvm(  345): VFY: dead code 0x0009-000e in Lcn/wps/moffice/documentmanager/PreStartActivity;.setDisplayShowCustomEnabled (Z)V
+D/dalvikvm(  345): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager } from pid 345
+D/dalvikvm(  345): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  345): GC_EXTERNAL_ALLOC freed 637K, 50% free 3331K/6599K, external 2129K/2137K, paused 57ms
+D/dalvikvm(  345): GC_EXTERNAL_ALLOC freed 46K, 49% free 3382K/6599K, external 2611K/2673K, paused 46ms
+D/dalvikvm(  345): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  345): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/dalvikvm(  345): Failed resolving Lcn/wps/moffice/common/beans/k$1; interface 540 'Landroid/nfc/NfcAdapter$OnNdefPushCompleteCallback;'
+W/dalvikvm(  345): Link of class 'Lcn/wps/moffice/common/beans/k$1;' failed
+E/dalvikvm(  345): Could not find class 'cn.wps.moffice.common.beans.k$1', referenced from method cn.wps.moffice.common.beans.k.<init>
+W/dalvikvm(  345): VFY: unable to resolve new-instance 1597 (Lcn/wps/moffice/common/beans/k$1;) in Lcn/wps/moffice/common/beans/k;
+D/dalvikvm(  345): VFY: replacing opcode 0x22 at 0x0039
+I/dalvikvm(  345): Failed resolving Lcn/wps/moffice/common/beans/k$3; interface 538 'Landroid/nfc/NfcAdapter$CreateBeamUrisCallback;'
+W/dalvikvm(  345): Link of class 'Lcn/wps/moffice/common/beans/k$3;' failed
+E/dalvikvm(  345): Could not find class 'cn.wps.moffice.common.beans.k$3', referenced from method cn.wps.moffice.common.beans.k.<init>
+W/dalvikvm(  345): VFY: unable to resolve new-instance 1599 (Lcn/wps/moffice/common/beans/k$3;) in Lcn/wps/moffice/common/beans/k;
+D/dalvikvm(  345): VFY: replacing opcode 0x22 at 0x0070
+D/dalvikvm(  345): VFY: dead code 0x003b-005c in Lcn/wps/moffice/common/beans/k;.<init> (Landroid/app/Activity;)V
+D/dalvikvm(  345): VFY: dead code 0x0072-0079 in Lcn/wps/moffice/common/beans/k;.<init> (Landroid/app/Activity;)V
+D/water   (  345): packageName: cn.wps.moffice_eng
+D/dalvikvm(  345): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  345): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  345): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  345): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  345): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  345): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  345): GC_CONCURRENT freed 521K, 47% free 3627K/6727K, external 3121K/3694K, paused 19ms+8ms
+D/dalvikvm(  345): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  345): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  345): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  345): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  345): GC_EXTERNAL_ALLOC freed 318K, 48% free 3572K/6791K, external 3121K/3694K, paused 50ms
+D/dalvikvm(  345): GC_EXTERNAL_ALLOC freed 149K, 48% free 3593K/6791K, external 3545K/4295K, paused 48ms
+W/ResourceType(   61): Skipping entry 0x7f040000 in package table 0 because it is not complex!
+W/ResourceType(   61): Skipping entry 0x7f040017 in package table 0 because it is not complex!
+I/ARMAssembler(   61): generated scanline__00000177:03515104_00001002_00000000 [ 87 ipp] (110 ins) at [0x44d3a6f0:0x44d3a8a8] in 395437 ns
+I/ActivityManager(   61): Displayed cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager: +3s144ms (total +4s47ms)
+D/inject  (  371): [+] The pid of cn.wps.moffice_eng: 345
+D/inject  (  371): [+] Injecting process: 345
+D/inject  (  371): [+] get_remote_addr: local[afd00000], remote[afd00000]
+D/inject  (  371): [+] Remote mmap address: afd170cd
+D/inject  (  371): [+] Calling mmap in target process.
+D/inject  (  371): [+] Target process returned from mmap, return value=4521d000, pc=0 
+D/inject  (  371): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  (  371): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  (  371): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  (  371): [+] Get imports: dlopen: b00059bd, dlsym: b0005915, dlclose: b0005849
+D/inject  (  371): [+] Inject code start: c008, end: c084
+D/inject  (  371): [+] _dlopen_param1_s: 45220c9c
+D/inject  (  371): [+] _dlsym_param2_s: 45220d9c
+D/inject  (  371): [+] _saved_r0_pc_s: 45220e9c
+D/inject  (  371): [+] _inject_function_param_s: 45220f9c
+D/inject  (  371): [+] Remote shellcode address: 45220c00
+D/inject  (  371): [+] Process Detach: 10
+D/inject  (  345): Hello ARM! I'm parameter1324! pid:345
+D/inject  (  345): The Handle of libhook_open: b000d2b0
+D/inject  (  345): find it pre 0
+D/inject  (  345): find it 8060109c
+D/inject  (  345): [+] aaaaaaa do_hook function is invoked 
+D/inject  (  345): [+] open addr: 0xafd17111. New addr 0x80600f60
+D/inject  (  345): [+] just for test 
+D/inject  (  345): [+] set ok 
+D/inject  (  345): [+] Get the persist.sys.test  bbbbbbbb
+I/DEBUG   (   31): *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+I/DEBUG   (   31): Build fingerprint: 'generic/sdk/generic:2.3.3/GRI34/101070:eng/test-keys'
+I/DEBUG   (   31): pid: 345, tid: 345  >>> cn.wps.moffice_eng <<<
+I/DEBUG   (   31): signal 11 (SIGSEGV), code 1 (SEGV_MAPERR), fault addr 00000000
+I/DEBUG   (   31):  r0 afd17111  r1 80602988  r2 80602b20  r3 afd17111
+I/DEBUG   (   31):  r4 80602988  r5 80600f60  r6 80602b18  r7 80604008
+I/DEBUG   (   31):  r8 afd4d5c8  r9 00000000  10 00000000  fp 42de8bb8
+I/DEBUG   (   31):  ip 00000010  sp 45220ad0  lr afd1a963  pc 806011d0  cpsr 00000010
+I/DEBUG   (   31):          #00  pc 000011d0  /dev/libhook_open.so
+I/DEBUG   (   31):          #01  pc 0000241c  /dev/libhello.so
+I/DEBUG   (   31): 
+I/DEBUG   (   31): code around pc:
+I/DEBUG   (   31): 806011b0 e5973000 e28d0068 ebffff41 e5970000 
+I/DEBUG   (   31): 806011c0 e59f20c0 e1a01004 e1a03000 e08f2002 
+I/DEBUG   (   31): 806011d0 e58a0000 e3a00003 ebffff33 e59f00a8 
+I/DEBUG   (   31): 806011e0 e28d1068 e08f0000 ebffff38 e3a0105c 
+I/DEBUG   (   31): 806011f0 e1a02006 e1a03005 e28d0068 ebffff30 
+I/DEBUG   (   31): 
+I/DEBUG   (   31): code around lr:
+I/DEBUG   (   31): afd1a940 f7ff980b 2800ff7d f001d001 9e0df883 
+I/DEBUG   (   31): afd1a950 98059912 9312180b 2a019a09 f001d001 
+I/DEBUG   (   31): afd1a960 3701f866 970f466b 33ff3320 21012000 
+I/DEBUG   (   31): afd1a970 9e0f9609 70182700 9713424b 27009305 
+I/DEBUG   (   31): afd1a980 99057833 e0003601 1c1a9213 2a5a3a20 
+I/DEBUG   (   31): 
+I/DEBUG   (   31): stack:
+I/DEBUG   (   31):     45220a90  40000000  /dev/__properties__ (deleted)
+I/DEBUG   (   31):     45220a94  40002424  /dev/__properties__ (deleted)
+I/DEBUG   (   31):     45220a98  45220adc  
+I/DEBUG   (   31):     45220a9c  40002420  /dev/__properties__ (deleted)
+I/DEBUG   (   31):     45220aa0  00000000  
+I/DEBUG   (   31):     45220aa4  45220adc  
+I/DEBUG   (   31):     45220aa8  80602ae8  /dev/libhook_open.so
+I/DEBUG   (   31):     45220aac  00000000  
+I/DEBUG   (   31):     45220ab0  00000000  
+I/DEBUG   (   31):     45220ab4  80602988  /dev/libhook_open.so
+I/DEBUG   (   31):     45220ab8  45220acc  
+I/DEBUG   (   31):     45220abc  80602988  /dev/libhook_open.so
+I/DEBUG   (   31):     45220ac0  80602988  /dev/libhook_open.so
+I/DEBUG   (   31):     45220ac4  806011bc  /dev/libhook_open.so
+I/DEBUG   (   31):     45220ac8  df002777  
+I/DEBUG   (   31):     45220acc  e3a070ad  
+I/DEBUG   (   31): #00 45220ad0  80600f60  /dev/libhook_open.so
+I/DEBUG   (   31):     45220ad4  80600e08  /dev/libhook_open.so
+I/DEBUG   (   31):     45220ad8  00000015  
+I/DEBUG   (   31):     45220adc  62626262  
+I/DEBUG   (   31):     45220ae0  62626262  
+I/DEBUG   (   31):     45220ae4  00000000  
+I/DEBUG   (   31):     45220ae8  00000000  
+I/DEBUG   (   31):     45220aec  00000000  
+I/DEBUG   (   31):     45220af0  00000000  
+I/DEBUG   (   31):     45220af4  00000000  
+I/DEBUG   (   31):     45220af8  00000000  
+I/DEBUG   (   31):     45220afc  00000000  
+I/DEBUG   (   31):     45220b00  00000000  
+I/DEBUG   (   31):     45220b04  00000000  
+I/DEBUG   (   31):     45220b08  00000000  
+I/DEBUG   (   31):     45220b0c  00000000  
+I/DEBUG   (   31):     45220b10  00000000  
+I/DEBUG   (   31):     45220b14  00000000  
+I/DEBUG   (   31):     45220b18  00000000  
+I/DEBUG   (   31):     45220b1c  00000000  
+I/DEBUG   (   31):     45220b20  00000000  
+I/DEBUG   (   31):     45220b24  00000000  
+I/DEBUG   (   31):     45220b28  00000000  
+I/DEBUG   (   31):     45220b2c  00000000  
+I/DEBUG   (   31):     45220b30  00000000  
+I/DEBUG   (   31):     45220b34  00000000  
+I/DEBUG   (   31):     45220b38  39343932  
+I/DEBUG   (   31):     45220b3c  37383337  
+I/DEBUG   (   31):     45220b40  00003936  
+I/DEBUG   (   31):     45220b44  00000000  
+I/DEBUG   (   31):     45220b48  00000000  
+I/DEBUG   (   31):     45220b4c  00000000  
+I/DEBUG   (   31):     45220b50  00000000  
+I/DEBUG   (   31):     45220b54  00000000  
+I/DEBUG   (   31):     45220b58  00000000  
+I/DEBUG   (   31):     45220b5c  00000000  
+I/DEBUG   (   31):     45220b60  00000000  
+I/DEBUG   (   31):     45220b64  00000000  
+I/DEBUG   (   31):     45220b68  00000000  
+I/DEBUG   (   31):     45220b6c  00000000  
+I/DEBUG   (   31):     45220b70  00000000  
+I/DEBUG   (   31):     45220b74  00000000  
+I/DEBUG   (   31):     45220b78  00000000  
+I/DEBUG   (   31):     45220b7c  00000000  
+I/DEBUG   (   31):     45220b80  00000000  
+I/DEBUG   (   31):     45220b84  00000000  
+I/DEBUG   (   31):     45220b88  00000000  
+I/DEBUG   (   31):     45220b8c  00000000  
+I/DEBUG   (   31):     45220b90  00000000  
+I/DEBUG   (   31):     45220b94  dea00048  
+I/DEBUG   (   31):     45220b98  805041e0  /dev/libhello.so
+I/DEBUG   (   31):     45220b9c  8060109c  /dev/libhook_open.so
+I/DEBUG   (   31):     45220ba0  00000000  
+I/DEBUG   (   31):     45220ba4  00000107  
+I/DEBUG   (   31):     45220ba8  00001db4  
+I/DEBUG   (   31):     45220bac  4214ce24  
+I/DEBUG   (   31):     45220bb0  4214ce10  
+I/DEBUG   (   31):     45220bb4  80502420  /dev/libhello.so
+I/DEBUG   (   31): #01 45220bb8  00000159  
+I/DEBUG   (   31):     45220bbc  80500114  /dev/libhello.so
+I/DEBUG   (   31):     45220bc0  00000000  
+I/DEBUG   (   31):     45220bc4  00000159  
+I/DEBUG   (   31):     45220bc8  80502354  /dev/libhello.so
+I/DEBUG   (   31):     45220bcc  80500000  /dev/libhello.so
+I/DEBUG   (   31):     45220bd0  00002354  
+I/DEBUG   (   31):     45220bd4  00000107  
+I/DEBUG   (   31):     45220bd8  bef75450  
+I/DEBUG   (   31):     45220bdc  b000d198  
+I/DEBUG   (   31):     45220be0  00000003  
+I/DEBUG   (   31):     45220be4  430f8fc9  /data/dalvik-cache/system@framework@framework.jar@classes.dex
+I/DEBUG   (   31):     45220be8  00000107  
+I/DEBUG   (   31):     45220bec  bef75450  
+I/DEBUG   (   31):     45220bf0  4214ce24  
+I/DEBUG   (   31):     45220bf4  4214ce10  
+I/DEBUG   (   31):     45220bf8  42de8bb8  /data/dalvik-cache/system@framework@framework.jar@classes.dex
+I/DEBUG   (   31):     45220bfc  45220c34  
+D/Zygote  (   33): Process 345 terminated by signal (11)
+I/ActivityManager(   61): Process cn.wps.moffice_eng (pid 345) has died.
+E/InputDispatcher(   61): channel '4055ad78 cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager (server)' ~ Consumer closed input channel or an error occurred.  events=0x8
+E/InputDispatcher(   61): channel '4055ad78 cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager (server)' ~ Channel is unrecoverably broken and will be disposed!
+I/WindowManager(   61): WIN DEATH: Window{4055ad78 cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager paused=false}
+I/BootReceiver(   61): Copying /data/tombstones/tombstone_01 to DropBox (SYSTEM_TOMBSTONE)
+D/dalvikvm(   61): GC_FOR_MALLOC freed 557K, 45% free 4758K/8583K, external 4373K/5573K, paused 51ms
+W/InputManagerService(   61): Got RemoteException sending setActive(false) notification to pid 345 uid 10037
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity } from pid 144
+I/ActivityManager(   61): Start proc cn.wps.moffice_eng for activity cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity: pid=373 uid=10037 gids={3003, 1015}
+D/dalvikvm(  373): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  373): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  373): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/dalvikvm(  373): Could not find method cn.wps.moffice.documentmanager.PreStartActivity.getActionBar, referenced from method cn.wps.moffice.documentmanager.PreStartActivity.setDisplayShowCustomEnabled
+W/dalvikvm(  373): VFY: unable to resolve virtual method 11013: Lcn/wps/moffice/documentmanager/PreStartActivity;.getActionBar ()Landroid/app/ActionBar;
+D/dalvikvm(  373): VFY: replacing opcode 0x6e at 0x0006
+D/dalvikvm(  373): VFY: dead code 0x0009-000e in Lcn/wps/moffice/documentmanager/PreStartActivity;.setDisplayShowCustomEnabled (Z)V
+D/dalvikvm(  373): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager } from pid 373
+D/dalvikvm(  373): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  373): GC_EXTERNAL_ALLOC freed 638K, 50% free 3331K/6599K, external 2129K/2137K, paused 52ms
+D/dalvikvm(  373): GC_EXTERNAL_ALLOC freed 46K, 49% free 3382K/6599K, external 2611K/2673K, paused 45ms
+D/dalvikvm(  373): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  373): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/dalvikvm(  373): Failed resolving Lcn/wps/moffice/common/beans/k$1; interface 540 'Landroid/nfc/NfcAdapter$OnNdefPushCompleteCallback;'
+W/dalvikvm(  373): Link of class 'Lcn/wps/moffice/common/beans/k$1;' failed
+E/dalvikvm(  373): Could not find class 'cn.wps.moffice.common.beans.k$1', referenced from method cn.wps.moffice.common.beans.k.<init>
+W/dalvikvm(  373): VFY: unable to resolve new-instance 1597 (Lcn/wps/moffice/common/beans/k$1;) in Lcn/wps/moffice/common/beans/k;
+D/dalvikvm(  373): VFY: replacing opcode 0x22 at 0x0039
+I/dalvikvm(  373): Failed resolving Lcn/wps/moffice/common/beans/k$3; interface 538 'Landroid/nfc/NfcAdapter$CreateBeamUrisCallback;'
+W/dalvikvm(  373): Link of class 'Lcn/wps/moffice/common/beans/k$3;' failed
+E/dalvikvm(  373): Could not find class 'cn.wps.moffice.common.beans.k$3', referenced from method cn.wps.moffice.common.beans.k.<init>
+W/dalvikvm(  373): VFY: unable to resolve new-instance 1599 (Lcn/wps/moffice/common/beans/k$3;) in Lcn/wps/moffice/common/beans/k;
+D/dalvikvm(  373): VFY: replacing opcode 0x22 at 0x0070
+D/dalvikvm(  373): VFY: dead code 0x003b-005c in Lcn/wps/moffice/common/beans/k;.<init> (Landroid/app/Activity;)V
+D/dalvikvm(  373): VFY: dead code 0x0072-0079 in Lcn/wps/moffice/common/beans/k;.<init> (Landroid/app/Activity;)V
+D/water   (  373): packageName: cn.wps.moffice_eng
+D/dalvikvm(  373): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  373): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  373): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  373): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  373): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  373): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  373): GC_CONCURRENT freed 515K, 46% free 3633K/6727K, external 3121K/3694K, paused 6ms+10ms
+D/dalvikvm(  373): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  373): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  373): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  373): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  373): GC_EXTERNAL_ALLOC freed 324K, 48% free 3573K/6791K, external 3121K/3694K, paused 52ms
+D/dalvikvm(  373): GC_EXTERNAL_ALLOC freed 150K, 48% free 3593K/6791K, external 3545K/4295K, paused 54ms
+I/ActivityManager(   61): Displayed cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager: +3s125ms (total +4s70ms)
+D/dalvikvm(  144): GC_EXPLICIT freed 15K, 50% free 2991K/5959K, external 6118K/7588K, paused 69ms
+D/inject  (  399): [+] The pid of cn.wps.moffice_eng: 373
+D/inject  (  399): [+] Injecting process: 373
+D/inject  (  399): [+] get_remote_addr: local[afd00000], remote[afd00000]
+D/inject  (  399): [+] Remote mmap address: afd170cd
+D/inject  (  399): [+] Calling mmap in target process.
+D/inject  (  399): [+] Target process returned from mmap, return value=4521c000, pc=0 
+D/inject  (  399): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  (  399): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  (  399): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  (  399): [+] Get imports: dlopen: b00059bd, dlsym: b0005915, dlclose: b0005849
+D/inject  (  399): [+] Inject code start: c008, end: c084
+D/inject  (  399): [+] _dlopen_param1_s: 4521fc9c
+D/inject  (  399): [+] _dlsym_param2_s: 4521fd9c
+D/inject  (  399): [+] _saved_r0_pc_s: 4521fe9c
+D/inject  (  399): [+] _inject_function_param_s: 4521ff9c
+D/inject  (  399): [+] Remote shellcode address: 4521fc00
+D/inject  (  399): [+] Process Detach: 10
+D/inject  (  373): Hello ARM! I'm parameter1324! pid:373
+D/inject  (  373): The Handle of libhook_open: b000d2b0
+D/inject  (  373): find it pre 0
+D/inject  (  373): find it 8060109c
+D/inject  (  373): [+] aaaaaaa do_hook function is invoked 
+D/inject  (  373): [+] open addr: 0xafd17111. New addr 0x80600f60
+D/inject  (  373): [+] just for test 
+D/inject  (  373): [+] set ok 
+D/inject  (  373): [+] Get the persist.sys.test  bbbbbbbb
+I/DEBUG   (   31): *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+I/DEBUG   (   31): Build fingerprint: 'generic/sdk/generic:2.3.3/GRI34/101070:eng/test-keys'
+I/DEBUG   (   31): pid: 373, tid: 373  >>> cn.wps.moffice_eng <<<
+I/DEBUG   (   31): signal 11 (SIGSEGV), code 1 (SEGV_MAPERR), fault addr 00000000
+I/DEBUG   (   31):  r0 afd17111  r1 80602988  r2 80602b20  r3 afd17111
+I/DEBUG   (   31):  r4 80602988  r5 80600f60  r6 80602b18  r7 80604008
+I/DEBUG   (   31):  r8 afd4d5c8  r9 00000000  10 00000000  fp 42de8bb8
+I/DEBUG   (   31):  ip 00000010  sp 4521fad0  lr afd1a963  pc 806011d0  cpsr 00000010
+I/DEBUG   (   31):          #00  pc 000011d0  /dev/libhook_open.so
+I/DEBUG   (   31):          #01  pc 0000241c  /dev/libhello.so
+I/DEBUG   (   31): 
+I/DEBUG   (   31): code around pc:
+I/DEBUG   (   31): 806011b0 e5973000 e28d0068 ebffff41 e5970000 
+I/DEBUG   (   31): 806011c0 e59f20c0 e1a01004 e1a03000 e08f2002 
+I/DEBUG   (   31): 806011d0 e58a0000 e3a00003 ebffff33 e59f00a8 
+I/DEBUG   (   31): 806011e0 e28d1068 e08f0000 ebffff38 e3a0105c 
+I/DEBUG   (   31): 806011f0 e1a02006 e1a03005 e28d0068 ebffff30 
+I/DEBUG   (   31): 
+I/DEBUG   (   31): code around lr:
+I/DEBUG   (   31): afd1a940 f7ff980b 2800ff7d f001d001 9e0df883 
+I/DEBUG   (   31): afd1a950 98059912 9312180b 2a019a09 f001d001 
+I/DEBUG   (   31): afd1a960 3701f866 970f466b 33ff3320 21012000 
+I/DEBUG   (   31): afd1a970 9e0f9609 70182700 9713424b 27009305 
+I/DEBUG   (   31): afd1a980 99057833 e0003601 1c1a9213 2a5a3a20 
+I/DEBUG   (   31): 
+I/DEBUG   (   31): stack:
+I/DEBUG   (   31):     4521fa90  40000000  /dev/__properties__ (deleted)
+I/DEBUG   (   31):     4521fa94  40002424  /dev/__properties__ (deleted)
+I/DEBUG   (   31):     4521fa98  4521fadc  
+I/DEBUG   (   31):     4521fa9c  40002420  /dev/__properties__ (deleted)
+I/DEBUG   (   31):     4521faa0  00000000  
+I/DEBUG   (   31):     4521faa4  4521fadc  
+I/DEBUG   (   31):     4521faa8  80602ae8  /dev/libhook_open.so
+I/DEBUG   (   31):     4521faac  00000000  
+I/DEBUG   (   31):     4521fab0  00000000  
+I/DEBUG   (   31):     4521fab4  80602988  /dev/libhook_open.so
+I/DEBUG   (   31):     4521fab8  4521facc  
+I/DEBUG   (   31):     4521fabc  80602988  /dev/libhook_open.so
+I/DEBUG   (   31):     4521fac0  80602988  /dev/libhook_open.so
+I/DEBUG   (   31):     4521fac4  806011bc  /dev/libhook_open.so
+I/DEBUG   (   31):     4521fac8  df002777  
+I/DEBUG   (   31):     4521facc  e3a070ad  
+I/DEBUG   (   31): #00 4521fad0  80600f60  /dev/libhook_open.so
+I/DEBUG   (   31):     4521fad4  80600e08  /dev/libhook_open.so
+I/DEBUG   (   31):     4521fad8  00000015  
+I/DEBUG   (   31):     4521fadc  62626262  
+I/DEBUG   (   31):     4521fae0  62626262  
+I/DEBUG   (   31):     4521fae4  00000000  
+I/DEBUG   (   31):     4521fae8  00000000  
+I/DEBUG   (   31):     4521faec  00000000  
+I/DEBUG   (   31):     4521faf0  00000000  
+I/DEBUG   (   31):     4521faf4  00000000  
+I/DEBUG   (   31):     4521faf8  00000000  
+I/DEBUG   (   31):     4521fafc  00000000  
+I/DEBUG   (   31):     4521fb00  00000000  
+I/DEBUG   (   31):     4521fb04  00000000  
+I/DEBUG   (   31):     4521fb08  00000000  
+I/DEBUG   (   31):     4521fb0c  00000000  
+I/DEBUG   (   31):     4521fb10  00000000  
+I/DEBUG   (   31):     4521fb14  00000000  
+I/DEBUG   (   31):     4521fb18  00000000  
+I/DEBUG   (   31):     4521fb1c  00000000  
+I/DEBUG   (   31):     4521fb20  00000000  
+I/DEBUG   (   31):     4521fb24  00000000  
+I/DEBUG   (   31):     4521fb28  00000000  
+I/DEBUG   (   31):     4521fb2c  00000000  
+I/DEBUG   (   31):     4521fb30  00000000  
+I/DEBUG   (   31):     4521fb34  00000000  
+I/DEBUG   (   31):     4521fb38  39343932  
+I/DEBUG   (   31):     4521fb3c  37383337  
+I/DEBUG   (   31):     4521fb40  00003936  
+I/DEBUG   (   31):     4521fb44  00000000  
+I/DEBUG   (   31):     4521fb48  00000000  
+I/DEBUG   (   31):     4521fb4c  00000000  
+I/DEBUG   (   31):     4521fb50  00000000  
+I/DEBUG   (   31):     4521fb54  00000000  
+I/DEBUG   (   31):     4521fb58  00000000  
+I/DEBUG   (   31):     4521fb5c  00000000  
+I/DEBUG   (   31):     4521fb60  00000000  
+I/DEBUG   (   31):     4521fb64  00000000  
+I/DEBUG   (   31):     4521fb68  00000000  
+I/DEBUG   (   31):     4521fb6c  00000000  
+I/DEBUG   (   31):     4521fb70  00000000  
+I/DEBUG   (   31):     4521fb74  00000000  
+I/DEBUG   (   31):     4521fb78  00000000  
+I/DEBUG   (   31):     4521fb7c  00000000  
+I/DEBUG   (   31):     4521fb80  00000000  
+I/DEBUG   (   31):     4521fb84  00000000  
+I/DEBUG   (   31):     4521fb88  00000000  
+I/DEBUG   (   31):     4521fb8c  00000000  
+I/DEBUG   (   31):     4521fb90  00000000  
+I/DEBUG   (   31):     4521fb94  dea00048  
+I/DEBUG   (   31):     4521fb98  805041e0  /dev/libhello.so
+I/DEBUG   (   31):     4521fb9c  8060109c  /dev/libhook_open.so
+I/DEBUG   (   31):     4521fba0  00000000  
+I/DEBUG   (   31):     4521fba4  00000107  
+I/DEBUG   (   31):     4521fba8  00001db4  
+I/DEBUG   (   31):     4521fbac  4214ce24  
+I/DEBUG   (   31):     4521fbb0  4214ce10  
+I/DEBUG   (   31):     4521fbb4  80502420  /dev/libhello.so
+I/DEBUG   (   31): #01 4521fbb8  00000175  
+I/DEBUG   (   31):     4521fbbc  80500114  /dev/libhello.so
+I/DEBUG   (   31):     4521fbc0  00000000  
+I/DEBUG   (   31):     4521fbc4  00000175  
+I/DEBUG   (   31):     4521fbc8  80502354  /dev/libhello.so
+I/DEBUG   (   31):     4521fbcc  80500000  /dev/libhello.so
+I/DEBUG   (   31):     4521fbd0  00002354  
+I/DEBUG   (   31):     4521fbd4  00000107  
+I/DEBUG   (   31):     4521fbd8  bef75450  
+I/DEBUG   (   31):     4521fbdc  b000d198  
+I/DEBUG   (   31):     4521fbe0  00000003  
+I/DEBUG   (   31):     4521fbe4  430f8fc9  /data/dalvik-cache/system@framework@framework.jar@classes.dex
+I/DEBUG   (   31):     4521fbe8  00000107  
+I/DEBUG   (   31):     4521fbec  bef75450  
+I/DEBUG   (   31):     4521fbf0  4214ce24  
+I/DEBUG   (   31):     4521fbf4  4214ce10  
+I/DEBUG   (   31):     4521fbf8  42de8bb8  /data/dalvik-cache/system@framework@framework.jar@classes.dex
+I/DEBUG   (   31):     4521fbfc  4521fc34  
+I/BootReceiver(   61): Copying /data/tombstones/tombstone_02 to DropBox (SYSTEM_TOMBSTONE)
+D/Zygote  (   33): Process 373 terminated by signal (11)
+E/InputDispatcher(   61): channel '406bf850 cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager (server)' ~ Consumer closed input channel or an error occurred.  events=0x8
+E/InputDispatcher(   61): channel '406bf850 cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager (server)' ~ Channel is unrecoverably broken and will be disposed!
+D/dalvikvm(   61): GC_FOR_MALLOC freed 1065K, 49% free 4609K/8967K, external 3125K/3903K, paused 70ms
+I/ActivityManager(   61): Process cn.wps.moffice_eng (pid 373) has died.
+I/WindowManager(   61): WIN DEATH: Window{406bf850 cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager paused=false}
+D/dalvikvm(   61): GC_FOR_MALLOC freed 770K, 50% free 4572K/8967K, external 3125K/3903K, paused 47ms
+W/InputManagerService(   61): Got RemoteException sending setActive(false) notification to pid 373 uid 10037
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity } from pid 144
+I/ActivityManager(   61): Start proc cn.wps.moffice_eng for activity cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity: pid=401 uid=10037 gids={3003, 1015}
+D/dalvikvm(  401): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  401): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  401): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/dalvikvm(  401): Could not find method cn.wps.moffice.documentmanager.PreStartActivity.getActionBar, referenced from method cn.wps.moffice.documentmanager.PreStartActivity.setDisplayShowCustomEnabled
+W/dalvikvm(  401): VFY: unable to resolve virtual method 11013: Lcn/wps/moffice/documentmanager/PreStartActivity;.getActionBar ()Landroid/app/ActionBar;
+D/dalvikvm(  401): VFY: replacing opcode 0x6e at 0x0006
+D/dalvikvm(  401): VFY: dead code 0x0009-000e in Lcn/wps/moffice/documentmanager/PreStartActivity;.setDisplayShowCustomEnabled (Z)V
+D/dalvikvm(  401): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager } from pid 401
+D/dalvikvm(  401): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  401): GC_EXTERNAL_ALLOC freed 639K, 50% free 3331K/6599K, external 2129K/2137K, paused 54ms
+D/dalvikvm(  401): GC_EXTERNAL_ALLOC freed 46K, 49% free 3382K/6599K, external 2611K/2673K, paused 45ms
+D/dalvikvm(  401): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  401): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/dalvikvm(  401): Failed resolving Lcn/wps/moffice/common/beans/k$1; interface 540 'Landroid/nfc/NfcAdapter$OnNdefPushCompleteCallback;'
+W/dalvikvm(  401): Link of class 'Lcn/wps/moffice/common/beans/k$1;' failed
+E/dalvikvm(  401): Could not find class 'cn.wps.moffice.common.beans.k$1', referenced from method cn.wps.moffice.common.beans.k.<init>
+W/dalvikvm(  401): VFY: unable to resolve new-instance 1597 (Lcn/wps/moffice/common/beans/k$1;) in Lcn/wps/moffice/common/beans/k;
+D/dalvikvm(  401): VFY: replacing opcode 0x22 at 0x0039
+I/dalvikvm(  401): Failed resolving Lcn/wps/moffice/common/beans/k$3; interface 538 'Landroid/nfc/NfcAdapter$CreateBeamUrisCallback;'
+W/dalvikvm(  401): Link of class 'Lcn/wps/moffice/common/beans/k$3;' failed
+E/dalvikvm(  401): Could not find class 'cn.wps.moffice.common.beans.k$3', referenced from method cn.wps.moffice.common.beans.k.<init>
+W/dalvikvm(  401): VFY: unable to resolve new-instance 1599 (Lcn/wps/moffice/common/beans/k$3;) in Lcn/wps/moffice/common/beans/k;
+D/dalvikvm(  401): VFY: replacing opcode 0x22 at 0x0070
+D/dalvikvm(  401): VFY: dead code 0x003b-005c in Lcn/wps/moffice/common/beans/k;.<init> (Landroid/app/Activity;)V
+D/dalvikvm(  401): VFY: dead code 0x0072-0079 in Lcn/wps/moffice/common/beans/k;.<init> (Landroid/app/Activity;)V
+D/water   (  401): packageName: cn.wps.moffice_eng
+D/dalvikvm(  401): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  401): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  401): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  401): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  401): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  401): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  401): GC_CONCURRENT freed 513K, 47% free 3587K/6727K, external 3121K/3694K, paused 3ms+4ms
+D/dalvikvm(  401): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  401): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  401): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  401): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  401): GC_EXTERNAL_ALLOC freed 324K, 48% free 3575K/6791K, external 3121K/3694K, paused 52ms
+D/dalvikvm(  401): GC_EXTERNAL_ALLOC freed 152K, 48% free 3593K/6791K, external 3545K/4295K, paused 48ms
+I/ActivityManager(   61): Displayed cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager: +3s27ms (total +3s968ms)
+D/inject  (  426): [+] The pid of cn.wps.moffice_eng: 401
+D/inject  (  426): [+] Injecting process: 401
+D/inject  (  426): [+] get_remote_addr: local[afd00000], remote[afd00000]
+D/inject  (  426): [+] Remote mmap address: afd170cd
+D/inject  (  426): [+] Calling mmap in target process.
+D/inject  (  426): [+] Target process returned from mmap, return value=4521b000, pc=0 
+D/inject  (  426): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  (  426): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  (  426): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  (  426): [+] Get imports: dlopen: b00059bd, dlsym: b0005915, dlclose: b0005849
+D/inject  (  426): [+] Inject code start: c008, end: c084
+D/inject  (  426): [+] _dlopen_param1_s: 4521ec9c
+D/inject  (  426): [+] _dlsym_param2_s: 4521ed9c
+D/inject  (  426): [+] _saved_r0_pc_s: 4521ee9c
+D/inject  (  426): [+] _inject_function_param_s: 4521ef9c
+D/inject  (  426): [+] Remote shellcode address: 4521ec00
+D/inject  (  426): [+] Process Detach: 10
+D/inject  (  401): Hello ARM! I'm parameter1324! pid:401
+D/inject  (  401): The Handle of libhook_open: b000d2b0
+D/inject  (  401): find it pre 0
+D/inject  (  401): find it 8060109c
+D/inject  (  401): [+] aaaaaaa do_hook function is invoked 
+D/inject  (  401): [+] open addr: 0xafd17111. New addr 0x80600f60
+D/inject  (  401): [+] just for test 
+D/inject  (  401): [+] set ok 
+D/inject  (  401): [+] Get the persist.sys.test  bbbbbbbb
+D/inject  (  401): [+] just for test print old_open address 0xafd17111
+D/inject  (  401): [+] just for test print new_open address 0x80600f60
+I/DEBUG   (   31): *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+I/DEBUG   (   31): Build fingerprint: 'generic/sdk/generic:2.3.3/GRI34/101070:eng/test-keys'
+I/DEBUG   (   31): pid: 401, tid: 401  >>> cn.wps.moffice_eng <<<
+I/DEBUG   (   31): signal 11 (SIGSEGV), code 1 (SEGV_MAPERR), fault addr 00000000
+I/DEBUG   (   31):  r0 00000000  r1 805041e0  r2 80504538  r3 dea00048
+I/DEBUG   (   31):  r4 805041e0  r5 8060109c  r6 00000000  r7 00000107
+I/DEBUG   (   31):  r8 805041e0  r9 4214ce24  10 4214ce10  fp 42de8bb8
+I/DEBUG   (   31):  ip af90e118  sp 4521ebb8  lr af9060cf  pc 80502430  cpsr 60000010
+I/DEBUG   (   31):          #00  pc 00002430  /dev/libhello.so
+I/DEBUG   (   31):          #01  lr af9060cf  /system/lib/libcutils.so
+I/DEBUG   (   31): 
+I/DEBUG   (   31): code around pc:
+I/DEBUG   (   31): 80502410 e1a01006 e1a00006 e59f84e8 e12fff35 
+I/DEBUG   (   31): 80502420 e59f24e4 e08f8008 e1a01008 e08f2002 
+I/DEBUG   (   31): 80502430 e5963000 e3a00003 ebfffc9d e59f54cc 
+I/DEBUG   (   31): 80502440 e59f24cc e5963000 e1a01008 e08f2002 
+I/DEBUG   (   31): 80502450 e3a00003 e08f5005 ebfffc95 e1a01005 
+I/DEBUG   (   31): 
+I/DEBUG   (   31): code around lr:
+I/DEBUG   (   31): af9060ac 1c28d10a 22801c21 f7fd2300 2800e8f0 
+I/DEBUG   (   31): af9060bc 2400dbed d0012880 42442001 f7fc1c28 
+I/DEBUG   (   31): af9060cc 1c20ef90 46c0bd70 00006115 4d19b570 
+I/DEBUG   (   31): af9060dc 49191c0c 1c06447d b0a25868 93216803 
+I/DEBUG   (   31): af9060ec d01b2e00 d1012c00 447c4c14 f7fc1c30 
+I/DEBUG   (   31): 
+I/DEBUG   (   31): stack:
+I/DEBUG   (   31):     4521eb78  00000000  
+I/DEBUG   (   31):     4521eb7c  00000000  
+I/DEBUG   (   31):     4521eb80  00000000  
+I/DEBUG   (   31):     4521eb84  00000000  
+I/DEBUG   (   31):     4521eb88  00000000  
+I/DEBUG   (   31):     4521eb8c  00000000  
+I/DEBUG   (   31):     4521eb90  00000000  
+I/DEBUG   (   31):     4521eb94  00000000  
+I/DEBUG   (   31):     4521eb98  00000000  
+I/DEBUG   (   31):     4521eb9c  dea00048  
+I/DEBUG   (   31):     4521eba0  805041e0  /dev/libhello.so
+I/DEBUG   (   31):     4521eba4  8060109c  /dev/libhook_open.so
+I/DEBUG   (   31):     4521eba8  00000000  
+I/DEBUG   (   31):     4521ebac  00000107  
+I/DEBUG   (   31):     4521ebb0  df002777  
+I/DEBUG   (   31):     4521ebb4  e3a070ad  
+I/DEBUG   (   31): #00 4521ebb8  00000191  
+I/DEBUG   (   31):     4521ebbc  80500114  /dev/libhello.so
+I/DEBUG   (   31):     4521ebc0  00000000  
+I/DEBUG   (   31):     4521ebc4  00000191  
+I/DEBUG   (   31):     4521ebc8  80502354  /dev/libhello.so
+I/DEBUG   (   31):     4521ebcc  80500000  /dev/libhello.so
+I/DEBUG   (   31):     4521ebd0  00002354  
+I/DEBUG   (   31):     4521ebd4  00000107  
+I/DEBUG   (   31):     4521ebd8  bef75450  
+I/DEBUG   (   31):     4521ebdc  b000d198  
+I/DEBUG   (   31):     4521ebe0  00000003  
+I/DEBUG   (   31):     4521ebe4  430f8fc9  /data/dalvik-cache/system@framework@framework.jar@classes.dex
+I/DEBUG   (   31):     4521ebe8  00000107  
+I/DEBUG   (   31):     4521ebec  bef75450  
+I/DEBUG   (   31):     4521ebf0  4214ce24  
+I/DEBUG   (   31):     4521ebf4  4214ce10  
+I/DEBUG   (   31):     4521ebf8  42de8bb8  /data/dalvik-cache/system@framework@framework.jar@classes.dex
+I/DEBUG   (   31):     4521ebfc  4521ec34  
+I/BootReceiver(   61): Copying /data/tombstones/tombstone_03 to DropBox (SYSTEM_TOMBSTONE)
+I/DEBUG   (   31): debuggerd committing suicide to free the zombie!
+I/DEBUG   (  427): debuggerd: Feb  3 2011 14:45:34
+D/dalvikvm(   61): GC_FOR_MALLOC freed 717K, 47% free 4756K/8967K, external 3125K/3903K, paused 62ms
+D/Zygote  (   33): Process 401 terminated by signal (11)
+I/ActivityManager(   61): Process cn.wps.moffice_eng (pid 401) has died.
+I/WindowManager(   61): WIN DEATH: Window{40716bd0 cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager paused=false}
+W/InputManagerService(   61): Got RemoteException sending setActive(false) notification to pid 401 uid 10037
+D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+D/inject  (  435): [+] The pid of cn.wps.moffice_eng: -1
+D/inject  (  435): [+] Injecting process: -1
+I/ActivityManager(   61): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity } from pid 144
+I/ActivityManager(   61): Start proc cn.wps.moffice_eng for activity cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity: pid=436 uid=10037 gids={3003, 1015}
+D/dalvikvm(   33): GC_EXPLICIT freed 12K, 53% free 2538K/5379K, external 1625K/2137K, paused 76ms
+D/dalvikvm(   33): GC_EXPLICIT freed <1K, 53% free 2538K/5379K, external 1625K/2137K, paused 68ms
+D/dalvikvm(   33): GC_EXPLICIT freed <1K, 53% free 2538K/5379K, external 1625K/2137K, paused 88ms
+D/dalvikvm(  436): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  436): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  436): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/dalvikvm(  436): Could not find method cn.wps.moffice.documentmanager.PreStartActivity.getActionBar, referenced from method cn.wps.moffice.documentmanager.PreStartActivity.setDisplayShowCustomEnabled
+W/dalvikvm(  436): VFY: unable to resolve virtual method 11013: Lcn/wps/moffice/documentmanager/PreStartActivity;.getActionBar ()Landroid/app/ActionBar;
+D/dalvikvm(  436): VFY: replacing opcode 0x6e at 0x0006
+D/dalvikvm(  436): VFY: dead code 0x0009-000e in Lcn/wps/moffice/documentmanager/PreStartActivity;.setDisplayShowCustomEnabled (Z)V
+D/dalvikvm(  436): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/ActivityManager(   61): Starting: Intent { cmp=cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager } from pid 436
+D/dalvikvm(  436): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  436): GC_EXTERNAL_ALLOC freed 640K, 50% free 3331K/6599K, external 2129K/2137K, paused 54ms
+D/dalvikvm(  436): GC_EXTERNAL_ALLOC freed 46K, 49% free 3382K/6599K, external 2611K/2673K, paused 44ms
+D/dalvikvm(  436): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  436): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+I/dalvikvm(  436): Failed resolving Lcn/wps/moffice/common/beans/k$1; interface 540 'Landroid/nfc/NfcAdapter$OnNdefPushCompleteCallback;'
+W/dalvikvm(  436): Link of class 'Lcn/wps/moffice/common/beans/k$1;' failed
+E/dalvikvm(  436): Could not find class 'cn.wps.moffice.common.beans.k$1', referenced from method cn.wps.moffice.common.beans.k.<init>
+W/dalvikvm(  436): VFY: unable to resolve new-instance 1597 (Lcn/wps/moffice/common/beans/k$1;) in Lcn/wps/moffice/common/beans/k;
+D/dalvikvm(  436): VFY: replacing opcode 0x22 at 0x0039
+I/dalvikvm(  436): Failed resolving Lcn/wps/moffice/common/beans/k$3; interface 538 'Landroid/nfc/NfcAdapter$CreateBeamUrisCallback;'
+W/dalvikvm(  436): Link of class 'Lcn/wps/moffice/common/beans/k$3;' failed
+E/dalvikvm(  436): Could not find class 'cn.wps.moffice.common.beans.k$3', referenced from method cn.wps.moffice.common.beans.k.<init>
+W/dalvikvm(  436): VFY: unable to resolve new-instance 1599 (Lcn/wps/moffice/common/beans/k$3;) in Lcn/wps/moffice/common/beans/k;
+D/dalvikvm(  436): VFY: replacing opcode 0x22 at 0x0070
+D/dalvikvm(  436): VFY: dead code 0x003b-005c in Lcn/wps/moffice/common/beans/k;.<init> (Landroid/app/Activity;)V
+D/dalvikvm(  436): VFY: dead code 0x0072-0079 in Lcn/wps/moffice/common/beans/k;.<init> (Landroid/app/Activity;)V
+D/water   (  436): packageName: cn.wps.moffice_eng
+D/dalvikvm(  436): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  436): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  436): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  436): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  436): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  436): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  436): GC_CONCURRENT freed 516K, 47% free 3605K/6727K, external 3121K/3694K, paused 3ms+3ms
+D/dalvikvm(  436): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  436): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  436): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  436): GetFieldID: unable to find field Ljava/util/HashMap;.loadFactor:F
+D/dalvikvm(  436): GC_EXTERNAL_ALLOC freed 324K, 48% free 3572K/6791K, external 3121K/3694K, paused 50ms
+D/dalvikvm(  436): GC_EXTERNAL_ALLOC freed 149K, 48% free 3593K/6855K, external 3545K/4295K, paused 48ms
+I/ActivityManager(   61): Displayed cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager: +3s101ms (total +4s137ms)
+D/inject  (  461): [+] The pid of cn.wps.moffice_eng: 436
+D/inject  (  461): [+] Injecting process: 436
+D/inject  (  461): [+] get_remote_addr: local[afd00000], remote[afd00000]
+D/inject  (  461): [+] Remote mmap address: afd170cd
+D/inject  (  461): [+] Calling mmap in target process.
+D/inject  (  461): [+] Target process returned from mmap, return value=4555f000, pc=0 
+D/inject  (  461): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  (  461): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  (  461): [+] get_remote_addr: local[b0001000], remote[b0001000]
+D/inject  (  461): [+] Get imports: dlopen: b00059bd, dlsym: b0005915, dlclose: b0005849
+D/inject  (  461): [+] Inject code start: c008, end: c084
+D/inject  (  461): [+] _dlopen_param1_s: 45562c9c
+D/inject  (  461): [+] _dlsym_param2_s: 45562d9c
+D/inject  (  461): [+] _saved_r0_pc_s: 45562e9c
+D/inject  (  461): [+] _inject_function_param_s: 45562f9c
+D/inject  (  461): [+] Remote shellcode address: 45562c00
+D/inject  (  461): [+] Process Detach: 10
+D/inject  (  436): Hello ARM! I'm parameter1324! pid:436
+D/inject  (  436): The Handle of libhook_open: b000d2b0
+D/inject  (  436): find it pre 0
+D/inject  (  436): find it 8060109c
+D/inject  (  436): [+] aaaaaaa do_hook function is invoked 
+D/inject  (  436): [+] open addr: 0xafd17111. New addr 0x80600f60
+D/inject  (  436): [+] just for test 
+D/inject  (  436): [+] set ok 
+D/inject  (  436): [+] Get the persist.sys.test  bbbbbbbb
+I/DEBUG   (  427): *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+I/DEBUG   (  427): Build fingerprint: 'generic/sdk/generic:2.3.3/GRI34/101070:eng/test-keys'
+I/DEBUG   (  427): pid: 436, tid: 436  >>> cn.wps.moffice_eng <<<
+I/DEBUG   (  427): signal 11 (SIGSEGV), code 1 (SEGV_MAPERR), fault addr 00000000
+I/DEBUG   (  427):  r0 afd17111  r1 80602988  r2 80602b20  r3 afd17111
+I/DEBUG   (  427):  r4 80602988  r5 80600f60  r6 80602b18  r7 80604008
+I/DEBUG   (  427):  r8 afd4d5c8  r9 00000000  10 00000000  fp 42de8bb8
+I/DEBUG   (  427):  ip 00000010  sp 45562ad0  lr afd1a963  pc 806011d0  cpsr 00000010
+I/DEBUG   (  427):          #00  pc 000011d0  /dev/libhook_open.so
+I/DEBUG   (  427):          #01  pc 0000241c  /dev/libhello.so
+I/DEBUG   (  427): 
+I/DEBUG   (  427): code around pc:
+I/DEBUG   (  427): 806011b0 e5973000 e28d0068 ebffff41 e5970000 
+I/DEBUG   (  427): 806011c0 e59f20c0 e1a01004 e1a03000 e08f2002 
+I/DEBUG   (  427): 806011d0 e58a0000 e3a00003 ebffff33 e59f00a8 
+I/DEBUG   (  427): 806011e0 e28d1068 e08f0000 ebffff38 e3a0105c 
+I/DEBUG   (  427): 806011f0 e1a02006 e1a03005 e28d0068 ebffff30 
+I/DEBUG   (  427): 
+I/DEBUG   (  427): code around lr:
+I/DEBUG   (  427): afd1a940 f7ff980b 2800ff7d f001d001 9e0df883 
+I/DEBUG   (  427): afd1a950 98059912 9312180b 2a019a09 f001d001 
+I/DEBUG   (  427): afd1a960 3701f866 970f466b 33ff3320 21012000 
+I/DEBUG   (  427): afd1a970 9e0f9609 70182700 9713424b 27009305 
+I/DEBUG   (  427): afd1a980 99057833 e0003601 1c1a9213 2a5a3a20 
+I/DEBUG   (  427): 
+I/DEBUG   (  427): stack:
+I/DEBUG   (  427):     45562a90  40000000  /dev/__properties__ (deleted)
+I/DEBUG   (  427):     45562a94  40002424  /dev/__properties__ (deleted)
+I/DEBUG   (  427):     45562a98  45562adc  
+I/DEBUG   (  427):     45562a9c  40002420  /dev/__properties__ (deleted)
+I/DEBUG   (  427):     45562aa0  00000000  
+I/DEBUG   (  427):     45562aa4  45562adc  
+I/DEBUG   (  427):     45562aa8  80602ae8  /dev/libhook_open.so
+I/DEBUG   (  427):     45562aac  00000000  
+I/DEBUG   (  427):     45562ab0  00000000  
+I/DEBUG   (  427):     45562ab4  80602988  /dev/libhook_open.so
+I/DEBUG   (  427):     45562ab8  45562acc  
+I/DEBUG   (  427):     45562abc  80602988  /dev/libhook_open.so
+I/DEBUG   (  427):     45562ac0  80602988  /dev/libhook_open.so
+I/DEBUG   (  427):     45562ac4  806011bc  /dev/libhook_open.so
+I/DEBUG   (  427):     45562ac8  df002777  
+I/DEBUG   (  427):     45562acc  e3a070ad  
+I/DEBUG   (  427): #00 45562ad0  80600f60  /dev/libhook_open.so
+I/DEBUG   (  427):     45562ad4  80600e08  /dev/libhook_open.so
+I/DEBUG   (  427):     45562ad8  00000015  
+I/DEBUG   (  427):     45562adc  62626262  
+I/DEBUG   (  427):     45562ae0  62626262  
+I/DEBUG   (  427):     45562ae4  00000000  
+I/DEBUG   (  427):     45562ae8  00000000  
+I/DEBUG   (  427):     45562aec  00000000  
+I/DEBUG   (  427):     45562af0  00000000  
+I/DEBUG   (  427):     45562af4  00000000  
+I/DEBUG   (  427):     45562af8  00000000  
+I/DEBUG   (  427):     45562afc  00000000  
+I/DEBUG   (  427):     45562b00  00000000  
+I/DEBUG   (  427):     45562b04  00000000  
+I/DEBUG   (  427):     45562b08  00000000  
+I/DEBUG   (  427):     45562b0c  00000000  
+I/DEBUG   (  427):     45562b10  00000000  
+I/DEBUG   (  427):     45562b14  00000000  
+I/DEBUG   (  427):     45562b18  00000000  
+I/DEBUG   (  427):     45562b1c  00000000  
+I/DEBUG   (  427):     45562b20  00000000  
+I/DEBUG   (  427):     45562b24  00000000  
+I/DEBUG   (  427):     45562b28  00000000  
+I/DEBUG   (  427):     45562b2c  00000000  
+I/DEBUG   (  427):     45562b30  00000000  
+I/DEBUG   (  427):     45562b34  00000000  
+I/DEBUG   (  427):     45562b38  39343932  
+I/DEBUG   (  427):     45562b3c  37383337  
+I/DEBUG   (  427):     45562b40  00003936  
+I/DEBUG   (  427):     45562b44  00000000  
+I/DEBUG   (  427):     45562b48  00000000  
+I/DEBUG   (  427):     45562b4c  00000000  
+I/DEBUG   (  427):     45562b50  00000000  
+I/DEBUG   (  427):     45562b54  00000000  
+I/DEBUG   (  427):     45562b58  00000000  
+I/DEBUG   (  427):     45562b5c  00000000  
+I/DEBUG   (  427):     45562b60  00000000  
+I/DEBUG   (  427):     45562b64  00000000  
+I/DEBUG   (  427):     45562b68  00000000  
+I/DEBUG   (  427):     45562b6c  00000000  
+I/DEBUG   (  427):     45562b70  00000000  
+I/DEBUG   (  427):     45562b74  00000000  
+I/DEBUG   (  427):     45562b78  00000000  
+I/DEBUG   (  427):     45562b7c  00000000  
+I/DEBUG   (  427):     45562b80  00000000  
+I/DEBUG   (  427):     45562b84  00000000  
+I/DEBUG   (  427):     45562b88  00000000  
+I/DEBUG   (  427):     45562b8c  00000000  
+I/DEBUG   (  427):     45562b90  00000000  
+I/DEBUG   (  427):     45562b94  dea00048  
+I/DEBUG   (  427):     45562b98  805041e0  /dev/libhello.so
+I/DEBUG   (  427):     45562b9c  8060109c  /dev/libhook_open.so
+I/DEBUG   (  427):     45562ba0  00000000  
+I/DEBUG   (  427):     45562ba4  00000107  
+I/DEBUG   (  427):     45562ba8  00001db4  
+I/DEBUG   (  427):     45562bac  4214ce24  
+I/DEBUG   (  427):     45562bb0  4214ce10  
+I/DEBUG   (  427):     45562bb4  80502420  /dev/libhello.so
+I/DEBUG   (  427): #01 45562bb8  000001b4  
+I/DEBUG   (  427):     45562bbc  80500114  /dev/libhello.so
+I/DEBUG   (  427):     45562bc0  00000000  
+I/DEBUG   (  427):     45562bc4  000001b4  
+I/DEBUG   (  427):     45562bc8  80502354  /dev/libhello.so
+I/DEBUG   (  427):     45562bcc  80500000  /dev/libhello.so
+I/DEBUG   (  427):     45562bd0  00002354  
+I/DEBUG   (  427):     45562bd4  00000107  
+I/DEBUG   (  427):     45562bd8  bef75450  
+I/DEBUG   (  427):     45562bdc  b000d198  
+I/DEBUG   (  427):     45562be0  00000003  
+I/DEBUG   (  427):     45562be4  430f8fc9  /data/dalvik-cache/system@framework@framework.jar@classes.dex
+I/DEBUG   (  427):     45562be8  00000107  
+I/DEBUG   (  427):     45562bec  bef75450  
+I/DEBUG   (  427):     45562bf0  4214ce24  
+I/DEBUG   (  427):     45562bf4  4214ce10  
+I/DEBUG   (  427):     45562bf8  42de8bb8  /data/dalvik-cache/system@framework@framework.jar@classes.dex
+I/DEBUG   (  427):     45562bfc  45562c34  
+I/BootReceiver(   61): Copying /data/tombstones/tombstone_04 to DropBox (SYSTEM_TOMBSTONE)
+I/DEBUG   (  427): debuggerd committing suicide to free the zombie!
+I/DEBUG   (  462): debuggerd: Feb  3 2011 14:45:34
+D/dalvikvm(   61): GC_FOR_MALLOC freed 1032K, 49% free 4613K/8967K, external 3125K/3903K, paused 71ms
+D/dalvikvm(   61): GC_FOR_MALLOC freed 761K, 49% free 4581K/8967K, external 3125K/3903K, paused 44ms
+D/Zygote  (   33): Process 436 terminated by signal (11)
+I/ActivityManager(   61): Process cn.wps.moffice_eng (pid 436) has died.
+I/WindowManager(   61): WIN DEATH: Window{40719030 cn.wps.moffice_eng/cn.wps.moffice.documentmanager.DocumentManager paused=false}
+W/InputManagerService(   61): Got RemoteException sending setActive(false) notification to pid 436 uid 10037
